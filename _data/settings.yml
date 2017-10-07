@@ -1,5 +1,5 @@
 title:  The Primary Brain
-tagline:  a minimalist Jekyll theme
+tagline:  
 store: https://www.teacherspayteachers.com/store/the-primary-brain
 author:
   name: 'Laurin Brainard'
@@ -10,7 +10,7 @@ author:
 #  comments: false
 #  disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
-google-ID: 'UA-80213386-1'
+# google-ID: 'UA-80213386-1'
 
 menu:
 - {
