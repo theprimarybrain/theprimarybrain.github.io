@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+
+<body>
+  {% if page.layout == "post" %}
+    {% include social-sharing-api.html %}
+  {% endif %}
+  
+  <div class="container">
+    {% include header.html %}
+
+    <div class="post-container">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </div>
+  {% if page.layout == "post" %}
+    <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+  {% endif %}
+</body>
+</html>

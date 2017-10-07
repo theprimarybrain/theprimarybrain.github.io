@@ -1,0 +1,66 @@
+body {
+    font-family: "PT Serif", Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    color: #515151;
+    line-height: 1.75rem;
+}
+  
+@media (max-width: 30em) {
+    body {
+      font-size: 14px;
+      line-height: 1.5rem;
+    }
+    body h1 {
+      font-size: 1.5rem;
+    }
+}
+  
+h1{
+    font-size: 2rem;
+}
+  
+h1 a {
+    text-decoration: none;
+}
+  
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Quattrocento Sans", sans-serif;
+    color: #333;
+}
+  
+a {
+    text-decoration: underline;
+    color: #333333;
+}
+  
+a:hover {
+    color: black;
+    border-bottom: none;
+}
+  
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+  
+/*
+blockquote {
+    border-left: 0.25rem solid #ccc;
+    margin: 1.5em 10px;
+    color: #999;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+blockquote p {
+    display: inline;
+  }
+*/

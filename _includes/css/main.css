@@ -1,0 +1,166 @@
+/*
+  Site container
+*/
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 615px;
+}
+
+@media (max-width: 1366px) {
+  .container {
+    width: 45vw;
+  }
+}
+
+/*48em*/
+
+@media (max-width: 768px) {
+  .container {
+    width: 90vw;
+  }
+}
+
+/*
+  Post
+*/
+
+.post-container {
+  margin-bottom: 4rem;
+}
+
+.posts {
+  margin-bottom: 5rem;
+  padding: 0px;
+  list-style: none;
+}
+
+.post-date {
+  display: block;
+  margin-top:3px;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+}
+
+@media (max-width: 30rem) {
+  .posts h1 {
+    font-size: 1.5rem;
+  }
+}
+
+.related {
+  padding-bottom: 2rem;
+}
+
+.related-posts {
+  padding-left: 0px;
+  list-style: none;
+}
+
+.related-posts a {
+  text-decoration: none;
+}
+
+
+
+/*
+  Pagination
+*/
+
+.pagination {
+  overflow: hidden;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-align: center;
+}
+
+.pagination a {
+  text-decoration: none;
+}
+
+.pagination-button {
+  color: #999;
+  border: 1px solid #e0e0e0;
+  padding: 15px 45px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.pagination-active {
+  color: black;
+}
+
+.pagination-active:hover {
+  background-color: #e0e0e0;
+}
+
+/*
+  Footer
+*/
+
+.footer {
+  color: #999;
+  text-align: center;
+  margin: 2rem;
+}
+
+.footer a {
+  color: #999;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #333;
+}
+
+/*
+  Menu
+*/
+
+.menu {
+  padding-top: 0.5rem;
+  display: block;
+}
+
+.menu-content {
+  float: left;
+}
+
+.menu-content a {
+  color: #999;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
+.social-icons {
+  float: right;
+}
+
+.social-icons a {
+  color: #999;
+  font-size: 1rem;
+}
+
+@media (max-width: 30em) {
+  .social-icons {
+    float: none;
+    margin: 0 auto;
+    /* display: inline-block; */
+    text-align: center;
+    padding-top: 0px;
+  }
+  .menu-content {
+    float: none;
+    margin: 0 auto;
+    /* display: inline-block; */
+    text-align: center;
+    margin-bottom: 5px;
+  }
+}
+
+
+

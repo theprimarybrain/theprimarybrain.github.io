@@ -1,0 +1,34 @@
+.masthead {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 4rem;
+    font-family: "Quattrocento Sans", sans-serif;
+  }
+  
+  .masthead-title a {
+    font-size: 2rem;
+    text-decoration: none;
+    color: #505050;
+  }
+  
+  /* .masthead-subtitle {
+    color: #999;
+    width: auto;
+    height: 160px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  } */
+
+  .masthead img {
+    height: 160px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+/*
+.masthead a:hover {
+    color:black;
+  }
+*/

@@ -1,0 +1,36 @@
+<head>
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.data.settings.title }} | {{ site.data.settings.tagline }}
+    {% else %}
+      {{ page.title }} | {{ site.data.settings.title }}
+    {% endif %}
+  </title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/include.css">
+  
+  <!-- RSS-v2.0
+  <link href="{{ site.github.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"/>
+  //-->
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+ {% include google-analytics.html %}
+  <!-- Use Atom --> 
+  {% feed_meta %} 
+  
+  {% if page.layout == "post" %}
+    <meta property="fb:app_id"      content="{{ site.facebook_app_id }}" />
+    <meta property="og:url"         content="{{ site.url }}/{{ page.url }}" />
+    <meta property="og:type"        content="article" />
+    <meta property="og:title"       content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 300 }}" />
+    <meta property="og:image"       content="{{ site.url }}/{{ page.image.feature }}" />
+  {% endif %}
+</head>
