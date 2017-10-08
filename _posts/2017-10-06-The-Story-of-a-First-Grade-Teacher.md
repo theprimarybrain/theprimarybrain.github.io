@@ -2,8 +2,8 @@
 layout: post
 title: Welcome to my Blog!
 author: Laurin Brainard
-categories: [Classroom Decor]
-tags: [about]
+categories: [Get to Know Me!]
+tags: [laurin]
 image:
   feature: laurins-headshot.jpg
   teaser: laurins-headshot-teaser.jpg
