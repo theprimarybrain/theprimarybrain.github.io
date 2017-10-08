@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+![Laurins Photo]({{ site.github.url }}/assets/img/laurins-headshot.jpg)
 Hello Teacher Friends! 
 
 My name is Laurin Brainard and I am a first grade teacher in Southern California. I am currently in my fifth year of teaching. I have been so blessed to teach all five years in my same first grade classroom! Before I started teaching first grade, I was an intervention teacher for struggling readers. For the past two years I have been fortunate to share a teaching contract. This allows me to work half the week and be a mommy at home the other half. I really do experience the best of both worlds!
