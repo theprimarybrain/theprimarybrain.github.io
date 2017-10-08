@@ -10,3 +10,4 @@ My name is Laurin Brainard and I am a first grade teacher in Southern California
 I was born and raised in Southern California where I now live with my amazing husband and sweet son. When I am not teaching, you will find me spending time with my family, playing in my kitchen, creating new products for my TpT store, and blogging to my heart’s content.  
 
 ![Family Photo]({{ site.github.url }}/assets/img/family-photo.jpg)
+Thanks for stopping by! I look forward to collaborating with you!
