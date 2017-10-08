@@ -1,5 +1,5 @@
 <url>
-  <loc>https://demos.learn-the-web.algonquindesign.ca{{site.baseurl}}{{include.entry.url}}</loc>
+  <loc>https://www.theprimarybrain.com{{site.baseurl}}{{include.entry.url}}</loc>
   {% if include.entry.changefreq %}
     <changefreq>{{include.entry.changefreq}}</changefreq>
   {% endif %}
