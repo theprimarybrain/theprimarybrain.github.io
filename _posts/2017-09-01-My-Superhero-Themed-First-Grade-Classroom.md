@@ -26,3 +26,5 @@ I always put up a writing wall to showcase monthly student writing. This year, m
 
    ![Classroom Large Shot 1]({{ site.github.url }}/assets/img/tour-full-one.jpg)
 I hope you enjoyed a peek inside my home away from home. My superhero themed resources are available in my [Superhero Decor Pack](http://bit.ly/2frX8dh) in my TpT store.
+
+   ![Classroom Large Shot 1]({{ site.github.url }}/assets/img/Laurins-signature-bottom.jpg)
