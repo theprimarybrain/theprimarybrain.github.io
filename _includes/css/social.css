@@ -3,7 +3,7 @@
 */
 
 .sharing-icons {
-  vertical-align: top;
+  vertical-align: top !important;
 }
 
 .sharing-icons a {
