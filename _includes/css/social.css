@@ -2,10 +2,13 @@
   Social media icons
 */
 
+.sharing-icons {
+  vertical-align: top;
+}
+
 .sharing-icons a {
     padding-right: 10px;
-    vertical-align: top;
-  }
+}
   
   .fa-envelope {
     padding: 5px;
