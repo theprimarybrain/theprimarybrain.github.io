@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my Blog!
 author: Laurin Brainard
 categories: [Get to Know Me!]
-tags: [laurin]
+tags: [laurin,classroom]
 image:
   feature: laurins-headshot.jpg
   teaser: laurins-headshot-teaser.jpg
