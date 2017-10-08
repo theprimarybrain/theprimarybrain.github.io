@@ -5,8 +5,8 @@ author: Laurin Brainard
 categories: [Classroom Decor]
 tags: [about]
 image:
-  feature: Laurins-headshot.jpg
-  teaser: Laurins-headshot-teaser.jpg
+  feature: laurins-headshot.jpg
+  teaser: laurins-headshot-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
@@ -16,4 +16,4 @@ During my third year teaching, I was encouraged by a friend to open a [Teachers 
 
 I started this blog because I love to collaborate and share teaching ideas with other teachers. I thrive on creating fun and engaging ways for my students to learn. I would love to connect with you. Click on the social media icons at the bottom of this page to follow me. Looking forward to collaborating with you!
 
-![Laurin's Signature]({{ site.github.url }}/assets/img/Laurins-signature-bottom.jpg)
+![Laurin's Signature]({{ site.github.url }}/assets/img/laurins-signature-bottom.jpg)
