@@ -9,7 +9,7 @@ permalink:           pretty
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
 
 # feed settings
-title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
+title:		     "The Primary Brain | Resources for Primary Teachers"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
