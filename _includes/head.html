@@ -25,6 +25,10 @@
   <!-- Use Atom --> 
   {% feed_meta %} 
   
+  {% if page.layout == "home" %}
+    <meta name="p:domain_verify" content="9361ded4530741dfb12c20525f468910"/>
+  {% endif %}
+
   {% if page.layout == "post" %}
     <meta property="fb:app_id"      content="{{ site.facebook_app_id }}" />
     <meta property="og:url"         content="{{ site.url }}/{{ page.url }}" />
