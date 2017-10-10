@@ -3,7 +3,7 @@ layout: post
 title: Incorporating Halloween Fun into Literacy Activities
 author: Laurin Brainard
 categories: [Literacy Activities]
-tags: [halloween,classroom]
+tags: [halloween,literacy,centers]
 image:
   feature: cvc-word-roll-read-halloween.jpg
   teaser: halloween-mini-erasers-teaser.jpg

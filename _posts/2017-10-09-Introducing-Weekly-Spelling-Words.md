@@ -3,7 +3,7 @@ layout: post
 title: Introducing Weekly Spelling Words
 author: Laurin Brainard
 categories: [Literacy Activities]
-tags: [centers]
+tags: [centers, literacy]
 image:
   feature: watercolor-spelling.jpg
   teaser: watercolor-spelling-teaser.jpg
