@@ -48,3 +48,5 @@ In this center, students use pieces of yarn to spell their spelling words. This 
 [Stamp It Out](http://bit.ly/2fS5E5U) is always another crowd pleaser. To complete this activity, students need a copy of their spelling word list. They will stamp out each word using a set of alphabet stamps and a blank worksheet. 
 
 You can grab my [Fry word spelling bundle](http://bit.ly/2k1Ulgd) to save big on my spelling word lists, center activies, spelling homework, and more! I hope these activities will help you introduce your spelling words each week in a fun new way! 
+
+![Laurin]({{ site.github.url }}/assets/img/laurin.jpg)
