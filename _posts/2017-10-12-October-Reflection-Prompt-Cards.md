@@ -3,7 +3,7 @@ layout: post
 title: October Reflection Prompt Cards
 author: Laurin Brainard
 categories: [Classroom Discussions]
-tags: [ELD, classroom meeting]
+tags: [ELD, halloween]
 image:
   feature: october-reflection-prompt.jpg
   teaser: october-reflection-prompt-teaser.jpg
