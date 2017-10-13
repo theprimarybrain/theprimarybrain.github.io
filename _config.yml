@@ -13,7 +13,16 @@ title:		     "The Primary Brain | Resources for Primary Teachers"
 
 # jekyll seo tag settings
 twitter:
-  username: {{ site.data.settings.author.twitter }}
+  username: theprimarybrain
+
+social:
+  name: The Primary Brain
+  links:
+    - https://instagram.com/theprimarybrain
+    - https://www.pinterest.com/theprimarybrain
+    - https://www.facebook.com/theprimarybrain
+
+logo: /assets/img/logo.png
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
