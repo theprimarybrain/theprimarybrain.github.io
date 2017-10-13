@@ -37,4 +37,5 @@
     <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 300 }}" />
     <meta property="og:image"       content="{{ site.url }}/assets/img/{{ page.image.feature }}" />
   {% endif %}
+  {% seo %}
 </head>
