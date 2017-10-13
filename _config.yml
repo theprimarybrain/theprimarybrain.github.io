@@ -11,6 +11,10 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # feed settings
 title:		     "The Primary Brain | Resources for Primary Teachers"
 
+# jekyll seo tag settings
+twitter:
+  username: {{ site.data.settings.author.twitter }}
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #   path:	     rss-feed.xml
