@@ -3,7 +3,7 @@ layout: post
 title: Blog Launch Giveaway Part 2 - Halloween Sentence Sorting Cards
 author: Laurin Brainard
 categories: [Freebies]
-tags: [halloween,freebie]
+tags: [halloween,freebie,writing]
 image:
   feature: halloween-sentence-cards-sample.jpg
   teaser: halloween-cookie-bag-tags-teaser.jpg
