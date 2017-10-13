@@ -1,2 +1,2 @@
 User-agent: *
-http://theprimarybrain.com/sitemap.xml
+Sitemap: http://theprimarybrain.com/sitemap.xml
