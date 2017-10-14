@@ -8,7 +8,7 @@
 
 .sharing-icons a {
     padding-right: 10px;
-    vertical-align: bottom;    
+    vertical-align: bottom !important;    
 }
   
   .fa-envelope {
