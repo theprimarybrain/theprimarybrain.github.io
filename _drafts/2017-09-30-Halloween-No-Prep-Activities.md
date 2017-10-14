@@ -17,3 +17,5 @@ Halloween is always one of my student's favorite holidays. Costumes, candy, part
 ![Halloween Math Graphing]({{ site.github.url }}/assets/img/halloween-math-graphing.jpg)
 
 We worked on graphing through this fun Halloween graphing page. I make sure my students color each item in the box to help them keep track of the items they have added to their graph. After completing their graphs, I had my sweet firsties turn to a partner to share their findings. 
+
+![Laurin]({{ site.github.url }}/assets/img/laurin.png)

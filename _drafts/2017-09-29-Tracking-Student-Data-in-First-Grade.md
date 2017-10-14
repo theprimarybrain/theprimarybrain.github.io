@@ -14,3 +14,5 @@ Displaying data is a requirement at my school site. Since I have a superhero the
 
 ![Lexia Photo]({{ site.github.url }}/assets/img/superhero-data-lexia.jpg)
 I currently have buildings to display data for Lexia, sight words, and fluency scores. Each student has their own superhero that I pinned on the wall with a thumb tack. It is **so easy** to modify their levels since all I have to do is move a pin! 
+
+![Laurin]({{ site.github.url }}/assets/img/laurin.png)

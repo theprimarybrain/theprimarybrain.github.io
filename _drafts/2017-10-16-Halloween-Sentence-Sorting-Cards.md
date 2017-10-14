@@ -18,4 +18,4 @@ This also gives me a quick glance at their capitalization, spacing, proper lette
 
 If you missed Part 1 of my Blog Launch Giveaway Series, be sure to check out my [Treat Bag Tags](). Thanks for stopping by my blog. Make sure to come back for all seven of my blog launch giveaways!
 
-![Laurin]({{ site.github.url }}/assets/img/laurin.jpg)
+![Laurin]({{ site.github.url }}/assets/img/laurin.png)
