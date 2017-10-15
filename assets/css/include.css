@@ -1,8 +1,9 @@
 ---
 ---
-
 {% include css/masthead.css %}
 {% include css/main.css %}
 {% include css/social.css %}
 {% include css/base.css %}
+{% include css/font.css %}
+{% include css/fa-min.css %}
 /* {% include css/code.css %} */
