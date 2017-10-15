@@ -31,4 +31,4 @@ I often use my [**Word Family Roll and Read Worksheets**](http://bit.ly/2ysz2Ll)
 ![Roll and Read Word Family]({{ site.github.url }}/assets/img/halloween-mini-erasers.jpg)
 I hope these roll and read worksheets have helped to inspire you to differentiate in your classroom. You can find them all in my [**Roll and Read Literacy Activities Bundle**](http://bit.ly/2y4euHE). Have a wonderful Halloween season! 
 
-![Laurin]({{ site.github.url }}/assets/img/laurin.jpg)
+![Laurin]({{ site.github.url }}/assets/img/laurin.png)
