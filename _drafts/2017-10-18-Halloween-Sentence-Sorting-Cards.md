@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Launch Giveaway Part 4 - Halloween Sentence Sorting Cards
+title: Blog Launch Giveaway Part 5 - Halloween Sentence Sorting Cards
 author: Laurin Brainard
 categories: [Freebies]
 tags: [halloween,freebie,writing]
@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-It is day four of my blog launch giveaway series and I hope you are doing a _happy dance_ with me! Today I bring you Halloween Themed Sentence Sorting Cards. Many of my students this year are struggling to write sentences independently. I created a resource to help them form a sentence by putting the cards in order. I usually teach the strategy during small group intervention, followed by weekly literacy centers for extra practice. 
+Today is the fifth day of my blog launch giveaway series and I hope you are doing a _happy dance_ with me! Today I bring you Halloween Themed Sentence Sorting Cards. Many of my students this year are struggling to write sentences independently. I created a resource to help them form a sentence by putting the cards in order. I usually teach the strategy during small group intervention, followed by weekly literacy centers for extra practice. 
 
 [Scrambled sentence cards]({{ site.github.url }}/assets/img/halloween-sentence-cards-mixed.jpg)
 
