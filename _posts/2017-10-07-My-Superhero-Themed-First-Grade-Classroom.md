@@ -3,7 +3,7 @@ layout: post
 title: My Superhero Themed First Grade Classroom
 author: Laurin Brainard
 categories: [Classroom Decor]
-tags: [decor,classroom]
+tags: [decor,classroom,superhero]
 image:
   feature: tour-full-two.jpg
   teaser: tour-full-four-teaser.jpg
