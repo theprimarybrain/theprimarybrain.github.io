@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 --- 
-It's fall y'all! Excitement is growing as pumpkin spice, costumes, and candies fill the aisles EVERYWHERE! And we can't forget the Target mini erasers! I have already indulged in my fair share... #teacherbudgetproblems
+Fall is here! Excitement is growing as pumpkin spice, costumes, and candies fill the aisles EVERYWHERE! And we can't forget the Target mini erasers! I have already indulged in my fair share... #teacherbudgetproblems
 
 Halloween is always one of my student's favorite holidays. Costumes, candy, parties, trick or treating... I mean what's not to love?!? I love to incorporate some Halloween fun through math spiral review activities. For each day of the month, I grab a different math activity to use in math centers, for early finishers, or as math homework.  
 
