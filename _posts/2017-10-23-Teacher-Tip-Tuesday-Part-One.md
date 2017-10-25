@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teacher Tip Tuesday \#1
+title: Teacher Tip Tuesday &#35;1
 author: Laurin Brainard
 categories: [Teacher Tips]
 tags: [teacher tip,decor]
