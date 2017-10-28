@@ -5,7 +5,7 @@ author: Laurin Brainard
 categories: [Classroom Decor]
 tags: [decor, data]
 image:
-  feature: superhero-data-wall-.jpg
+  feature: superhero-data-wall.jpg
   teaser: superhero-data-wall-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
