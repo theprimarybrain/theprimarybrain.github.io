@@ -16,4 +16,6 @@ Halloween is _just around the corner_ and if you are anything like me, then you 
 
 This year I am making **spooky snacks** for my grade level team to offer a little pick me up. I am going to deliver these on October 30th as a reminder to my team that we are all in this together. Head on over to my TpT store to grab my [Treat Bag Tags Freebie](http://bit.ly/treattag). Thanks for stopping by my blog!
 
+[Click here to save these treat bag tags](https://www.pinterest.com/pin/447334175479445033/) to your favorite Pinterest board!
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
