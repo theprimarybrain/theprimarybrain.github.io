@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Halloween is one of the craziest school days of the entire year. My students dress up in their Halloween costumes, we enjoy a costume parade, and students always bring treats to share. Rather than fight the chaos, I decided to take the advice from [Jodi Southard at Fun in First](https://funinfirst.com/) and transform my classroom into a bat cave! We just finished learning about bats so it was the perfect culminating activity. I have never seen such sheer delight across every student's face that entered my classroom. It was definitely one of my all-time favorite teaching moments!
+Halloween is one of the craziest school days of the entire year. My students dress up in their Halloween costumes, we enjoy a costume parade, and students always bring treats to share. Rather than fight the chaos, I decided to take the advice from [Jodi Southard at Fun in First](https://funinfirst.com/) and transform my classroom into a bat cave! We just finished learning about bats so it was the perfect culminating activity. I have never seen such sheer delight across every student's face that entered my classroom. It was definitely one of my all-time favorite teaching moments! 
 
 ![Bat Cave Sign]({{ site.github.url }}/assets/img/bat-cave-sign.jpg)
 
@@ -45,5 +45,7 @@ To create the illusion of bats hanging up above us, I strung a piece of yarn fro
 I gathered up all the flashlights I could find in my home and put one on each table group. I also brought in an LED camping lantern to provide a little extra light. Last, I found a 50 pack of glow sticks for $2.99 at the grocery store. This was the perfecting finishing touch to each student's desk. 
 
 Transforming my classroom was worth every bit of time and effort it took to pull it off. It was one of those days that I hope my students will remember for the rest of their lives. I can't wait to do it again next year!
+
+[Click here to pin this post](https://pin.it/2o21rX4) to save for later!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
