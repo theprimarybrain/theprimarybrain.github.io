@@ -12,7 +12,7 @@ image:
 --- 
 Fall is here! Excitement is growing as pumpkin spice, costumes, and candies fill the aisles EVERYWHERE! And we can't forget the Target mini erasers! I have already indulged in my fair share... #teacherbudgetproblems
 
-Halloween is always a favorite time of year for my students. Costumes, candy, parties, trick or treating... I mean what's not to love?!? I love to incorporate some Halloween fun through math spiral review and targeted math activities to fill in any student gaps. For each day of the month, I grab a different **NO PREP** worksheet from my [Math Worksheets NO PREP Pack](http://bit.ly/2zGpLfT) to use in math centers, for early finishers, or as math homework. Enjoy a few of my student's favorites!
+Halloween is always a favorite time of year for my students. Costumes, candy, parties, trick or treating... I mean what's not to love?!? I love to incorporate some Halloween fun through math spiral review and targeted math activities to fill in any student gaps. For each day of the month, I grab a different **NO PREP** worksheet from my [Math Worksheets NO PREP Pack](http://bit.ly/2zGpLfT) to use in math centers, for early finishers, or as math homework. [Click here to save this post](https://pin.it/67VNkEu) to your favorite Pinterest board to save for later. Enjoy a few of my student's favorites!
 
 ![Halloween Math Graphing]({{ site.github.url }}/assets/img/halloween-math-graphing.jpg)
 
@@ -35,5 +35,7 @@ Meanwhile, students who have mastered this skill worked on a mystery addition or
 This 120 fill in chart was great for homework since I was able to differentiate for student levels. Some students completed the entire 120 chart while others used the fill in the blank worksheet.
 
 All of these activities are included in my [Halloween Math NO PREP Worksheet Pack](http://bit.ly/2zGpLfT). I hope you enjoy this fun and crazy time of year with your students!
+
+[Click here to pin this post](https://pin.it/67VNkEu) to your favorite Pinterest board!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)

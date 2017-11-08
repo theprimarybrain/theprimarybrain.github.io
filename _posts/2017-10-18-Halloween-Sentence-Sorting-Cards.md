@@ -26,4 +26,6 @@ After sorting, students use their writing recording page to copy the sentences. 
 
 If you are just stopping by, make sure to check out all of my other blog launch free giveaways. Thanks for stopping by my blog!
 
+[Click here to save this freebie](From my Dad: DJ is out of surgery and doing well. She's still out of it and restless, so please keep praying.) to your favorite Pinterest board.
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)

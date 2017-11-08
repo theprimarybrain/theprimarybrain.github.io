@@ -20,4 +20,6 @@ The game begins when the first student reads "I have the first card. Who has bat
 
 You can grab this **FREE** [Halloween I Have Who Has Card Game](http://bit.ly/2kRNZAx) in my TpT store! I also have a set of [CVC Word I Have Who Has Game Cards](http://bit.ly/2zqX0DC) that are great for the whole year. Be sure to check out all of my blog launch giveaways for some really fun freebies!
 
+[Click here to save this freebie](https://pin.it/YJvE3vY) to your favorite Pinterest board!
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)

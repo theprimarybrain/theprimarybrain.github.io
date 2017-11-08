@@ -21,4 +21,6 @@ I included a single page assessment sheet for each set of 200 Fry words. This ma
 ### Differentiation
 This year I have reading levels that range from pre-k all the way to fourth grade. My sight word bookmarks are available in a [bundle including the first 1000 Fry Words](http://bit.ly/2xXyQim). Since one of my firsties is reading fourth grade material, it has been so helpful to have these bookmarks. She wants to participate in everything we do in class, so this is a great way to include her while still teaching sight words at her level. Be sure to check out my [Fry Word Bookmarks Bundle](http://bit.ly/2xXyQim) for all 50 sets!
 
+[Click here to save this post](https://pin.it/UZOyRIW) to your favorite Pinterest board!
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)

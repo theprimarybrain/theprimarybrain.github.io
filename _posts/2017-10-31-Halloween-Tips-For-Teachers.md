@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 --- 
-Halloween falls on a Tuesday this year which means that we not only have to survive Halloween day, but also the THREE school days that follow. Here are a few quick teacher tips to help you not only survive, but **enjoy** one of our student’s favorite days of the year.
+Halloween falls on a Tuesday this year which means that we not only have to survive Halloween day, but also the THREE school days that follow. Here are a few quick teacher tips to help you not only survive, but **enjoy** one of our student’s favorite days of the year. [Click here to save this post](https://pin.it/KQXj9VJ) to your favorite Pinterest board to read again!
 
 ### 1. Choose a Comfortable Costume 
 You will be wearing this costume *all day long* while still being expected to perform your teacher duties, so save the itchy wig and high heels for trick or treating. #dontbecrazy This year I dressed up as a blue crayon and it was the best costume ever! I got to wear my soft black leggings with boots and a comfortable shirt. #bestcostumeever
