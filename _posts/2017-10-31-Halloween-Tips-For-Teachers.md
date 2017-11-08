@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teacher Tip Tuesday &#35;2 - How to Survive Halloween as a Teacher
+title: How to Survive Halloween as a Teacher
 author: Laurin Brainard
 categories: [Teacher Tips]
 tags: [teacher tip,halloween]
@@ -30,7 +30,7 @@ Several students will typically show up to class with treat bags for their frien
 ### 6. Have FUN! 
 Halloween is supposed to be a fun day. If your school is like mine, then students will be wearing costumes. We even have a parade! Spend this special day getting to know your students and plan some special activities to do with them. It is days like this that they will remember forever. 
 
-I hope this week’s Teacher Tip Tuesday gave you some ideas for a fun Halloween with your littles! 
+I hope these tips help you make the most of your Halloween with your littles!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 

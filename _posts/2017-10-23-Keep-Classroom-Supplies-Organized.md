@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teacher Tip Tuesday &#35;1 - Put an End to Missing Supplies!
+title: Put an End to Missing Supplies!
 author: Laurin Brainard
 categories: [Teacher Tips]
 tags: [teacher tip,decor]
@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 --- 
-Today is part one of my Teacher Tip Tuesday series! I love finding inexpensive and creative teacher hacks that can make our jobs easier as teachers. Stop by each week for a teacher tip that will hopefully make your life easier too!
+Do you have a problem with your classroom supplies going missing? When I sit down to work with students, my biggest frustration is not feeling organized and ready to start my small group instruction. I have a caddy full of things I need to work with students, but my supplies keep vanishing! I am so excited to say that I have finally put an end to this madness and found a real solution to the problem!
 
 ![Photo Caddy]({{ site.github.url }}/assets/img/teacher-tip-tuesday-part-one-supply-caddy.jpg)
 
@@ -20,6 +20,6 @@ I have a special set of school supplies that I only use when working with small 
 
 One of my teacher friends recommended wrapping the materials with fancy tape. I grabbed some skinny rolls of duct tape and wrapped up *all the things*. It has been a miracle! We have now made it **TWO WHOLE WEEKS** without losing a single thing! This was by far the best $3 I have spent this school year!
 
-I would love to hear how this works for you in your classroom. See you next week for another Teacher Tip Tuesday!
+I would love to hear how this works for you in your classroom. [Click here to pin this post](https://www.pinterest.com/pin/447334175479443656/) to your teacher tips board to help you stay organized!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
