@@ -46,7 +46,9 @@ This long I cut and sort worksheet focuses on two specific spelling patterns. St
 I hope that you are feeling inspired to take on the challenge of teaching long vowel sounds in your own classroom. If you want to use the resources referenced in this post, click on the links below:
 
 [Roll it, Read it, Color it Word Family Activities](http://bit.ly/2Bey03B)
+
 [Long Vowel Cut and Sort](http://bit.ly/2iJ1wqy)
+
 [Long Vowel Write and Wipe Activity Mat](http://bit.ly/2jToeQl)
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
