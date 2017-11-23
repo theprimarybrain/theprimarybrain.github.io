@@ -35,7 +35,7 @@ I put these blocks in a center to help my students use a tactile material to for
 
 ### Long I Cut and Sort
 
-This long I cut and sort worksheet focuses on two specific spelling patterns. Students cut out each word and sort them into the correct box. Students whisper read the words aloud to practice reading long vowel sounds. I prepare my intensive readers for this activity by reviewing the spelling pattern prior to sorting. I have the students use two colored highlighters to identify and highlight the two spelling patterns. This helps all students to be successful during this activity. 
+This [long I cut and sort worksheet]((http://bit.ly/2iJ1wqy)) focuses on two specific spelling patterns. Students cut out each word and sort them into the correct box. Students whisper read the words aloud to practice reading long vowel sounds. I prepare my intensive readers for this activity by reviewing the spelling pattern prior to sorting. I have the students use two colored highlighters to identify and highlight the two spelling patterns. This helps all students to be successful during this activity. 
 
 ![Long I Write and Wipe]({{ site.github.url }}/assets/img/long-i-write-and-wipe.jpg)
 
