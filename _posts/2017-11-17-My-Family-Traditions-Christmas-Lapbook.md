@@ -30,4 +30,6 @@ On the back cover of their lapbook, my students write about their favorite Chris
 
 [Click here to grab my Christmas Family Traditions Lapbook](http://bit.ly/2zOXyXj). I hope you enjoy learning more about your students and the way they celebrate Christmas with their family this year! 
 
+[Click here to pin this post](https://pin.it/hubjzuaxtnhsu5) to save for later!
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)

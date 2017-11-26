@@ -28,6 +28,8 @@ This lapbook is great for working on writing, but it is also full of opportuniti
 
 I hope you will spend some time this month working on thankfulness with your students. It is such an important character trait that we need further in their lives. You can grab my [Thankfulness Lapbook right here](http://bit.ly/2jfb1AR)! I hope you have a wonderful November! 
 
+[Click here to pin this post](https://pin.it/sfibs33qsh3tw4) to save for later!
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 
