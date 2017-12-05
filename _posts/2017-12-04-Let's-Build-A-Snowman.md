@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Build A Snowman!
+title: STEM Snowman Teamwork Challenge
 author: Laurin Brainard
 categories: [STEM Activities]
 tags: [stem, literacy]
