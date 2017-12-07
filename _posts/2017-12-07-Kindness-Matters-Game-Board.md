@@ -2,7 +2,7 @@
 layout: post
 title: Kindness Matters in Our Classrooms!
 author: Laurin Brainard
-categories: [Freebies]
+categories: [Character Education]
 tags: [character, ELD]
 image:
   feature: kindness-matters-game-board.jpg
