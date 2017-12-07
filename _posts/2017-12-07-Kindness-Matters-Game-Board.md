@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kindness Matters
+title: Kindness Matters in Our Classrooms!
 author: Laurin Brainard
 categories: [Freebies]
 tags: [character, ELD]
