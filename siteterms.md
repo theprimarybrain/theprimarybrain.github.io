@@ -14,6 +14,8 @@ Printables on this website are not for commercial use.
 
 Do not share any photos that include my child’s face visible without prior written permission.
 
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+
 ### PRIVACY POLICY
 
 We do not store information we collect about your visit to this blog for use other than to analyze content performance. We are not responsible for the republishing of the content found on this blog on other web sites or media without our permission. To use social media plugins, we may collect your email address, public profile, and friend lists. 
