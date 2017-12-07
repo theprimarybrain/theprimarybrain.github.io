@@ -14,6 +14,7 @@ Shopping for stocking stuffers is one of my favorite things to do for my family 
 
 ### Flair Pens
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01KMGE19M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KMGE19M&linkCode=as2&tag=theprimarybra-20&linkId=19881e2f1b35b8d1a9042684aa17aec2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KMGE19M&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=theprimarybra-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B01KMGE19M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 Every teacher I know has a stash of <a target="_blank" href="https://www.amazon.com/gp/product/B01KMGE19M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KMGE19M&linkCode=as2&tag=theprimarybra-20&linkId=16acd8fe1543940a317dca11b638b1cf">Flair Pens)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B01KMGE19M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> in their classroom. They write perfectly and make grading so much fun!
 
 ### Repositionable Glue Sticks
