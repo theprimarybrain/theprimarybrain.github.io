@@ -24,6 +24,8 @@ I only allowed ten minutes to try to build their snowmen. By the end of the ten 
 
 [Click here to save this post for later to your favorite Pinterest board!](https://pin.it/35nhdrfv6hhs66)
 
-[Click here to grab The Biggest Snowman Ever](<a target="_blank" href="https://www.amazon.com/gp/product/0439627680/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0439627680&linkCode=as2&tag=theprimarybra-20&linkId=a69a4e94ce41ab866855a8af0dfd3db0">The Biggest Snowman Ever</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=0439627680" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) on Amazon!
+You can purchase(<a target="_blank" href="https://www.amazon.com/gp/product/0439627680/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0439627680&linkCode=as2&tag=theprimarybra-20&linkId=a69a4e94ce41ab866855a8af0dfd3db0">The Biggest Snowman Ever</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=0439627680" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) on Amazon using my affilitate link. 
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog.
