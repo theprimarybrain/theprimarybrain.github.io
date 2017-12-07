@@ -12,7 +12,7 @@ image:
 ---
 One of the most important things I want to teach my students is how to be KIND kids and show kindness to one another. In first grade, students are building friendships that will set the tone for their elementary years. We spend a lot of time working on kindness and other character traits throughout the school year. I designed this board game to use kid friendly language so my firsties can play independently with their friends. It is a great game for literacy centers, a rainy day activity, or Fun Fridays! 
 
-![Kindness Target Erasers](site.github.url }}/assets/img/kindness-matters-game-pieces.jpg)
+![Kindness Game Pieces]({{ site.github.url }}/assets/img/kindness-matters-game-pieces.jpg)
 
 The game begins by placing a game piece on START. I always use Target mini erasers as game pieces since I have so many variations! 
 
