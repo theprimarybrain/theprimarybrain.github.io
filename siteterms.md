@@ -14,7 +14,7 @@ Printables on this website are not for commercial use.
 
 Do not share any photos that include my child’s face visible without prior written permission.
 
-We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. We only link to items that we trust and know are good items. 
 
 ### PRIVACY POLICY
 
