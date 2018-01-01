@@ -3,7 +3,7 @@ layout: post
 title: How to Organize Small Group Workshop Materials
 author: Laurin Brainard
 categories: [Teacher Tips]
-tags: [decor,organization,teacher tip]
+tags: [organization,teacher tip]
 image:
   feature: small-group-workshop-organization-drawers.jpg
   teaser: small-group-workshop-organization-top-drawers-teaser.jpg
