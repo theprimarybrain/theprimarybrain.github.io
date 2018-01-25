@@ -22,4 +22,6 @@ The final piece of the lapbook is to write a special letter to their valentine. 
 
 [Click here to grab this Valentine's Day Lapbook](http://bit.ly/2rANJZU) in my TpT store. 
 
+[Click here to save this post for later to your favorite Pinterest board!](https://pin.it/fy4ofe2a6ta3oh)
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
