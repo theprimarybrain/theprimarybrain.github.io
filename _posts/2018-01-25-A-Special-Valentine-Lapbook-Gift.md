@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Valentine's Day is right around the corner and I am SO EXCITED about this fun writing craftivity we will be creating! This year I decided to work on narrative writing during Valentine's week. I love using lapbooks in my classroom because they allow us to work on writing all week by adding small pieces to this lapbook project each day. My students will be reflecting on a special person in their life to create this lapbook keepsake gift for. I will be encouraging my students to create for a parent or grandparent who shows them love on a daily basis. By the end of the week, students will have a really special gift to give to a special person in their life.
+Valentine's Day is right around the corner and I am SO EXCITED about this fun writing craftivity we will be creating! This year I decided to work on narrative writing during Valentine's week. I love using lapbooks in my classroom because they allow us to work on writing all week by adding small pieces to this lapbook project each day. My students will be reflecting on a special person in their life to create this [Valentine's lapbook keepsake gift](http://bit.ly/2rANJZU) for. I will be encouraging my students to create for a parent or grandparent who shows them love on a daily basis. By the end of the week, students will have a really special gift to give to a special person in their life.
 
 ![Valentine's Lapbook Inside]({{ site.github.url }}/assets/img/valentine-lapbook-inside.jpg)
 
