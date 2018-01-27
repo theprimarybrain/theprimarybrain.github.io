@@ -29,7 +29,7 @@ During this [roll it, read it, color it activity](http://bit.ly/2Bey03B), my stu
 
 ### Using Mega Blocks to Form Words
 
-I put these blocks in a center to help my students use a tactile material to form a word. For this activity, my students focused on forming **i_e words**. They had to use four letters to form each word and place on the base. They recorded their words on primary lined writing paper. If you don't have mega blocks on hand, you could also use legos or another block to create this activity. 
+I put these blocks in a center to help my students use a tactile material to form a word. For this activity, my students focused on forming **i_e words**. They had to use four letters to form each word and place on the base. They recorded their words on primary lined writing paper. <a target="_blank" href="https://www.amazon.com/gp/product/B007GE75HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007GE75HY&linkCode=as2&tag=theprimarybra-20&linkId=f1e3a90fcd89179a4e2d8ee84468809c"> Click here to grab this Mega Blocks 80-Piece set on Amazon. </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B007GE75HY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> This was the perfect set for my class since it came with lots of standard blocks that click together.
 
 ![Long I Cut and Sort]({{ site.github.url }}/assets/img/long-i-cut-and-sort.jpg)
 
@@ -54,3 +54,5 @@ I hope that you are feeling inspired to take on the challenge of teaching long v
 [Click here to pin this post](https://pin.it/wnlbmir3t2gkn7) to save for later!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog.
