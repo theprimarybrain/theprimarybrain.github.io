@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-February is such a special time of year for students as we celebrate Valentine's Day. My littles always love to hand out their Valentine cards and treats. Since it is February, I am so excited to discuss love through our daily reflection prompt cards. I like to discuss *what love actually is*. Often times, we get so carried away by the chocolates, flowers, and other V-Day goodies, that we often forget why Valentine's Day can be an important time to love. I like to remind my students that it is a day about showing love to those who are special to us in our lives. 
+February is such a special time of year for students as we celebrate Valentine's Day. My littles always love to hand out their Valentine cards and treats. Since it is February, I am so excited to discuss love through our daily reflection prompt cards. I like to discuss *what love actually is*. Often times, we get so carried away by the chocolates, flowers, and other V-Day goodies, that we often forget how Valentine's Day can be an important time to teach our students about the meaning of love. I like to remind my students that it is a day about showing love to those who are special to us in our lives. 
 
 ![Love Prompt Card]({{ site.github.url }}/assets/img/february-reflection-prompt-cards-love.jpg)
 
