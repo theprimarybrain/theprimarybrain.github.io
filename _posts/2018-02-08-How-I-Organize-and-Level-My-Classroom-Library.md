@@ -12,7 +12,7 @@ image:
 ---
 My first year teaching, I think it took me half the school year to finally be satisfied with the way my classroom library was organized. I inherited an entire library of books from a retired teacher, but the books ranged from pre-school all the way to fourth grade. Needless to say, I felt overwhelmed and it took me *a while* to get through everything. This year, I decided to redo my library and go through every book and reorganize. 
 
-![Close Up]({{ site.github.url }}/assets/img/halloween-i-have-who-has-first-card.jpg)
+![Close Up]({{ site.github.url }}/assets/img/ar-library-label.jpg)
 
 We use Accelerated Reader for comprehension tests at my school. Over the years, I have written the AR level on the front cover of every book in my library. Since I have a superhero theme in my classroom this year, I created these [Superhero Themed AR labels](http://bit.ly/2ERy0ZE) for the front of each book bin. I chose to list out the individual levels on each tag to make it easy for my first graders to take out and put away books at their specific reading level. 
 
