@@ -25,6 +25,7 @@ It is so much fun to watch my students light up when they find the perfect book 
 Click on the links below to grab my AR labels and bookmarks in my TpT store:
 
 [Superhero Editable AR Labels](http://bit.ly/2ERy0ZE)
+
 [Superhero Editable AR Bookmarks](http://bit.ly/2FXurAf)
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
