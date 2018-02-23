@@ -37,6 +37,8 @@ I hope this post has given you a few new ideas to work on letter names and lette
     </iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=theprimarybra-20&marketplace=amazon&region=US&placement=B00JM5GW10&asins=B00JM5GW10&linkId=697f2bd0db80938547aaca3b9a4b38cb&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=4eb3e6&bg_color=ffffff">
     </iframe>
 
+[Click here to pin this post to your favorite Pinterest board!](https://pin.it/yq3xtgmtdtccio)
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
