@@ -2,7 +2,7 @@
 layout: post
 title: My New Favorite Classroom Resources from Donors Choose
 categories: [Classroom Resources]
-tags: [Classroom Resources,Amazon]
+tags: [Classroom Resources, classroom]
 image:
   feature: donors-choose-art-supplies.jpg
   teaser: donors-choose-art-supplies-teaser.jpg
