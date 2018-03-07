@@ -30,15 +30,15 @@ Next, I showed an example of a race car that I had made. Then, I modeled how to 
   <li> To finish our race cars, we used the clothespin to clamp onto our first axle. Then we slid the second axle through the other side of the clothespin and used a piece of tape to hold it in place. Washi tape is fantastic for this! Too bad I forgot to pick some up! #teacherfail</li>
   <li> Last, we added some flair to our cars with extra buttons, markers and glitter!</li></ol>
 
-![Laurin]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-race-ramp.jpg)
+![race ramp]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-race-ramp.jpg)
 
 The best part of the day was definitely when we tested out our cars by racing two cars down a ramp! It was so much fun to make predictions and draw conclusions about why some cars were faster than other cars. 
 
-![Laurin]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-writing.jpg)
+![writing]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-writing.jpg)
 
 To conclude the two day lesson, we wrote about our race cars and all the fun we had! I gave my students the option of writing either a how-to piece about how they built or raced their race cars, or they could write an opinion piece about the best thing about their race cars. I loved seeing how motivated each student was to write since they had so much to say about the topic. 
 
-![Laurin]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-award.jpg)
+![awards]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-award.jpg)
 
 After they wrote about their cars, I gave out awards to the students who showed effort in making their cars. It was such a fun day that my students could not stop talking about ALL WEEK! If you would like to try making race cars with your own students, be sure to check out my [Wheel and Axle Simple Machine](http://bit.ly/wheelaxle) resource from my TpT store! I hope your little scientists have lots of fun learning about the wheel and axle simple machine!
 
