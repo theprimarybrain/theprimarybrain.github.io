@@ -9,7 +9,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-My students LOVE, LOVE, LOVE STEM projects! This week we learned about the [Wheel and Axle Simple Machine](http://bit.ly/wheelaxle). A wheel and axle is a simple machine that has a "wheel" and a smaller axle that uses the two parts to rotate together to transfer force from one part to the other.  
+My students LOVE, LOVE, LOVE STEAM projects! This week we learned about the [Wheel and Axle Simple Machine](http://bit.ly/wheelaxle). A wheel and axle is a simple machine that has a "wheel" and a smaller axle that uses the two parts to rotate together to transfer force from one part to the other.  
 
 ![Laurin]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-poster.jpg)
 
