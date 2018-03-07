@@ -2,7 +2,7 @@
 layout: post
 title: Learn About Simple Machines by Racing Race Cars!
 categories: [STEM Activities]
-tags: [Stem, science]
+tags: [Stem, science, classroom]
 image:
   feature: wheel-and-axle-race-cars-feature.jpg
   teaser: wheel-and-axle-race-cars-teaser.jpg
