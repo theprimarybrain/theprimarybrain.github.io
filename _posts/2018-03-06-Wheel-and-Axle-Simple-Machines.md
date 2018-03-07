@@ -29,6 +29,7 @@ Next, I showed an example of a race car that I had made. Then, I modeled how to 
   <li> Then, we put the string through the straw and tied off a button to the other side. This created our first axle. We repeated this process for the second axle.</li>
   <li> To finish our race cars, we used the clothespin to clamp onto our first axle. Then we slid the second axle through the other side of the clothespin and used a piece of tape to hold it in place. Washi tape is fantastic for this! Too bad I forgot to pick some up! #teacherfail</li>
   <li> Last, we added some flair to our cars with extra buttons, markers and glitter!</li>
+</ol>
 
 ![Laurin]({{ site.github.url }}/assets/img/wheel-and-axle-race-cars-race-ramp.jpg)
 
