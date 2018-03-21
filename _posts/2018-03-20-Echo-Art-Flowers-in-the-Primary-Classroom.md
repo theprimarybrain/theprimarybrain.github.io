@@ -11,7 +11,7 @@ image:
 ---
 Spring is finally here! I love finding ways to integrate art into content areas such as language arts and math. I cannot think of a better project to welcome spring than by creating echo art flowers through a directed drawing exercise. After completing our flowers, we measured with paperclips since we are working on measurement this week. Each student added a sentence under their artwork that stated how many paperclips tall their flowers were. These flowers definitely make an awesome statement for Open House!
 
-Before you read any further, I feel like I have to tell you... I am NOT an art teacher and have never been strong in art. *Soooooooo* if you are anything like me, then know that you CAN do this project with your class and be successful! Read my step by step directions below. 
+**Before you read any further, I feel like I have to tell you...** I am NOT an art teacher and have never been strong in art. *Soooooooo* if you are anything like me, then know that you CAN do this project with your class and be successful! Read my step by step directions below. 
 
 ### How to Create Echo Art Flowers With Your Class
 
