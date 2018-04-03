@@ -9,7 +9,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-CVC words are such a fun concept to teach anytime of the year. These are the first words that my first graders master in reading and in spelling. I love seeing the accomplishment on their little faces when they learn to read and write CVC words! This year, I created a [CVC Word Write and Wipe Activity Mat](http://bit.ly/2GP1SJf) that works on vocabulary, spelling and writing. The best part is, completing the activity mat only takes a few minutes per word. Once my students master writing CVC words, then we focus on extending our sentences using the vocabulary word we are focusing on. 
+CVC words are such a fun concept to teach anytime of the year. These are the first words that my first graders master in reading and in spelling. I love seeing the accomplishment on their little faces when they learn to read and write CVC words! This year, I created a [CVC Word Write and Wipe Activity Mat](http://bit.ly/2GP1SJf) that works on vocabulary, spelling and writing. The best part is, completing the activity mat only takes a few minutes per word. Once my students can write CVC words with mastery, then we focus on extending our sentences using the vocabulary word we are focusing on. 
 
 ![Blank Workmat]({{ site.github.url }}/assets/img/cvc-word-write-and-wipe-blank.jpg)
 
