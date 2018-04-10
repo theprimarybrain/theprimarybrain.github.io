@@ -17,6 +17,8 @@ All you need to complete this activity is a sheet protector, write and wipe mat,
 
 ![Completed Workmat]({{ site.github.url }}/assets/img/cvc-word-write-and-wipe-completed.jpg)
 
-It is so easy to pull these workmats out when I have extra time after a guided reading lesson or for those littles who just need some extra practice. I love using these workmats during small group workshop so that I can correct student work and make suggestions on ways to improve. These workmats also give me a quick glance at how students are progressing in their ability to write CVC words and complete sentences. The sky really is the limit when it comes to all the fun activities you can incorporate into cvc word practice! You can grab my [CVC Write and Wipe Activity Mats](http://bit.ly/2GP1SJf) in my TpT store!
+It is so easy to pull these workmats out when I have extra time after a guided reading lesson or for those littles who just need some extra practice. I love using these workmats during small group workshop so that I can correct student work and make suggestions on ways to improve. These workmats also give me a quick glance at how students are progressing in their ability to write CVC words and complete sentences. The sky really is the limit when it comes to all the fun activities you can incorporate into cvc word practice! 
+
+You can grab my [CVC Write and Wipe Activity Mats](http://bit.ly/2GP1SJf) in my TpT store! You can also grab my [Write and Wipe Activity Mat BUNDLE](http://bit.ly/2IyVFOU) that is filled with CVC words, Blends and Digraphs, and Long Vowel Word Cards at a discounted price! 
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
