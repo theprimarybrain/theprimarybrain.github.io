@@ -22,4 +22,6 @@ One of my favorite things in the lapbook is this coupon pocket! I know as a Momm
 
 You can grab my [Mother's Day Lapbook in my TpT store](http://bit.ly/mothersdaylapbook)! Happy Mother's Day to all you Mommies reading this out there! 
 
+[Click here to save this post](https://pin.it/xvfay7u6d5edsd) to your favorite Pinterest board!
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
