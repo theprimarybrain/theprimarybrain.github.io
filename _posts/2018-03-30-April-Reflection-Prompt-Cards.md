@@ -14,6 +14,8 @@ It's hard to believe we are already headed into April! That means there are just
 
 I love discussing what my students need from their teacher, so I wanted to spend an entire class meeting on this topic. So often we get so focused on what we need our students to do and how they need to perform in the classroom. But... too often I forget to stop and think about the really important things that they need from me. I am hoping this discussion prompt will provide a deep and meaningful conversation about the things they need from me on an emotional and personal level. 
 
-As we continue through the month of April, we will also be discussing topics such as spring activities, what it means to be a good sport, courage, bullying, trustworthiness, and what it means to give back. I hope you enjoy meaningful conversations with your class this month. [Click here to grab my April Reflection Prompt Cards](http://bit.ly/2pRwU8Q). 
+As we continue through the month of April, we will also be discussing topics such as spring activities, what it means to be a good sport, courage, bullying, trustworthiness, and what it means to give back. I hope you enjoy meaningful conversations with your class this month. [Click here to grab my April Reflection Prompt Cards](http://bit.ly/2pRwU8Q). You can also grab my year-long [Reflection Prompt Card BUNDLE](http://bit.ly/2Fmbpmj) to keep your students reflecting all year long!
+
+[Click here to save this post to your favorite Pinterest board!](https://pin.it/5lxva7u7wbxyxq)
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
