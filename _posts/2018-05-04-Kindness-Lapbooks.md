@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Teaching my students to be kind is SO IMPORTANT to me. It is a major goal every year to instill the desire to be kind within my students before they head off to second grade. My students have to be given examples of what kindness looks like before they can be expected to put it into practice. I created this [kindness lapbook](http://bit.ly/2w1wNhg) to give multiple examples of kindness while also building writing skills in the classroom. 
+Teaching my students to be kind is SO IMPORTANT to me. It is a major goal every year to instill the desire to be kind within my students before they head off to second grade. My students have to be given examples of what kindness looks like before they can be expected to put kindness into practice. I created this [Kindness Lapbook](http://bit.ly/2w1wNhg) to give multiple examples of kindness, while also building writing skills in the classroom. 
 
 ![Lapbook Inside]({{ site.github.url }}/assets/img/kindness-lapbook-inside.jpg)
 ![Lapbook Flip Book]({{ site.github.url }}/assets/img/kindness-lapbook-flip-book.jpg)
