@@ -17,6 +17,15 @@ This year I had each student create their own student portfolio to store all of 
 
 I love to have my students write an opinion piece about their favorite day in first grade to add to their student journals. It is such a fun piece of writing for parents to read as they first open their child's yearly portfolio. 
 
+### What I Included in my Student's Portfolios
+- First Day of School Writing
+- Student selected journal writing samples
+- Formal Opinion, Narrative, and Informative writing pieces
+- Artwork
+- Community Helpers Report
+- Student profile artwork
+- So much more!
+
 [You can grab my student portfolio cover page and writing page FREEBIE by clicking here!](https://drive.google.com/file/d/1x1OLBsgJ7-QJUpWAg7WX3bhxzplyebes/view?usp=sharing) It is available in Kindergarten through 6th Grade versions. I hope your student portfolios are the perfect touch for Open House this year!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
