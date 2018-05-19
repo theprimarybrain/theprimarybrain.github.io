@@ -4,8 +4,8 @@ title: Blends and Digraphs Word Sort Practice Activity
 categories: [Literacy Activities]
 tags: [writing, literacy]
 image:
-  feature: cut-and-paste-word-sort-blends-and-digraphs.jpg
-  teaser: cut-and-paste-word-sort-blends-and-digraphs-teaser.jpg
+  feature: cut-and-paste-word-sort-blends-and-digraphs-teaser.jpg
+  teaser: cut-and-paste-word-sort-blends-and-digraphs.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
