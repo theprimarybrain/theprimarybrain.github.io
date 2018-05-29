@@ -26,8 +26,12 @@ I love to have my students write an opinion piece about their favorite day in fi
 - Student profile artwork
 - So much more!
 
+Before starting this activity, make sure to have a great set of markers for your students to color with. My favorite is the <a target="_blank" href="https://www.amazon.com/gp/product/B01GTEB6OO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GTEB6OO&linkCode=as2&tag=theprimarybra-20&linkId=1f61df008f80ad77cca947add561ecfb">Crayola Super Tips Markers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B01GTEB6OO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> on Amazon because it comes with such a fun variety of colors for students. 
+
 [You can grab my student portfolio cover page and writing page FREEBIE by clicking here!](https://drive.google.com/file/d/1x1OLBsgJ7-QJUpWAg7WX3bhxzplyebes/view?usp=sharing) It is available in Kindergarten through 6th Grade versions. I hope your student portfolios are the perfect touch for Open House this year!
 
 [Click here to save to your favorite Pinterest board!](https://pin.it/5koucjctgzsufu)
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

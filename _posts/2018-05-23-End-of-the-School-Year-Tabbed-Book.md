@@ -11,6 +11,8 @@ image:
 ---
 The school year is filled with so many fun memories for you and your students to celebrate! I love putting together an [End of the School Year Memory Book](http://bit.ly/2x7rnSt) for students to add all their fun memories to. It also makes a really great keepsake for students to keep for years to come. 
 
+Before starting this activity, make sure to have a set of markers on hand for students to color with. My favorite is the <a target="_blank" href="https://www.amazon.com/gp/product/B01GTEB6OO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GTEB6OO&linkCode=as2&tag=theprimarybra-20&linkId=1f61df008f80ad77cca947add561ecfb">Crayola Super Tips Markers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B01GTEB6OO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> because students can fill in smaller areas with precision. 
+
 ![Memory Book Cover]({{ site.github.url }}/assets/img/memory-book-cover.jpg)
 
 To create a memory book, students color and cut out their cover. Since I am teaching first grade this year, I personalized the cover for my first grade students. 
@@ -31,3 +33,5 @@ To conclude their memory book, I love to include a special letter to each studen
 You can grab this [End of the School Year Memory Book](http://bit.ly/2x7rnSt) in my TpT store. I hope you have a blast reminiscing about your school year with your students!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
