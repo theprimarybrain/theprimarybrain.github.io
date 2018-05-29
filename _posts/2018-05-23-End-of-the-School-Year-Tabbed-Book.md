@@ -5,7 +5,7 @@ categories: [Literacy Activities]
 tags: [writing, literacy]
 image:
   feature: memory-book-feature-cover.jpg
-  teaser: cut-and-paste-word-sort-blends-and-digraphs.jpg
+  teaser: memory-book-teaser-cover.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
