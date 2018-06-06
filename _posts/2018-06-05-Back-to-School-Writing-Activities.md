@@ -12,9 +12,12 @@ image:
 One of my favorite things to do as a teacher is to watch how writing unfolds during the year for each of my students. So many of the littles who enter my first grade classroom are unable to write a complete sentence at the beginning of the school year. They lack basic sentence structure, capitalization, and punctuation skills. During the first month of school, I love working through my [Back to School Writing Activity Pack](http://bit.ly/2Ji5cdZ) with each student to get a sense of their strengths and areas of need. 
 
 ![Unscramble Worksheet]({{ site.github.url }}/assets/img/back-to-school-writing-activities-unscramble-it-completed.jpg)
+
+We start out the year by trying to unscramble sentences. Students cut out the words and place on their worksheet in the correct order to make a sentence. Once I check for understanding and help as needed they are able to paste the sentence on their mat. 
+
 ![Unscramble with Worksheet]({{ site.github.url }}/assets/img/back-to-school-writing-activities-unscramble-it-plus.jpg)
 
-We start out the year by trying to unscramble sentences. Students cut out the words and place on their worksheet in the correct order to make a sentence. Once I check for understanding and help as needed they are able to paste the sentence on their mat. I like to extend learning on this activity by giving an additional worksheet with the same sentence to work on capitalization and punctuation. This also gives additional reading practice. This [Back to School Writing Activity Pack](http://bit.ly/2Ji5cdZ) includes several variations of each of these worksheets so that I can extend learning for students who need some extra practice. 
+I like to extend learning on this activity by giving an additional worksheet with the same sentence to work on capitalization and punctuation. This also gives additional reading practice. This [Back to School Writing Activity Pack](http://bit.ly/2Ji5cdZ) includes several variations of each of these worksheets so that I can extend learning for students who need some extra practice. 
 
 ![Task Cards]({{ site.github.url }}/assets/img/back-to-school-writing-activities-task-cards.jpg)
 ![Task Cards with Poster for EL]({{ site.github.url }}/assets/img/back-to-school-writing-activities-task-cards-poster.jpg)
