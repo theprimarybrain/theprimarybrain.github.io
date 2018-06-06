@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Back to School Writing Activities
-categories: [Literacy Activities]
-tags: [writing, literacy]
+categories: [Back to School]
+tags: [writing, Back to School]
 image:
   feature: back-to-school-writing-activities-unscramble-it.jpg
   teaser: back-to-school-writing-activities-teaser.jpg
