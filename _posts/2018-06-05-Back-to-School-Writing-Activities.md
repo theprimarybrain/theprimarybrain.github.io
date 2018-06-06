@@ -21,7 +21,7 @@ We start out the year by trying to unscramble sentences. Students cut out the wo
 
 I love to throw some monthly themed Make A List Task Cards into my writing literacy centers each week. Since this pack includes 4 task cards, I rotate through once a week. I have included posters for each task card with suggested answers that my students refer to **AFTER** attempting to make their own list. This really helps my English Language Learners with spelling and ideas. Since a picture is included for each word, my struggling readers are able to identify and learn the vocabulary words. 
 
-_Teacher Tip:_ To save paper, you can laminate the make a list worksheets and have students use a Vis-a-Vee Marker to write. Also, be sure to laminate your posters and task cards so they are ready to go each year!
+_Teacher Tip:_ To save paper, you can laminate the make a list worksheets and have students use an <a target="_blank" href="https://www.amazon.com/gp/product/B00006IFGW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006IFGW&linkCode=as2&tag=theprimarybra-20&linkId=6ee3e15837bf302317e0a8d77c82db04">EXPO Vis-A-Vis Colored Markers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B00006IFGW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to write. Also, be sure to laminate your posters and task cards so they are ready to go each year!
 
 ![Vocab Cards]({{ site.github.url }}/assets/img/back-to-school-writing-activities-vocab-cards.jpg)
 ![Vocab Cards with Writing]({{ site.github.url }}/assets/img/back-to-school-writing-activities-vocab-cards-writing.jpg)
@@ -35,3 +35,5 @@ This pack also includes writing pages with graphic organizers and sentence frame
 You can grab all of these activities in my [Back to School Writing Activity Pack](http://bit.ly/2Ji5cdZ). I hope these activities give you lots of inspiration for an easy start during the back to school season! 
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
