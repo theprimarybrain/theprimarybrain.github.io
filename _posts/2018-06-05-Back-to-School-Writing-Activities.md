@@ -20,9 +20,12 @@ We start out the year by trying to unscramble sentences. Students cut out the wo
 I like to extend learning on this activity by giving an additional worksheet with the same sentence to work on capitalization and punctuation. This also gives additional reading practice. This [Back to School Writing Activity Pack](http://bit.ly/2Ji5cdZ) includes several variations of each of these worksheets so that I can extend learning for students who need some extra practice. 
 
 ![Task Cards]({{ site.github.url }}/assets/img/back-to-school-writing-activities-task-cards.jpg)
+
+I love to throw some monthly themed Make A List Task Cards into my writing literacy centers each week. Since this pack includes 4 task cards, I rotate through once a week. Students make a list of words that match the prompt on their Make A List worksheet.
+
 ![Task Cards with Poster for EL]({{ site.github.url }}/assets/img/back-to-school-writing-activities-task-cards-poster.jpg)
 
-I love to throw some monthly themed Make A List Task Cards into my writing literacy centers each week. Since this pack includes 4 task cards, I rotate through once a week. I have included posters for each task card with suggested answers that my students refer to **AFTER** attempting to make their own list. This really helps my English Language Learners with spelling and ideas. Since a picture is included for each word, my struggling readers are able to identify and learn the vocabulary words. 
+I have included posters for each task card with suggested answers that my students refer to **AFTER** attempting to make their own list. This really helps my English Language Learners with spelling and ideas. Since a picture is included for each word, my struggling readers are able to identify and learn the vocabulary words. 
 
 _Teacher Tip:_ To save paper, you can laminate the make a list worksheets and have students use an <a target="_blank" href="https://www.amazon.com/gp/product/B00006IFGW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006IFGW&linkCode=as2&tag=theprimarybra-20&linkId=6ee3e15837bf302317e0a8d77c82db04">EXPO Vis-A-Vis Colored Markers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B00006IFGW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to write. Also, be sure to laminate your posters and task cards so they are ready to go each year!
 
