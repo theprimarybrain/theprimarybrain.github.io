@@ -2,7 +2,7 @@
 layout: post
 title: How I Told My Students I Am Having a Baby
 author: Laurin Brainard
-categories: [About Me]
+categories: [About Me!]
 tags: [pregnancy]
 image:
   feature: pregnancy-announcement-worksheet.jpg
