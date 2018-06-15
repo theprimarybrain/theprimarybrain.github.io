@@ -13,9 +13,7 @@ CVC words are one of my favorite concepts to teach and review at the beginning o
 
 
 ![Wordsearch and Color the Words]({{ site.github.url }}/assets/img/cvc-worksheet-pack-wordsearch-colorwords.jpg)
-
 ![Unscramble and let's Write Fill In]({{ site.github.url }}/assets/img/cvc-worksheet-pack-unscramble-letswrite.jpg)
-
 ![CVC Worksheets]({{ site.github.url }}/assets/img/cvc-worksheet-pack-picturematch-fillin-middlesound.jpg)
 
 In my [CVC Word Phonics NO PREP Worksheet Pack](http://bit.ly/2JF5EHn) I have various leveled worksheets for each student in my class. For my students who are still working on reading CVC words, I like to provide opportunities for learning such as word search worksheets, middle sound practice, and coloring words based on their vowel sounds. For students advancing to the next leavel in cvc word practice, I provide opportunities for word writing practice and identifying the picture that goes with the word. My strongest readers will view pictures and write the word below the picture. My students also love unscrambling words to find the mystery word! 
