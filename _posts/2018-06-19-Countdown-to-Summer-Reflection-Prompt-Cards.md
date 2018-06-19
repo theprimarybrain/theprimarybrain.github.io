@@ -14,6 +14,6 @@ The countdown to summer is ON in my classroom! This year, we counted down to the
 
 I definitely shed a few tears as I listened to all the fun memories my students had from our special year together. It is always so sweet to listen to the stories they share and remembering all the memories that were created within the four walls of our classroom. 
 
-Click here to download my [Countdown to Summer Reflection Prompt Cards](http://bit.ly/2I6O9dK) so you can count down to summer with your students in a simple and exciting way!
+Click here to download my [Countdown to Summer Reflection Prompt Cards](http://bit.ly/2I6O9dK) so you can count down to summer with your students in a simple and exciting way! You can also grab my year-long [Reflection Prompt Card BUNDLE](http://bit.ly/2Fmbpmj) to get ahead for next year!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
