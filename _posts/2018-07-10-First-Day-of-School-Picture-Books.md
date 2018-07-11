@@ -10,7 +10,9 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-One of my favorite things to do on the first day of school is read picture books to my students. Reading a book to my new students is a great way to help them stay calm and feel welcomed into our classroom on the first day. 
+The first day of first grade is always a really fun, but hectic day for my littles. They are so excited to come to school, but they are always a little nervous since they don't know what to expect when they walk through my classroom door. I always have an activity such as a first day coloring page or a play-doh model on their desks to work on right when they come in so my students are busy creating while I welcome students and take attendance. 
+
+After getting settled, one of my favorite things to do on the first day of school is read picture books to my students. Reading a book to my new students is a great way to help them stay calm and feel welcomed into our classroom on the first day. 
 
 ![First Day Jitters]({{ site.github.url }}/assets/img/first-day-jitters.jpg)
 
@@ -35,3 +37,5 @@ To end our day together, each of my students writes a narrative piece about our 
 Send me a message on social media with your favorite picture books for the first day of school. I am always looking for new favorites!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
