@@ -9,7 +9,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Hi teacher friends! Get ready for the best sale and giveaways of the summer! I have teamed up with an amazing group of teacher friends to bring you special deals on Teachers Pay Teachers and some AWESOME giveaways! This week we have **THREE** giveaways you can enter for your change to win $100 to Target, Amazon, AND TpT! Scroll down to the bottom of this post to enter!
+Hi teacher friends! Get ready for the best sale and giveaways of the summer! I have teamed up with an amazing group of teacher friends to bring you special deals on Teachers Pay Teachers and some AWESOME giveaways! This week we have **THREE** giveaways you can enter for your chance to win $100 to Target, Amazon, AND TpT! Scroll down to the bottom of this post to enter!
 
 Click this rafflecopter below to enter to win **a Teachers Pay Teachers gift card**!
 <a class="rcptr" href="http://www.rafflecopter.com/rafl/display/4dfd2d968/" rel="nofollow" data-raflid="4dfd2d968" data-theme="classic" data-template="" id="rcwidget_l32o9v43">a Rafflecopter giveaway</a>
