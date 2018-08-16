@@ -10,11 +10,11 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Honesty is a character trait that is so often forgotten in today's pop culture. Our children are immersed in a life of social media, television, and other outlets that do not teach our students the value of honesty. As a first grade teacher, it is SO IMPORTANT to me that we train up our littles to be honest students from an early age. Hopefully, they will take the skills they learn and carry them with them through their school days. To introduce honesty, I love to complete this [Honesty Lapbook](http://bit.ly/honestylapbook) with my students. 
+Honesty is a character trait that is so often forgotten in today's pop culture. Our children are immersed in a life of social media, television, and other outlets that do not teach our students the value of honesty. As a first grade teacher, it is SO IMPORTANT to me that we train up our littles to be honest students from an early age. Hopefully, they will take the skills they learn and carry them through their school days. To introduce honesty, I love to complete this [Honesty Lapbook](http://bit.ly/honestylapbook) with my students. 
 
 ![Honesty Lapbook Inside]({{ site.github.url }}/assets/img/honesty-lapbook-inside.jpg)
 
-This lapbook is filled with so many opportunities for learning about honesty! To dig into our honesty discussion, we create an anchor chart about how we use our senses to show honesty and we add this to our character wall. Then, students independently complete this flip book to show how they can be an honest student. I encourage each student to write specific ways that they can show what honesty looks like through their actions. They will also write about what it feels like internally when they are honest and what honesty sounds like through their words. 
+This lapbook is filled with so many opportunities for learning about honesty! To dig into our honesty discussion, we create an anchor chart about how we use our senses to show honesty and add this to our character wall. Then, students independently complete this flip book to make a personal connection and show how they can be an honest student. I encourage each student to write specific ways that they can show what honesty looks like through their actions. They will also write about what it feels like internally when they are honest and what honesty sounds like through their words. 
 
 ![Honesty Flap and Flip Books]({{ site.github.url }}/assets/img/honesty-lapbook-flip-and-flap-books.jpg)
 
