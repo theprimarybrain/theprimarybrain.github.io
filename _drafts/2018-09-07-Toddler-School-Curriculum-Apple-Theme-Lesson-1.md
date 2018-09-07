@@ -11,7 +11,7 @@ image:
 ---
 I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler school in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created an [Apple Themed Unit](http://bit.ly/toddlerapple). 
 
-### Lesson Components
+## Lesson Components
 Each of the 5 lessons in this unit includes the following activities:
 - literacy/language
 - math or science activity
@@ -20,13 +20,13 @@ Each of the 5 lessons in this unit includes the following activities:
 - art activity
 - recipe/snack
 
-### Day One: Field Trip Day!
+## Day One: Field Trip Day!
 ![Grocery Store Field Trip]({{ site.github.url }}/assets/img/toddler-apple-field-trip-1.jpg)
 ![Grocery Store Field Trip 2]({{ site.github.url }}/assets/img/toddler-apple-field-trip-2.jpg)
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
 I really wanted the first day of learning to fill my little guy with an excitement for learning, so we took a field trip to buy apples from the grocery store. He was so excited to get to help pick out the apples and put them in our shopping bags. We talked about the names, colors, shape, smell, and sizes of each apple as we compared the fruit in the store. I made sure to buy red, green, and yellow apples to use in our lessons.
 
-### Lesson One Activities
+## Lesson One Activities
 ![Cover]({{ site.github.url }}/assets/img/toddler-apple-cover-coloring-sheet.jpg)
 ![Coloring Page]({{ site.github.url }}/assets/img/toddler-apple-a-apple-coloring-page.jpg)
 After shopping for apples, we dove right into learning about apples! To begin the first lesson, we colored the cover page for our unit notebook. Then, we learned about the letter A and colored an "A is for apple" coloring page. 
