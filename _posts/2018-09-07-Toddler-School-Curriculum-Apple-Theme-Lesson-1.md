@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First Day of Toddler School - Apple Themed Unit
+title: Toddler School - Apple Themed Unit Lesson 1
 categories: [Toddler School]
-tags: [toddler, toddler school]
+tags: [toddler, apples, toddler school]
 image:
   feature: 
   teaser: toddler-apple-pie-sensory-bin-play-teaser.jpg
@@ -12,7 +12,7 @@ image:
 I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler school in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created an [Apple Themed Unit](http://bit.ly/toddlerapple). 
 
 ### Lesson Components
-Each lesson in this unit includes the following activities:
+Each of the 5 lessons in this unit includes the following activities:
 - literacy/language
 - math or science activity
 - fine motor activity
