@@ -22,8 +22,11 @@ Each of the 5 lessons in this unit includes the following activities:
 
 ## Day One: Field Trip Day!
 ![Grocery Store Field Trip]({{ site.github.url }}/assets/img/toddler-apple-field-trip-1.jpg)
-![Grocery Store Field Trip 2]({{ site.github.url }}/assets/img/toddler-apple-field-trip-2.jpg)
+
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
+
+![Grocery Store Field Trip 2]({{ site.github.url }}/assets/img/toddler-apple-field-trip-2.jpg)
+
 I really wanted the first day of learning to fill my little guy with an excitement for learning, so we took a field trip to buy apples from the grocery store. He was so excited to get to help pick out the apples and put them in our shopping bags. We talked about the names, colors, shape, smell, and sizes of each apple as we compared the fruit in the store. I made sure to buy red, green, and yellow apples to use in our lessons.
 
 ## Lesson Setup
