@@ -4,7 +4,7 @@ title: Toddler School - Apple Themed Unit
 categories: [Toddler School]
 tags: [toddler, apples, toddler school]
 image:
-  feature: 
+  feature: toddler-apple-cover-sheet-feature.jpg
   teaser: toddler-apple-pie-sensory-bin-play-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
@@ -37,6 +37,9 @@ This unit is FILLED with art activities! Each day we work on the letter A and a.
 ![Apple Seed Craft]({{ site.github.url }}/assets/img/toddler-apple-seed-craft.jpg)
 This apple seed craft was a huge hit! My son loved getting to glue the apple seeds onto the apple. It was a great way to integrate science and art as well. 
 
+![Apple Plate Craft]({{ site.github.url }}/assets/img/toddler-apple-plate-craft.jpg)
+My son had SO MUCH FUN with this apple plate craft! It was one of his first time using scissors, so I could definitely see a need for extra practice in this area. We cut and tore paper, then he used his gluestick to independently glue the paper onto the apple. When he finished, he shouted "the apple is done!!" and was so excited to show his apple to everyone he saw over the next few days. 
+
 ## Sensory Exploration
 ![Sensory Bin]({{ site.github.url }}/assets/img/toddler-apple-pie-sensory-bin-play.jpg)
 Sensory play and exploration is so important for the toddler age. Allowing your child to use his or her imagination during a hands-on activity will engage the child and help him reach his full potential. I created this Apple Pie Sensory Bin to work on "big A" and "little a" through sensory play. My son would not stop playing for a full hour! 
@@ -58,6 +61,11 @@ To work on fine motor skills, we rolled playdoh and placed the playdoh on the le
 ![Apple Lacing]({{ site.github.url }}/assets/img/toddler-apple-lacing.jpg)
 
 This apple lacing fine motor activity was a struggle at first for my little guy. He understood that he needed to pull the lace through the hole, but he kept missing the hole and pulling the lacing behind his head. I used hand over hand movements and this really helped him understand the concept of lacing. This is definitley a skill we will be practicing over the next several months. 
+
+## Snacks/Recipes
+![Apple Snack]({{ site.github.url }}/assets/img/toddler-apple-donuts.jpg)
+![Apple Snack]({{ site.github.url }}/assets/img/toddler-apple-sandwich.jpg)
+The most exciting part of our day was eating our fun apple snacks! We enjoyed apple "donuts" and apple sandwiches, apple slices, apples dipped in caramel, and homemade applesauce. All of our snacks were delicious! 
 
 I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Toddler School Curriculum - Apple Themed Lessons](http://bit.ly/toddlerapple) on Teachers Pay Teachers! Have fun learning and growing with your little ones! 
 
