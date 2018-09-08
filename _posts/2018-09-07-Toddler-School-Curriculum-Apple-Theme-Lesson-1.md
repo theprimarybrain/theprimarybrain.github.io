@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toddler School - Apple Themed Unit Lesson 1
+title: Toddler School - Apple Themed Unit
 categories: [Toddler School]
 tags: [toddler, apples, toddler school]
 image:
@@ -9,7 +9,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler school in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created an [Apple Themed Unit](http://bit.ly/toddlerapple). 
+I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler school in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created an [Apple Themed Unit](http://bit.ly/toddlerapple). Enjoy a peek into our week through a sampling of our activities together!
 
 ## Lesson Components
 Each of the 5 lessons in this unit includes the following activities:
@@ -26,23 +26,39 @@ Each of the 5 lessons in this unit includes the following activities:
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
 I really wanted the first day of learning to fill my little guy with an excitement for learning, so we took a field trip to buy apples from the grocery store. He was so excited to get to help pick out the apples and put them in our shopping bags. We talked about the names, colors, shape, smell, and sizes of each apple as we compared the fruit in the store. I made sure to buy red, green, and yellow apples to use in our lessons.
 
-## Lesson One Activities
+## Lesson Setup
 ![Cover]({{ site.github.url }}/assets/img/toddler-apple-cover-coloring-sheet.jpg)
-![Coloring Page]({{ site.github.url }}/assets/img/toddler-apple-a-apple-coloring-page.jpg)
-After shopping for apples, we dove right into learning about apples! To begin the first lesson, we colored the cover page for our unit notebook. Then, we learned about the letter A and colored an "A is for apple" coloring page. 
+After shopping for apples, we dove right into learning about apples! To begin the first lesson, we colored the cover page for our unit notebook. We read the I CAN statement and discussed what we would be learning about. To prepare the notebook, I stapled a gallon size ziplock bag and copy paper inside a folded piece of construction paper. As we finish activities, we will be gluing the completed work on the pieces of copy paper. Any reusable materials will be kept inside the ziplock bag for use again at a later date. 
 
+## Art Activities
+![Coloring Page]({{ site.github.url }}/assets/img/toddler-apple-a-apple-coloring-page.jpg)
+This unit is FILLED with art activities! Each day we work on the letter A and a. We colored a picture to reinforce this learning and associate a picture with the letter of the week. 
+
+![Apple Seed Craft]({{ site.github.url }}/assets/img/toddler-apple-seed-craft.jpg)
+This apple seed craft was a huge hit! My son loved getting to glue the apple seeds onto the apple. It was a great way to integrate science and art as well. 
+
+## Sensory Exploration
 ![Sensory Bin]({{ site.github.url }}/assets/img/toddler-apple-pie-sensory-bin-play.jpg)
 Sensory play and exploration is so important for the toddler age. Allowing your child to use his or her imagination during a hands-on activity will engage the child and help him reach his full potential. I created this Apple Pie Sensory Bin to work on "big A" and "little a" through sensory play. My son would not stop playing for a full hour! 
 
+![Sensory Bin]({{ site.github.url }}/assets/img/toddler-apple-water-sensory-bin.jpg)
+We also enjoyed washing apples in this apple water sensory play station. I gave my son 3 mixing bowls filled with water and apples. He used a ladle to move the apples between the bowls. So much fun in such a simple activity!
+
+## Math Activities
 ![Math Cards]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
 To work on number skills, we added pom pom "apples" to these apple trees. Most children at this age will need support to count the apples, but can add the apples to the trees independently. 
 
+## Fine Motor Activities
 ![Playdoh]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
 ![Playdoh 2]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
 ![Playdoh 3]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
 
 To work on fine motor skills, we rolled playdoh and placed the playdoh on the letters A and a in a sheet protector. First, teach your child to roll the playdoh into "snakes" and then place on the letters. This playdoh mat also makes for a great busy bag activity that can be pulled out at anytime for your toddler!
 
-I hope you are feeling inspired to begin toddler school with your little ones! Stay tuned for the next four lessons! All printables and full lesson plans are available in my [Toddler School Curriculum - Apple Themed Lessons](http://bit.ly/toddlerapple) on Teachers Pay Teachers!
+![Apple Lacing]({{ site.github.url }}/assets/img/toddler-apple-lacing.jpg)
+
+This apple lacing fine motor activity was a struggle at first for my little guy. He understood that he needed to pull the lace through the hole, but he kept missing the hole and pulling the lacing behind his head. I used hand over hand movements and this really helped him understand the concept of lacing. This is definitley a skill we will be practicing over the next several months. 
+
+I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Toddler School Curriculum - Apple Themed Lessons](http://bit.ly/toddlerapple) on Teachers Pay Teachers! Have fun learning and growing with your little ones! 
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
