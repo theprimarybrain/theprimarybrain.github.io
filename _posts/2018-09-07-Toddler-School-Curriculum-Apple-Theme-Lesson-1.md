@@ -52,8 +52,8 @@ We also enjoyed washing apples in this apple water sensory play station. I gave 
 To work on number skills, we added pom pom "apples" to these apple trees. Most children at this age will need support to count the apples, but can add the apples to the trees independently. 
 
 ## Fine Motor Activities
-![Playdoh]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
-![Playdoh 2]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
+![Playdoh]({{ site.github.url }}/assets/img/toddler-apple-playdoh-2.jpg)
+![Playdoh 2]({{ site.github.url }}/assets/img/toddler-apple-playdoh.jpg)
 ![Playdoh 3]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
 
 To work on fine motor skills, we rolled playdoh and placed the playdoh on the letters A and a in a sheet protector. First, teach your child to roll the playdoh into "snakes" and then place on the letters. This playdoh mat also makes for a great busy bag activity that can be pulled out at anytime for your toddler!
