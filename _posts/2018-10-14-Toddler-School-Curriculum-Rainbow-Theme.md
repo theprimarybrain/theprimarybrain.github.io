@@ -46,6 +46,10 @@ Developing fine motor skills at the toddler age is so important. This week, you 
 ![Math Cards 2]({{ site.github.url }}/assets/img/toddler-rainbow-math-rainbow-clouds.jpg)
 This week you will work on 1:1 coorespondence by placing objects on pictures that match the number. First, show your child the number and say it's name. Then, place a counter on each picture of the rainbow and count aloud. For example, tell your child that the first card is the number one card, so we will only place one counter. Do the same for the number 2 and number 3 cards. Allow your child to complete the activity several times so they can feel successful completing independently. Once your child is able to place objects without a visual representation to copy, then they can move onto placing marshmallows on rainbows to match the number!
 
+## Sensory Activities
+![Mixing Colors]({{ site.github.url }}/assets/img/toddler-rainbow-color-mixing.jpg)
+Your child will also work on color mixing sensory activities this week! Combine two primary colors in a quart size zip-lock bag. Your child will love pressing the colors together to create new colors! Once the colors are mixed, press your finger onto the bag to draw. You can draw shapes, letters, numbers, and anything else that interests your child. For a second color mixing activity, place red, yellow, and blue food coloring and water into individual small cups. Give your child a small dropper and some empty cups to squeeze the water into. Discuss the names of the colors as your child transfers water into a new cup. Once two colors have been mixed, ask your child the name of the new color.
+
 ## Gross Motor Activities
 ![Color Hop]({{ site.github.url }}/assets/img/toddler-gross-motor-color-hop.jpg)
 ![Color Maze]({{ site.github.url }}/assets/img/toddler-gross-motor-maze.jpg)
