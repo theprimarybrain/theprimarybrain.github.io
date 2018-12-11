@@ -26,8 +26,8 @@ Nothing gets me more excited about Christmas than decorating a tree, baking all 
 Add flour, salt, cream of tartar, cinnamon, and cloves to a large mixing bowl. Whisk to combine. Add oil and stir. Add boiling water and stir to combine. Once cool enough to touch, knead with your hands to combine the playdough. Add a few play items such as a rolling pin, plates and utensils, cookie cutters and Playdoh tools for hours of fun!
 
 ![PlaydoughCutting]({{ site.github.url }}/assets/img/christmas-playdough-cookie-cutters.jpg)
-![Playdoughfun]({{ site.github.url }}/assets/img/christmas-playdough-tools.jpg)
 
 I hope this Christmas playdough helps add a bit of Christmas cheer to your home or classroom. Enjoy this holiday season! 
+![Playdoughfun]({{ site.github.url }}/assets/img/christmas-playdough-tools.jpg)
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
