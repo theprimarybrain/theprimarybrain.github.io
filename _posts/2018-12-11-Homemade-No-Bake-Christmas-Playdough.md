@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Nothing gets me more excited about Christmas than decorating a tree, baking all the holiday goods, and filling our home with the smells of Christmas. This morning I tested out a new playdough recipe that smells just like Christmas. All you need is cinnamon, cloves, a little bit of love, and a few baking staples that you likely have on hand. This recipe is perfect for preschoolers at home, or for your classroom since there is no cooking required. Just combine all the ingredients, mix, and you are ready for hours of fun!
+Nothing gets me more excited about Christmas than decorating a tree, baking all the holiday goods, and filling our home with the smells of Christmas. This morning I tested out a new playdough recipe that smells just like Christmas. All you need is cinnamon, cloves, a little bit of love, and a few baking staples that you likely have on hand. We used whole cloves and ground using a spice grinder to amplify the Christmas smell. This recipe is perfect for preschoolers at home, or for your classroom since there is no cooking required. Just combine all the ingredients, mix, and you are ready for hours of fun!
 
 ![MixingPlaydough]({{ site.github.url }}/assets/img/christmas-playdough-mixing.jpg)
 ### Ingredients:
