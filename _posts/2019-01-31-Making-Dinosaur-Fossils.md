@@ -15,9 +15,9 @@ Do you study dinosaurs with your students? I am blown away by the level of engag
 To make dinosaur fossils, you only need a few things to get started: flour, salt (we used kosher salt), water, and mini dinosaurs. That's it! See the recipe and instructions below:
 
 ### Ingredients:
-1 cup salt
-1 cup flour
-1/2 cup warm water
+- 1 cup salt
+- 1 cup flour
+- 1/2 cup warm water
 
 ### Directions:
 ![DoughBalls]({{ site.github.url }}/assets/img/salt-dough-ball.jpg)
