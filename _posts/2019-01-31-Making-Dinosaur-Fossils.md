@@ -32,6 +32,20 @@ Have the child press small dinosaurs into the dough, but gently enough that the 
 
 Remove the dinosaur after pressing to reveal a “dinosaur fossil.” Bake in a 350 degree oven until the dough starts to turn brown. This may take 30-60 minutes depending on the size and thickness of the dough. 
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "theprimarybra-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_linkid = "2026863a50052fa2f509ce9ca7c8c555";
+amzn_assoc_search_bar = "true";
+amzn_assoc_title = "Dinosaur Fossil Materials";
+amzn_assoc_asins = "B072N5VFVM,B00H8WLHKU,B001GHYO44,B01EVJ8Q0Q";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 We found that the dinosaur fossils look the most realistic when they are not painted. But... We had lots of fun painting our dinosaur fossils! If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Curriculum-Dinosaur-Themed-Lessons-4313867?utm_source=My%20Blog&utm_campaign=Dinosaur%20Fossils%20Post) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
