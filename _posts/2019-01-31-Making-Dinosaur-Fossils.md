@@ -21,12 +21,15 @@ To make dinosaur fossils, you only need a few things to get started: flour, salt
 
 ### Directions:
 ![DoughBalls]({{ site.github.url }}/assets/img/salt-dough-ball.jpg)
+
 Combine flour and salt together in a medium sized bowl. Then, add water and mix. Knead with your hands until you have a ball of dough. After making dough, roll out a small ball and press down with the palm of your hand. 
 
 ![MakingFossils]({{ site.github.url }}/assets/img/salt-dough-dinosaur-pressing-fossil.jpg)
+
 Have the child press small dinosaurs into the dough, but gently enough that the dinosaur does not go all the way through the dough. 
 
 ![Fossil]({{ site.github.url }}/assets/img/salt-dough-fossils-single.jpg)
+
 Remove the dinosaur after pressing to reveal a “dinosaur fossil.” Bake in a 350 degree oven until the dough starts to turn brown. This may take 30-60 minutes depending on the size and thickness of the dough. 
 
 We found that the dinosaur fossils look the most realistic when they are not painted. But... We had lots of fun painting our dinosaur fossils! If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Curriculum-Dinosaur-Themed-Lessons-4313867?utm_source=My%20Blog&utm_campaign=Dinosaur%20Fossils%20Post) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
