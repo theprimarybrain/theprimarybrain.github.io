@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 3 of the Sun, Sand, and Savings Giveaway
-categories: [Giveaways]
+categories: []
 tags: [freebies]
 image:
   feature: sun-sand-and-savings-giveaway-week-2.jpg
