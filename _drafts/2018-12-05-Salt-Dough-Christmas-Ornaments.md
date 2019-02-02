@@ -30,3 +30,5 @@ Directions
 10. Paint with watercolor or acrylic paint. Let dry. 
 11. Add a string through the hole at the top of each ornament. 
 12. Hang on the tree or give as a gift! 
+
+This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

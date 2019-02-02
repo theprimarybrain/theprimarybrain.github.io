@@ -30,3 +30,5 @@ These [Cut and Paste Long Vowel Worksheets](http://bit.ly/2BKqjpZ) are perfect f
 I hope you are feeling inspired to try out some new long vowel reading activities! 
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
