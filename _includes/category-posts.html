@@ -1,6 +1,5 @@
 <div class="related">
   <h1>Categories:</h1>
-  {% assign listed_posts_categories = post.categories | split: ' ' %}
 
   {% if post %}
     {% assign categories = post.categories %}
@@ -15,11 +14,6 @@
           <a href="{{ site.baseurl }}/menu/categories/#{{ category | url_encode}}">{{category}}</a>
         </h3>
       </li>
-      <!--
-      {% unless forloop.last %}
-        &nbsp;
-      {% endunless %}
-      -->
     {% endfor %}
     </ul>
 </div>
