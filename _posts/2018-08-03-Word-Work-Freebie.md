@@ -16,6 +16,20 @@ I can't believe the summer has already come to an end and we are all headed back
 
 You can [CLICK HERE](https://drive.google.com/file/d/1i-vv3YJzz3Cy8VUnlel8SLJHjikfnvuz/view?usp=sharing) to download this Word Work Building Mat Freebie! I hope this building mat helps you to get back into the swing of things and make planning centers a little easier. 
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "theprimarybra-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Word Work Materials";
+amzn_assoc_linkid = "9f2ccca7693f620fd43fdae3b28d4ab8";
+amzn_assoc_asins = "1932188126,B00006IFIL,B00DB8NQYA,B000FNHS7U";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
