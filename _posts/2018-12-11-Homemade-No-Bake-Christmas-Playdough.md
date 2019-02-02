@@ -27,6 +27,20 @@ Add flour, salt, cream of tartar, cinnamon, and cloves to a large mixing bowl. W
 
 ![PlaydoughCutting]({{ site.github.url }}/assets/img/christmas-playdough-cookie-cutters.jpg)
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "theprimarybra-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Christmas Playdough Materials";
+amzn_assoc_linkid = "45683eaf7469cda7d5bcb3357db77d41";
+amzn_assoc_asins = "B071942JCL,B001D1FJ2E,B0001M119G,B001GHYO44";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 I hope this Christmas playdough helps add a bit of Christmas cheer to your home or classroom. Enjoy this holiday season! 
 
 ![Playdoughfun]({{ site.github.url }}/assets/img/christmas-playdough-tools.jpg)
