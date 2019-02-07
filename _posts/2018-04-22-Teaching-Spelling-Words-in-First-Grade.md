@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Teach Fry Spelling Words in my Classroom
+title: How I Teach Fry Spelling Words
 categories: [Literacy Activities]
 tags: [writing, literacy]
 image:

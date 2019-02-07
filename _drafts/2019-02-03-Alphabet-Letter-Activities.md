@@ -10,7 +10,9 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Teaching letters and sounds to children is one of my absolute favorite things to do! There is no better feeling than the moment when a child can identify letter names and letter sounds, because you know they are now prepared to blend sounds and learn to read! In my first grade classroom, I always give the (CORE Phonics Survey)[https://www.scholastic.com/dodea/Module_2/resources/dodea_m2_tr_core.pdf] during the first week of school. You can find this full assessment and so many other fantastic teaching tools in the [Teaching Reading Sourcebook](https://www.amazon.com/gp/product/1634022351/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1634022351&linkCode=as2&tag=theprimarybra-20&linkId=d52d72142b85a0e7bf132429fc33eec0). 
+
+
+Teaching letters and sounds to children is one of my absolute favorite things to do! There is no better feeling than the moment when a child can identify all letter names and letter sounds, because you know they are now prepared to blend sounds and learn to read! 
 
 I always have a handful of students who need intervention support with letter name and sound identification. Here are five ways to work on letter names and sounds during a small group rotation. 
 
