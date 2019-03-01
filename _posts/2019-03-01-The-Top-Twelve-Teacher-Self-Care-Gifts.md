@@ -12,7 +12,7 @@ image:
 ---
 Do you have a teacher in your life that you would love to buy something special for? I have put together a list of my top 12 favorite self-care gifts for teachers. These items are great for relaxation, rejuvenation, preventing illness, and stress relief. Any of these items will make a perfect gift for teacher appreciation week, a Christmas gift, or any time you want to show a special teacher in your life that you appreciate all they do! 
 
-#### My Top 12 Favorite Teacher Self-Care Gifts
+## My Top 12 Favorite Teacher Self-Care Gifts
 
 1. [**Zojirushi Coffee Mug**](https://amzn.to/2T4Nzrh) - *To help a teacher drink hot coffee all day long!* I have never had coffee stay hot all day long in a mug before!
 
