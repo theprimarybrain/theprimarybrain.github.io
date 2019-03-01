@@ -36,7 +36,7 @@ Do you have a teacher in your life that you would love to buy something special 
 
 11. **Massage, Facial, or Pedicure** - *To help heal the teacher's body and mind.* We all need an excuse to close our eyes and just RELAX!
 
-12. [Teachers Pay Teachers Gift Card](https://www.teacherspayteachers.com/Gift-Card) - *To help add time a teacher's day.* Teachers Pay Teachers has saved me so many times since I can just print a lesson, make copies, and be ready to teach! No extensive lesson planning required!
+12. [**Teachers Pay Teachers Gift Card**](https://www.teacherspayteachers.com/Gift-Card) - *To help add time a teacher's day.* Teachers Pay Teachers has saved me so many times since I can just print a lesson, make copies, and be ready to teach! No extensive lesson planning required!
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
