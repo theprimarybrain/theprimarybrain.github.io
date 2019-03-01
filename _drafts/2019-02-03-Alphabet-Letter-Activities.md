@@ -12,7 +12,7 @@ image:
 ---
 
 
-Teaching letters and sounds to children is one of my absolute favorite things to do! There is no better feeling than the moment when a child can identify all letter names and letter sounds, because you know they are now prepared to blend sounds and learn to read! 
+Teaching letters and sounds to children is one of my absolute favorite things to do! There is no better feeling than the moment when a child can identify all letter names and letter sounds. Now you know they are now prepared to blend sounds and learn to read! 
 
 I always have a handful of students who need intervention support with letter name and sound identification. Here are five ways to work on letter names and sounds during a small group rotation. 
 

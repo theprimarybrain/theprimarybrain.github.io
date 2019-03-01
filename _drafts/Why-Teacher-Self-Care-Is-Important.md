@@ -1,0 +1,1 @@
+If you want to be a GREAT teacher, then you need to make sure you are taking care of yourself. You can't pour from an empty cup. Self-care is SO IMPORTANT for teachers. We need to find what makes us relax and feel rejuvenated so we can be 100% there for our students. If you want to grab 
