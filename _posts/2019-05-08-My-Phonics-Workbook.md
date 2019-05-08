@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _My Phonics Workbook_
+title: My Phonics Workbook
 author: Laurin Brainard
 categories: [My Book]
 tags: [phonics,book]
