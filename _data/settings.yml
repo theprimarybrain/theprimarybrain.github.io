@@ -25,6 +25,10 @@ menu:
     name: 'Contact',
     url: 'contact/'
   }
+  - {
+    name: 'My Book', 
+    url: 'book/'
+  }
 - {
     name: 'Categories', 
     url: 'categories/'
