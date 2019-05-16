@@ -19,10 +19,13 @@ Then, we colored the caterpillar using colorful colors. This workbook is geared 
 
 After coloring our caterpillar, we headed off to our neighborhood garden center to purchase some milkweed. Milkweed is the dinner of choice for caterpillars, so what better way to try to lure some into our yard than by planting some milkweed! 
 
+I walked my son through the steps of planting the milkweed. First, we dug a hole in the ground. 
 ![Milkweed]({{ site.github.url }}/assets/img/caterpillar-shovel.jpg)
+Next, we added some water. 
 ![Milkweed2]({{ site.github.url }}/assets/img/caterpillar-water.jpg)
+Then, we added fresh soil. 
 ![Milkweed3]({{ site.github.url }}/assets/img/caterpillar-milkweed.jpg)
-I walked my son through the steps of planting the milkweed. First, we dug a hole in the ground. Next, we added some water. Then, we added fresh soil. Finally, we planted the milkweed and filled the dirt in around our new plant. It was so much fun!
+Finally, we planted the milkweed and filled the dirt in around our new plant. It was so much fun!
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
