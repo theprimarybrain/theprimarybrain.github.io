@@ -12,9 +12,10 @@ image:
 ---
 Springtime is one of my favorite times of the year with my little ones. There are so many fun outdoor science themed activities we can do! This week was all about caterpillars. My son is 3 1/2 and loved learning this week! 
 
-![CaterpillarBook]({{ site.github.url }}/assets/img/caterpillar-coloring.jpg)
 ![CaterpillarTracing]({{ site.github.url }}/assets/img/caterpillar-my-phonics-workbook-tracing.jpg)
-We started our week by coloring a picture in [_My Phonics Workbook_](https://amzn.to/2DTwFlP) about caterpillars. We talked about the letter C and the sound it makes. Since my son is 3, I used hand over hand writing movements to teach him how to trace the letter C. Then, we colored the caterpillar using colorful colors. This workbook is geared for 4 to 6 year old children, but the first few activities are easy enough for 3 year olds. It was the perfect way to introduce caterpillars and all the fun we were going to have this week!
+We started our week by coloring a picture in [_My Phonics Workbook_](https://amzn.to/2DTwFlP) about caterpillars. We talked about the letter C and the sound it makes. Since my son is 3, I used hand over hand writing movements to teach him how to trace the letter C. 
+![CaterpillarBook]({{ site.github.url }}/assets/img/caterpillar-coloring.jpg)
+Then, we colored the caterpillar using colorful colors. This workbook is geared for 4 to 6 year old children, but the first few activities are easy enough for 3 year olds. It was the perfect way to introduce caterpillars and all the fun we were going to have this week!
 
 After coloring our caterpillar, we headed off to our neighborhood garden center to purchase some milkweed. Milkweed is the dinner of choice for caterpillars, so what better way to try to lure some into our yard than by planting some milkweed! 
 
