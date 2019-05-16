@@ -27,6 +27,11 @@ Then, we added fresh soil.
 ![Milkweed3]({{ site.github.url }}/assets/img/caterpillar-milkweed.jpg)
 Finally, we planted the milkweed and filled the dirt in around our new plant. It was so much fun!
 
+![Binoculars]({{ site.github.url }}/assets/img/caterpillar-binoculars.jpg)
+When we finished planting, we used our [Kwikstix Paints](https://amzn.to/2w0FVQr) to make some "binoculars" to use while we hunted for our caterpillar friends. We didn't find any caterpillars...YET... but we found some snails and had fun trying!
+
+It was such a fun day!
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "true";
@@ -40,11 +45,6 @@ amzn_assoc_linkid = "7d4a045dbe714fd0e2bbb3bb09a1a397";
 amzn_assoc_asins = "1641524413,B013HO4OR0,B00CI6J3HA,B003HGGPLW";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-![Binoculars]({{ site.github.url }}/assets/img/caterpillar-binoculars.jpg)
-When we finished planting, we used our [Kwikstix Paints](https://amzn.to/2w0FVQr) to make some "binoculars" to use while we hunted for our caterpillar friends. We didn't find any caterpillars...YET... but we found some snails and had fun trying!
-
-It was such a fun day!
 
 If you haven't already, make sure to [click here to pre-order _My Phonics Workbook_ today!](https://amzn.to/2DTwFlP)
 
