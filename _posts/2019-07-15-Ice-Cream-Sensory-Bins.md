@@ -20,7 +20,7 @@ For the next few activities, I filled a dish with rainbow sprinkles. My son love
 ## Ice Cream Letter Sort Sensory Bin
 ![Ice Cream Letter Sort]({{ site.github.url }}/assets/img/ice-cream-sensory-bin-cone-sort.jpg)
 
-To work on the uppercase and lowercase letter I, I put together an ice cream cone letter sort. I filled a dish with rainbow sprinkles, laminated paper cones, and ice cream scoops. Then, we sorted the cones and scoops from the sensory bin onto the sensory bin mat. It was great practice for my 3 year old to differentiate the uppercase and lowercase letter I.
+To work on the uppercase and lowercase letter I, I put together an ice cream cone letter sort. I filled a dish with rainbow sprinkles, laminated paper cones, and ice cream scoops. Then, we sorted the cones and scoops from the sensory bin onto the sensory bin mat. It was great practice for my 3 year old to differentiate uppercase and lowercase letter I.
 
 ## Ice Cream Number Sort Sensory Bin
 ![Ice Cream Number Sort]({{ site.github.url }}/assets/img/ice-cream-sensory-bin-numbers-sort.jpg)
