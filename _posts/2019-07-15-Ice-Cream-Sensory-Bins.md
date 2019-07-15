@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Since it is national ice cream day later this week, I thought it was the perfect time to share my ice cream themed sensory bins with you all! We have been having a great summer playing and enjoying life and these have been some of our favorite sensory bins. We worked on the letter I, counting and sorting numbers to 3, and some good ole' fashioned play time! Here are my top 5 favorite bins!
+Since it is national ice cream day later this week, I thought it was the perfect time to share my ice cream themed sensory bins with you all! We have been having a great summer playing and enjoying life and these have been some of our favorite sensory bins. We worked on the letter I, counting and sorting numbers to 3, and some good ole' fashioned play time! Here are my top 5 favorite bins from my [Ice Cream Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Ice-Cream-Themed-Lessons-4635846?utm_source=My%20Blog&utm_campaign=Ice%20Cream%20Sensory%20Bins%20Blog%20Post).
 
 ## Ice Cream Sprinkles Play
 ![Ice Cream Sprinkles Play]({{ site.github.url }}/assets/img/ice-cream-sensory-bin-sprinkles-play.jpg)
