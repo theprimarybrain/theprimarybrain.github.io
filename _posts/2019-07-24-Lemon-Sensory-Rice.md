@@ -19,7 +19,7 @@ If you love homemade sensory bins, then I have a treat for you! I made no cook l
 - 15 drops of yellow food coloring
 
 ### Directions
-Add white rice to a zip-top bag. In a seperate dish, combine lemon extract and food coloring. Then, add the liquids to the zip-top bag. Shake and squeeze the bag until combined. This way my son's favorite part to help with! You will know you are finished shaking when the rice is yellow in color. Once combined, lay all the rice on a sheet pan and leave uncovered on the counter for 12 hours to dry. It's the perfect after dinner activity to keep your little ones busy until bed time!
+Add white rice to a zip-top bag. In a separate dish, combine lemon extract and food coloring. Then, add the liquids to the zip-top bag. Shake and squeeze the bag until combined. This way my son's favorite part to help with! You will know you are finished shaking when the rice is yellow in color. Once combined, lay all the rice on a sheet pan and leave uncovered on the counter for 12 hours to dry. It's the perfect after dinner activity to keep your little ones busy until bed time!
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
