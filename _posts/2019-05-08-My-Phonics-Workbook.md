@@ -2,7 +2,7 @@
 layout: post
 title: My Phonics Workbook
 author: Laurin Brainard
-categories: [My Book]
+categories: [My Books]
 tags: [phonics,book]
 image:
   feature: my-phonics-workbook-blog-feature.jpg
