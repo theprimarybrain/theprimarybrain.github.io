@@ -35,7 +35,7 @@ amzn_assoc_asins = "B006K3RKEU,B07F2TFN7R,B00U5FNLQA,B003UEGZNE";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-![SensoryBin]({{ site.github.url }}/assets/img/lemon-sensory-bin-play.jpg)
+![SensoryBin]({{ site.github.url }}/assets/img/watermelon-sensory-bin.jpg)
 
 Now that you made sensory rice, you can do so many things with it! My son loves to "cook" with measuring cups, spoons, and small dishes. You can also [click here](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Watermelon-Themed-Lessons-4762010?utm_source=TPB%20Blog&utm_campaign=20190820%20Watermelon%20Sensory%20Bins) to grab my sensory bin printables in my Watermelon Themed Toddler School Unit.
 
