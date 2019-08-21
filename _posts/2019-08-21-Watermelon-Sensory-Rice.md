@@ -5,7 +5,7 @@ author: Laurin Brainard
 categories: [Toddler]
 tags: [sensory bin, toddler]
 image:
-  feature: watermelon-sensory-rice-feature.jpg
+  feature: watermelon-sensory-rice-feature2.jpg
   teaser: watermelon-sensory-rice-teaser3.jpg
   credit: Laurin Brainard
   creditlink: ""
