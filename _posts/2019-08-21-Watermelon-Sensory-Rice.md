@@ -10,13 +10,14 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Sensory bins are still all the rage in our house! Since we homeschool for preschool, we pick a theme each week and my son and I have so much fun learning all about our weekly theme. This past week was all about watermelon! Each day I put together a different sensory bin so we can learn about letters, numbers, shapes, and colors. This week, I threw together some watermelon sensory rice to use as our sensory bin filler. The best part is, all you do is mix it together in a zip-top bag and then lay out to dry. Easy peasy! 
+Sensory bins are still all the rage in our house! Since we homeschool for preschool, we pick a theme each week and my son and I have so much fun learning all about our weekly theme. This past week was all about watermelon! Each day I put together a different sensory bin so we could learn about letters, numbers, shapes, and colors. This week, I threw together some watermelon sensory rice to use as our sensory bin filler. The best part is, all you do is mix it together in a zip-top bag and then lay out to dry. Easy peasy! 
 
 ![Sheet-Pans]({{ site.github.url }}/assets/img/watermelon-sensory-rice-trays.jpg) 
 ### Ingredients:
 - 2 pounds white rice (we use [Mahatma Organic White Rice](https://amzn.to/2KNZWSN) because it is inexpensive)
 - 1.5 tbsp. watermelon extract ([click here to buy on Amazon](https://amzn.to/31UQMJU))
 - 15 drops of red food coloring ([click here to buy on Amazon](https://amzn.to/2zfmll6))
+- dried black beans
 
 ### Directions
 Add white rice to a zip-top bag. We use [Ziploc Gallon Freezer Bags](https://amzn.to/31XpoL1) because they have never broken and I don't have to double bag! In a small bowl, combine watermelon extract and food coloring. This helps dispurse the food coloring more evenly when added to the rice. Then, add the liquids to the zip-top bag. Shake and squeeze the bag until combined. This way my son's favorite part to help with! You will know you are finished shaking when the rice is dark pink in color. Once combined, lay all the rice on a sheet pan and leave uncovered on the counter for 8-12 hours to dry. Add a few dry black beans to the rice to represent watermelon seeds. 
