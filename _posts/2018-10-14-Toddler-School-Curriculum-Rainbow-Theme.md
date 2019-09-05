@@ -71,6 +71,8 @@ amzn_assoc_asins = "B00004W3Y4,B00JM5GW10,B00004UBH2,B0164DFK6A,B00AHAJGXK,B003G
 
 Be sure to check out my [Toddler School Curriculum - Rainbow Themed Lessons](http://bit.ly/ToddlerRainbow) in my Teachers Pay Teachers shop for all the printables, recipes, lesson plans, and instructions you will need to complete a full week of learning about the colros in the rainbow. I hope you have the best time learning and growing with your child! 
 
+<script async data-uid="f4e1e15ec0" src="https://theprimarybrain.com.ck.page/f4e1e15ec0/index.js"></script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
