@@ -49,6 +49,8 @@ In this center, students use pieces of yarn to spell their spelling words. This 
 
 You can grab my [**Fry word spelling bundle**](http://bit.ly/2k1Ulgd) to save big on my spelling word lists, center activies, spelling homework, and more! I hope these activities will help you introduce your spelling words each week in a fun new way! 
 
+<script async data-uid="06a461b31b" src="https://theprimarybrain.ck.page/06a461b31b/index.js"></script>
+
 [Click here to save this post](https://pin.it/V3K9PB-) to your favorite Pinterest board!
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)

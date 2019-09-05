@@ -27,4 +27,6 @@ I always put up a writing wall to showcase monthly student writing. This year, m
    ![Classroom Large Shot 1]({{ site.github.url }}/assets/img/tour-full-one.jpg)
 I hope you enjoyed a peek inside my home away from home. My superhero themed resources are available in my [**Superhero Decor Pack**](http://bit.ly/2frX8dh) in my TpT store. [Click here to save this post](https://pin.it/ktBB22Y) to your favorite Pinterest board!
 
+<script async data-uid="06a461b31b" src="https://theprimarybrain.ck.page/06a461b31b/index.js"></script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
