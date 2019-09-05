@@ -55,23 +55,9 @@ Your child will also work on color mixing sensory activities this week! Combine 
 ![Color Maze]({{ site.github.url }}/assets/img/toddler-gross-motor-maze.jpg)
 Two of our favorite activities from this unit were the color hop and color maze! To set up the color hop, draw colored circles and have your child hop from one to the next. Each time your child lands on a color, ask your child the name of the color. To set up the color maze, draw colored lines that intercept. To complete the maze, have your child follow each colored line from beginning to end. Don't forget to model the activities for your child. Playing with your child will make these activities so much more fun!
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Rainbow Unit Materials";
-amzn_assoc_linkid = "07824aae7780875b01ee29fa656f51cf";
-amzn_assoc_asins = "B00004W3Y4,B00JM5GW10,B00004UBH2,B0164DFK6A,B00AHAJGXK,B003GVGZTU,B00FFJ1NKC,B007RL3YZS";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 Be sure to check out my [Toddler School Curriculum - Rainbow Themed Lessons](http://bit.ly/ToddlerRainbow) in my Teachers Pay Teachers shop for all the printables, recipes, lesson plans, and instructions you will need to complete a full week of learning about the colros in the rainbow. I hope you have the best time learning and growing with your child! 
 
-<script async data-uid="f4e1e15ec0" src="https://theprimarybrain.com.ck.page/f4e1e15ec0/index.js"></script>
+<script async data-uid="979cc2dfad" src="https://theprimarybrain.ck.page/979cc2dfad/index.js"></script>
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
