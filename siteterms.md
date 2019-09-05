@@ -18,4 +18,4 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 
 ### PRIVACY POLICY
 
-We do not store information we collect about your visit to this blog for use other than to analyze content performance. We are not responsible for the republishing of the content found on this blog on other web sites or media without our permission. To use social media plugins, we may collect your email address, public profile, and friend lists. 
+We do not store information we collect about your visit to this blog for use other than to analyze content performance. We are not responsible for the republishing of the content found on this blog on other web sites or media without our permission. To use social media plugins, we may collect your email address, public profile, and friend lists. When you subscribe to our mailing list, we collect your name and email address. We always keep this information private. 
