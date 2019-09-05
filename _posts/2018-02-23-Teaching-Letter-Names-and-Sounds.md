@@ -35,7 +35,7 @@ I was gifted a set of cookie cutters as a wedding gift many years ago. I love ba
 ![Colors]({{ site.github.url }}/assets/img/toddler-playdoh-containers.jpg)
 Not only were we able to work on letter names while playing with [Play-doh](https://amzn.to/2ZLWxbn), but we also worked on colors! My son LOVES to say the name of each of these colors. Since he can identify ten common colors, we are now beginning to work on variations such as _tan_, rather than _brown_. 
 
-I hope this post has given you a few new ideas to work on letter names and letter sounds in your classroom or at home with your own children. 
+I hope this post has given you a few new ideas to work on letter names and letter sounds in your classroom or at home with your own children. Fill out the form below so I can send you a FREE copy of my magnetic letter practice pages!
 
 <script async data-uid="f4e1e15ec0" src="https://fierce-builder-5723.ck.page/f4e1e15ec0/index.js"></script>
 
