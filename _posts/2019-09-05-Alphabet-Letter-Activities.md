@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter Name and Sound Intervention
+title: Letter Name and Sound Identification
 author: Laurin Brainard
 categories: [Literacy Activities]
 tags: [alphabet, letters]
