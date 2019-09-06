@@ -31,6 +31,7 @@ Dot markers are ALL THE RAGE in my classroom. For students who need support with
 
 ### Targetted Letter Intervention
 ![Letter-Worksheet]({{ site.github.url }}/assets/img/letters-alphabet-worksheet.jpg)
+
 If there is a specific letter that a student cannot identify, then I give a single [Alphabet Letter Worksheet](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Worksheets-4220898?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Intervention) to practice the letter. Each worksheet has the student color and trace the letter, fill in the bubble for each letter, and identify beginning sounds for the letter. This activity not only works on the letter name, but it also gives an introduction to the letter sound. 
 
 I hope these letter name and sound activities have given you a few new ideas to try with your own students! All of the games and worksheets used in this post are listed below for your convenience: 
