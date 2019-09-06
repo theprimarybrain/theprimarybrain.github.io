@@ -12,7 +12,7 @@ image:
 ---
 Teaching letters and sounds to children is one of my absolute favorite things to do! There is no better feeling than the moment when a child can identify all letter names and letter sounds. This shows the student is prepared to blend sounds and learn to read! 
 
-I always have a handful of students in my first grade classroom who need extra intervention support with letter name and sound identification. Here are five of my favorite ways to work on letter names and sounds during a small group rotation. 
+I always have a handful of students in my first grade classroom who need extra intervention support with letter name and sound identification. Here are a few of my favorite ways to work on letter names and sounds during a small group rotation. 
 
 ### Shaving Cream Letters
 ![alphabet-flash-cards]({{ site.github.url }}/assets/img/letter-alphabet-flash-cards.jpg)
