@@ -23,7 +23,7 @@ First, show the flash card and ask students to say the name of the letter. Secon
 
 ### Roll and Read Letters
 ![roll-read-letters]({{ site.github.url }}/assets/img/letter-roll-and-read-game.jpg)
-Roll and read activities are excellent for working with a partner. I love to break these games out during literacy centers, small group rotations, or as a Fun Friday activity. To play the game, all you need to do is print out the [Roll and Read Letter Names and Sounds](https://www.teacherspayteachers.com/Product/Roll-and-Read-Letter-Names-and-Sounds-Activity-3091774?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification) page and place in a sheet protector or laminate (you will thank me later). One student rolls the die and reads a word in the column that matches the number rolled. After reading, the student places a counter on the word. Then, the second player takes a turn. Keep rolling until all of the words are covered with your favorite counters. We usually use mini erasers for this so I can add in some seasonal fun to the activity. 
+Roll and read activities are excellent for working with a partner. I love to break these games out during literacy centers, small group rotations, or as a Fun Friday activity. To play the game, all you need to do is print out a [Roll and Read Letter Names and Sounds](https://www.teacherspayteachers.com/Product/Roll-and-Read-Letter-Names-and-Sounds-Activity-3091774?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification) page and place in a sheet protector or laminate (you will thank me later). One student rolls the die and says the letter name or sound in the column that matches the number rolled. After reading, the student places a counter on the letter. Then, the second player takes a turn. Keep rolling until all of the letters are covered with your favorite counters. We usually use mini erasers for this so I can add in some seasonal fun to the activity. 
 
 ### Uppercase and Lowercase Letter Differentiation
 ![dot-marker]({{ site.github.url }}/assets/img/dot-marker-uppercase-lowercase-worksheet-staged.jpg)
@@ -35,7 +35,9 @@ If there is a specific letter that a student cannot identify, then I give a sing
 
 I hope these letter name and sound activities have given you a few new ideas to try with your own students! All of the games and worksheets used in this post are listed below for your convenience: 
 
-[Alphabet Flash Cards](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Flash-Cards-4360287?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)
+<p align="center">
+<b>[Alphabet Flash Cards](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Flash-Cards-4360287?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)</b><br>
+</p>
 
 [Roll and Read Letter Names and Sounds](https://www.teacherspayteachers.com/Product/Roll-and-Read-Letter-Names-and-Sounds-Activity-3091774?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)
 
