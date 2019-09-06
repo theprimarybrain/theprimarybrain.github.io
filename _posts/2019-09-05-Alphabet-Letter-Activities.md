@@ -12,13 +12,13 @@ image:
 ---
 Teaching letters and sounds to children is one of my absolute favorite things to do! There is no better feeling than the moment when a child can identify all letter names and letter sounds. This shows the student is prepared to blend sounds and learn to read! 
 
-I always have a handful of students in my first grade classroom who need extra intervention support with letter name and sound identification. Here are a few of my favorite ways to work on letter names and sounds during a small group rotation. 
+I always have a handful of students in my first grade classroom who need extra intervention support with letter name and sound identification. Here are a few of my favorite ways to work on letter names and sounds in my first grade classroom.
 
 ### Shaving Cream Letters
 ![alphabet-flash-cards]({{ site.github.url }}/assets/img/letter-alphabet-flash-cards.jpg)
 Hands on activities are SO IMPORTANT in the classroom. Any time I break out a hands-on sensory material, my students are always SO ENGAGED. I start by spraying a little shaving cream on the table for each student. Make sure to review the expectations of how shaving cream is used in the classroom to avoid any unnecessary incidents. Then, you can use flash cards to review the alphabet. You can use my [Alphabet Flash Cards](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Flash-Cards-4360287?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification) that include a picture to assist students who need the extra support. 
 
-##*Here is how we use the shaving cream:*
+## *Here is how we use the shaving cream:*
 First, show the flash card and ask students to say the name of the letter. Second, say the sound together. Then, students finger write the letters in their shaving cream for letter writing practice. When first beginning this activity, you may choose to introduce each letter in alphabetical order, but once students have shown mastery of some letters, then mix up the cards to practice. 
 
 ### Roll and Read Letters
