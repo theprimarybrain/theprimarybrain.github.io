@@ -36,8 +36,8 @@ If there is a specific letter that a student cannot identify, then I give a sing
 I hope these letter name and sound activities have given you a few new ideas to try with your own students! All of the games and worksheets used in this post are listed below for your convenience: 
 
 <p align="center">
-<b>[Alphabet Flash Cards](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Flash-Cards-4360287?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)</b><br>
-</p>
+
+[Alphabet Flash Cards](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Flash-Cards-4360287?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)
 
 [Roll and Read Letter Names and Sounds](https://www.teacherspayteachers.com/Product/Roll-and-Read-Letter-Names-and-Sounds-Activity-3091774?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)
 
@@ -45,6 +45,7 @@ I hope these letter name and sound activities have given you a few new ideas to 
 
 [ABC Dot Color Worksheets](https://www.teacherspayteachers.com/Product/Dot-Marker-Uppercase-and-Lowercase-Letter-Worksheets-3829464?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)
 
+</p>
 <script async data-uid="979cc2dfad" src="https://theprimarybrain.ck.page/979cc2dfad/index.js"></script>
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
