@@ -3,7 +3,7 @@ layout: post
 title: Letter Name and Sound Identification
 author: Laurin Brainard
 categories: [Literacy Activities]
-tags: [alphabet, letters]
+tags: [alphabet, ELD, letters]
 image:
   feature: dot-marker-uppercase-lowercase-worksheet.jpg
   teaser: letter-roll-and-read-game-teaser.jpg
