@@ -44,7 +44,13 @@ I hope these letter name and sound activities have given you a few new ideas to 
 
 [ABC Dot Color Worksheets](https://www.teacherspayteachers.com/Product/Dot-Marker-Uppercase-and-Lowercase-Letter-Worksheets-3829464?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)
 
-<script async data-uid="979cc2dfad" src="https://theprimarybrain.ck.page/979cc2dfad/index.js"></script>
+<div id="fd-form-5d77ec17afdf3e000f968569"></div>
+<script>
+  window.fd('form', {
+    formId: '5d77ec17afdf3e000f968569',
+    containerEl: document.querySelector('#fd-form-5d77ec17afdf3e000f968569')
+  });
+</script>
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
