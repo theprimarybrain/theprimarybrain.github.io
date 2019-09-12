@@ -3,7 +3,7 @@ layout: post
 title: My Bat Cave Classroom Transformation
 author: Laurin Brainard
 categories: [Classroom Decor]
-tags: [decor,halloween]
+tags: [halloween,transformation]
 image:
   feature: bat-cave-classroom.jpg
   teaser: bat-cave-classroom-teaser.jpg
