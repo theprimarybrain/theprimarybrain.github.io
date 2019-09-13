@@ -29,7 +29,7 @@ Roll and read activities are excellent for working with a partner. I love to bre
 ![dot-marker]({{ site.github.url }}/assets/img/dot-marker-uppercase-lowercase-worksheet-staged.jpg)
 Dot markers are ALL THE RAGE in my classroom. For students who need support with identifying the difference between uppercase and lowercase letters, I give them this [ABC Dot Color Uppercase and Lowercase Letter Worksheet](https://www.teacherspayteachers.com/Product/ABC-Dot-Color-Uppercase-and-Lowercase-Letter-Worksheets-3829464?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Intervention%20Blog%20Post) and two different colored dot markers. For each uppercase letter, students dot in one color. For each lowercase letter, students dot in a second color. 
 
-### Targetted Letter Intervention
+### Targeted Letter Intervention
 ![Letter-Worksheet]({{ site.github.url }}/assets/img/letters-alphabet-worksheet.jpg)
 
 If there is a specific letter that a student cannot identify, then I give a single [Alphabet Letter Worksheet](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Worksheets-4220898?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Intervention) to practice the letter. Each worksheet has the student color and trace the letter, fill in the bubble for each letter, and identify beginning sounds for the letter. This activity not only works on the letter name, but it also gives an introduction to the letter sound. 
