@@ -31,4 +31,12 @@ The final piece of the lapbook is to share a story about a time when each studen
 
 I hope you are feeling motivated to teach self-control to your students. You can grab my [Self-Control Character Education Lapbook](http://bit.ly/2uwy8sB) in my TpT store! 
 
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
