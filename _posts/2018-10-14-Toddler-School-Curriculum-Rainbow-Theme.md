@@ -57,7 +57,13 @@ Two of our favorite activities from this unit were the color hop and color maze!
 
 Be sure to check out my [Toddler School Curriculum - Rainbow Themed Lessons](http://bit.ly/ToddlerRainbow) in my Teachers Pay Teachers shop for all the printables, recipes, lesson plans, and instructions you will need to complete a full week of learning about the colros in the rainbow. I hope you have the best time learning and growing with your child! 
 
-<script async data-uid="979cc2dfad" src="https://theprimarybrain.ck.page/979cc2dfad/index.js"></script>
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 

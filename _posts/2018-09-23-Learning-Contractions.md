@@ -17,6 +17,18 @@ After reading the story, we set up our [Contraction Flap Books](http://bit.ly/2x
 ![Contractions Puzzles]({{ site.github.url }}/assets/img/contraction-puzzles.jpg)
 To further learning, I love to put out my [Contractions Puzzles](http://bit.ly/2Q0dJoT) into a literacy center for my students to work on through the week. It makes a great center since it is hands-on and my students can work together to complete the activity. 
 
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
+
+![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+
+This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
@@ -30,7 +42,3 @@ amzn_assoc_linkid = "45683eaf7469cda7d5bcb3357db77d41";
 amzn_assoc_asins = "B00BUI5QWS,B00BWU3HNY,B000FNHS7U,B002YIP97K";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

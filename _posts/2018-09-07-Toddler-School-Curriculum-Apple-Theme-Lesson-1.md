@@ -100,7 +100,13 @@ The most exciting part of our day was eating our fun apple snacks! We enjoyed ap
 
 I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Toddler School Curriculum - Apple Themed Lessons](http://bit.ly/toddlerapple) on Teachers Pay Teachers! Have fun learning and growing with your little ones! 
 
-<script async data-uid="979cc2dfad" src="https://theprimarybrain.ck.page/979cc2dfad/index.js"></script>
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 

@@ -26,6 +26,14 @@ I love reading this narrative writing piece to see if my students truly understa
 
 Be sure to grab my [Honesty Lapbook](http://bit.ly/honestylapbook) from my TpT store!
 
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
