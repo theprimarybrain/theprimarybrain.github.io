@@ -56,7 +56,15 @@ When we finished planting, we used our [Kwikstix Paints](https://amzn.to/2w0FVQr
 
 It was such a fun day!
 
-If you haven't already, make sure to [click here to pre-order _My Phonics Workbook_ today!](https://amzn.to/2DTwFlP)
+If you haven't already, make sure to [click here to order _My Phonics Workbook_ today!](https://amzn.to/2DTwFlP)
+
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 

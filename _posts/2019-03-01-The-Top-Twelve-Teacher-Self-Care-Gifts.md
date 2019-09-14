@@ -53,6 +53,14 @@ amzn_assoc_asins = "B01CYDXMSW,B01BLUR2WG,B005PO9T44,B001UP2ULQ,B077NZ1R8J,B00GZ
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 I hope you enjoyed reading about some of my favorite self-care items. All of these items are sure to help teachers take care of their emotional and physical well being. I hope you find the perfect gift for that special teacher in your life! 
 
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. I was not paid to sponsor any of these products. As always, I only recommend products that I love and all ideas shared are my own. 

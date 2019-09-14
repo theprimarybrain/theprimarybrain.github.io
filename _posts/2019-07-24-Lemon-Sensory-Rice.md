@@ -41,6 +41,14 @@ You might be thinking "I made the sensory rice, now what do I do with it?" The s
 
 You could also add magnetic letters, numbers, puzzle pieces, or any other learning tool you have on hand. I hope you have fun playing and learning with your little ones!
 
+<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
+<script>
+  window.fd('form', {
+    formId: '5d7bbeaa1093300012a8c6ae',
+    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
+  });
+</script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

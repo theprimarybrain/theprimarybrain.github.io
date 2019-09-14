@@ -26,6 +26,7 @@ If you haven't already, make sure to [click here to pre-order _My Sight Words Wo
     containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
   });
 </script>
+
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
 
 This post may contain Amazon affiliate links. As an Amazon associate, I earn from qualifying purchases. This helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 
