@@ -41,5 +41,3 @@ These activities are perfect for math centers, rainy days, or early finishers si
 [Roll and Solve Subtraction Within 100](http://bit.ly/2xsIrTs)
 
 Save big by buying the BUNDLE! [Roll and Solve Addition and Subtraction BUNDLE](http://bit.ly/2JcvT7i)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

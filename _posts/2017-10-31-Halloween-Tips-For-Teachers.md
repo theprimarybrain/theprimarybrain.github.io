@@ -32,5 +32,3 @@ Halloween is supposed to be a fun day. If your school is like mine, then student
 
 I hope these tips help you make the most of your Halloween with your littles!
 
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-

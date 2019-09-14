@@ -40,5 +40,3 @@ I hope this post has left you with a few ideas to implement in your own classroo
 [Spelling Centers for Any Word List](http://bit.ly/2F5RE2k)
 
 [Spelling Homework for Any Word List](http://bit.ly/2qQ7WIk)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

@@ -21,5 +21,3 @@ To create the buildings, I began by cutting out rectangular strips of black cons
 You can [download my flying superheros here](https://drive.google.com/file/d/0B9b7ezL_kHNVME55dkZzSTFoR28/view?usp=sharing) to create your own superhero data wall in your classroom. Enjoy!
 
 [Click here to save this post to read later](https://pin.it/mDmbQX9) on your favorite Pinterest board!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

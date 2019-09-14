@@ -19,5 +19,3 @@ We filled the inside of each jar with sweet notes that can be read anytime they 
 [Click here to download this freebie!](https://drive.google.com/file/d/177QmI-7DhZe4f3N7uPohlTLE9elhKkxJ/view?usp=sharing)
 
 [Click here to save this post to your favorite Pinterest board!](https://pin.it/5zhnusspdrdjxc)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

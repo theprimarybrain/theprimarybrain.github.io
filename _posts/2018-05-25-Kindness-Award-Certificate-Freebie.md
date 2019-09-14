@@ -19,6 +19,3 @@ On each certificate, my students are reminded that they were caught being kind! 
 You can [click here to download this Kindness Certicate Freebie](http://bit.ly/2GR00Me) from my TpT store! Also, be sure to <a target="_blank" href="https://www.amazon.com/gp/product/B01GUUARV0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GUUARV0&linkCode=as2&tag=theprimarybra-20&linkId=0496550f2fe06692e601f8be22105542">click here to grab my favorite pack of Astrobrights paper</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B01GUUARV0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> on Amazon to create a gorgeous certificate!
 
 [Click here to save this post to your favorite Pinterest board!](https://pin.it/7cknz2xjzo7jkh)
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

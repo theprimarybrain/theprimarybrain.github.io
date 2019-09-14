@@ -31,7 +31,3 @@ One of my favorite pages to read is this future writing page. Students write abo
 To conclude their memory book, I love to include a special letter to each student as the final page. Now that my students are reading at a first grade level, I can write a sweet note that they can independently read. 
 
 You can grab this [End of the School Year Memory Book](http://bit.ly/2x7rnSt) in my TpT store. I hope you have a blast reminiscing about your school year with your students!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

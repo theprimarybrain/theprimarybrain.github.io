@@ -35,13 +35,3 @@ Holding raffles does not need to hurt your wallet! Some of my favorite incentive
 - Treasure chest prizes
 
 I included a color version and a blackline version as a FREEBIE for you! [Click here to grab this raffle ticket freebie from my TpT store](http://bit.ly/2zMQsn4)!
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

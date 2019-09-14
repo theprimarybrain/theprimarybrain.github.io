@@ -27,5 +27,3 @@ The best teaching resources can be used for multiple purposes. These cards do ju
 [Click here to grab your Halloween Memory Match FREEBIE](http://bit.ly/2yD7NMG)! You can check out all of my other [memory matching games in my TpT Store](http://bit.ly/2hT1Phb).
 
 [Click here to pin this freebie](https://pin.it/_zEoqqP) to your favorite Pinterest board!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

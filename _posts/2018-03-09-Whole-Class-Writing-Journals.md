@@ -22,5 +22,3 @@ I have assembled the journals a couple different ways. The first year, I found 5
 If you would like to try these journals with your class, then [click here to view the resource in my TpT store](http://bit.ly/2IeyOsM). I hope your students love these journals and become strong writers as the school year goes on!
 
 [Click here to pin this post to your favorite Pinterest board!](https://pin.it/wklsire2pklyjg)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

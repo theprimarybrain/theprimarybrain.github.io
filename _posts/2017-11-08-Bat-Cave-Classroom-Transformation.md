@@ -47,5 +47,3 @@ I gathered up all the flashlights I could find in my home and put one on each ta
 Transforming my classroom was worth every bit of time and effort it took to pull it off. It was one of those days that I hope my students will remember for the rest of their lives. I can't wait to do it again next year!
 
 [Click here to pin this post](https://pin.it/2o21rX4) to save for later!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

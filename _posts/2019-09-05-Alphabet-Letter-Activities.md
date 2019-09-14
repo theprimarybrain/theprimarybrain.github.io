@@ -43,15 +43,3 @@ I hope these letter name and sound activities have given you a few new ideas to 
 [Alphabet Letter Worksheets](https://www.teacherspayteachers.com/Product/Alphabet-Letter-Worksheets-4220898?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Intervention)
 
 [ABC Dot Color Worksheets](https://www.teacherspayteachers.com/Product/Dot-Marker-Uppercase-and-Lowercase-Letter-Worksheets-3829464?utm_source=My%20Blog&utm_campaign=Letter%20Name%20and%20Sound%20Identification)
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own.  

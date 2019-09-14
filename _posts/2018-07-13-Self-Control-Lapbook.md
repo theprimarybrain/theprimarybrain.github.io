@@ -30,13 +30,3 @@ Dealing with emotions and having self-control go hand-in-hand. So many of our em
 The final piece of the lapbook is to share a story about a time when each student needed to show self-control. This is a very personal narrative story that encourages my students to think about how they could have handled a situation where self-control was needed differently. I love to have students read their stories aloud to the class so we can all learn about additional ways we can show self-control. 
 
 I hope you are feeling motivated to teach self-control to your students. You can grab my [Self-Control Character Education Lapbook](http://bit.ly/2uwy8sB) in my TpT store! 
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

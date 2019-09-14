@@ -20,5 +20,3 @@ The sky really is the limit when it comes to how you implement reflection prompt
 4. *Early Finisher Activity:* Typically we don't have time in our month to complete all 20 reflection prompt cards. So, I love to have about 3 cards in my early finisher bin each month so that students can write a response if they finish an activity early. 
 
 If you want an easy and fun way to get to know your students better, then be sure to click here to grab my [Back to School Reflection Prompt Cards](http://bit.ly/2K7nH8H) from my TpT store. You can also grab my year-long [Reflection Prompt Card BUNDLE](http://bit.ly/2Fmbpmj) to keep your students reflecting all year long!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

@@ -31,7 +31,3 @@ Before starting this activity, make sure to have a great set of markers for your
 [You can grab my student portfolio cover page and writing page FREEBIE by clicking here!](https://drive.google.com/file/d/1x1OLBsgJ7-QJUpWAg7WX3bhxzplyebes/view?usp=sharing) It is available in Kindergarten through 6th Grade versions. I hope your student portfolios are the perfect touch for Open House this year!
 
 [Click here to save to your favorite Pinterest board!](https://pin.it/5koucjctgzsufu)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

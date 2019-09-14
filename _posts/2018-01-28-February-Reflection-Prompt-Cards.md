@@ -17,5 +17,3 @@ February is such a special time of year for students as we celebrate Valentine's
 Although Valentine's Day is a big part of February for my students, there is so much more we discuss in February. [February's Reflection Prompt Cards](http://bit.ly/febpromptcards) are full of really great critical thinking prompts such as what we would do if **all** the money in the world ran out. I can't wait to hear what my students come up with! We will also be discussing what it means to have good manners, who our role models are, and what it means to trust someone. 
 
 I hope you have some really great conversations with your students this month! [Click here to grab my February Reflection Prompt Cards](http://bit.ly/febpromptcards) or you can grab the [year-long bundle](http://bit.ly/2Doc5b2)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

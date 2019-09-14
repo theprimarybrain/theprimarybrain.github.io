@@ -21,5 +21,3 @@ I have a special set of school supplies that I only use when working with small 
 One of my teacher friends recommended wrapping the materials with fancy tape. I grabbed some skinny rolls of duct tape and wrapped up *all the things*. It has been a miracle! We have now made it **TWO WHOLE WEEKS** without losing a single thing! This was by far the best $3 I have spent this school year!
 
 I would love to hear how this works for you in your classroom. [Click here to pin this post](https://www.pinterest.com/pin/447334175479443656/) to your teacher tips board to help you stay organized!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

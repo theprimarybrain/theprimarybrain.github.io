@@ -28,5 +28,3 @@ After the announcement was finally made, each of my students was able to choose 
 ![Hands]({{ site.github.url }}/assets/img/pregnancy-announcement-donut-hands.jpg)
 
 Today was such a special day with my class. I loved seeing the bond my class has formed as we celebrated this special moment in my life. It was so cute listening to all the fun things my students said as they guessed whether the baby will be a boy or girl. It also brought out a lot of fun stories about their own Mommies having babies. Such an exciting day I will always remember!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

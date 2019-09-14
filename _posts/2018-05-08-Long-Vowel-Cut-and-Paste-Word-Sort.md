@@ -14,5 +14,3 @@ This [Cut and Paste Long Vowel Activity](http://bit.ly/2HWai2Z) is just what my 
 This activity is great for my intervention groups since there are only two spelling patterns to focus on at a time. I also enjoy using this activity when I introduce new spelling patterns as a way to familiarize my students with how the pattern looks. My students also complete these activities during literacy center rotations while I work with small groups. 
 
 I hope your students love learning long vowel words as much as mine do! You can grab this [Cut and Paste Long Vowel Activity](http://bit.ly/2HWai2Z) in my TpT store! You can also grab this resource as part of my [Cut and Paste Word Sorts Bundle](http://bit.ly/2IoPHnp).
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

@@ -19,5 +19,3 @@ CVC words are one of my favorite concepts to teach and review at the beginning o
 In my [CVC Word Phonics NO PREP Worksheet Pack](http://bit.ly/2JF5EHn) I have various leveled worksheets for each student in my class. For my students who are still working on reading CVC words, I like to provide opportunities for learning such as word search worksheets, middle sound practice, and coloring words based on their vowel sounds. For students advancing to the next leavel in cvc word practice, I provide opportunities for word writing practice and identifying the picture that goes with the word. My strongest readers will view pictures and write the word below the picture. My students also love unscrambling words to find the mystery word! 
 
 I hope you are feeling inspired to find new approaches to teaching cvc words in your classroom. You can grab my [CVC Word Phonics NO PREP Worksheet Pack](http://bit.ly/2JF5EHn) in my TpT store!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

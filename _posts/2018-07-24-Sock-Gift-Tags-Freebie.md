@@ -16,13 +16,3 @@ I was shopping the Target dollar spot like all the other teachers this summer an
 ![Gift Tags]({{ site.github.url }}/assets/img/sock-gift-tags-gift-tags.jpg)
 
 I created these fun gift tags to go with the socks I found for my first grade team! You can [CLICK HERE](https://drive.google.com/file/d/1Fu3rSj7U_YXlYIjdDuh9-OqL03MdpEwA/view?usp=sharing) to download this gift tag freebie to share with your own grade level team. I hope you all have lots of fun shopping for back to school! 
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

@@ -27,5 +27,3 @@ Word problems are always one of the most difficult mathematics concepts that my 
 I hope these math worksheets give you some fun ideas to work on with your students through the month of March. [Click here to grab your St. Patrick's Day NO PREP Math Pack](http://bit.ly/stpattysdaymath). I hope you have a fun St. Patrick's Day week with your students! 
 
 [Click here to pin this post to your favorite Pinterest board.](https://pin.it/4sdwbjawvhaqen)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

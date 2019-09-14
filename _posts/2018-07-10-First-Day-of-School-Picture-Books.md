@@ -35,15 +35,3 @@ After lunch, I usually have a few students who start to miss their parents. We r
 To end our day together, each of my students writes a narrative piece about our first day in school together. I create a circle map on the whiteboard with ideas from our first day of school together. I always love to hear their favorite books! This worksheet is also available in my [First and Last Day of School Worksheet Pack](http://bit.ly/2KOOaJt).
 
 Send me a message on social media with your favorite picture books for the first day of school. I am always looking for new favorites!
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

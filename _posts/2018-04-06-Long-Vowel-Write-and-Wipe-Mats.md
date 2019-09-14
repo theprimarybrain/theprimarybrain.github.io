@@ -20,5 +20,3 @@ To complete this activity, all you need is a sheet protector, write and wipe mat
 It is so easy to pull these workmats out when I have extra time after a guided reading lesson or for those littles who just need some extra practice. I love using these workmats during small group workshop so that I can correct student work and make suggestions on ways to improve. These workmats also give me a quick glance at how students are progressing in their ability to write long vowel spelling patterns and complete sentences. These activity mats are also a student favorite during literacy centers! You can grab my [Long Vowel Write and Wipe Activity Mats](http://bit.ly/2IARwtJ) in my TpT store! You can also grab my [Write and Wipe Activity Mat BUNDLE](http://bit.ly/2IyVFOU) that is filled with CVC words, Blends and Digraphs, and Long Vowel Word Cards at a discounted price! 
 
 [Click here to save this post to your favorite Pinterest board](https://pin.it/4weczowfnj227u)!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

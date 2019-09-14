@@ -28,15 +28,3 @@ Teaching long vowels is one of my favorite concepts to teach in first grade! In 
 These [Cut and Paste Long Vowel Worksheets](http://bit.ly/2BKqjpZ) are perfect for literacy centers. Students cut out all the words and then place in the correct box. Before pasting, I like to have students partner up in their centers to check for accuracy. After pasting, students read the words several times to build word fluency for each spelling pattern. 
 
 I hope you are feeling inspired to try out some new long vowel reading activities! 
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

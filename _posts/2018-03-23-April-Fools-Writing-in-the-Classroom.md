@@ -23,5 +23,3 @@ Now comes the fun part! We write down answers to the 5 W's questions so I can ma
 ![Storyboard]({{ site.github.url }}/assets/img/april-fools-writing-storyboard.jpg)
 
 After my students complete their writing, they are able to complete a 6 box storyboard to tell the story of their joke through pictures. I love seeing the creativity that comes out of this! [Click here to grab my April Fools Day Writing Pack](http://bit.ly/2G20OlG) from my TpT store. I would love to see your student's jokes! Be sure to tag @theprimarybrain in your social media posts.
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

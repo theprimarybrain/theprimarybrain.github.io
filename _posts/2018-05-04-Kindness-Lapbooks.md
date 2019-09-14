@@ -30,5 +30,3 @@ My students need to be explicitly taught how to use kind words. I created this p
 On the back of the lapbook, students will write their own definition of kindness. They will also share a story about a time when they showed kindness. These are so fun to read! 
 
 I hope you are feeling inspired to go into your classroom and teach your students how to be kind to one another! [Click here to grab this Kindness Lapbook](http://bit.ly/2w1wNhg) from my TpT store!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

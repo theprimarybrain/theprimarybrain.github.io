@@ -40,15 +40,3 @@ amzn_assoc_asins = "B07F2TFN7R,B0092VRIFS,B000V8BJVU,B003UEGZNE";
 You might be thinking "I made the sensory rice, now what do I do with it?" The sky is the limit! The first day, I added the rice to a bin with measuring spoons, measuring cups, a plastic cup, and some spoons. My 3 year old played for over an hour! We also used the rice as filler for all of our [Lemon Themed Toddler School Activities](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Lemon-Themed-Lessons-50-off-Halfway-Sale-4616157?utm_source=My%20Blog&utm_campaign=Lemon%20Sensory%20Rice%20Toddler%20School%20Link). 
 
 You could also add magnetic letters, numbers, puzzle pieces, or any other learning tool you have on hand. I hope you have fun playing and learning with your little ones!
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

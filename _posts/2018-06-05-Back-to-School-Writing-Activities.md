@@ -39,7 +39,3 @@ Since we are just getting back to school this month, all of my vocabulary word c
 This pack also includes writing pages with graphic organizers and sentence frames for informational, opinion, and narrative writing genres. I use these writing pages during whole group writing instruction and small group writing intervention groups. 
 
 You can grab all of these activities in my [Back to School Writing Activity Pack](http://bit.ly/2Ji5cdZ). I hope these activities give you lots of inspiration for an easy start during the back to school season! 
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

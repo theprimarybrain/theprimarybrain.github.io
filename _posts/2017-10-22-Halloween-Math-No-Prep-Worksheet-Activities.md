@@ -37,5 +37,3 @@ This 120 fill in chart was great for homework since I was able to differentiate 
 All of these activities are included in my [Halloween Math NO PREP Worksheet Pack](http://bit.ly/2zGpLfT). I hope you enjoy this fun and crazy time of year with your students!
 
 [Click here to pin this post](https://pin.it/67VNkEu) to your favorite Pinterest board!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

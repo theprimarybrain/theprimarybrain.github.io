@@ -29,5 +29,3 @@ Click on the links below to grab my AR labels and bookmarks in my TpT store:
 [Superhero Editable AR Bookmarks](http://bit.ly/2FXurAf)
 
 [Click here to save this post for later](https://pin.it/w2d4xu4mwgpijv) to your favorite Pinterest board.
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

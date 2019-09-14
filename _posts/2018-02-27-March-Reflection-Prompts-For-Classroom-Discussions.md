@@ -17,5 +17,3 @@ As I created my March set of reflection prompt cards, I included several prompts
 Later this month, we will also be changing it up and discussing what it would be like to be a leprechaun for a day. My students are young and sweet and I want them to know they can have fun while learning! I hope this post has inspired you to hold some meaningful discussions with your class this next month. If you need a place to start, [click here to grab my March Reflection Prompts cards from my TpT store](http://bit.ly/marchreflectionprompts). You can also grab my year-long [Reflection Prompt Card BUNDLE](http://bit.ly/2KhGdbL) to keep your students reflecting all year long! Happy learning this March!
 
 [Click here to save this post to your favorite Pinterest board!](https://pin.it/gxqnukqxs2qo2j)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

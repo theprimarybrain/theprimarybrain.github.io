@@ -25,7 +25,3 @@ Students can either work with a partner or independently to put the picture card
 After sorting, students use their writing recording page to copy the sentences. This provides a visual for my struggling readers and writers to copy. This also gives me a quick glance at their capitalization, spacing, proper letter formation, and ending marks. You can grab my [**Halloween Sentence Sorting Cards here**.](https://www.teacherspayteachers.com/Product/Halloween-Scrambled-Sentences-Writing-Formation-Activity-3443900) You can also check out my [**Scrambled Sentences Writing Formation Activity**](http://bit.ly/2xzzjMr) for my rainbow colored scrambled sentence cards.
 
 If you are just stopping by, make sure to check out all of my other blog launch free giveaways. Thanks for stopping by my blog!
-
-[Click here to save this freebie](From my Dad: DJ is out of surgery and doing well. She's still out of it and restless, so please keep praying.) to your favorite Pinterest board.
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

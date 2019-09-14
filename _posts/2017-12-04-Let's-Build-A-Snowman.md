@@ -23,7 +23,3 @@ My students definitely struggled to find a way to get the snowman to stay standi
 I only allowed ten minutes to try to build their snowmen. By the end of the ten minutes, my entire classroom was filled with paper snowballs. It was so much fun!
 
 [Click here to save this post for later to your favorite Pinterest board!](https://pin.it/35nhdrfv6hhs66)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog.

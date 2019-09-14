@@ -15,5 +15,3 @@ Can you believe the school year is already almost over?!?! May always brings bea
 Since it is May, this means my students are preparing to exit my classroom in a few short weeks and head off into the summer. It is so important to me to discuss what it means to be polite this month so that my students continue to be polite to one another for the remainder of our school days together. We also discuss jealousy, because I know a lot of jealousy can come out at this time of year when other students start to discuss their summer plans with one another. This month is filled with so many wonderful discussion prompts. I can't wait to hear what my students share!
 
 [Click here to grab my May Reflection Prompt Cards](http://bit.ly/2r4W3hV). You can also grab my year-long [Reflection Prompt Card BUNDLE](http://bit.ly/2Fmbpmj) to keep your students reflecting all year long!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

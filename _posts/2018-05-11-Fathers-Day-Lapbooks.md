@@ -26,5 +26,3 @@ On the back of the lapbook, my students will write a special letter to their dad
 *Teacher Note:* Since some of my students do not have a dad in their life, I created alternate pages for a lapbook to an uncle or grandfather. By this point in the year, we should know if this is the case for our students. However, ALWAYS check to make sure! 
 
 I hope you have a great end to the school year creating a fun keepsake for each student's father! You can grab my [Father's Day Lapbook in my TpT store](http://bit.ly/2rsiVHx)! 
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

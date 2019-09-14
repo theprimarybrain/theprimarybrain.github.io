@@ -21,5 +21,3 @@ I have found that my reflection circles are such a meaningful time to learn more
 If you want to try out my reflection prompt cards, you can grab my [November Reflection Prompt Cards](http://bit.ly/2AA4JiC). You can also grab my [Reflection Prompt Card Bundle](http://bit.ly/2iPL8na) if you want to keep reflecting for the whole year. I hope you enjoy some wonderful conversations with your students this month!
 
 [Click here to pin this post](https://pin.it/6c4m2a5tqx5fm2) to save for later!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

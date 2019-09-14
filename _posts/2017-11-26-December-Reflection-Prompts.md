@@ -15,5 +15,3 @@ Last week I started a new practice for my reflection circles at the end of the d
 As we head into December, many of our conversations will shift into Christmas and winter thoughts. We will discuss winter weather, our favorite winter activities, giving gifts, and things we are looking forward to around the holidays. We will also reflect on character traits such as perseverance, self-control, and responsibilities. I hope you will take some time to reflect on the wonderful moments from this past year with your students. Sometimes the holidays can be a difficult time for our students due to difficult home lives. I have found that it can bring some sunshine to their day when we reflect on the very positive details of their lives. It is so rewarding to see my students reflect on their learning, their families, and the goals they accomplished this past year. [Click here to check out my December Reflection Prompt Cards](http://bit.ly/2Az83yK) to make December reflection EASY! 
 
 [Click here to pin this post](https://pin.it/7j7t6eo5i4wvuf) to save for later!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

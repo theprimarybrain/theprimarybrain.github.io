@@ -31,5 +31,3 @@ The other special spot is the *unkind monster*. Any time a student lands on a mo
 To win the game, a student has to make it all the way around the board to the Kindness Cloud. The first person to land on the cloud wins the game! 
 
 I love playing Kindness Matters in my classroom since there are so many examples of what kindness and unkindness looks like. My students need explicit instruction in what it looks like to be kind to further kindness in my students. [Click here to see my Kindness Matters Board Game](http://bit.ly/2BbPT6l) in my Tpt Store. I hope your students love playing Kindness Matters as much as my students do!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

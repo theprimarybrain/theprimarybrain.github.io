@@ -99,15 +99,3 @@ This apple lacing fine motor activity was a struggle at first for my little guy.
 The most exciting part of our day was eating our fun apple snacks! We enjoyed apple "donuts" and apple sandwiches, apple slices, apples dipped in caramel, and homemade applesauce. All of our snacks were delicious! 
 
 I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Toddler School Curriculum - Apple Themed Lessons](http://bit.ly/toddlerapple) on Teachers Pay Teachers! Have fun learning and growing with your little ones! 
-
-<div id="fd-form-5d7bbeaa1093300012a8c6ae"></div>
-<script>
-  window.fd('form', {
-    formId: '5d7bbeaa1093300012a8c6ae',
-    containerEl: document.querySelector('#fd-form-5d7bbeaa1093300012a8c6ae')
-  });
-</script>
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post may contain Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

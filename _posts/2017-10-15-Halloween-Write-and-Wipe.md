@@ -19,5 +19,3 @@ The best part about this lesson is that it is truly **NO PREP**. I can pull out 
 Since I have so many reading levels in my classroom, I created a [**Short Vowel Write and Wipe Activity Mat**](http://bit.ly/2yp5pJN) as well as a [**Long Vowel Write and Wipe Activity Mat**](http://bit.ly/2xGcRfP) that you can grab in my TpT store. 
 
 [Click here to save this freebie](https://pin.it/yIkYJD9) to your favorite Pinterest board!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

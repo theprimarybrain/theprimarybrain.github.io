@@ -16,5 +16,3 @@ In this activity, students begin by highlighting the target sounds in each word.
 If I have any early finishers, I have them extend their learning by whisper reading the words to build fluency. If they have extra time beyond their fluency read, then my students can write sentences on their whiteboards using the words from the word sort. 
 
 I hope your students further the learning of their blends and digraph spelling patterns through this activity. You can grab this [Cut and Paste Blends and Digraphs Activity](http://bit.ly/2KyNUJZ) in my TpT store!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

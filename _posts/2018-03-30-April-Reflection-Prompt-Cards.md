@@ -17,5 +17,3 @@ I love discussing what my students need from their teacher, so I wanted to spend
 As we continue through the month of April, we will also be discussing topics such as spring activities, what it means to be a good sport, courage, bullying, trustworthiness, and what it means to give back. I hope you enjoy meaningful conversations with your class this month. [Click here to grab my April Reflection Prompt Cards](http://bit.ly/2pRwU8Q). You can also grab my year-long [Reflection Prompt Card BUNDLE](http://bit.ly/2Fmbpmj) to keep your students reflecting all year long!
 
 [Click here to save this post to your favorite Pinterest board!](https://pin.it/5lxva7u7wbxyxq)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

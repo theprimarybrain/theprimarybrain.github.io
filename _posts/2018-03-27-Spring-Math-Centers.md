@@ -19,5 +19,3 @@ Our second center this week is another student favorite! Students are playing [C
 I hope you have lots of fun adding some spring flair into your classroom using simple tools like mini erasers! You can grab my [Connect 4 Multiples of 10 Game Board Mats](http://bit.ly/connect4math) and my [Roll and Solve Within 20 Addition Game Mats](http://bit.ly/rollandsolve20) in my TpT store! Happy Spring!
 
 [Click here to save to your favorite Pinterest board!](https://pin.it/rwrgn57fzzkbqs)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

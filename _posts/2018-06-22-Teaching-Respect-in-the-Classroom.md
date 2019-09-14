@@ -29,5 +29,3 @@ Since we study the 5 senses in first grade, this flip book was the perfect fit t
 As a final reflection activity, students will write a narrative piece where they explain what respect means to them in their own words. I love to read these narrative writing pieces to assess whether my students truly understand the meaning of respect. Students will also share a story about a time they showed respect. 
 
 I hope you are feeling motivated to head into class tomorrow to teach your students how to respect one another. You can download my [Respect Lapbook](http://bit.ly/2KeDFhq) from my TpT store. 
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

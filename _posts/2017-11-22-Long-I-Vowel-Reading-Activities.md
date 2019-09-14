@@ -52,7 +52,3 @@ I hope that you are feeling inspired to take on the challenge of teaching long v
 [Long Vowel Write and Wipe Activity Mat](http://bit.ly/2jToeQl)
 
 [Click here to pin this post](https://pin.it/wnlbmir3t2gkn7) to save for later!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog.

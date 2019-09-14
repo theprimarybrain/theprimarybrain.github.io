@@ -37,16 +37,4 @@ Not only were we able to work on letter names while playing with [Play-doh](http
 
 I hope this post has given you a few new ideas to work on letter names and letter sounds in your classroom or at home with your own children. Fill out the form below so I can send you a FREE copy of my magnetic letter practice pages!
 
-<div id="fd-form-5d77ec17afdf3e000f968569"></div>
-<script>
-  window.fd('form', {
-    formId: '5d77ec17afdf3e000f968569',
-    containerEl: document.querySelector('#fd-form-5d77ec17afdf3e000f968569')
-  });
-</script>
-
 [Click here to pin this post to your favorite Pinterest board!](https://pin.it/yq3xtgmtdtccio)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, at no extra cost to you! As always, I only recommend products that I love and all ideas shared are my own. 

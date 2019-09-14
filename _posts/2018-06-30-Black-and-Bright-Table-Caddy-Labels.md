@@ -15,5 +15,3 @@ That's it! After this past school year, I am throwing in the towel on pencil box
 This next school year, I am making the switch to one shared table caddy for each of my table groups. Each student sits at an individual desk, but I cluster 4-6 desks to make a table group. I am hoping that my students will show responsibility to keep their caddy clean and free of trash and other debris since they have to work together as a team to get the job done. I am also going to add a *table caddy inspector* as a class job this year.
 
 I am so excited about how the labels turned out on these table caddies! I hope that by laminating them the labels will stay on all year. *A teacher can dream right?!?!* You can grab these [Black and Bright Table Caddy Labels](http://bit.ly/2lKqwPa) in my TpT store!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

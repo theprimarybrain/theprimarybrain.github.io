@@ -15,7 +15,3 @@ Keeping centers organized is definitely a challenge in my classroom. There are s
 ![Center Labels]({{ site.github.url }}/assets/img/center-organization-tip-2.jpg)
 
 Last summer, I picked up a bunch of adhesive labels from the Target dollar spot. These were just what I needed to help me label my new center bins!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

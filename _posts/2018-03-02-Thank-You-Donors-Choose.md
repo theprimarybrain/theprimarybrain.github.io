@@ -38,7 +38,3 @@ We also received a pack of <a target="_blank" href="https://www.amazon.com/gp/pr
 Thank you so much Donor's Choose for making my classroom and my student's lives a little brighter this week!
 
 [Click here to pin this post to your favorite Pinterest board!](https://pin.it/zypznvqs7hmwjh)
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
-
-This post contains Amazon affiliate links. I earn a small commission each time someone makes a purchase through one of my affiliate links, which helps to support The Primary Brain blog. As always, I only recommend products that I love and all ideas shared are my own. 

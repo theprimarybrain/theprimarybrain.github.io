@@ -16,5 +16,3 @@ In this activity, students begin by highlighting the sounds they are looking for
 I always have a few students who finish early, so I either have them extend their learning by reading the words with fluency or writing sentences using the words. 
 
 I hope your students love CVC Words as much as mine do! You can grab this [Cut and Paste CVC Activity](http://bit.ly/2JmdmBL) in my TpT store!
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)

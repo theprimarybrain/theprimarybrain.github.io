@@ -15,5 +15,3 @@ Theprimarybrain.com is now HTTPS enabled!  HTTPS encrypts or "scrambles" web tra
 Since 2014, Google has been increasing search engine ranking if websites are secured.  More recently in July 2018, Chrome will be marking HTTP only sites as "Not Secure" in the title bar.  You can read more about this on [The Verge](https://www.theverge.com/2018/2/8/16991254/chrome-not-secure-marked-http-encryption-ssl). To make the switch to HTTPS, contact either your web host or website administrator. 
 
 Please feel free to reach out to me on social media if you have any questions! 
-
-![Laurin]({{ site.github.url }}/assets/img/laurin.png)
