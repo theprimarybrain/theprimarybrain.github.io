@@ -5,6 +5,9 @@ author:
   name: 'Laurin Brainard'
   twitter:  theprimarybrain
 
+# Default FloDesk Form ID:
+flodeskDefault: 5d7bbeaa1093300012a8c6ae
+
 # Change to true for Disqus comments
 #disqus:
 #  comments: false
