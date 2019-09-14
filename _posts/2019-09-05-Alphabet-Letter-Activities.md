@@ -4,6 +4,7 @@ title: Letter Name and Sound Identification
 author: Laurin Brainard
 categories: [Literacy Activities]
 tags: [alphabet, ELD, letters]
+flodesk: 5d7bbeaa1093300012a8c6ae
 image:
   feature: dot-marker-uppercase-lowercase-worksheet.jpg
   teaser: letter-roll-and-read-game-teaser.jpg

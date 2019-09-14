@@ -12,6 +12,11 @@ layout: default
 
 {{ content }}
 
+{% include flodeskForm.html %}
+
+{% capture signatureInclude %}{% include signature.md %}{% endcapture %}
+{{ signatureInclude | markdownify }}
+
 <span class="post-date">
   Written on
   {% assign d = page.date | date: "%-d" %}
