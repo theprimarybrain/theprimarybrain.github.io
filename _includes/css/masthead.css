@@ -4,7 +4,12 @@
     margin-bottom: 4rem;
     font-family: "Quattrocento Sans", sans-serif;
   }
-  
+
+@media (max-width: 30em) {
+  .masthead {
+    margin-bottom: 0rem;
+  }
+}
   .masthead-title a {
     font-size: 2rem;
     text-decoration: none;
