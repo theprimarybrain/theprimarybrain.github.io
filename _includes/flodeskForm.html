@@ -1,7 +1,13 @@
-<div id="fd-form-{{ site.data.settings.flodeskDefault }}"></div>
+{% if page.flodesk %}
+  {% capture flodeskFormID %}{{ page.flodesk }}{% endcapture %}
+{% else %}
+  {% capture flodeskFormID %}{{ site.data.settings.flodeskDefault }}{% endcapture %}
+{% endif %}
+
+<div id="fd-form-{{ flodeskFormID }}"></div>
 <script>
   window.fd('form', {
-    formId: '{{ site.data.settings.flodeskDefault }}',
-    containerEl: document.querySelector('#fd-form-{{ site.data.settings.flodeskDefault }}')
+    formId: '{{ flodeskFormID }}',
+    containerEl: document.querySelector('#fd-form-{{ flodeskFormID }}')
   });
 </script>
