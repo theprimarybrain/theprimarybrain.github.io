@@ -40,3 +40,22 @@ To set up the sensory play station, I set out a large poster board outside since
 For our last sensory bin, I added ice cream puzzle pieces to the rainbow sprinkles bin. Then, my son found the matching pieces and put the puzzles together outside of the sensory bin. We reviewed each letter name as we made the puzzles. 
 
 I hope these sensory bins have given you some fun ideas for ice cream week with your own little ones! You can grab all of the printable pieces from my [Ice Cream Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Ice-Cream-Themed-Lessons-4635846?utm_source=My%20Blog&utm_campaign=Ice%20Cream%20Sensory%20Bins%20Blog%20Post)! 
+
+<script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '5d7fd38715f78a0010f2e414'
+  });
+</script>

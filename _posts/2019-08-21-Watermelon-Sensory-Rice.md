@@ -41,3 +41,22 @@ amzn_assoc_asins = "B006K3RKEU,B07F2TFN7R,B00U5FNLQA,B003UEGZNE";
 Now that you made sensory rice, you can do so many things with it! My son loves to "cook" with measuring cups, spoons, and small dishes. You can also [click here](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Watermelon-Themed-Lessons-4762010?utm_source=TPB%20Blog&utm_campaign=20190820%20Watermelon%20Sensory%20Bins) to grab my sensory bin printables in my Watermelon Themed Toddler School Unit.
 
 I hope you love playing and learning with your little ones!
+
+<script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '5d7fd38715f78a0010f2e414'
+  });
+</script>

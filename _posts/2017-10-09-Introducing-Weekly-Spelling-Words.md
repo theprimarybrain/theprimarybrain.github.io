@@ -50,3 +50,22 @@ In this center, students use pieces of yarn to spell their spelling words. This 
 You can grab my [**Fry word spelling bundle**](http://bit.ly/2k1Ulgd) to save big on my spelling word lists, center activies, spelling homework, and more! I hope these activities will help you introduce your spelling words each week in a fun new way! 
 
 [Click here to save this post](https://pin.it/V3K9PB-) to your favorite Pinterest board!
+
+<script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '5d7fd38715f78a0010f2e414'
+  });
+</script>

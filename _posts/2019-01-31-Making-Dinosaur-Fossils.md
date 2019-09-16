@@ -47,3 +47,22 @@ amzn_assoc_asins = "B072N5VFVM,B00H8WLHKU,B001GHYO44,B01EVJ8Q0Q";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 We found that the dinosaur fossils look the most realistic when they are not painted. But... We had lots of fun painting our dinosaur fossils! If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Curriculum-Dinosaur-Themed-Lessons-4313867?utm_source=My%20Blog&utm_campaign=Dinosaur%20Fossils%20Post) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
+
+<script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '5d7fd38715f78a0010f2e414'
+  });
+</script>

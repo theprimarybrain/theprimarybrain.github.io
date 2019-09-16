@@ -52,3 +52,22 @@ amzn_assoc_asins = "B01CYDXMSW,B01BLUR2WG,B005PO9T44,B001UP2ULQ,B077NZ1R8J,B00GZ
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 I hope you enjoyed reading about some of my favorite self-care items. All of these items are sure to help teachers take care of their emotional and physical well being. I hope you find the perfect gift for that special teacher in your life! 
+
+<script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '5d7fd38715f78a0010f2e414'
+  });
+</script>

@@ -47,3 +47,22 @@ I gathered up all the flashlights I could find in my home and put one on each ta
 Transforming my classroom was worth every bit of time and effort it took to pull it off. It was one of those days that I hope my students will remember for the rest of their lives. I can't wait to do it again next year!
 
 [Click here to pin this post](https://pin.it/2o21rX4) to save for later!
+
+<script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '5d7fd38715f78a0010f2e414'
+  });
+</script>
