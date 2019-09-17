@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter Name and Sound Identification
+title: Halloween Roll and Read Freebie
 author: Laurin Brainard
 categories: [Halloween]
 tags: [Halloween, literacy, freebie]
