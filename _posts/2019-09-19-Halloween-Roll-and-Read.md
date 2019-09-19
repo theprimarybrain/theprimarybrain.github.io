@@ -14,24 +14,6 @@ I can't even believe that Halloween is already right around the corner! I don't 
 
 [Click here to download this freebie](https://www.teacherspayteachers.com/Product/Halloween-Roll-and-Read-Sight-Words-4875651?utm_source=My%20Blog&utm_campaign=Halloween%20Roll%20and%20Read%20Freebie#show-price-update) in my TpT store! If you want to keep receiving a fun freebie each month, then make sure to subscribe to my email list using the form below. Hope you have a fun October with your littles!
 
-<p style="text-align: center;"><strong>CHECK OUT THESE OTHER HALLOWEEN FREEBIES!</strong></p>
-
-![HalloweenFreebies]({{ site.github.url }}/assets/img/blog-hop-october-nineteen.jpeg)
-
-<p style="text-align: center;"><strong>FROM LEFT TO RIGHT</strong></p>
-
-<p style="text-align: center;"><a href="https://www.fairypoppins.com/cvcliteracycenters">Kindergarten Activities for Halloween (CVC Words)</a> // Fairy Poppins</p>
-
-<p style="text-align: center;"><a href="https://www.teach-me-mommy.com/teen-sums-pumpkin-patch/">Teen Sums Pumpkin Patch</a> //Teach Me Mommy</p>
-
-<p style="text-align: center;"><a href="http://www.sarajcreations.com/2019/09/candy-counting-puzzles.html?fbclid=IwAR1SWy-lA1PwORR9iQDx3UkG4B10DkaznyE8-cUJQUA7YyStrxHW_TCt-_0">Candy Counting Puzzles (1-20)</a> // Sara J Creations</p>
-
-<p style="text-align: center;"><a href=" https://theprimarybrain.com/halloween/2019/09/19/Halloween-Roll-and-Read/?fbclid=IwAR0rkZ4aEPmcjMq0hYxAvUoXzfpppPxRNF0FosvazuwCq5EK3ojhEi1hWaU ">Halloween Roll and Read</a> // The Primary Brain</p>
-
-<p style="text-align: center;"><a href=" https://literacywiththelittles.com/2019/09/16/free-halloween-math-for-kids/?fbclid=IwAR2kHrNjKm2hlODSBhkgcxYehOqnVbAl4LSSKkRZkX_uAkCvELm_4zmtnUE ">Halloween Spin and Add</a> // Literacy with the Littlies</p>
-
-<p style="text-align: center;"><a href=" https://www.fairypoppins.com/cutting-practice/ ">Halloween Cutting Practice</a> // Fairy Poppins</p>
-
 <script>
   (function(w, d, t, s, n) {
     w.FlodeskObject = n;
