@@ -3,7 +3,7 @@ layout: post
 title: Blog Launch Giveaway Part 4 - Halloween I Have Who Has Game Cards
 author: Laurin Brainard
 categories: [Freebies]
-tags: [halloween,freebie,games]
+tags: [halloween,freebie]
 image:
   feature: halloween-i-have-who-has.jpg
   teaser: halloween-i-have-who-has-teaser.jpg
