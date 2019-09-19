@@ -14,6 +14,8 @@ I can't even believe that Halloween is already right around the corner! I don't 
 
 [Click here to download this freebie](https://www.teacherspayteachers.com/Product/Halloween-Roll-and-Read-Sight-Words-4875651?utm_source=My%20Blog&utm_campaign=Halloween%20Roll%20and%20Read%20Freebie#show-price-update) in my TpT store! If you want to keep receiving a fun freebie each month, then make sure to subscribe to my email list using the form below. Hope you have a fun October with your littles!
 
+<p style="text-align: center;"><strong>CHECK OUT THESE OTHER HALLOWEEN FREEBIES!</strong></p>
+
 ![HalloweenFreebies]({{ site.github.url }}/assets/img/blog-hop-october-nineteen.jpeg)
 
 <p style="text-align: center;"><strong>FROM LEFT TO RIGHT</strong></p>
