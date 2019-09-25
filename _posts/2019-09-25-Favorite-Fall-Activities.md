@@ -16,7 +16,7 @@ It's my favorite time of year again! The one where the wind begins to blow and t
 ![CrayonLeafArt]({{ site.github.url }}/assets/img/crayon-leaves-art.jpg)
 <br /> 
 This activity is an oldie but goodie. I remember going on nature walks with my mom when I was a child. We would collect leaves in all shapes and sizes. Then, we would turn these leaves into a fun art activity! We would roll crayons over the leaves to see the leaf prints come through on the paper. I hope you enjoy this activity and creating memories with your little ones!
-<br /> 
+
 Before beginning this art project, you will need the following items:
 * Fresh leaves
 * Unwrapped crayons
