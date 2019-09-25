@@ -14,8 +14,9 @@ It's my favorite time of year again! The one where the wind begins to blow and t
 
 ## Fall Leaves Art Activity
 ![CrayonLeafArt]({{ site.github.url }}/assets/img/crayon-leaves-art.jpg)
+<br /> 
 This activity is an oldie but goodie. I remember going on nature walks with my mom when I was a child. We would collect leaves in all shapes and sizes. Then, we would turn these leaves into a fun art activity! We would roll crayons over the leaves to see the leaf prints come through on the paper. I hope you enjoy this activity and creating memories with your little ones!
-
+<br /> 
 Before beginning this art project, you will need the following items:
 * Fresh leaves
 * Unwrapped crayons
@@ -29,6 +30,7 @@ If your littles need to work on uppercase and lowercase letters, then I have a f
 
 ## Fall Lapbook Craftivity
 ![FallLapbook]({{ site.github.url }}/assets/img/Fall-lapbook-Collage.jpg)
+<br /> 
 This is one of my favorite ways to incorporate writing into a fun fall activity! I am always looking for ways to incorporate fine motor skills into lessons so the coloring and cutting skills are a huge plus in my book. Just a word of warning... The cutting will take a bit of time, so if your students are struggling with this skill,  you may want to work on one piece of the lapbook each day. 
 
 In addition to fine motor skill development, your students will work on narrative writing, engage in reflective thinking, question what they want to learn, and build vocabulary, all while completing a fun craftivity! Just add construction paper or a file folder and you have everything you need to create a lapbook all about the fall season. [Click here to grab this craftivity!](https://www.teacherspayteachers.com/Product/Fall-Lapbook-A-Writing-Craftivity-About-Autumn-3450881?utm_source=PB%20Blog&utm_campaign=Fall%20Favorites%20Blog%20-%20Fall%20Lapbook%20Link)
