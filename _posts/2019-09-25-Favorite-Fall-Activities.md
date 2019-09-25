@@ -15,13 +15,15 @@ It's my favorite time of year again! The one where the wind begins to blow and t
 ## Fall Leaves Art Activity
 ![CrayonLeafArt]({{ site.github.url }}/assets/img/crayon-leaves-art.jpg)
 <br /> 
-This activity is an oldie but goodie. I remember going on nature walks with my mom when I was a child. We would collect leaves in all shapes and sizes. Then, we would turn these leaves into a fun art activity! We would roll crayons over the leaves to see the leaf prints come through on the paper. I hope you enjoy this activity and creating memories with your little ones!
+This activity is an oldie but goodie. I remember going on nature walks with my mom when I was a child. We would collect leaves in all shapes and sizes. Then, we would turn these leaves into a fun art activity! We would roll crayons over the leaves to see the leaf prints come through on the paper. I hope you enjoy this activity and creating memories with your little ones! 
 
 Before beginning this art project, you will need the following items:
+
 * Fresh leaves
 * Unwrapped crayons
 * Construction paper
 * An excited kid!
+
 When you are ready to begin, lay out all the leaves you collected under a large piece of construction paper. Then, roll the unwrapped crayons on their sides all over the paper. Watch the magic happen as all the veins and margins of the leaves appear on the paper. I love to include a few different types of leaves since it makes for some great discussions after completing the artwork. 
 
 ## Fall Themed Alphabet Puzzles
