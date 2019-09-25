@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-It's that time of year again! The one where the wind begins to blow and the leaves begin to change colors. Fall is my favorite season of the year! To celebrate, I love breaking out all the Fall things at home and in my classroom to get us all in the Fall spirit! Read below to see some of my favorite Fall activities to do at home with my toddlers and at school with my first graders. 
+It's my favorite time of year again! The one where the wind begins to blow and the leaves begin to change colors. To celebrate, I love breaking out all the Fall things at home and in my classroom to get into the Fall spirit! Read below to see some of my favorite Fall activities to do at home with my toddlers and at school with my first graders. 
 
 ## Fall Leaves Art Activity
 ![CrayonLeafArt]({{ site.github.url }}/assets/img/crayon-leaves-art.jpg)
@@ -25,7 +25,7 @@ Before beginning this art project, you will need the following items:
 When you are ready to begin, lay out all the leaves you collected under a large piece of construction paper. Then, roll the unwrapped crayons on their sides all over the paper. Watch the magic happen as all the veins and margins of the leaves appear on the paper. I love to include a few different types of leaves since it makes for some great discussions after completing the artwork. 
 
 ## Fall Themed Alphabet Puzzles
-![FallAlphabetPuzzles]({{ site.github.url }}/assets/img/(fall-puzzles.jpg)
+![FallAlphabetPuzzles]({{ site.github.url }}/assets/img/fall-puzzles.jpg)
 If your littles need to work on uppercase and lowercase letters, then I have a fun freebie just for you! These fall themed alphabet puzzles are so easy to prep and go. I just cut out the pieces, laminate, and place in individual task card boxes. They are great for all ages from busy toddlers to first grade students who need to review their letters. [You can click here to download this freebie!](https://www.teacherspayteachers.com/Product/Fall-Themed-Alphabet-Puzzles-4212470?utm_source=PB%20Blog&utm_campaign=Favorite%20Fall%20Activities)
 
 ## Fall Lapbook Craftivity
