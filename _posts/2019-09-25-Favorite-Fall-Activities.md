@@ -47,3 +47,22 @@ These are great for fast finishers during math lessons. I always have a few of t
 If your littles need to work on identifying numbers, then this pumpkin number match game is the perfect math center and whole group game for your students! When playing this game, I like to give each student or partner pair a workmat. Then, I mix up all the game cards. As I show each number card, my students will claim the card that goes on their workmat. All students are encouraged to say the number that is represented on the card. [Click here to grab my Pumpkin Number Match Game](https://www.teacherspayteachers.com/Product/Subitizing-Math-Activity-Pumpkin-Themed-4107652?utm_source=PB%20Blog&utm_campaign=Fall%20Activities%20for%20Kids%20Pumpkin%20Subitizing) in my Teachers Pay Teachers store.
 
 I hope these activities gave you a few new ideas for adding some Fall fun to your week. Enjoy the fall season with your littles! 
+
+<script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '5d7fd38715f78a0010f2e414'
+  });
+</script>
