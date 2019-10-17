@@ -1,8 +1,8 @@
 ---
 layout: post
-title: St. Patrick's Day NO PREP Math Activites
+title: St. Patrick's Day NO PREP Math Activities
 author: Laurin Brainard
-categories: [Math Activites]
+categories: [Math Activities]
 tags: [saint patricks day,math]
 image:
   feature: saint-patricks-day-math-worksheets.jpg

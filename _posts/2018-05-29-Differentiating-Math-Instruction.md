@@ -2,7 +2,7 @@
 layout: post
 title: Differentiating Math Instruction
 author: Laurin Brainard
-categories: [Math Activites]
+categories: [Math Activities]
 tags: [differentiation,math]
 image:
   feature: roll-and-solve-erasers.jpg

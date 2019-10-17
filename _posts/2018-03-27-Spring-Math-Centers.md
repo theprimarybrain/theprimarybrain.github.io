@@ -2,7 +2,7 @@
 layout: post
 title: Spring Math Centers
 author: Laurin Brainard
-categories: [Math Activites]
+categories: [Math Activities]
 tags: [spring,math]
 image:
   feature: math-center-addition-roll-read.jpg

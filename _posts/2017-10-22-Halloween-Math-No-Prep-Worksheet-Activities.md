@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Halloween NO PREP Math Activites
+title: Halloween NO PREP Math Activities
 author: Laurin Brainard
-categories: [Math Activites]
+categories: [Math Activities]
 tags: [halloween,math]
 image:
   feature: halloween-noprep-worksheet.jpg
