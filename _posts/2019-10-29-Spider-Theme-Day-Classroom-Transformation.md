@@ -9,6 +9,7 @@ image:
   teaser: spider-theme-day-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
+---
 Ever had a spider visit your classroom? We did! This amazing and realistic spider skeleton stopped by for spider theme day and it was incredible! Our spider skeleton brought some webs, toy spiders, and a fun spider backdrop to share. My students loved learning about spider body parts by labeling our skeleton! Our spider visitor even left with a whole new look! I have only done a couple classroom transformations in my first grade classroom, but I must say that student engagement is at an all time high on these days. My students ate up every minute and enjoyed all of the activities. I threw this classroom transformation in early October, but it could be done any time of year since we learn about animals and life cycles in our first grade curriculum. I would like to thank [Oriental Trading Company](https://www.orientaltrading.com/sale/halloween-a1-90000+1604+1237-1.fltr?cm_mmc=social-_-Influencers-_-BooYa19-_-ThePrimaryBrain) for providing all of the items for our spider theme day for free! I was not paid to write this post, but I included links to products in case you want to purchase for your class. I hope you enjoy reading all about the fun we had during Spider Theme Day!
 
 ![SpiderThemeDay]({{ site.github.url }}/assets/img/spider-theme-day-observations.jpg)
