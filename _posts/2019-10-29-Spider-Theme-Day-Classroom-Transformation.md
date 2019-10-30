@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spider Themed Classroom Transformation
+title: Spider Theme Day Classroom Transformation
 author: Laurin Brainard
 categories: [Classroom Decor]
 tags: [halloween,transformation]
