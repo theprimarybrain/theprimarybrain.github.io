@@ -10,3 +10,4 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+It's time for a Christmas freebie! These clip cards are perfect for building vocabulary during the Christmas season.
