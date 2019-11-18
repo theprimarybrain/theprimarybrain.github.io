@@ -5,7 +5,7 @@ author: Laurin Brainard
 categories: [Christmas]
 tags: [christmas]
 image:
-  feature: 
+  feature: christmas-clip-cards-collage.jpg
   teaser: 
   credit: Laurin Brainard
   creditlink: ""
