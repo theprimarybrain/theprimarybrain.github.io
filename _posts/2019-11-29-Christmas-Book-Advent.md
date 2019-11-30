@@ -18,7 +18,7 @@ I put together all of the books we will be reading this year to give you a few b
 ### 2019 Christmas Book Picks
 Click the title of the book to order on Amazon using my affiliate link.
 
-1. [Nativity Flap Book](https://amzn.to/2OxpVzx)
+<p style="text-align: center;">1. [Nativity Flap Book](https://amzn.to/2OxpVzx)
 
 2. [You Are My Miracle](https://amzn.to/2OxpYeH)
 
@@ -67,5 +67,5 @@ Click the title of the book to order on Amazon using my affiliate link.
 24. [The Polar Express](https://www.amazon.com/gp/product/0544580141/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544580141&linkCode=as2&tag=theprimarybra-20&linkId=e9987c9f562cbd31f15802b1b7d52060)
 
 25. [God Gave Us Christmas](https://amzn.to/2OvOuNo)
-
+</p>
 My hope with our Christmas Book Advent is that this will become a tradition that can be passed on by my children to their children. There is nothing more special than reading books to my kids that my mom read to me growing up.  I know, I know... Slow down Laurin, but one can dream right?!?! Make sure to check back each day for our book pick of the day and a fun activity, conversation, or game to go with it! You can fill out this form to join my email list and receive an email from me each day letting you know about the book of the day! I hope you enjoy new memories with your little ones this year!
