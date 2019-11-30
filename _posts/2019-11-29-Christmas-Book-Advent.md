@@ -18,7 +18,7 @@ I put together all of the books we will be reading this year to give you a few b
 ### 2019 Christmas Book Picks
 Click the title of the book to order on Amazon using my affiliate link.
 
-<p align="center">1. [Nativity Flap Book](https://amzn.to/2OxpVzx)</p>
+1. [Nativity Flap Book](https://amzn.to/2OxpVzx)
 
 2. [You Are My Miracle](https://amzn.to/2OxpYeH)
 
