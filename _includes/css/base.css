@@ -15,19 +15,29 @@ body {
     }
 }
   
-h1{
+h1 {
     font-size: 2rem;
 }
   
 h1 a {
     text-decoration: none;
 }
-  
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Quattrocento Sans", sans-serif;
-    color: #333;
+
+h1, h2, h3, h4, h5 {
+  font-family: "Quattrocento Sans", sans-serif;
+  color: #333;
 }
-  
+
+h6, h6 a {
+  font-family: 'Questrial', sans-serif;
+  font-size: 18px;
+  color: #515151;
+  line-height: 0rem;
+  margin-bottom: 0rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+
 a {
     text-decoration: underline;
     color: #333333;
@@ -45,7 +55,11 @@ img {
     margin: auto;
     display: block;
 }
-  
+
+figcaption {
+  text-align: center;
+  margin: 0px;
+}
 /*
 blockquote {
     border-left: 0.25rem solid #ccc;
