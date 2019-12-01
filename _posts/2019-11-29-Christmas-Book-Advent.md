@@ -90,7 +90,8 @@ Click the title of the book to order on Amazon using my affiliate link.
 ###### 24. [The Polar Express](https://www.amazon.com/gp/product/0544580141/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544580141&linkCode=as2&tag=theprimarybra-20&linkId=e9987c9f562cbd31f15802b1b7d52060)
 <a target="_blank"  href="https://www.amazon.com/gp/product/0544580141/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544580141&linkCode=as2&tag=theprimarybra-20&linkId=0c72baf3426d801822f9012fc4f6355a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0544580141&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=theprimarybra-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=0544580141" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-###### 25. 
+###### 25. [Little Reindeer Saves Christmas](https://amzn.to/2La2fiG)
+<a target="_blank"  href="https://www.amazon.com/gp/product/1784408123/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784408123&linkCode=as2&tag=theprimarybra-20&linkId=91affc6972d944135d228308a67d2665"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1784408123&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=theprimarybra-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=1784408123" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 My hope with our Christmas Book Advent is that this will become a tradition that can be passed on by my children to their children. There is nothing more special than reading books to my kids that my mom read to me growing up.  I know, I know... Slow down Laurin, but one can dream right?!?! 
 
