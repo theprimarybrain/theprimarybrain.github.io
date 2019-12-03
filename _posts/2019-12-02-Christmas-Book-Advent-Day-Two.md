@@ -15,6 +15,7 @@ It's day 2 of our Christmas Book Advent and today we read [The Nativity](https:/
 
 ### A Special Party to Kick Off the Season!
 ![HappyBirthdayJesus]({{ site.github.url }}/assets/img/christmas-book-advent-the-nativity-tableware.jpg)
+
 ![HappyBirthdayJesus]({{ site.github.url }}/assets/img/christmas-book-advent-the-nativity-centerpiece.jpg)
 
 This past weekend we kicked off our Christmas Book Advent by throwing a Happy Birthday Jesus party! We set up all the fun [tableware](https://www.orientaltrading.com/happy-birthday-jesus-party-pack-a2-4_1870.fltr) that I received from Oriental Teading Company and enjoyed some really fun family activities! It was a wonderful time bringing the Nativity to life through all the activities.
