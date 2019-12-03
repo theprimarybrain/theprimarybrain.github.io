@@ -25,4 +25,4 @@ This past weekend we kicked off our Christmas Book Advent by throwing a Happy Bi
 
 As if that wasn't enough, we ended the party with fun [party favors](https://www.orientaltrading.com/happy-birthday-jesus-novelty-assortment-a2-4_1929.fltr) from the Oriental Trading Happy Birthday Jesus party pack! It was definitely a party that my children will remember for years to come!
 
-Special thanks to Oriental Trading Company for providing all of the materials for our Happy Birthday Jesus. We truly loved these items and are so excited to share with our readers!
+Special thanks to Oriental Trading Company for providing all of the materials for our Happy Birthday Jesus party. We truly loved these items and are so excited to share with our readers!
