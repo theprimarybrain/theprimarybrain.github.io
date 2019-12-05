@@ -10,11 +10,11 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-I don't know about you, but when I think of Christmas I think of sweet smells of cinnamon, getting my baking on, crafting, listening to Christmas music, and spending time with my family. These Salt Dough Christmas Ornaments covered all my favorite holiday things in one quick and easy recipe! I was especially excited to enlist the help of my favorite preschooler! 
+I don't know about you, but when I think of Christmas I think of sweet smells of [cinnamon](https://amzn.to/2DOhuda), getting my baking on, crafting, listening to Christmas music, and spending time with my family. These Salt Dough Christmas Ornaments covered all my favorite holiday things in one quick and easy recipe! I was especially excited to enlist the help of my favorite preschooler! 
 
 Salt dough is one of my favorite doughs to use with children because it is technically edible. It won't taste good, but it certainly won't hurt you! 
 
-All you have to do to make these ornaments is mix a few ingredients together, bake it, and then you can paint it! I highly recommend you use acrylic paint since the colors are so rich and hold up well over time.
+All you have to do to make these ornaments is mix a few ingredients together, bake it, and then you can paint it! I highly recommend you use [acrylic paint](https://amzn.to/389CfxA) since the colors are so rich and hold up well over time.
 
 The sky really is the limit on what you can use this magical dough for. Today we rolled our salt dough into Christmas ornaments using our Christmas Cookie Cutters! Before we baked them, we poked a hole in the top for a string so the ornaments can be hung on a Christmas tree. They also make wonderful family and teacher gifts!
 
@@ -22,11 +22,11 @@ The sky really is the limit on what you can use this magical dough for. Today we
 [OrnamentIngredients]({{ site.github.url }}/assets/img/salt-dough-ornatments-ingredients.jpg)
 
 ### Ingredients
-- 2 1/3 cups all purpose flour
-- 1 cup salt
-- 2 tsp. cinnamon 
+- 2 1/3 cups [all purpose flour](https://amzn.to/386z4aa)
+- 1 cup [salt](https://amzn.to/34UFgju)
+- 2 tsp. [cinnamon](https://amzn.to/2DOhuda) 
 - 1 cup warm water
-- 2 tsp. molasses
+- 2 tsp. [molasses](https://amzn.to/2r5S08r)
 
 [OrnamentIngredients]({{ site.github.url }}/assets/img/salt-dough-ornatments-ingredients.jpg)
 
