@@ -15,7 +15,7 @@ Now that I have two young children, I am always trying to think of new activitie
 
 I put together all of the books we will be reading this year to give you a few book ideas to purchase in case you need a few more Christmas books to pull this off! Each day this month, I will be sharing the book of the day that I am reading with my children, as well as activities, conversations, or games that we will be using to extend the fun. 
 
-### 2019 Christmas Book Picks
+## 2019 Christmas Book Picks
 Click the title of the book to order on Amazon using my affiliate link.
 
 ###### 1. [Nativity Flap Book](https://amzn.to/2OxpVzx)

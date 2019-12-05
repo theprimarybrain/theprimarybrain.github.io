@@ -13,14 +13,14 @@ image:
 ---
 It's day 2 of our Christmas Book Advent and today we read [The Nativity](https://amzn.to/2OyrcGQ)! This is one of my favorite books to read at Christmastime because it teaches my children the reason we celebrate Christmas - The birth of baby Jesus! 
 
-### A Special Party to Kick Off the Season!
+## A Special Party to Kick Off the Season!
 ![HappyBirthdayJesus]({{ site.github.url }}/assets/img/christmas-book-advent-the-nativity-tableware.jpg)
 
 ![HappyBirthdayJesus]({{ site.github.url }}/assets/img/christmas-book-advent-the-nativity-centerpiece.jpg)
 
 This past weekend we kicked off our Christmas Book Advent by throwing a Happy Birthday Jesus party! We set up all the fun [tableware](https://www.orientaltrading.com/happy-birthday-jesus-party-pack-a2-4_1870.fltr) that I received from Oriental Teading Company and enjoyed some really fun family activities! It was a wonderful time bringing the Nativity to life through all the activities.
 
-### Party Favors
+## Party Favors
 ![HappyBirthdayJesus]({{ site.github.url }}/assets/img/christmas-book-advent-the-nativity-favor.jpg)
 
 As if that wasn't enough, we ended the party with fun [party favors](https://www.orientaltrading.com/happy-birthday-jesus-novelty-assortment-a2-4_1929.fltr) from the Oriental Trading Happy Birthday Jesus party pack! It was definitely a party that my children will remember for years to come!
