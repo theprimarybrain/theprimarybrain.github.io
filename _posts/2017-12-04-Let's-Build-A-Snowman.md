@@ -4,7 +4,7 @@ title: STEM Snowman Teamwork Challenge
 author: Laurin Brainard
 flodesk: 5de8831449ed9c00265f98de
 categories: [STEM Activities]
-tags: [stem, literacy]
+tags: [stem]
 image:
   feature: the-biggest-snowman-ever-book.jpg
   teaser: snowman-stem-snowball-teaser.jpg
@@ -25,10 +25,10 @@ Before beginning the challenge, I like to have my students complete a STEM brain
 
 My students definitely struggle every year to find a way to get their snowman to stay standing. I love watching their creativity! It is wonderful to see my students working together and showing strong teamwork to try to get the job done. Successful groups usually realize quickly that it takes several students to hold up the snowman while they construct it. Unfortunately, most of the snowmen tumble as soon as they let go. 
 
-I only allowed ten minutes to try to build their snowmen. By the end of the ten minutes, my entire classroom was filled with paper snowballs. It was so much fun! To end this exercise, I have my students fill out a reflection page to further reflect on their learning.
+I only allow ten minutes to try to build their snowmen. Be prepared that by the end of the ten minutes, your *entire* classroom will be filled with paper snowballs. But, it is so much fun and SO WORTH IT! To end this exercise, I have my students fill out a reflection page to further reflect on their learning.
 
 ![Reflection]({{ site.github.url }}/assets/img/stem-snowman-reflection.jpg)
 
-This is one of my favorite classroom activities that I now repeat year after year. You can download the STEM Challenge Pages using this form below. I hope you have fun learning and growing with your students this year!
+This is one of my favorite classroom activities that I now repeat year after year. You can download the STEM Challenge Pages using the form below. I hope you have fun learning and growing with your students this year!
 
 [Click here to save this post for later to your favorite Pinterest board!](https://pin.it/35nhdrfv6hhs66)
