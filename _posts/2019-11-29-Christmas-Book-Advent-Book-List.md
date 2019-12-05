@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christmas Book Advent
+title: Christmas Book Advent Book List
 author: Laurin Brainard
 flodesk: 5de1a2f59cb352002633b7af
 categories: [Christmas]
