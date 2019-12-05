@@ -19,4 +19,4 @@ For our Christmas Book Advent today, we read the book [Pick a Pine Tree](https:/
 
 Pack up your family and head out to purchase a Christmas tree. Even if you have a fake tree in your home, it is still so much fun for children to experience the magic of picking out a tree. You can always grab a mini tree and place in a separate room in your home. My son loves to pick out a 3 foot tree that he gets to decorate himself. We have found great ones in tree lots and at grocery stores! I hope you enjoy the sweet smells of Christmas as you pick out a tree! 
 
-In case you missed my previous post, here is the full list of Christmas Books we will be reading this month:
+In case you missed my previous post, here is the full list of Christmas Books we will be reading this month: [Advent Christmas Book List](https://theprimarybrain.com/christmas/2019/11/29/Christmas-Book-Advent-Book-List/)
