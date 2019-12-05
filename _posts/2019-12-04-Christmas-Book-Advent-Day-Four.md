@@ -20,6 +20,6 @@ Today we read [Merry Christmas Mr. Mouse](https://www.amazon.com/gp/product/0803
 
 ![OrnamentsPainting]({{ site.github.url }}/assets/img/salt-dough-ornaments-painted.jpg)
 
-After reading the story, we made some Salt Dough Christmas Ornaments that we will use to decorate our Christmas tree later this week. Sweet smells of Christmas filled our home since we included a little cinnamon in our ornaments. The smells and moments we shared together as a family reminded me so much of the mouse family as they prepared their home for Christmas! [Click here for my Salt Dough Recipe]() that I explain in detail in another blog post. 
+After reading the story, we made some Salt Dough Christmas Ornaments that we will use to decorate our Christmas tree later this week. Sweet smells of Christmas filled our home since we included a little cinnamon in our ornaments. The smells and moments we shared together as a family reminded me so much of the mouse family as they prepared their home for Christmas! [Click here for my Salt Dough Recipe](https://theprimarybrain.com/christmas/2019/12/04/Salt-Dough-Christmas-Ornaments/) that I explain in detail in another blog post. 
 
 Since today was so much fun at home, I am so excited to read this story to my first grade class next week and make some ornaments to decorate our class Christmas tree! I hope you enjoy making new memories through this story and fun activity!

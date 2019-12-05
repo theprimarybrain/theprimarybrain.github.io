@@ -19,7 +19,7 @@ All you have to do to make these ornaments is mix a few ingredients together, ba
 The sky really is the limit on what you can use this magical dough for. Today we rolled our salt dough into Christmas ornaments using our Christmas Cookie Cutters! Before we baked them, we poked a hole in the top for a string so the ornaments can be hung on a Christmas tree. They also make wonderful family and teacher gifts!
 
 ## Salt Dough Recipe
-[OrnamentIngredients]({{ site.github.url }}/assets/img/salt-dough-ornatments-ingredients.jpg)
+![OrnamentIngredients]({{ site.github.url }}/assets/img/salt-dough-ornatments-ingredients.jpg)
 
 ### Ingredients
 - 2 1/3 cups [all purpose flour](https://amzn.to/386z4aa)
@@ -28,39 +28,39 @@ The sky really is the limit on what you can use this magical dough for. Today we
 - 1 cup warm water
 - 2 tsp. [molasses](https://amzn.to/2r5S08r)
 
-[OrnamentIngredients]({{ site.github.url }}/assets/img/salt-dough-ornatments-ingredients.jpg)
+![OrnamentIngredients]({{ site.github.url }}/assets/img/salt-dough-ornatments-ingredients.jpg)
 
 ### Directions
 Combine 2 cups of the flour, cinnamon and salt in a large mixing bowl. Add warm water and molasses to the bowl. Use a spatula to combine.
 
-[DoughKneading]({{ site.github.url }}/assets/img/salt-dough-ornaments-kneading.jpg)
+![DoughKneading]({{ site.github.url }}/assets/img/salt-dough-ornaments-kneading.jpg)
 
 Knead dough using your hands to form a smooth ball. If the dough is still too sticky, add additional flour until the dough is the correct texture. (I used 2 1/4 cups of flour total.)
 
-[DoughRolling]({{ site.github.url }}/assets/img/salt-dough-ornaments-rolling.jpg)
+![DoughRolling]({{ site.github.url }}/assets/img/salt-dough-ornaments-rolling.jpg)
 
 Use a rolling pin to roll out dough to just under 1/4".
 
-[CookieCutter]({{ site.github.url }}/assets/img/salt-dough-ornaments-cookie-cutters.jpg)
+![CookieCutter]({{ site.github.url }}/assets/img/salt-dough-ornaments-cookie-cutters.jpg)
 
 Press cookie cutters into the dough. Pull off the remaining dough. Roll out the dough again and repeat the above process until all cookies are formed.
 
-[CookieCutter]({{ site.github.url }}/assets/img/salt-dough-ornaments-cookie-sheet-raw.jpg)
+![CookieCutter]({{ site.github.url }}/assets/img/salt-dough-ornaments-cookie-sheet-raw.jpg)
 
 Lay all cookies on a nonstick silicone mat or parchment paper on a sheet pan. 
 
-[PokeaHole]({{ site.github.url }}/assets/img/salt-dough-ornament-straw.jpg)
+![PokeaHole]({{ site.github.url }}/assets/img/salt-dough-ornament-straw.jpg)
 
 Press a straw or other round object into the top of each cookie. Don't go too close to the edge!
 
-[Bake]({{ site.github.url }}/assets/img/salt-dough-ornaments-in-oven.jpg)
+![Bake]({{ site.github.url }}/assets/img/salt-dough-ornaments-in-oven.jpg)
 
 Bake in a 200 degree Farenheit oven for 2 hours, or leave out to air dry for several days. 
 
-[Paint]({{ site.github.url }}/assets/img/salt-dough-ornaments-painting.jpg)
+![Paint]({{ site.github.url }}/assets/img/salt-dough-ornaments-painting.jpg)
 
 Paint with acrylic paint. Let dry. 
 
-[Paint]({{ site.github.url }}/assets/img/salt-dough-ornament-snowman-on-tree.jpg)
+![Paint]({{ site.github.url }}/assets/img/salt-dough-ornament-snowman-on-tree.jpg)
 
 Add a string through the hole at the top of each ornament. Hang on the tree or give as a gift! 
