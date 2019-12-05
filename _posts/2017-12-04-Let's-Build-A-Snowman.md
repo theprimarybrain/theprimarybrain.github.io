@@ -15,7 +15,7 @@ One of my favorite winter stories to read to my first graders is *The Biggest Sn
 
 ![Snowman Book]({{ site.github.url }}/assets/img/snowman-stem-snowball.jpg)
 
-After these great conversations, we are ready to begin our STEM challenge. I stress the importance of teamwork as I introduct the challenge. The challenge is to build the tallest snowman in the classroom using nothing but paper and glue. I give each group of 4-5 students a stack of blank paper and a glue stick. I tell my students that they could fold and stack the paper together any way they chose, but they cannot add any other materials for stability. 
+After these great conversations, we are ready to begin our STEM challenge. I stress the importance of teamwork as I introduce the challenge. The challenge is to build the tallest snowman in the classroom using nothing but paper and glue. I give each group of 4-5 students a stack of blank paper and a glue stick. I tell my students that they can fold and stack the paper together any way they chose, but they cannot add any other materials for stability. 
 
 ![Snowman Book]({{ site.github.url }}/assets/img/stem-snowman-collage.jpg)
 
@@ -23,7 +23,7 @@ Before beginning the challenge, I like to have my students complete a STEM brain
 
 ![Snowman Book]({{ site.github.url }}/assets/img/snowman-stem.jpg)
 
-My students definitely struggle every year to find a way to get their snowman to stay standing. I love watching their creativity! It is wonderful to see my students working together and showing strong teamwork to try to get the job done. They realized quickly that it took several students to hold up the snowman while they constructed it. Unfortunately, most of the snowman tumbled as soon as they let go. 
+My students definitely struggle every year to find a way to get their snowman to stay standing. I love watching their creativity! It is wonderful to see my students working together and showing strong teamwork to try to get the job done. Successful groups usually realize quickly that it takes several students to hold up the snowman while they construct it. Unfortunately, most of the snowmen tumble as soon as they let go. 
 
 I only allowed ten minutes to try to build their snowmen. By the end of the ten minutes, my entire classroom was filled with paper snowballs. It was so much fun! To end this exercise, I have my students fill out a reflection page to further reflect on their learning.
 
