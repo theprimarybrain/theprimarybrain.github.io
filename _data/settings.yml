@@ -36,6 +36,10 @@ menu:
     name: 'Categories', 
     url: 'categories/'
   }
+- {
+    name: 'Newsletter', 
+    url: 'newsletter/'
+  }
 
 social:
 #- {icon: 'github', link: 'https://www.github.com/lenpaul'}
