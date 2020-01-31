@@ -32,6 +32,7 @@ I created posters and notecards of each verse. This way, we could hang the verse
 If we want to encourage our children to grow in their relationships with the Lord, then we need to give them the tools to do this. When we memorize Bible verses, they will be at the forefront of our minds. This way, if our child goes through a difficult trial in life, they can experience greater peace. 
 
 ## How to Get Started
+![Kindergarten Bible Verse Collage]({{ site.github.url }}/assets/img/Kindergarten-Bible-Verse-Memorization-Pack.jpg)
 I created Bible Verse Memorization Packs for [kindergarten]((https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Kindergarten-3052682?utm_source=TPB%20Blog&utm_campaign=Kindergarten%20Bible%20Verse%20Memorization%20Pack)), [first grade]((https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-First-Grade-3038630?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%201st)), [second grade](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Second-Grade-3035427?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%202nd), and [third grade](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Third-Grade-3176742?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%203rd) to make it easy for parents and teachers to get started immediately. The best part is, all you have to do is print, and your child or students will be ready to write, cut, paste, and color!
 
 ## What to Expect
@@ -42,6 +43,7 @@ Each week, children will focus on one Bible verse. Children learn through repeti
 ![Kindergarten Bible Verse Collage]({{ site.github.url }}/assets/img/Kindergarten-Bible-Verse-Memorization-Pack-2.jpg)
 Each pack includes a Bible Verse Journal that students will add to when they learn a new verse each week. This sample is from my [Kindergarten Bible Verse Memorization Pack](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Kindergarten-3052682?utm_source=TPB%20Blog&utm_campaign=Kindergarten%20Bible%20Verse%20Memorization%20Pack). It includes a cut and paste strip of the verse that students will glue in. This journal is excellent for reviewing verses that have been learned and as a reminder of how far they have come over the year. This is excellent for tracking progress!
 
+## Let's Do This!
 If you are ready to take the plunge and dive into a year of learning Bible verses with your child, then click any of the links below to purchase my Bible Verse Memorization Packs from my Teachers Pay Teachers store:
 
 [Kindergarten Bible Verse Memorization Pack](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Kindergarten-3052682?utm_source=TPB%20Blog&utm_campaign=Kindergarten%20Bible%20Verse%20Memorization%20Pack) from my Teachers Pay Teachers shop. 
