@@ -32,7 +32,7 @@ I created posters and notecards of each verse. This way, we could hang the verse
 
 ## How to Get Started
 
-![Kindergarten Bible Verse Collage]({{ site.github.url }}/assets/img/Kindergarten-Bible-Verse-Memorization-Pack.jpg)
+![3rd Grade Bible Verse Collage]({{ site.github.url }}/assets/img/bible-verse-memorization-third-grade.jpg)
 I created Bible Verse Memorization Packs for [kindergarten]((https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Kindergarten-3052682?utm_source=TPB%20Blog&utm_campaign=Kindergarten%20Bible%20Verse%20Memorization%20Pack)), [first grade]((https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-First-Grade-3038630?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%201st)), [second grade](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Second-Grade-3035427?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%202nd), and [third grade](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Third-Grade-3176742?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%203rd) to make it easy for parents and teachers to get started immediately. The best part is, all you have to do is print, and your child or students will be ready to write, cut, paste, and color!
 
 ## What to Expect
