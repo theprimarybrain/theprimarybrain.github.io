@@ -10,7 +10,9 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Have you ever wondered how to teach Bible verses to your children or students? The idea of teaching Bible verses to children has always been at the forefront of my mind. When I sat down to plan out the verses I wanted to teach my son, I knew I needed a plan that would help him not only memorize the scriptures, but commit the Bible verses to his heart. I came up with five tips to teach kids to memorize Bible verses. 
+Have you ever wondered how to teach Bible verses to your children or students? The idea of teaching Bible verses to children has always been at the forefront of my mind. If we want to encourage our children to grow in their relationships with the Lord, then we need to give them the tools to do this. When we memorize Bible verses, they will be at the forefront of our minds. This way, if our child goes through a difficult trial in life, they can experience greater peace. 
+
+When I sat down to plan out the verses I wanted to teach my son, I knew I needed a plan that would help him not only memorize the scriptures, but commit the Bible verses to his heart. I came up with five tips to teach kids to memorize Bible verses. 
 
 ## 5 Tips for Memorizing Bible Verses
 ### 1. Start with a Short Verse
@@ -27,9 +29,6 @@ As your child is learning the verse, turn it into a game or activity. We love tu
 
 ### 5. Put the Verse Everywhere
 I created posters and notecards of each verse. This way, we could hang the verse on our refrigerator, bedroom doors, and bathroom mirrors. If you are learning in a classroom, then put the poster on classroom doors and cabinets that are accessed often. Each time you go through the door or open the cabinet, have children say the verse aloud before completing the task. The more we see the Bible verse and practice, the faster we will memorize it. 
-
-## Next Steps
-If we want to encourage our children to grow in their relationships with the Lord, then we need to give them the tools to do this. When we memorize Bible verses, they will be at the forefront of our minds. This way, if our child goes through a difficult trial in life, they can experience greater peace. 
 
 ## How to Get Started
 
@@ -49,7 +48,7 @@ Each pack includes a Bible Verse Journal that students will add to when they lea
 ## Let's Do This!
 If you are ready to take the plunge and dive into a year of learning Bible verses with your child, then click any of the links below to purchase my Bible Verse Memorization Packs from my Teachers Pay Teachers store:
 
-[Kindergarten Bible Verse Memorization Pack](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Kindergarten-3052682?utm_source=TPB%20Blog&utm_campaign=Kindergarten%20Bible%20Verse%20Memorization%20Pack) from my Teachers Pay Teachers shop. 
+[Kindergarten Bible Verse Memorization Pack](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Kindergarten-3052682?utm_source=TPB%20Blog&utm_campaign=Kindergarten%20Bible%20Verse%20Memorization%20Pack)
 
 [First Grade Bible Verse Memorization Pack](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-First-Grade-3038630?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%201st)
 
