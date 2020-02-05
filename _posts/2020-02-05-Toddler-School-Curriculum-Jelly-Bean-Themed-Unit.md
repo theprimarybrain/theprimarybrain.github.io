@@ -55,7 +55,7 @@ We also enjoyed learning about the letter J/j by pinching glitter, squirting liq
 
 The sky really is the limit when it came to art activities for this unit! One of our favorites was dipping jelly beans in paint and rolling over white construction paper in a cardboard lid. I could see the critical thinking going on as my son tried to roll the jelly beans through certain areas. 
 
-![Jelly Bean Painting]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-finger-painting.jpg
+![Jelly Bean Painting]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-finger-painting.jpg)
 
 ![Jelly Bean Painting]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-painting.jpg)
 
