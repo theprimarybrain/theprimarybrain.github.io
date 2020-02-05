@@ -20,7 +20,7 @@ Each of the 5 lessons in this unit includes the following activities:
 - art activity
 
 ## Lesson Setup
-![Cover Page]({{ site.github.url }}/assets/img/)
+![Cover Page]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-cover.jpg)
 
 The first thing I always do with my son is color our cover page for our unit notebook. I fold a large sheet of construction paper in half and glue the cover page on with stick glue. It's a great way to introduce the new unit while getting in some much needed coloring practice. 
 
