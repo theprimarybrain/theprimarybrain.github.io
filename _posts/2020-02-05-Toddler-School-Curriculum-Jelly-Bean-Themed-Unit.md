@@ -59,11 +59,11 @@ The sky really is the limit when it came to art activities for this unit! One of
 
 ![Jelly Bean Painting]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-painting.jpg)
 
-We also really enjoyed finger painting this jelly bean with edible paint. I mean really, what is more fun than edible paint! After it dried, it was a slick and shiny design like none other. My son added real jelly beans using liquid glue on top of his painting for an extra design element. 
+We also really enjoyed finger painting this jelly bean with edible paint. I mean really, what is more fun than edible paint! After it dried, it was a slick and shiny design. My son added real jelly beans using liquid glue on top of his painting for an extra design element. 
 
 ## STEM Activities
 ![Jelly Bean stem]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-toothpick.jpg)
-I mean, is it ever too early to begin STEM activities? We sure don't think so! For this activity, I gave my son a pile of jelly beans and some toothpicks. Then, I pre-punched holes in the jelly beans to make it easy for him to slide the toothpicks into the jelly beans. Then, we built our jelly bean creations together. 
+I mean, is it ever too early to begin STEM activities? We sure don't think so! For this activity, I gave my son a pile of jelly beans and some toothpicks. Then, I pre-punched holes in the jelly beans to make it easy for him to slide the toothpicks into the jelly beans. Then, we built our jelly bean creations together since this step was a little more difficult. 
 
 ![Jelly Bean math]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-math-clip-cards.jpg)
 
@@ -73,7 +73,7 @@ This unit is also filled with some great math activities that help teach childre
 
 We also loved using counters to count from 1 to 6. Each time we counted a printed jelly bean, we placed a real jelly bean on top of it. Make sure to also point to the numbers and say their names. This will help your child with number identification. 
 
-![Jelly Bean math]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-math-number-match.jpg)
+![Jelly Bean math]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-ice-cube-melting.jpg)
 
 Our final science experiment did require me to plan ahead. The day before you plan to teach this lesson, you will want to freeze some jelly beans inside water to make jelly bean ice cubes. Give your child an ice cube and ask your child to remove the jelly bean. If your child is anything like mine, then it won't take long to realize the jelly beans are trapped! Show your child how to place the ice cube in sunlight to watch it melt. You can also hold tight in your hand and watch the water drip off. My son tried throwing his ice cube on concrete and it broke. Then, he was able to work the jelly bean out of the ice cube a little faster. 
 
