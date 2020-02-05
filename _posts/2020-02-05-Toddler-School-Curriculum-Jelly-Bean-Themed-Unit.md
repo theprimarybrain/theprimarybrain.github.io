@@ -22,14 +22,16 @@ Each of the 5 lessons in this unit includes the following activities:
 ## Lesson Setup
 ![Cover Page]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-cover.jpg)
 
-The first thing I always do with my son is color our cover page for our unit notebook. I fold a large sheet of construction paper in half and glue the cover page on with stick glue. It's a great way to introduce the new unit while getting in some much needed coloring practice. 
+The first thing I  do with my son at the beginning of a new unit is color our cover page for our unit notebook. I fold a large sheet of construction paper in half and glue the cover page on with stick glue. It's a great way to introduce the new unit while getting in some much needed coloring practice. 
 
-## Sensory Bin
+## Sensory Bins
 ![Jelly Bean Sensory Bin]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-sensory-bin.jpg)
 
-To kick off the unit, we started out with a Jelly Bean Sensory Bin. This bin was created as a fun sensory experience where your child can play with the jelly beans using various tools. As you progress through the unit, you will add letter and number learning components to the bin, so I have found it is best to give free exploration time with the sensory bin filler first. This bin provided hours of fun for my little guy while I prepped a few of the other activities for the unit. 
+To kick off the unit, we played with a Jelly Bean Sensory Bin. This bin was created as a fun sensory experience where your child can play with the jelly beans using various tools. As you progress through the unit, you will add letter and number learning components to the bin. Since this unit is best for a 2-3 year old child, it is best to give free exploration time with the sensory bin filler first. This bin provided hours of fun for my little guy while I prepped a few of the other activities for the unit. 
 
 ![Jelly Bean Sensory Bin]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-sensory-bin-letters.jpg)
+
+Over the new few days, we worked on the uppercase and lowercase letter J/j, sorted numbers, and played with play dough. 
 
 ![Jelly Bean Sensory Bin]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-sensory-bin-numbers.jpg)
 
