@@ -6,7 +6,7 @@ categories: [STEM Activities]
 tags: [stem]
 image:
   feature: valentine-stem-challenge-3.jpg
-  teaser: 
+  teaser: valentine-stem-challenges-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
