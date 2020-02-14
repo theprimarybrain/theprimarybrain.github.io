@@ -26,7 +26,9 @@ To kick off our STEM afternoon, I gave each student a STEM Journal. The journal 
 
 ## Our 7 Valentine's Day STEM Challenges
 
-### STEM Challenge 1: 
+When introduced the challenges to my students, I found it was best to go around the room one challenge at a time and explain the directions. We read the question together and reviewed all the available materials. If you were doing these challenges with upper elementary students, I would provide less of an introduction and offer assistance when needed. 
+
+## STEM Challenge 1: 
 ![Challenge 1]({{ site.github.url }}/assets/img/valentine-stem-challenge-1b.jpg)
 
 For this challenge, my students were given a bucket of candy hearts. They had to try to build the tallest tower they could using their candy hearts. 
