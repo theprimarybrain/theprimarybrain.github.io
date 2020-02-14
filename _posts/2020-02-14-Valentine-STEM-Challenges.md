@@ -59,7 +59,7 @@ Using their materials, my students tried to construct the tallest tower they cou
 ### Challenge 4:
 ![Challenge 4]({{ site.github.url }}/assets/img/valentine-stem-challenge-4b.jpg)
 
-For our fourth challenge, I pre-cut small, medium, and large hearts on different colored papers using the template in my [Valentine's Day STEM Pack](https://www.teacherspayteachers.com/Product/50-off-for-48-Hours-Valentine-STEM-Challenges-5248004?utm_source=PB%20Blog&utm_campaign=Valentine%20STEM%20Stations). My students had to place as many of these hearts as they could inside the heart on the large heart workmat without overlapping any hearts. 
+For our fourth challenge, I pre-cut small, medium, and large hearts on different colored [Astrobrights papers](https://www.amazon.com/gp/product/B01LX0UJBN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LX0UJBN&linkCode=as2&tag=theprimarybra-20&linkId=3b99140818a0edf8d0a551c9fee02a4c) using the template in my [Valentine's Day STEM Pack](https://www.teacherspayteachers.com/Product/50-off-for-48-Hours-Valentine-STEM-Challenges-5248004?utm_source=PB%20Blog&utm_campaign=Valentine%20STEM%20Stations). My students had to place as many of these hearts as they could inside the heart on the large heart workmat without overlapping any hearts. 
 
 ![Challenge 4]({{ site.github.url }}/assets/img/valentine-stem-challenge-4.jpg)
 
