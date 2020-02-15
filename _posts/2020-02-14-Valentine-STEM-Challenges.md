@@ -85,6 +85,6 @@ For our seventh and final challenge, my students used a single piece of paper to
 
 ## Reflection
 
-After completing all seven challenges, I gave my students the writing reflection page of their choice from our Valentine STEM Pack. I loved reading about their favorite activities and the challenges that were easiest and most difficult for them. It was a day filled with memories for my littles and I. I can't wait to plan another STEM afternoon in a few weeks! 
+After completing all seven challenges, I gave my students the writing reflection page of their choice from our Valentine STEM Pack. I loved reading about their favorite activities and the challenges that were easiest and most difficult for them. It was a day filled with memories for my littles! I can't wait to plan another STEM afternoon in a few weeks! 
 
-I hope you were able to grab some fun ideas to do with your class or your kids at home. If you want to grab the printables resources shown in this post, you can click here to download my [Valentine STEM Challenges](https://www.teacherspayteachers.com/Product/50-off-for-48-Hours-Valentine-STEM-Challenges-5248004?utm_source=PB%20Blog&utm_campaign=Valentine%20STEM%20Stations) from my TpT store. 
+I hope you were able to grab some fun ideas to do with your class or your kids at home. If you want to grab the printables resources shown in this post, you can [click here to download my Valentine STEM Challenges](https://www.teacherspayteachers.com/Product/50-off-for-48-Hours-Valentine-STEM-Challenges-5248004?utm_source=PB%20Blog&utm_campaign=Valentine%20STEM%20Stations) from my TpT store. 
