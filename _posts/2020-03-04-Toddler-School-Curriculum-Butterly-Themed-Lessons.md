@@ -61,7 +61,7 @@ To set up the activity, grab one of the many cardboard boxes you have around the
 
 ## Math and Science Activities
 
-Since this unit is all about butterflies, we took a couple walks in nature to hunt for butterflies. It is so much fun to bring a butterfly net and try to catch a few butterflies. My son was unsuccessful at catching any, but the hunt is half the fun! After our butterfly hunt, we worked on a couple of counting activities. 
+Since this unit is all about butterflies, we took a couple walks in nature to hunt for butterflies. It is so much fun to bring a [butterfly net](https://amzn.to/39r0xU3) and try to catch a few butterflies. My son was unsuccessful at catching any, but the hunt was half the fun! After our butterfly hunt, we worked on a couple of counting activities. 
 
 ![Butterfly Counting]({{ site.github.url }}/assets/img/toddler-butterfly-counting-cards.jpg)
 
