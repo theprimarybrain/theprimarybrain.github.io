@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toddler School - Apple Themed Unit
+title: Apple Themed Toddler School Lessons
 categories: [Toddler School]
 tags: [toddler, apples, toddler school]
 image:

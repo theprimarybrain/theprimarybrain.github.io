@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toddler School - Rainbow Themed Unit
+title: Rainbow Themed Toddler School Lessons
 categories: [Toddler School]
 tags: [toddler, rainbow, toddler school]
 image:
