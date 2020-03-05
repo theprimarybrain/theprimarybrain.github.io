@@ -20,7 +20,6 @@ Each of the 5 lessons in this butterfly unit include the following activities:
 - art activity
 
 ## Lesson Setup
-
 ![Butterfly Cover]({{ site.github.url }}/assets/img/toddler-butterfly-cover.jpg)
 
 The first thing I do with my son at the beginning of a new unit is color our cover page for our unit notebook. I fold a large sheet of construction paper in half and glue the cover page on with stick glue. It's a great way to introduce the new unit while getting in some much needed coloring practice. *Remember*, your toddler is still learning how to color, so going outside the lines is normal for the age.
@@ -52,7 +51,7 @@ Then, we made caterpillar bracelets by stringing cheerios onto a piece of yarn. 
 
 ![Butterfly Art]({{ site.github.url }}/assets/img/toddler-butterfly-art-mask.jpg)
 
-My son's favorite activity was making a butterfly mask. He had so much fun squiring liquid glue and sprinkling glitter on his mask. Then, I laminated the mask so that he could wear it around the house without adding a sprinkling of glitter all over our home. 
+My son's favorite activity was making a butterfly mask. He had so much fun squirting liquid glue and sprinkling glitter on his mask. Then, I laminated the mask so that he could wear it around the house without adding a sprinkling of glitter all over our home. 
 
 ![Butterfly Art 2]({{ site.github.url }}/assets/img/toddler-butterfly-art-popsicle-stick-puppets.jpg)
 
