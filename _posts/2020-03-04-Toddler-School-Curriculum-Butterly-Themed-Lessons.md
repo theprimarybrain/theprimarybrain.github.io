@@ -55,7 +55,9 @@ My son's favorite activity was making a butterfly mask. He had so much fun squir
 
 ![Butterfly Art 2]({{ site.github.url }}/assets/img/toddler-butterfly-art-popsicle-stick-puppets.jpg)
 
-My son LOVES anything with craft sticks right now. Not sure why, but using liquid glue and pasting the stick onto somethings is *all the rage* right now. So, we put on a butterfly puppet show! I carved a hole out of a large cardboard box. Meanwhile, my son decorated his butterfly craft stick puppets. We had so much fun taking turns putting on our play.
+My son LOVES anything with craft sticks right now. Not sure why, but using liquid glue and pasting the stick onto something is *all the rage* right now. So, we put on a butterfly puppet show! To make our puppets, we decorated our butterfly cutouts and then pasted onto a craft stick. 
+
+To set up the activity, grab one of the many cardboard boxes you have around the house. *If you have Amazon Prime, then you know what I mean!* Carve a hole out of a the cardboard box. One person hides behind the box and holds the puppet up into the opening. Have fun taking turns putting on the play!
 
 ## Math and Science Activities
 
