@@ -57,7 +57,7 @@ My son's favorite activity was making a butterfly mask. He had so much fun squir
 
 My son LOVES anything with craft sticks right now. Not sure why, but using liquid glue and pasting the stick onto something is *all the rage* right now. So, we put on a butterfly puppet show! To make our puppets, we decorated our butterfly cutouts and then pasted onto a craft stick. 
 
-To set up the activity, grab one of the many cardboard boxes you have around the house. *If you have Amazon Prime, then you know what I mean!* Carve a hole out of a the cardboard box. One person hides behind the box and holds the puppet up into the opening. Have fun taking turns putting on the play!
+To set up the activity, grab one of the many cardboard boxes you have around the house. *If you have Amazon Prime, then you know what I mean!* Carve a hole out of the cardboard box. One person hides behind the box and holds the puppet up into the opening. Have fun taking turns putting on the play!
 
 ## Math and Science Activities
 
@@ -82,3 +82,5 @@ We also worked on counting through this Tabbed Number Book. Each page had a butt
 No week is complete without some gross motor activities that get us outside! Not only did we take a couple of nature walks, but we also did a butterfly dance, hopped on butterfly cards, and practice flying like a butterfly. 
 
 I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Butterfly Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 
+
+![Laurin]({{ site.github.url }}/assets/img/laurin2.png)
