@@ -83,4 +83,4 @@ No week is complete without some gross motor activities that get us outside! Not
 
 I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Butterfly Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 
 
-![Laurin]({{ site.github.url }}/assets/img/laurin2.png)
+![Laurin]({{ site.github.url }}/assets/img/Laurin2.png)
