@@ -13,7 +13,7 @@ For the past year and a half, my son and I worked through 26 toddler school unit
 
 ## Lesson Components
 
-Each of the 5 lessons in this unit includes the following activities:
+Each of the 5 lessons in this unit include the following activities:
 - literacy/language
 - math or science activity
 - fine motor activity
@@ -22,7 +22,7 @@ Each of the 5 lessons in this unit includes the following activities:
 
 ## Lesson Setup
 
-![Toddler School]({{ site.github.url }}/assets/img/Toddler-School-Zoo-Theme-2.jpg)
+![Toddler School]({{ site.github.url }}/assets/img/Toddler-School-Zoo-Theme-4.jpg)
 
 We kicked off our Zoo unit by coloring the cover page for our unit notebook. We talked about the animals that live in the zoo and made animal sounds.
 
@@ -46,7 +46,7 @@ Since this is a zoo themed unit, our art activities incorporated several differe
 
 ![Toddler School3]({{ site.github.url }}/assets/img/Toddler-School-Zoo-Theme-11.jpg)
 
-Z is for zoo. Naturally, we had to do a craft showcasing the letter Z. We built this zebra by pasting the zebra head and tail onto a cut out letter Z. Then, Conner drew the zebra stripes onto the letter z.
+Z is for zoo. So, naturally, we had to do a craft showcasing the letter Z. We built this zebra by pasting the zebra head and tail onto a cut out letter Z. Then, Conner drew the zebra stripes onto the letter z.
 
 ![Toddler School3]({{ site.github.url }}/assets/img/Toddler-School-Zoo-Theme-5.jpg)
 

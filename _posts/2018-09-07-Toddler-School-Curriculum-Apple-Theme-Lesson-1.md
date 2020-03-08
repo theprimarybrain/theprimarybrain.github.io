@@ -2,7 +2,7 @@
 layout: post
 title: Apple Themed Toddler School Lessons
 categories: [Toddler School]
-tags: [toddler, apples, toddler school]
+tags: [toddler, toddler school]
 image:
   feature: toddler-apple-cover-sheet-feature.jpg
   teaser: toddler-apple-pie-sensory-bin-play-teaser.jpg
