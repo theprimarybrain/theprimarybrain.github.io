@@ -9,7 +9,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-For the past year and a half, my son and I worked through 26 toddler school units. It was so much fun to watch my son engage in toddler activities while we learned about all 26 letters of the alphabet. We loved every moment! To finish out the alphabet, I created this [Zoo Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Zoo-Themed-Lessons-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20School). Our final 5 lesson plans were so much fun and I hope you find some great ideas in this post to do with your little ones. 
+For the past year and a half, my son and I worked through 26 toddler school units. It was so much fun to watch Conner engage in toddler activities while we learned about all 26 letters of the alphabet. We loved every moment! To finish out the alphabet, I created this [Zoo Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Zoo-Themed-Lessons-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20School). Our final 5 lesson plans were so much fun and I hope you find some great ideas in this post to do with your little ones. 
 
 ## Lesson Components
 
