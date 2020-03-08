@@ -5,7 +5,7 @@ categories: [Toddler School]
 tags: [toddler, toddler school]
 image:
   feature: Toddler-School-Zoo-Theme-2.jpg
-  teaser: 
+  teaser: toddler-zoo-alphabet-zoo-sensory-bin-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
