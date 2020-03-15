@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Contact
-image:
-  feature: valentine-stem-challenge-3.jpg
+title: Newsletter
 ---
 <div id="fd-form-5df92e8549ed9c00265f9e18"></div>
 <script>
