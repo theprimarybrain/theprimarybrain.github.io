@@ -34,15 +34,16 @@
   {% if page.layout == "home" %}
     <meta name="p:domain_verify" content="9361ded4530741dfb12c20525f468910"/>
   {% endif %}
-
+  <!-- Open Graph data -->
   <meta property="fb:app:id"      content="{{ site.data.settings.facebook_app_id }}" />
   <meta property="og:url"         content="{{ site.url }}/{{ page.url }}" />
   <meta property="og:title"       content="{{ page.title }}" />
   <meta property="og:image"       content="{{ site.url }}/assets/img/{{ page.image.feature }}" />
-  
+
   {% if page.layout == "post" %}
     <meta property="og:type"        content="article" />
     <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 300 }}" />
   {% endif %}
+  <!-- End Open Graph data -->
   {% seo %}
 </head>
