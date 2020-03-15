@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Free Toddler Activities
+image:
+  feature: toddler-apple-pie-sensory-bin-play.jpg
 ---
 <div id="fd-form-5e6bae8cb57a7300267c1cf2"></div>
 <script>
