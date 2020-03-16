@@ -3,6 +3,7 @@ layout: post
 title: Ice Cream Themed Sensory Bins
 author: Laurin Brainard
 categories: [Sensory Bins]
+flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, sensory bins]
 image:
   feature: ice-cream-sensory-bin-puzzles.jpg
