@@ -44,6 +44,7 @@ Sensory bins are also a great way to introduce your toddler to letters, sounds, 
 Then, we used the same bin filled with barley to match letter puzzles and continue practicing letter identification.
 
 ![Cars Sensory Bin]({{ site.github.url }}/assets/img/Toddler-Cars-8.jpg)
+
 ![Cars Sensory Bin]({{ site.github.url }}/assets/img/Toddler-Cars-3.jpg)
 
 This car wash station was another perfect way to take learning outside! Before beginning, we read our *How to Wash a Car* book. I filled a large bowl with bubble bath and another with clear water. I gave my toddler a washing cloth to wash the cars and a drying rag to dry the cars. As the morning went on, the cars made it into the mud and then we really needed the car wash station! This was a great water play station that provided a morning of fun for my little ones! 
@@ -82,7 +83,7 @@ Since this is a cars unit, I created a road that my son could paste cars onto. T
 
 ## Math Activities
 
-![Cars Dot Marker]({{ site.github.url }}/assets/img/Toddler-Cars-10.jpg)
+![Cars Dot Marker]({{ site.github.url }}/assets/img/Toddler-Cars.jpg)
 
 One of my favorite math activities we have ever done was driving cars into this parking lot. We were working on matching numbers and learning the name of each number. We drove the cars around the parking lot until we found the matching number. Once we found it, we said the name of the number and parked the car in the parking space.
 
