@@ -62,5 +62,3 @@ I have teamed up with my friends to bring you even more fun with your little one
 I hope you enjoy the ice cream themed activities this week! Have a wonderful summer with your little ones!
 
 
-
-
