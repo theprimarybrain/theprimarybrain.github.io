@@ -59,9 +59,7 @@ I have teamed up with my friends to bring you even more fun with your little one
 
 <p style="text-align: center;"><a href="https://literacywiththelittles.com/2020/05/18/free-ice-cream-themed-activities/?fbclid=IwAR0TXcP3gE9z6b39c1HrbeBqMSBu1JIJMNi1Lq8vs2_YZegB1_RKzKCYtqk">Ice Cream Vowel Sort</a> // Literacy with the Littles</p>
 
-## Don't Forget to Grab Your Free Ice Cream Letter Match!
-
-
+I hope you enjoy the ice cream themed activities this week! Have a wonderful summer with your little ones!
 
 
 
