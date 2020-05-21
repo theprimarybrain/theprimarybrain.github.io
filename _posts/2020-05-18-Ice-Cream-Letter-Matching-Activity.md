@@ -59,6 +59,6 @@ I have teamed up with my friends to bring you even more fun with your little one
 
 <p style="text-align: center;"><a href="https://literacywiththelittles.com/2020/05/18/free-ice-cream-themed-activities/?fbclid=IwAR0TXcP3gE9z6b39c1HrbeBqMSBu1JIJMNi1Lq8vs2_YZegB1_RKzKCYtqk">Ice Cream Vowel Sort</a> // Literacy with the Littles</p>
 
-I hope you enjoy the ice cream themed activities this week! Have a wonderful summer with your little ones!
+I hope you enjoy the ice cream themed activities this week! You might also enjoy my [Toddler School Ice Cream Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Ice-Cream-Themed-Lessons-4635846). Have a wonderful summer with your little ones!
 
 
