@@ -4,7 +4,7 @@ title: How To Get Started With Boom Cards™
 author: Laurin Brainard
 categories: [Digital Learning]
 tags: [boom cards, distance learning, digital]
-flodesk: 
+flodesk: 5ecfe41ad832e40026fdb250
 image:
   feature: boom-cards-the-primary-brain.jpg
   teaser: boom-cards-get-started-teaser.jpg
@@ -49,7 +49,5 @@ My students especially love seeing their lifetime scores and achievements on the
 
 ## I Created an Account, Now What?
 Once you have created an account, it is time for you to start assigning Boom Card Decks to your students. There are tons of free and paid decks available on Boom, or you can grab Boom Cards from Teachers Pay Teachers. [Click here to check out my Boom Cards Shop](https://wow.boomlearning.com/author/theprimarybrain?ref=blogquickstart). Once you open a Boom Card Deck on Boom Learning, click the "Full-sized Preview" button to try playing a few sample cards. Or just [click here](https://wow.boomlearning.com/deck/q-H6TDmkrAmPFvsG6YE?ref=tpt) to try out one of my CVC word decks. 
-
-
 
 I want to make it as easy as possible for you to start using Boom Cards, so please feel free to reach out on social media @theprimarybrain if you have any questions. I am happy to help!
