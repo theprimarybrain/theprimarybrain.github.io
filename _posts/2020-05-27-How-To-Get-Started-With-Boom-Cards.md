@@ -14,7 +14,7 @@ image:
 Boom Cards™ are my new favorite tool for distance learning. They are colorful, fun, and engaging! My students are able to learn the same skills that we were learning on paper through a fun digital platform. Plus, it is SO EASY for me to use. Within minutes I had my class set up, students added, and passwords created. Then, all I had to do was assign the cards I wanted my students to use and we were ready to go! 
 
 ## What Are Boom Cards?
-You might be wondering exactly what Boom Cards are. *What can I use them for? How will they fit into my classroom?* 
+You might be wondering what exactly are Boom Cards anyways? *What can I use them for? How will they fit into my classroom?* 
 
 The best part is, I have been able to create Boom Cards for any standard that I am teaching in my class. Boom Cards are simply digital task cards that can be played on a tablet, android or iphone, or a computer. It honestly feels like you are playing a game! 
 
@@ -40,6 +40,7 @@ For additional assignment options you'll need to open a premium account. If you 
 ![Student Data]({{ site.github.url }}/assets/img/boom-cards-deck-mastery.jpg)
 
 You can also look at detailed reporting of each time a student plays a deck. The data shows you the amount of time they were playing the deck and the specific stats of the game play. Here is an example of a round of play from my [Learning Colors Boom Cards](https://wow.boomlearning.com/deck/learning-colors-gSe5egFpkLoqpxFsX).
+
 ![Student Data]({{ site.github.url }}/assets/img/boom-cards-deck-data.jpg)
 
 My students especially love seeing their lifetime scores and achievements on their dashboards. 
