@@ -14,7 +14,7 @@ image:
 Do you use Boom Cards™ with your students? They are one of my favorite tools for digital learning! I started creating them for my son at home and quickly saw all the ways that I can use Boom Cards with my first grade students! If you are new to Boom Learning, you can [click here](https://theprimarybrain.com/digital%20learning/2020/05/27/How-To-Get-Started-With-Boom-Cards/) to read all about how to get started on Boom Learning. I really want you to fall in love with digital task cards like I have, so I put together a FREE CVC Word Boom Card set that you can try out with your students. 
 
 ## Summer CVC Freebie
-I created this fun CVC Boom Card set for students to use as they continue learning over the summer. Anything at the beach screams summer to me, so I hope that they enjoy learning under the sea! Just fill out the form below to download this FREE Boom Card set. 
+I created this fun CVC Boom Card set for students to use as they continue learning over the summer. Anything at the beach screams summer to me, so I hope that they enjoy learning under the sea! Just fill out this form and I will send the Boom Cards right over to you!
 
 <div id="fd-form-5ed026d0b9c153002b5ad596"></div>
 <script>
@@ -25,6 +25,9 @@ I created this fun CVC Boom Card set for students to use as they continue learni
 </script>
 
 ## Check Out These Other Digital Freebies
+
+I have teamed up with 5 of my friends to bring you 6 FREE digital learning resources! They all have a summer theme and I hope you enjoy them this summer. 
+
 ![Digital Freebies]({{ site.github.url }}/assets/img/digital-blog-hop-summer-resources.jpg)
 
 <!-- wp:list -->
