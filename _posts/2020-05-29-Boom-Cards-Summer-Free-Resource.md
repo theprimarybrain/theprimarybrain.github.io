@@ -25,8 +25,6 @@ This Under the Sea Boom Card set is perfect for students who need a little extra
 </script>
 If you are new to Boom Learning, then you may want to read my [How To Get Started With Boom Cards blog post](https://theprimarybrain.com/digital%20learning/2020/05/27/How-To-Get-Started-With-Boom-Cards/). It goes over all the information you need to set up an account and assign Boom Card decks to your students. 
 
-If you are new to Boom Learning, then you may want to read my [How To Get Started With Boom Cards blog post](https://theprimarybrain.com/digital%20learning/2020/05/27/How-To-Get-Started-With-Boom-Cards/). It goes over all the information you need to set up an account and assign Boom Card decks to your students. 
-
 ## Check Out These Other Digital Freebies
 
 I have teamed up with 5 of my friends to bring you 6 FREE summer themed digital learning resources! 
