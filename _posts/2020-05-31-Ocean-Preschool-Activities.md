@@ -12,7 +12,7 @@ image:
 ---
 I am so excited to begin sharing preschool lessons with you! So many of you joined my little family through our Toddler School lessons over the past two years, and I can't wait to see where this preschool journey takes us. I watched my son grow in his love of learning, develop fine motor skills, learn the alphabet, and learn to count to 10. As we begin this new preschool adventure, I will be creating lessons that build on the skills we have already learned in new and exciting ways! I hope you enjoy beginning this journey with us! 
 
-The first unit I get to share with you is our [Preschool Ocean Unit](https://www.teacherspayteachers.com/Product/Preschool-Lesson-Plans-Ocean-Preschool-Curriculum-5634332?utm_source=PB%20Blog&utm_campaign=Ocean%20Preschool%20Unit%20Blog%20Post)! It is filled with activities that take us on a trip down under the sea. 
+The first unit I get to share with you is our [Preschool Ocean Unit](https://www.teacherspayteachers.com/Product/Preschool-Lesson-Plans-Ocean-Preschool-Curriculum-5634332?utm_source=PB%20Blog&utm_campaign=Ocean%20Preschool%20Unit%20Blog%20Post)! It is filled with activities that take us on a trip down under the sea. Make sure to read to the bottom of this post for a special free resource you can use to get started learning right away!
 
 ## Ocean Unit Overview
 During this week, children will work on the following:
@@ -38,6 +38,7 @@ Next, we got into our scuba gear and got ready for a trip down under! We tied ri
 We love pretend play in our home since it allows imagination to run wild! This is so important in the creative development of a child's brain. I created an ocean themed pretend play center. I painted a tri-fold board and then cut an opening to hold our puppets in. It was the perfect puppet show backdrop! 
 
 ![Pretend Play]({{ site.github.url }}/assets/img/preschool-ocean-dramatic-play-center.jpg)
+
 ![Pretend Play]({{ site.github.url }}/assets/img/preschool-ocean-dramatic-play-center-3.jpg)
 
 Then, I cut out ocean animals and glued onto craft sticks. We have had more puppet shows than I can count in the past few days.
@@ -56,7 +57,7 @@ We also enjoyed matching letters while working on letter names and sounds throug
 
 ## Fine Motor Activities
 
-Let's just say that I obsess a bit over including as many fine motor activities as I can into our day. As a first grade teacher, I know the importance of fine motor skills and how they relate to a child writing independently. In this unit, we work on squeezing, pressing, grasping, lacing, tracing, cutting, gluing, and coloring...to name a few of the fine motor development activities we will do. 
+Let's just say that I obsess a bit over including as many fine motor activities as I can into our day. As a first grade teacher, I know the importance of fine motor skills and how they relate to a child writing independently. In this unit, we work on squeezing, pressing, grasping, lacing, tracing, cutting, gluing, and coloring...to name a few...
 
 ![Melting Ice]({{ site.github.url }}/assets/img/preschool-ocean-fine-motor-science.jpg)
 
@@ -86,13 +87,13 @@ This week, we made an ocean in a bottle. To make your own, add 2/3 water to the 
 
 ![Math Clip Cards]({{ site.github.url }}/assets/img/ocean-preschool-math-clip-cards.jpg)
 
-This unit focused on counting numbers within 10. We worked on this by counting ocean animals and clipping the clothespin onto the correct number. 
+This unit focused on counting numbers within 10. We worked on this by counting ocean animals and clipping the clothespin onto the correct number. You can grab these clip cards for FREE at the bottom of this post. 
 
 ![Math Number Mats]({{ site.github.url }}/assets/img/preschool-ocean-number-mat-game.jpg)
 
 We also used these hands on number mats to form each number. To play the game, draw a card. Then, place the same number of bubbles into the ocean that were shown on the card.
 
-![Math Number Mats]({{ site.github.url }}/assets/img/)
+![Math Number Mats]({{ site.github.url }}/assets/img/preschool-ocean-graphing.jpg)
 
 We also worked on graphing numbers to 10 using this math graphing sheet.
 
