@@ -3,7 +3,7 @@ layout: post
 title: Ice Cream Letter Matching Activity
 author: Laurin Brainard
 categories: [Literacy Activities]
-tags: [alphabet, ELD, letters]
+tags: [alphabet, ELD, letters, preschool]
 flodesk: 5ec35d8dd832e40026fdab29
 image:
   feature: ice-cream-letter-match.jpg

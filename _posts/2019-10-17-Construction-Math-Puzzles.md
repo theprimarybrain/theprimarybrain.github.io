@@ -3,7 +3,7 @@ layout: post
 title: Construction Math Puzzles Freebie
 author: Laurin Brainard
 categories: [Math Activities]
-tags: [math, freebie]
+tags: [math, freebie, preschool]
 image:
   feature: construction-puzzles-feature.jpg
   teaser: construction-puzzles-teaser.jpg
