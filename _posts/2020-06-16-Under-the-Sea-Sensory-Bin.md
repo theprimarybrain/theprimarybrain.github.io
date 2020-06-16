@@ -9,6 +9,6 @@ image:
   teaser: under-the-sea-sensory-bin-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
-We are in full summer mode here so what could be more fun than a sand and sea sensory bin! 
+We are in full summer mode here so what could be more fun than a sand and sea sensory bin! In this bin, children will go on a letter hunt to find the letters under the sea! 
 
-![Sensory Bin]({{ site.github.url }}/assets/img/under-the-sea-sensory-bin-2.jpg)
+![SensoryBin]({{ site.github.url }}/assets/img/under-the-sea-sensory-bin-2.jpg)
