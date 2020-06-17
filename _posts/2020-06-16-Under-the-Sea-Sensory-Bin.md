@@ -28,6 +28,6 @@ To prepare this activity, you will fill half of a bin with sand. Then, you will 
   });
 </script>
 
-I hope you enjoy playing and learning with this sensory bin this week. If you want to grab a few more activities, check out my [Ocean Preschool Unit](https://www.teacherspayteachers.com/Product/Preschool-Lesson-Plans-Ocean-Preschool-Curriculum-5634332?utm_source=PB%20Blog&utm_campaign=Ocean%20Sensory%20Bin%20Sand%20and%20Sea_Ocean%20Preschool%20unit) or my [Alphabet Matching Boom Cards](https://www.teacherspayteachers.com/Product/ABC-Boom-Cards-Alphabet-Matching-Cards-5643021?utm_source=PB%20Blog&utm_campaign=Ocean%20Sensory%20Bin%20Sand%20and%20Sea_ABC%20Boom%20Cards).
+I hope you enjoy playing and learning with this sensory bin this week. If you want to grab a few more activities, check out my **[Ocean Preschool Unit](https://www.teacherspayteachers.com/Product/Preschool-Lesson-Plans-Ocean-Preschool-Curriculum-5634332?utm_source=PB%20Blog&utm_campaign=Ocean%20Sensory%20Bin%20Sand%20and%20Sea_Ocean%20Preschool%20unit)** or my **[Alphabet Matching Boom Cards](https://www.teacherspayteachers.com/Product/ABC-Boom-Cards-Alphabet-Matching-Cards-5643021?utm_source=PB%20Blog&utm_campaign=Ocean%20Sensory%20Bin%20Sand%20and%20Sea_ABC%20Boom%20Cards)**.
 
 
