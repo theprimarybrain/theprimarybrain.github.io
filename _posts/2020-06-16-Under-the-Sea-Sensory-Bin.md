@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter Hunt Sensory Bin Freebie
+title: Letter Hunt Sensory Bin Freebie!
 author: Laurin Brainard
 categories: [Literacy Activities]
 tags: [preschool, ocean, literacy]
