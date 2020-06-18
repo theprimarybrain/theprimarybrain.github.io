@@ -37,6 +37,7 @@ I have teamed up with some teacher mana friends to bring you another week of und
 ![UnderTheSea]({{ site.github.url }}/assets/img/Under-the-Sea-Blog-Hop.jpg)
 
 ## Activities from Left to Right
+
 <p style="text-align: center;"><a href="https://literacywiththelittles.com/2020/06/15/free-creative-writing-printable/?fbclid=IwAR1o-BcD_93OB8xg8iZr927XL1K6ehEeQ1LWHK64xOxrFhcJqe8eS4EiHjE">Creative Writing Printable</a> // Literacy with the Littles</p>
 
 <p style="text-align: center;"><a href="https://misformonster.com/ocean-learning-sensory-bin-with-free-printables/?fbclid=IwAR2qgflJluuZ4k9SHLJYN9ZD04xg5_feIJWPZQGEIGeZ2uloxEIc_cnXsj0">Water Beads Sensory Bin</a> // M is for Monster</p>
