@@ -32,7 +32,7 @@ I hope you enjoy playing and learning with this sensory bin this week. If you wa
 
 ## Even More Under the Sea Fun!
 
-I have teamed up with some teacher mana friends to bring you another week of under the sea fun FREE resources! Just tap the links to grab all of these 
+I have teamed up with some teacher mana friends to bring you another week of under the sea fun FREE resources! Just tap the links below to grab all of these!
 
 ![UnderTheSea]({{ site.github.url }}/assets/img/Under-the-Sea-Blog-Hop.jpg)
 
