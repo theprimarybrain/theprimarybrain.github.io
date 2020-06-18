@@ -56,7 +56,7 @@ I have teamed up with some teacher mana friends to bring you another week of und
 
 <p style="text-align: center;"><a href="https://www.fairypoppins.com/under-the-sea-mats">Under the Sea Fine Motor Mats</a> // Fairy Poppins</p>
 
-
+Have a great week!
 
 
 
