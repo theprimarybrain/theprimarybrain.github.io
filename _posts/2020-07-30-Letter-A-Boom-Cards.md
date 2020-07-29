@@ -5,7 +5,7 @@ author: Laurin Brainard
 categories: [Digital Learning]
 tags: [boom cards, distance learning, digital, letters]
 image:
-  feature: 
+  feature: letter-a-boom-cards.jpg
   teaser: 
   credit: Laurin Brainard
   creditlink: ""
