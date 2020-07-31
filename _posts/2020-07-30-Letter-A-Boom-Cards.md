@@ -33,3 +33,19 @@ After we work through the letter name and sound, I decided to add some additiona
 I hope you are as excited as I am about using Boom Cards to teach letters to your students! They are perfect for students learning in a one to one classroom with devices, or for students who are at home learning. 
 
 These [**Letter A Boom Cards**](https://www.teacherspayteachers.com/Product/Letter-A-Alphabet-Boom-Cards-FREEBIE-Digital-Task-Cards-Distance-Learning-5813663) are FREE in my Teachers Pay Teachers shop so you can try them out! You can also check out my [**Letters Boom Card Bundle**](https://www.teacherspayteachers.com/Product/Letters-Alphabet-Boom-Cards-Digital-Task-Cards-Distance-Learning-5813779) if you want to grab the entire alphabet. I hope you have a wonderful year teaching letters to your students!
+
+If you are looking for some more free and fun activities for back to school, check out these digital activities that I put together with some teacher friends!
+
+![Letter A Boom Cards Blog Hop]({{ site.github.url }}/assets/img/blog-hop-apple-boom-cards.jpg)
+
+<!-- wp:image {"id":19309,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://www.teach-me-mommy.com/wp-content/uploads/2020/07/B2S-Collage.png" alt="B2S Collage" class="wp-image-19309"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5,"align":"center"} -->
+<h5 style="text-align:center">More fun Digital Resources to check out! From left to right:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li><a href="https://literacywiththelittles.com/2020/07/29/free-resources-for-back-to-school-2020/">Count the Crayons</a> by Literacy with the Littles </li><li><a href="http://theprimarypost.com/2020/07/free-beginning-sounds-boom-cards.html">B2S Beginning Sounds</a> by The Primary Post</li><li><a href="https://www.fairypoppins.com/letter-match-boom-cards/">School bus Letter Match</a> by Fairy Poppins</li><li><a href="https://fluffytots.com/back-to-school-boom-cards-counting-1-10-activities/">Back-to-School Counting</a> by Fluffy Tots</li><li><a href="https://www.teach-me-mommy.com/number-recognition-digital-resource/">Stationery Number Recognition</a> by Teach me Mommy</li><li><a href="https://theprimarybrain.com/digital%20learning/2020/07/30/Letter-A-Boom-Cards/">Letter A Boom cards</a> by The Primary Brain</li></ul>
+<!-- /wp:list -->
