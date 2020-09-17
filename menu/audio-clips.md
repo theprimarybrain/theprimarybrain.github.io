@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free Audio Clips
+title: Sign up for my Audio Clips Email List
 image:
   feature: audio-clips-feature.jpg
 ---
