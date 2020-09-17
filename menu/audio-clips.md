@@ -2,7 +2,7 @@
 layout: default
 title: Free Audio Clips
 image:
-  feature: Toddler-Activity-Feature-Photo.jpg
+  feature: audio-clips-feature.jpg
 ---
 ![AudioClips]({{ site.github.url }}/assets/img/audio-clips-feature.jpg)
 
