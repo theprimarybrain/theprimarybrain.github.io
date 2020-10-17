@@ -41,8 +41,8 @@ menu:
     url: 'toddler-school/'
   }
 - {
-    name: 'Newsletter', 
-    url: 'newsletter/'
+    name: 'Email List', 
+    url: 'emaillist/'
   }
 
 social:
