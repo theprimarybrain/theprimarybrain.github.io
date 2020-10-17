@@ -42,7 +42,7 @@ menu:
   }
 - {
     name: 'Email List', 
-    url: 'emaillist/'
+    url: 'email-list/'
   }
 
 social:

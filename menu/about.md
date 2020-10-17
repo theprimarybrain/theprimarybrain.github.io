@@ -16,4 +16,4 @@ I am now in my 7th year teaching first grade in the same classroom where my teac
 
 I was born and raised in Southern California where I now live with my amazing husband, son and daughter. When I am not teaching, you will find me spending time with family, going to church, playing in my kitchen, homeschooling for preschool, writing curriculum, and blogging to my heart’s content.  
 
-You can connect with me on [Instagram](https://www.instagram.com/theprimarybrain/) or [Click Here to join my email list](https://theprimarybrain.com/menu/newsletter/) to email me directly! 
+You can connect with me on [Instagram](https://www.instagram.com/theprimarybrain/) or [Click Here to join my email list](https://theprimarybrain.com/menu/email-list/) to email me directly! 
