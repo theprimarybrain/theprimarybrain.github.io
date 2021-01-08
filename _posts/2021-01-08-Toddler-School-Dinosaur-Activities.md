@@ -14,12 +14,12 @@ RAWR! Are your little ones as obsessed with dinosaurs as mine are? Dinosaurs are
 
 ## Lesson Components 
 This unit is made up of 5 lessons that will work on each include the following activities: 
--literacy/language 
--sensory bin 
--math or science activity 
--fine motor activity 
--gross motor activity 
--art activity 
+- literacy/language 
+- sensory bin 
+- math or science activity 
+- fine motor activity 
+- gross motor activity 
+- art activity 
 
 ## Art Activities 
 
