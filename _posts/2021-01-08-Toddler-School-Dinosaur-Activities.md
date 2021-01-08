@@ -63,7 +63,7 @@ How fun are these Dino Math Cards? We love working on counting and number recogn
 
 ## Gross Motor Activities 
 
-![DinosaurToddler]({{ site.github.url }}/assets/img/dino-gross-motor-action-cards.jpg)
+![DinosaurToddler2]({{ site.github.url }}/assets/img/dino-gross-motor-action-cards.jpg)
 
 Alright parents, it’s time to brush up on those dinosaur names and get moving! We had WAY too much fun pretending to be all the different dinosaurs and we were definitely out of breath by the end of it! These dinosaur cards are an excellent way to get those little bodies moving either at home or in the classroom! 
 
