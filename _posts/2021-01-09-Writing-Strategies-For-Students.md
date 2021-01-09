@@ -9,24 +9,22 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-I love to spend some time after winter break brushing up on the writing strategies that my students NEED! In order for my first graders to be successful at writing paragraphs by the end of the year, they need to be able to expand, combine, and proofread their sentences. 
+Do your students need some extra help writing sentences? Let's spend some time brushing up on the writing strategies your students NEED! For my first graders to be successful at writing paragraphs by the end of the year, they need to be able to expand, combine, and proofread their sentences. 
 
 ## Expanding Sentences
-In the beginning of the school year, we work on 
-
-When we expand sentences, we work on making them longer by adding an adjective, conjunction, or preposition to the sentence. This helps students add details and make their sentences more exciting!
+At the beginning of the school year, we work on writing simple sentences. We begin with sentences such as _I see the cat._ As the year progresses and my students master writing simple sentences, we begin to expand the sentences by adding an adjective, conjunction, or preposition to the sentence. This helps students add details and make their sentences more exciting!
 
 ## Combining Sentences
 Learning to combine sentences is such an important skill for our little learners as they begin to write paragraphs. You know those repetitive sentences that our little ones write as they are first learning? 
 
-    I like my cat. I like my mom. I like my dog. I like my ball....
+_I like my cat. I like my mom. I like my dog. I like my ball...._
     
-You know the ones! Teaching my firsties to combine these sentences using conjunctions always makes their writing more interesting. I always begin by teaching them to take two similar sentences and combine them using the word _and_. Once they can combine using _and_, we move on to other conjunctions to continue to make their writing more interesting.
+You know the ones! Teaching our students to combine these sentences using conjunctions always makes their writing more interesting. I always begin by teaching how to take two similar sentences and combine them using the word _and_. Once they can combine using _and_, we move on to other conjunctions to continue to make their writing more interesting.
 
 ## Proofreading Sentences
 Proofreading is what makes our writing complete! Learning how to add capitalization marks, correct spelling, and add the proper ending mark helps to polish writing as our little learners write final drafts. In my first grade class, I like to have my students write a rough draft in their journals on primary lined paper. This writing paper is so helpful because there are large white space areas between their writing lines. We use this space to add their proofreading marks and make any necessary corrections. 
 
-After editing their writing, it is time to write a final draft! I like to give my students a special paper with a border to write their final drafts on. Then, we add their polished writing to our Writing Wall Bulletin Board.
+After editing their writing, it is time to write a final draft! To get your students more excited about writing their final draft, you can give them a special paper with a border to write their final drafts on. Then, add their polished writing to a Writing Wall Bulletin Board to show off that beautiful writing!
 
 ## Writing Strategies FREEBIE
 
