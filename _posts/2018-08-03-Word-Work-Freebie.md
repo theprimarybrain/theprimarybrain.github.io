@@ -7,7 +7,7 @@ tags: [freebie]
 flodesk: 6032ddd2afc5df5477470328
 image:
   feature: word-work-freebie-feature.jpg
-  teaser: word-work-freebie-teaser.jpg
+  teaser: word-work-freebie-teaser copy.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
