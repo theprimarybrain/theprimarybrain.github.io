@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Do your kiddos love taking a trip to the zoo?! We sure do! My kids cannot wait to go to the zoo to see the elephants! I created this elephant themed toddler unit to bring a little piece of the zoo to you and your littles at home!! 
+Do your kiddos love taking a trip to the zoo?! We sure do! My kids cannot wait to go to the zoo to see the elephants! I created this [elephant themed toddler unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) to bring a little piece of the zoo to you and your littles at home!! 
 
 ## Lesson Components
 
@@ -60,7 +60,7 @@ In this math activity, we worked on counting and number identification through t
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Feed-Sensory-Bin.jpg)
 
-I love sensory exploration just as much as Conner does! To prepare this activity, grab an empty water bottle and a bin. Then, just attach the elephant face to the bottle using some tape rolled up underneath. Place in the bin with some pom pom balls and a pair of plastic tweezers. Your little one is going to love feeding the elephant! Plus, it engages those fine motor muscles that we have been working so hard on. We played with this sensory bin all day long!
+I love sensory exploration just as much as Conner does! To prepare this activity, grab an empty water bottle and a bin. Then, just attach the elephant face to the bottle using some tape rolled up underneath. Place in the bin with some pom pom balls and a pair of [plastic tweezers](https://amzn.to/3et93Hu). Your little one is going to love feeding the elephant! Plus, it engages those fine motor muscles that we have been working so hard on. We played with this sensory bin all day long!
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Sensory-Bin-Letter-Sorting.jpg)
 
