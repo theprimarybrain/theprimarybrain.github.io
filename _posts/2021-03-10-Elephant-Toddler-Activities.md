@@ -36,7 +36,7 @@ I LOVE activities that work on fine motor skills. I know being a teacher makes m
 
 Dot markers are a favorite fine motor tool in our home! They are quick and easy to use while working on fine motor and literacy. We practiced the letter E name while Conner focused so hard on staying inside each dot...don’t you love seeing them so determined?!? 
 
-![ElephantToddler]({{ site.github.url }}/assets/img/)Toddler-Elephant-Fine-Motor-Clip-Cards.jpg)
+![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Fine-Motor-Clip-Cards.jpg)
 
 This is the perfect activity for working both the muscles and the brain! In this activity, we used clothespins and clip cards to match the big and little E! It was perfect for letter identification while using those tiny little muscles to build up those fine motor skills. 
 
