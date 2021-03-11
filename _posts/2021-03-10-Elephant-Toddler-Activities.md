@@ -44,7 +44,7 @@ This is the perfect activity for working both the muscles and the brain! In this
 
 I wasn’t kidding when I said we did a ton of fine motor activities during this unit! I always love a Q-tip painting activity because they are fun and easy to set up. Q-tips are also great for building smaller muscles because children use a fine grip to hold the q-tip to paint. To set up this activity, just grab liquid paint, a couple Q-tips, and the letter E printable and you are ready to go! My little guy worked so hard to keep his dots inside the letter E. You will also want to make sure to take advantage of practicing the letter name multiple times throughout the activity. The more exposure a child has to letters, the faster they will learn their names!
 
-![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Fine-Motor-Scissors-Skill.jpg)
+![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Fine-Motor-Scissor-Skills.jpg)
 
 Proper scissor skills are SO important for our littles as they get older. As a parent and teacher, I know the feeling all too well... The one you feel in your gut each time you take out scissors with little ones. I am here to tell you that although you may feel a little anxious to work on scissor skills with your little ones, it will pay off! All your little ones need is some assistance and just practice practice practice! The more they practice, the better their hand eye coordination will get.
 
@@ -66,10 +66,10 @@ I love sensory exploration just as much as Conner does! To prepare this activity
 
 As you know by now, I am all about offering as many opportunities to practice letters as I can. Sensory bins are another fun way for little ones to practice letters. Plus, they can be so much fun that your child won't even realize they are learning! To set up this sensory bin, just fill a bin with some rice, then add the big E and little e elephant cards into the rice! 
 
-## Gross Motor Activities 
+## Gross Motor Activity
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Gross-Motor-Bear-Walk.jpg)
 
-For our gross motor activity, we got to get outside! Our favorite activity was this elephant walk. This elephant walk is WAY harder than it looks. Start by laying these elephant footprints down in a line. Then, get onto all fours to walk like an elephant! Don't be afraid to get on all fours with your little ones. These are the memories they won't forget! We really tested our coordination skills in this activity, plus we had so much fun practicing our elephant noises... It definitely sounded like the zoo in our backyard!
+I love to take our gross motor activities outside! Our favorite activity was this elephant walk. This elephant walk is WAY harder than it looks. Start by laying these elephant footprints down in a line. Then, get onto all fours to walk like an elephant! Don't be afraid to get on all fours with your little ones. These are the memories they won't forget! We really tested our coordination skills in this activity, plus we had so much fun practicing our elephant noises... It definitely sounded like the zoo in our backyard!
 
 This unit includes everything you need to make teaching your toddlers about elephants EASY! I hope you enjoy playing and learning with your little ones! this week. If you want to make learning EASY this week, just grab my [Elephant Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) for all the fun!
