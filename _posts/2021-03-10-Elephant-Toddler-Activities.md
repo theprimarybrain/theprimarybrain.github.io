@@ -15,12 +15,12 @@ Do your kiddos love taking a trip to the zoo?! We sure do! My kids cannot wait t
 ## Lesson Components
 
 This unit is made up of 5 lessons that will work on each include the following activities:
--literacy/language
--sensory bin
--math or science activity
--fine motor activity
--gross motor activity
--art activity
+- literacy/language
+- sensory bin
+- math or science activity
+- fine motor activity
+- gross motor activity
+- art activity
 
 ## Art Activities 
 
