@@ -15,5 +15,16 @@ image:
 </script>
 
 ![EveryoneWins]({{ site.github.url }}/assets/img/everyone-wins-2.png)
+### You will receive resources for...
+- Phonics
+- Reading
+- Writing
+- Crafts
+- Math
+- Centers
+- Clip Art
+- Fast Finishers
+- Summer Review
+...and more!
 
 ![EveryoneWins]({{ site.github.url }}/assets/img/everyone-wins-3.png)
