@@ -15,6 +15,7 @@ image:
 </script>
 
 ![EveryoneWins]({{ site.github.url }}/assets/img/everyone-wins-2.png)
+
 ### You will receive resources for...
 - Phonics
 - Reading
