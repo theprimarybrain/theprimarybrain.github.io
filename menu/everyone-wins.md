@@ -14,6 +14,4 @@ image:
   });
 </script>
 
-![EveryoneWins]({{ site.github.url }}/assets/img/everyone-wins-2.png)
-
 ![EveryoneWins]({{ site.github.url }}/assets/img/everyone-wins-3.png)
