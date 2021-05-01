@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Salt dough is quickly becoming a craft supply staple for us and this salt dough handprint Valentine's Day craft is a new favorite! I wanted a keepsake craft for grandparents that I could make with my own kids. It is perfect for a preschool Valentine craft or in a primary classroom especially loved that the salt dough is edible (although I wouldn't recommend trying it!), so I was able to make this with my one year old daughter without fear of her eating it. The best part is, the dough only takes a few minutes to make and the clean up was so easy! 
+Salt dough is quickly becoming a craft supply staple for us and this salt dough handprint craft is a new favorite! I wanted a keepsake craft for grandparents that I could make with my own kids. It is perfect for a preschool Valentine or Mother's Day craft or in a primary classroom especially loved that the salt dough is edible (although I wouldn't recommend trying it!), so I was able to make this with my one year old daughter without fear of her eating it. The best part is, the dough only takes a few minutes to make and the clean up was so easy! 
 
 ## Salt Dough Recipe
 This recipe can be scaled up or down depending on the amount of salt dough you need. 
@@ -49,4 +49,4 @@ Bake in a 200 degree oven for 2 1/2 hours. Then, set the hearts on a cooling rac
 
 After the dough dries, you can wrap as is, or you can paint the dough using liquid paint. 
 
-I hope you have a wonderful Valentine's Day with your little ones! 
+Happy Crafting!
