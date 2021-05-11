@@ -5,7 +5,7 @@ categories: [Toddler School]
 tags: [toddler, toddler school]
 image:
   feature: Toddler-Watermelon-Watermelon-Scoop.jpg
-  teaser: 
+  teaser: toddler-watermelon-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
