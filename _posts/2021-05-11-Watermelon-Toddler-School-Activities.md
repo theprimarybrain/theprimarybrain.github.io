@@ -2,6 +2,7 @@
 layout: post
 title: Watermelon Themed Toddler School Lessons
 categories: [Toddler School]
+flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
 image:
   feature: Toddler-Watermelon-Watermelon-Scoop.jpg
@@ -71,7 +72,7 @@ Exposing your toddler to counting can be done through lots of play based activit
 
 ![WatermelonToddler]({{ site.github.url }}/assets/img/Toddler-Watermelon-Sort.jpg)
 
-Your little ones will love this hands-on science activity where they get to touch and feel all the parts of the watermelon with this dissection activity. As they take apart the piece of watermelon to separate you can talk to them about the different parts all while teaching them some new vocabulary. I’ll warn you this activity is a bit sticky!
+Your little ones will love this hands-on science activity where they get to touch and feel all the parts of the watermelon with this dissection activity. This activity did get a bit sticky, so it is best completed outside. As your child takes apart the pieces of watermelon, talk about the different parts they find inside. 
 
 I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Watermelon Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Watermelon-Theme-Activities-Homeschool-Classroom-4762010?st=de9cd60d8dfd70334033c279f463c701&utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20School%20) for 5 complete lesson plans and all the printables you need. I hope you enjoy every minute of playing, learning and having fun with your toddler!
 
