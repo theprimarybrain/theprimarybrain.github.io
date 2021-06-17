@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Summer Themed Sensory Bins
+title: Summer Themed Sensory Play
 categories: [Toddler Activities]
 tags: [toddler, sensorybins]
 image:
-  feature: 
-  teaser: 
+  feature: summer-sensory-play-2.jpg
+  teaser: summer-sensory-play-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
-Summer is here and we are soaking up all the sunshine! My kids are absolutely loving being on summer break this year. Park days, beach days, family trips, and lots of other outdoor activities. In the midst of all the fun, we also need a lot of rest at home. Sensory bins are the perfect activity to pull out in those moments where you want to engage your little learners with a fun and quiet activity! Here are a few of our favorites...
+Summer is here and we are soaking up all the sunshine! My kids are absolutely loving being on summer break this year. Park days, beach days, family trips, and lots of other outdoor activities. In the midst of all the fun, we also need a lot of rest at home. Sensory play activities are the perfect summer fun activity to pull out in those moments where you want to engage your little learners with a fun and quiet activity! Here are a few of our favorites...
 
 ## Let's Make Lemonade!
 
@@ -41,4 +41,12 @@ I love sensory bins that transport us to another place, and this bin did just th
 
 To set up this sensory bin, add tan colored sand to half of the bin. Then, fill the second half of the bin with printed blue alphabet letter tiles. Then, place a letter mat with all the letters from A-Z next to the bin. One by one, your child will pull out letter tiles and place them on the letter mat. As your child pulls out each letter tile, work on saying the name and sound that the letter makes. You can find the printables for this activity in my [Ocean Themed Preschool Lesson](https://www.teacherspayteachers.com/Product/Preschool-Lesson-Plans-Ocean-Preschool-Curriculum-5634332). 
 
-I hope you are feeling inspired to break out some sensory bins this summer! Have fun playing and learning with your little ones!
+## Watermelon Science
+
+![WatermelonScience]({{ site.github.url }}/assets/img/Toddler-Watermelon-Sort.jpg)
+
+All you need for this sensory science activity is a melon baller, watermelon, and a sorting mat! Your children will LOVE scooping out all that delicious flesh and sorting the parts of a watermelon. You can make your own sorting mat, or you can download mine from my [Watermelon Toddler School Lesson Plans](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Watermelon-Theme-Activities-Homeschool-Classroom-4762010?st=d2b79dd4994c22cfa29813ba9fe636a5).
+
+## Have a Great Summer!
+
+I hope you are feeling inspired to break out some sensory bins and sensory play this summer! Have fun playing and learning with your little ones!
