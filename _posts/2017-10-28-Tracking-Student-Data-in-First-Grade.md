@@ -2,6 +2,7 @@
 layout: post
 title: Tracking Student Data in my First Grade Classroom
 author: Laurin Brainard
+flodesk: 619919941041f04103c0e755
 categories: [Classroom Decor]
 tags: [decor, data]
 image:
@@ -17,13 +18,3 @@ I currently have buildings to display data for Lexia, sight words, and fluency s
 
 ### Make Your Own Superhero Data Wall
 To create the buildings, I began by cutting out rectangular strips of black construction paper and stapling to my dark blue wall. For the windows, I printed levels on yellow Astrobrights paper and laminated to help it stay strong all year. I also typed out building "signs" to show the data we are tracking. Then, I added my student names to a superhero that is carrying a banner. Just add thumb tacks and you are ready to go! You can download my flying superheroes using this form:
-
-<div id="fd-form-619919941041f04103c0e755"></div>
-<script>
-  window.fd('form', {
-    formId: '619919941041f04103c0e755',
-    containerEl: '#fd-form-619919941041f04103c0e755'
-  });
-</script>
-
-[Click here to save this post to read later](https://pin.it/mDmbQX9) on your favorite Pinterest board!
