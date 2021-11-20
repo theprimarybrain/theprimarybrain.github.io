@@ -16,27 +16,14 @@ Displaying data is a requirement at my school site. Since I have a superhero the
 I currently have buildings to display data for Lexia, sight words, and fluency scores. I love to see the motivation in my students as they work to meet their goals. Each student has their own superhero that I pinned on the wall with a thumb tack. It is **so easy** to modify their levels since all I have to do is move a pin!  
 
 ### Make Your Own Superhero Data Wall
-To create the buildings, I began by cutting out rectangular strips of black construction paper and stapling to my dark blue wall. For the windows, I printed levels on yellow Astrobrights paper and laminated to help it stay strong all year. I also typed out building "signs" to show the data we are tracking. Then, I added my student names to a superhero that is carrying a banner. Just add thumb tacks and you are ready to go! 
+To create the buildings, I began by cutting out rectangular strips of black construction paper and stapling to my dark blue wall. For the windows, I printed levels on yellow Astrobrights paper and laminated to help it stay strong all year. I also typed out building "signs" to show the data we are tracking. Then, I added my student names to a superhero that is carrying a banner. Just add thumb tacks and you are ready to go! You can download my flying superheroes using this form:
 
-You can [download my flying superheros here](https://drive.google.com/file/d/0B9b7ezL_kHNVME55dkZzSTFoR28/view?usp=sharing) to create your own superhero data wall in your classroom. Enjoy!
-
-[Click here to save this post to read later](https://pin.it/mDmbQX9) on your favorite Pinterest board!
-
+<div id="fd-form-619919941041f04103c0e755"></div>
 <script>
-  (function(w, d, t, s, n) {
-    w.FlodeskObject = n;
-    var fn = function() {
-      (w[n].q = w[n].q || []).push(arguments);
-    };
-    w[n] = w[n] || fn;
-    var f = d.getElementsByTagName(t)[0];
-    var e = d.createElement(t);
-    var h = '?v=' + new Date().getTime();
-    e.async = true;
-    e.src = s + h;
-    f.parentNode.insertBefore(e, f);
-  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
   window.fd('form', {
-    formId: '5d7fd38715f78a0010f2e414'
+    formId: '619919941041f04103c0e755',
+    containerEl: '#fd-form-619919941041f04103c0e755'
   });
 </script>
+
+[Click here to save this post to read later](https://pin.it/mDmbQX9) on your favorite Pinterest board!
