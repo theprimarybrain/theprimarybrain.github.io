@@ -76,6 +76,6 @@ Your little ones will love this hands-on science activity where they get to touc
 
 I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Watermelon Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Watermelon-Theme-Activities-Homeschool-Classroom-4762010?st=de9cd60d8dfd70334033c279f463c701&utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20School%20) for 5 complete lesson plans and all the printables you need. 
 
-[![WatermelonToddlerCover]({{ site.github.url }}/assets/img/toddler-watermelon-cover.jpg)](/https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Watermelon-Preschool-Curriculum-Letter-W-4762010?st=4766b289397803e79320f1a110e9544e&utm_source=Watermelon%20TS%20Blog&utm_campaign=Square%20Cover)
+[![WatermelonToddlerCover]({{ site.github.url }}/assets/img/toddler-watermelon-cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Watermelon-Preschool-Curriculum-Letter-W-4762010?st=4766b289397803e79320f1a110e9544e&utm_source=Watermelon%20TS%20Blog&utm_campaign=Square%20Cover)
 
 I hope you enjoy every minute of playing, learning and having fun with your toddler!
