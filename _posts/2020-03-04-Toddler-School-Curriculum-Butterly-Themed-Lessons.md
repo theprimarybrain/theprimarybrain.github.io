@@ -5,8 +5,8 @@ categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
 image:
-  feature: toddler-butterfly-feature.jpg
-  teaser: toddler-butterfly-teaser.jpg
+  feature: butterfly-feature-image.jpg
+  teaser: butterfly-toddler-school-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
