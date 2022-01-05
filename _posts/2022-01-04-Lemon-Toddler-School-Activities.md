@@ -48,6 +48,7 @@ This is another fine motor activity that was a HUGE hit in our house. My son ask
 ## Sensory Bins 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-sensory-bin-letters.jpg)
+
 Sensory bins are always a favorite and they’re a great teaching tool since they incorporate academic content, FUN, and fine motor skills! To kick off this lemon unit, we used lemon rice (recipe is included in the unit!) along with different size cups. To introduce our letter, we included an uppercase L in one cup and a lowercase l in another cup. I showed each letter to my kids and had them repeat the letter. Then, we dove right in to find the rest of the “hidden” letter cards in the bin. It was fun to sort the letters, but my son had even more fun exploring, pouring, and playing with the rice! He wanted to come back to this activity again and again! 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-math-sensory-bin.jpg)
@@ -74,12 +75,14 @@ It was so fun to help my son squeeze the lemon juice into the cup, strain for se
 ## Math Activities
 
 ![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-math.jpg)
+
 It’s so beneficial to expose little ones to counting skills through 1:1 correspondence activities. Plus, it is so easy to prep this lemon tree counting activity! All you do is print, cut, and give your child the cards and some counters to use. Yellow pom pom balls make the perfect “lemons.” 
 As you begin the activity, your little ones will place the correct number of counters on each lemon tree to match the number. I always like to encourage my little ones to count out loud as they place the manipulatives on the tree to help with that 1:1 correspondence. If your child is ready, you can even have him or her place the lemon trees in order from least to greatest! 
 
 ## Science Activity 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-vocab.jpg)
+
 The science activities in this unit are sure to be a huge hit with your littles! First, you can dissect a lemon with your child. This is a great activity, because it includes so much vocabulary! You’ll cut a lemon in half to show the parts of a real lemon to your child. Discuss the parts of the lemon (lemon, pulp, pith, peel, and seed). 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-vocab-2.jpg)
@@ -93,8 +96,10 @@ Finally, to wrap up this lemon unit, how about a lemon explosion!? To do this sc
 ## Gross Motor Activities 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-gross-motor.jpg)
+
 Let’s get moving! Lemons are so fun to use for gross motor activities. Our favorite gross motor activity in this unit was picking lemons from a tree! To prepare for the activity, all I did was cut out three tree template pieces to make pretend “trees” and taped them to the wall. Then gently tape lemon cut outs at all heights so your child will have easy access to “pick” the lower lemons off the tree. I found it worked best to roll the tape up onto the lemon. Then, the lemons will gradually become harder to “pick off the tree.” My son especially loved the highest lemons where he had to stand on his tippy toes to reach! We did a few other gross motor activities in this unit, but this is the one my son asked to do every single day!
 
 [![LemonUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Lemon.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Lemon-Preschool-Curriculum-Letter-L-4616157?st=af76699ab021192774b95a849e291d33&utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20School%20Unit)
 
 I hope you found some great ideas to use at home (or at school!) with your little ones! If you want to make teaching your toddler super simple (and sweet!) this week, then check out the [Lemon Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Lemon-Preschool-Curriculum-Letter-L-4616157?st=af76699ab021192774b95a849e291d33&utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20School%20Unit) for 5 complete and detailed lesson plans and all the printables you’ll need to make the week easy cheesy lemon squeezy! I hope you enjoy every minute of playing and learning with your little ones!
+
