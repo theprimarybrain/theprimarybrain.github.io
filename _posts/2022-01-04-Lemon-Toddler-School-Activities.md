@@ -21,11 +21,23 @@ This unit is made up of 5 lessons that incorporate the following activities:
 - gross motor activities 
 - art activities
 
+## Vocabulary Development
+
+Finding ways to incorporate strong vocabulary development is so important for our youngest learners. As you teach your child about lemons, be sure to use strong vocabulary and give your child time to repeat and digest the new language you are using. In this unit, you will have the opportunity to teach vocabulary through picture cards, tangible items, and hands-on materials. As parents, we know we are teaching our children, but all they know is that they are having fun! 
+
+![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-vocab.jpg)
+
+As you begin to teach your little one about lemons, you will have the opportunity to dissect a lemon! This science activity is perfect for vocabulary development! You’ll cut a lemon in half to show the parts of a real lemon to your child. As you poke and peel away the layers, discuss the parts of the lemon using rich language (lemon, pulp, pith, peel, and seed). 
+
+![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-vocab-2.jpg)
+
+All of these vocabulary word cards are included in the unit, and you can refer to them throughout your lemon dissection. My son had fun pointing to each part of the real lemon and comparing it to the real photos on the vocabulary cards. 
+
 ## Art Activities 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-coloring-page.jpg)
 
-This unit includes so many fun art activities that I know your toddlers will love. As you kick off the lemon unit, you will dive right in by coloring the L is for Lemons coloring page. Not only is this fun and engaging, but you also add in some fine motor practice for your little one by focusing on proper crayon grip.
+Get ready for all the art projects your little hearts desire! This unit includes so many fun art activities that I know your toddlers will love. You will dive right in by coloring the L is for Lemons coloring page. Not only is this fun and engaging, but you also add in some fine motor practice for your little one by focusing on proper crayon grip.
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-cut-and-tear.jpg)
 
@@ -80,14 +92,6 @@ It’s so beneficial to expose little ones to counting skills through 1:1 corres
 As you begin the activity, your little ones will place the correct number of counters on each lemon tree to match the number. I always like to encourage my little ones to count out loud as they place the manipulatives on the tree to help with that 1:1 correspondence. If your child is ready, you can even have him or her place the lemon trees in order from least to greatest! 
 
 ## Science Activity 
-
-![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-vocab.jpg)
-
-The science activities in this unit are sure to be a huge hit with your littles! First, you can dissect a lemon with your child. This is a great activity, because it includes so much vocabulary! You’ll cut a lemon in half to show the parts of a real lemon to your child. Discuss the parts of the lemon (lemon, pulp, pith, peel, and seed). 
-
-![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-vocab-2.jpg)
-
-All of the vocabulary word cards are included in the unit, and you can refer to them throughout your lemon dissection. My son had fun pointing to each part and comparing it to the real photos on the vocabulary cards. 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-science.jpg)
 
