@@ -24,12 +24,15 @@ This unit is made up of 5 lessons that incorporate the following activities:
 ## Art Activities 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-coloring-page.jpg)
+
 This unit includes so many fun art activities that I know your toddlers will love. As you kick off the lemon unit, you will dive right in by coloring the L is for Lemons coloring page. Not only is this fun and engaging, but you also add in some fine motor practice for your little one by focusing on proper crayon grip.
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-cut-and-tear.jpg)
+
 What could be more fun than tearing, cutting, and gluing for your little learners?!?! They are sure to love creating Tear, Cut and Glue Lemon Art! It’s so fun to watch the kids tear and cut yellow paper to fill in the lemons, and they’ll turn out adorable, no matter what! 
 
 ![LemonStamping]({{ site.github.url }}/assets/img/toddler-lemon-stamping.jpg)
+
 I love to bring tangible, “real life” objects into our activities whenever I can. It’s great for our little ones to touch and feel different textures, as well as an opportunity to learn new vocabulary. In this art activity, we created lemon art by cutting real lemons in half and using them as “stamps.” Our art turned out so amazing, that we framed our masterpieces and they’re hanging in our hallway right now! 
 
 ## Fine Motor Activities 
@@ -38,7 +41,7 @@ I love to bring tangible, “real life” objects into our activities whenever I
 
 Practicing fine motor skills is essential for developing finger control and building up strength in those little fingers. In this activity, we used clothespins because they are a great tool to help build strong muscles in the fingers and hands. To begin, have your little one say the name of the letter that is inside the lemon. Then, have them clip the clothespin onto the matching letter on the bottom of the card. Your little one will be so proud that they clipped the letters independently! If your child is having trouble identifying the correct matching letter, feel free to help them out and point out the correct letter. 
 
-![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-fine-motor.jpg
+![LemonToddler]({{ site.github.url }}/assets/img/lemon-toddler-fine-motor.jpg)
 
 This is another fine motor activity that was a HUGE hit in our house. My son asked to do it over and over again and he never got sick of it! Anything the kids ask to do over and over again AND helps develop those fine motor skills is a win-win for everyone! For this activity, you’ll begin by poking holes in a lemon using a golf tee. Then, give your child about 20 golf tees to poke into the lemon in the pre-made holes. You’ll want to model for your child how to hold the lemon in one hand and the golf tee in the other hand. Juice will spill out of the lemon, so make sure to put some towels down to catch the spills. It’s a great opportunity to discuss how juicy a lemon is and incorporate that vocabulary! 
 
