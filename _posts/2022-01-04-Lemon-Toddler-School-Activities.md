@@ -5,8 +5,8 @@ categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
 image:
-  feature: lemon-sensory-bin-play.jpg
-  teaser: Toddler-Lemon-Teaser.jpg
+  feature: lemon-toddler-featured-image.jpg
+  teaser: lemon-toddler-teaser-image.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
