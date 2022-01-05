@@ -61,7 +61,7 @@ This is another fine motor activity that was a HUGE hit in our house. My son ask
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-sensory-bin-letters.jpg)
 
-Sensory bins are always a favorite and they’re a great teaching tool since they incorporate academic content, FUN, and fine motor skills! To kick off this lemon unit, we used lemon rice (recipe is included in the unit!) along with different size cups. To introduce our letter, we included an uppercase L in one cup and a lowercase l in another cup. I showed each letter to my kids and had them repeat the letter. Then, we dove right in to find the rest of the “hidden” letter cards in the bin. It was fun to sort the letters, but my son had even more fun exploring, pouring, and playing with the rice! He wanted to come back to this activity again and again! 
+Sensory bins are always a favorite and they are a great teaching tool since they are a fun way to incorporate academic content and fine motor skills! To kick off this lemon unit, we used lemon rice (recipe is included in the unit!) along with different size cups. To introduce our letter, we included an uppercase L in one cup and a lowercase l in another cup. I showed each letter to my kids and had them repeat the letter. Then, we dove right in to find the rest of the “hidden” letter cards in the bin. It was fun to sort the letters, but my son had even more fun exploring, pouring, and playing with the rice! He wanted to come back to this activity again and again! 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-math-sensory-bin.jpg)
 
