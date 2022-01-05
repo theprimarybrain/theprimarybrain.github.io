@@ -5,9 +5,8 @@ categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
 image:
-  feature: toddler-apple-cover-sheet-feature.jpg
-  teaser: toddler-apple-pie-sensory-bin-play-teaser.jpg
-  credit: Laurin Brainard
+  feature: apple-toddler-feature-image.jpg
+  teaser: apple-toddler-teaser-image.jpg
   creditlink: ""
 ---
 I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler school in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created an [Apple Themed Unit](http://bit.ly/toddlerapple). Enjoy a peek into our week through a sampling of our activities together!
