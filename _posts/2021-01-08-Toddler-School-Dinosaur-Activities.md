@@ -65,6 +65,8 @@ How fun are these Dino Math Cards? We love working on counting and number recogn
 
 ![DinosaurToddler2]({{ site.github.url }}/assets/img/dino-gross-motor-action-cards.jpg)
 
-Alright parents, it’s time to brush up on those dinosaur names and get moving! We had WAY too much fun pretending to be all the different dinosaurs and we were definitely out of breath by the end of it! These dinosaur cards are an excellent way to get those little bodies moving either at home or in the classroom! 
+It’s time to brush up on those dinosaur names and get moving! Your little ones will have so much fun pretending to be all the different dinosaurs. Keep some water close by, because we were definitely out of breath by the end of it! These dinosaur cards are an excellent way to get those little bodies moving either at home or in the classroom! 
+
+[![DinoUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Dinosaur.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
 
 I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](http://bit.ly/DinoToddler) for 5 complete lesson plans and all the printables you need to go with them! I hope you enjoy every minute of playing and learning with your little ones this week!
