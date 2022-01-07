@@ -99,4 +99,6 @@ We loved this bean bag toss! Conner and I took turns tossing the bean bags onto 
 
 ## That's a Wrap!
 
+[![CarsCover]({{ site.github.url }}/assets/img/Toddler-Cover-Cars.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Cars-Themed-Homeschool-Preschool-Letter-C-4394935?st=a75e11feac1fde0f9a503023db937c9a&utm_source=PB%20Blog&utm_campaign=Cars%20Cover%20Photo%20Bottom)
+
 I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Cars Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Cars-Themed-Lessons-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Theme%20Toddler%20School%20Blog%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 
