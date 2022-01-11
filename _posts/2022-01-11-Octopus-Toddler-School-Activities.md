@@ -55,7 +55,9 @@ When you are ready to add an academic component to the bin, you can add the lami
 
 ![OctopusToddler]({{ site.github.url }}/assets/img/octopus-toddler-sensory-bin-2.jpg)
 
-Another reason I LOVE sensory bins is because they’re so versatile. All I had to do was switch out the cards for a different skill and the next lesson was completely ready. Finding ways to save time is key when you have little ones. Since you are working on the letter O this week, your child will sort the uppercase and lowercase letters into two bowls. As they sort, take advantage of each opportunity to ask the name of the letter. By the end, I bet your child will be able to identify the “big O” and “little o” independently!
+Another reason I LOVE sensory bins is because they’re so versatile. All I had to do was switch out the cards for a different skill and the next lesson was completely ready. Finding ways to save time is key when you have little ones. 
+
+Since you are working on the letter O this week, your child will sort the uppercase and lowercase letters into two bowls. As they sort, take advantage of each opportunity to ask the name of the letter. By the end, I bet your child will be able to identify the “big O” and “little o” independently!
 
 ## Math Activity 
 
@@ -69,4 +71,4 @@ While we learn about octopuses, let’s practice counting to eight since octopus
 
 [![OctopusUnit]({{ site.github.url }}/assets/img/Toddler-Octopus-Photo-Image.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Octopus-Preschool-Curriculum-Letter-O-4682918?st=5755ae47d6e6385296c92b5e58df441e&utm_source=PB%20Blog&utm_campaign=Photo%20Click)
 
-I hope you found some great octopus ideas to use at home or at school with your little ones! If you want to make teaching your toddler super simple this week, make sure to check out my [Octopus Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Octopus-Preschool-Curriculum-Letter-O-4682918?st=5755ae47d6e6385296c92b5e58df441e&utm_source=PB%20Blog&utm_campaign=Octopus%20Text%20Click) for 5 complete lesson plans and all the printables you need. These lessons are so versatile that you can even enjoy it with preschoolers and kindergarten studentsI hope you enjoy every minute of playing and learning with your little ones!
+I hope you found some great octopus ideas to use at home or at school with your little ones! If you want to make teaching your toddler super simple this week, make sure to check out my [Octopus Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Octopus-Preschool-Curriculum-Letter-O-4682918?st=5755ae47d6e6385296c92b5e58df441e&utm_source=PB%20Blog&utm_campaign=Octopus%20Text%20Click) for 5 complete lesson plans and all the printables you need. These lessons are so versatile that you can even enjoy them with preschoolers and kindergarten studentsI hope you enjoy every minute of playing and learning with your little ones!
