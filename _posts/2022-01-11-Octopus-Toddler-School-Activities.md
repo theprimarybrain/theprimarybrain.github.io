@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lemon Themed Toddler School Lessons
+title: Octopus Themed Toddler School Lessons
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
@@ -17,10 +17,10 @@ This week we are grabbing our swim gear and taking a dive down under the sea! Th
 This unit is made up of 5 detailed lessons that will work on the following activities:
 - literacy/language 
 - sensory bin 
-- math and science activity 
-- fine motor activity 
-- gross motor activity 
-- art activity 
+- math and science activities
+- fine motor activities
+- gross motor activities
+- art activities 
 
 ## Art Activities 
 
@@ -30,7 +30,7 @@ This unit includes several art activities that I know your littles will adore. Y
 
 ![OctopusToddler]({{ site.github.url }}/assets/img/octopus-toddler-toilet-paper-tube-art.jpg)
 
-Another fun octopus art activity is the paper tube octopus.Your child will create an octopus using an empty toilet paper roll and eight strips of construction paper that are cut into strips. You can let your child decorate the empty toilet paper roll using paint or markers. We added googly eyes for a fun touch, and then glued the “octopus arms” to the base of the toilet paper tube. Your child can use his or her little fingers to curl and bend the paper to create fun arms. When you finish, string these up on a line and display them for all to see!
+Another fun octopus art activity is the paper tube octopus. Your child will create an octopus using an empty toilet paper roll and eight strips of construction paper that are cut into strips. You can let your child decorate the empty toilet paper roll using paint or markers. We added googly eyes for a fun touch, and then glued the “octopus arms” to the base of the toilet paper tube. Your child can use his or her little fingers to curl and bend the paper to create fun arms. When you finish, string these up on a line and display them for all to see!
 
 ## Fine Motor Activities 
 
@@ -38,7 +38,7 @@ Another fun octopus art activity is the paper tube octopus.Your child will creat
 
 Practicing fine motor skills everyday is so important for developing finger control and learning how to manipulate different objects...but it can be tough work! To begin, your little one will color or paint a paper plate that is in the shape of a letter O. Then, you will glue construction paper “eyes” on it to make it come to life. This is a perfect opportunity to work hard on coloring in the lines, expressing their creativity, and proper crayon grip. 
 
-After their art dries, you will guide your child in using a hole puncher to punch holes in the bottom of the octopus. This fine motor practice will really help to build up those strong hand and finger muscles! If your child is ready, they can do this independently, or you can do hand-over-hand movements. Then, add some string to the holes, and you can start stringing beads onto the octopus. Using larger beads is helpful as our little ones develop finger control. You can give your child complete creative control over how they strill the beads, or you can work on color patterns. 
+After their art dries, you will guide your child in using a hole puncher to punch holes in the bottom of the octopus. This fine motor practice will really help to build up those strong hand and finger muscles! If your child is ready, they can do this independently, or you can do hand-over-hand movements. Then, add some string to the holes, and you can start stringing beads onto the octopus. Using larger beads is helpful as our little ones develop finger control. You can give your child complete creative control over how they string the beads, or you can work on color patterns. 
 
 You might be wondering why we spend so much time working on finger control activities… When we work on activities, such as stringing beads, we are using similar hand movements to when a child grips a large pencil. Since your child is getting used to this action early, it will help them to hold a pencil when they start coloring or writing during school!
 
