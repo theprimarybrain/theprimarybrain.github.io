@@ -6,11 +6,11 @@ flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, dinosaur, toddler school]
 image:
   feature: Toddler-Dino-Feature.jpg
-  teaser: dino-toddler-unit-teaser-image.jpg
+  teaser: Toddler-Dino-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
-RAWR! Are your little ones as obsessed with dinosaurs as mine are? Dinosaurs are a childhood favorite and a great way to capture your little one’s attention and curiosity. I put together this engaging [Dinosaur Themed Toddler Unit](http://bit.ly/DinoToddler) that is sure to capture your child’s interest! I hope you will join us as we learn about dinosaurs!
+Are your little ones as obsessed with dinosaurs as mine are? Dinosaurs are a childhood favorite and a great way to capture your little one’s attention and curiosity. I put together this engaging [Dinosaur Themed Toddler Unit](http://bit.ly/DinoToddler) that is sure to capture your child’s interest! I hope you will join us as we learn about dinosaurs!
 
 ## Lesson Components 
 This unit is made up of 5 lessons that will work on each include the following activities: 
