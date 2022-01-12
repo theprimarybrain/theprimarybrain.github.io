@@ -5,8 +5,8 @@ categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, animal activities, toddler school]
 image:
-  feature: Toddler-Elephant-Sensory-Bin-Puzzles.jpg
-  teaser: Toddler-Elephant-Teaser.jpg
+  feature: Toddler-Elephant-Featured-Collage.jpg
+  teaser: Toddler-Elephant-Teaser-Collage.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
@@ -71,5 +71,7 @@ As you know by now, I am all about offering as many opportunities to practice le
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Gross-Motor-Bear-Walk.jpg)
 
 I love to take our gross motor activities outside! Our favorite activity was this elephant walk. This elephant walk is WAY harder than it looks. Start by laying these elephant footprints down in a line. Then, get onto all fours to walk like an elephant! Don't be afraid to get on all fours with your little ones. These are the memories they won't forget! We really tested our coordination skills in this activity, plus we had so much fun practicing our elephant noises... It definitely sounded like the zoo in our backyard!
+
+[![ElephantToddlerCover]({{ site.github.url }}/assets/img/Toddler-Elephant-Cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Elephant-Homeschool-Preschool-Letter-E-4588214?st=f3d837846cb915a6631d4d9e92fdf355&utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Photo%20Cover)
 
 This unit includes everything you need to make teaching your toddlers about elephants EASY! I hope you enjoy playing and learning with your little ones! this week. If you want to make learning EASY this week, just grab my [Elephant Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) for all the fun!
