@@ -5,7 +5,7 @@ categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, dinosaur, toddler school]
 image:
-  feature: dino-toddler-unit-feature-image.jpg
+  feature: Toddler-Dino-Feature.jpg
   teaser: dino-toddler-unit-teaser-image.jpg
   credit: Laurin Brainard
   creditlink: ""
