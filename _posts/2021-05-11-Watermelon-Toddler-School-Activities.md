@@ -5,7 +5,7 @@ categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
 image:
-  feature: Toddler-Watermelon-Watermelon-Scoop.jpg
+  feature: Toddler-Watermelon-Feature.jpg
   teaser: toddler-watermelon-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
