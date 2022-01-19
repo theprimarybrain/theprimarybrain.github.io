@@ -10,8 +10,6 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Blog Post Title: House Themed Toddler School Activities 
-Featured Image: (Insert the file name here)
 There’s no place like home! I know my favorite place to be is at home, and what better way to introduce the letter Hh and explore homes than with this [House Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-House-Themed-Preschool-Curriculum-Letter-H-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Text%20Link). You little one will love learning about the letter Hh while exploring, building, and learning all week! 
 ## Lesson Components 
 This unit is made up of 5 lessons that will each work on the following activities:
