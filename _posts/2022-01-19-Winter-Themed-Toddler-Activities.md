@@ -49,7 +49,7 @@ There are so many benefits of sensory bins for our little ones. Sensory bins are
 
 This letter snowball sensory bin is another example of how we can incorporate lots of learning into the sensory bin. Using the same bin of “snowballs,” you’ll add the letter snowball cards. Have your child pick up one snowball at a time. Have fun saying the name of each letter! Depending on the ability level of your child, you can start with just a few letter cards (maybe the letters in your child’s name), or you can add the entire alphabet. 
 
-![WinterToddler]({{ site.github.url }}/assets/img/winter-toddler-build-a-snowman.jpg)
+![WinterToddler]({{ site.github.url }}/assets/img/winter-toddler-tweezers-bin.jpg)
 
 What could be more fun than feeding a snowman?!? This was my daughter’s favorite sensory bin and she asked to do it over and over again! To set up this bin, you’ll add a plastic bottle with the feed the snowman cutout placed on top of the bottle. Then, add a pair of tweezers and encourage your child to feed the hungry snowman. If your child isn’t ready for tweezers, you can use hand over hand movements or have them use their pincer (3-finger) grasp using their fingers. All of this fine motor work is essential in building up those tiny hand and finger muscles. As always, leave plenty of time for free play in the bin! 
 
