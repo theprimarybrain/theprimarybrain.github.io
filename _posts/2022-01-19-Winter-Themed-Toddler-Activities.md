@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Winter is in the air and that means the snow is falling...for some of you! Where we live, the closest snow is a couple course away, so we are excited to create winter inside! To bring the snow and winter fun to our house, I created this [Winter Themed Toddler Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-Toddler-Lesson-Plans-Winter-Themed-Seasonal-Activities-7641533). It’ll bring a bit of the winter season and tons of learning and fun to you and your little ones!
+Winter is in the air and that means the snow is falling...for some of you! Where we live, the closest snow is a couple hours away, so we are excited to create winter inside! To bring the snow and winter fun to our house, I created this [Winter Themed Toddler Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-Toddler-Lesson-Plans-Winter-Themed-Seasonal-Activities-7641533). It’ll bring a bit of the winter season and tons of learning and fun to you and your little ones!
 
 ## Lesson Components 
 This unit is made up of 5 lessons that will each work on the following activities:
