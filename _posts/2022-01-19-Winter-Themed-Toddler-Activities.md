@@ -70,6 +70,7 @@ I turned this activity into a game by adding a die. We took turns rolling the di
 ![WinterToddler]({{ site.github.url }}/assets/img/winter-blizzard-bottle.jpg)
 
 I love teaching my children science concepts through hands-on learning. Today we talked about what a blizzard is and made a blizzard in a bottle! To make your own bottle, you will fill 2/3 of a plastic bottle with blue dyed water. Then, have your little one add some glitter and sequins to the bottle. Last, you will fill the bottle to the top with 1/3 clear oil. Screw the bottle cap on tight. Make sure to have your child help you with each step, as it’s great fine motor practice, too! Then, shake and enjoy the winter blizzard in the bottle. 
+
 *Parent Tip* - We also use this bottle as a calm down bottle. When my daughter gets super excited (aka - she needs to settle down), I have her sit down, shake the bottle, and watch the glitter and sequins fall. It’s the perfect calm down bottle and helps her refocus and settle. 
 
 ![WinterToddler]({{ site.github.url }}/assets/img/winter-toddler-science.jpg)
