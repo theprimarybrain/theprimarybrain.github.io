@@ -15,11 +15,15 @@ Play is a child’s most favorite word, and it’s what makes up their world. Bu
 
 ## How Do We Encourage Learning Through Play?
 
+![LemonToddler]({{ site.github.url }}/assets/img/lemon-washing-station.jpg)
+
 Incorporating imaginative play into our child's day opens the door to a whole world of learning. Giving open ended materials and letting your child explore the materials inspires them to pretend, create, and imagine. Pretend play in the kitchen, digging in the dirt, and building towers with their favorite blocks are just a few of the ways our kids learn! Unstructured, imaginative play teaches our little ones (especially preschoolers) about cause and effect, social expectations, and builds a foundation for social interaction. 
 
 As a parent and teacher, I know we put stress on ourselves to make sure that our kids are constantly learning. But, unstructured play is learning! Not every play-based activity needs to be structured. Children do not need to be directed on how to play with every item we give them to play with. As adults, we can provide the materials, but we do not need to direct the movements during the play activity. That is the best part about it! It’s child-led and simply meant to be FUN! 
 
 ## How Do We Set Up Success During Play?
+
+![Pretend Play]({{ site.github.url }}/assets/img/preschool-ocean-dramatic-play-center.jpg)
 
 Even though play is unstructured, we can still have a goal in mind that we hope our children will learn through the materials we are providing to them. First, we have to decide what skill we are hoping our children will learn through the play-based activity. Are we hoping for social skills, academic concepts, or independence? Sensory bins are amazing for engaging those teeny tiny fine motor skills, while also creating a scenario for imaginitive play. Giving a child a bin of water with measuring cups with no direction can become a kitchen to them. They are "baking", which is testing their planning and critical thinking skills. When we allow our littles to be in charge of their learning we are giving them the chance to engage all of their senses. 
 
