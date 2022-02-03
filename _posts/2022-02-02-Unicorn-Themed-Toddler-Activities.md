@@ -12,7 +12,7 @@ image:
 ---
 My daughter is all about unicorns! Unicorns bring a sense of magic into the room and are a childhood favorite! When you pair learning with your child's favorite things, it is always so much easier to inspire learning. 
 
-This week, we are working on the letter U through a variety of unicorn toddler activities. This [Unicorn Themed Toddler Unit](https://https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015) is packed with everything you need for a full week of learning. I hope your little ones are as engaged as mine was! 
+This week, we are working on the letter U through a variety of unicorn toddler activities. This [Unicorn Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=599268609963749f136721233bf5fa5d) is packed with everything you need for a full week of learning. I hope your little ones are as engaged as mine was! 
 
 ## Lesson Components 
 
@@ -89,7 +89,7 @@ Patterns are another important skill for our littles to work on. For this activi
 
 Gross motor skills are important for young children to practice as they learn how to coordinate and control their body movements. For today's movement activity, we set up a maze outside! It was so much fun following chalk lines to find matching unicorns. It was a great way to get moving and we loved doing it over and over again!
 
-[![UnicornUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Unicorn-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=4874a77dc0869c80a14db5c1ee8be93a)
+[![UnicornUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Unicorn-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=599268609963749f136721233bf5fa5d)
 
 I hope you found some magical ideas here to inspire you and your little one! If you want to make teaching your toddler super simple this week, make sure to check out my [Unicorn Themed Toddler Unit](https://https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015) for 5 complete lesson plans and all the printables and activities you’ll need to make the week magical. And if you need even more toddler school themed units, check out the [Tot School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281).
 
