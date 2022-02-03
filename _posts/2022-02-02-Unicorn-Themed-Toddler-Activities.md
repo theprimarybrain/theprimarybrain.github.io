@@ -34,7 +34,9 @@ To start this magical week off, tell your little ones that you will be playing w
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-dot-marker.jpg)
 
-Fine motor skills are not only fun and engaging for kids, but they’re also incredibly important! They help children perform important tasks such as feeding themselves, grasping objects, and writing. This first fine motor activity is easy to prep, so just print and go! All you need is the printable and a dot marker. You will introduce the shape, circle. Then your child will dot inside each circle in the letter Uu. This is a great opportunity to use language like “Dot inside the circle.” I also love to have my own kids (and students) say the name of the letter (or the sound if they’re ready) each time they dot on the paper. 
+Fine motor skills are not only fun and engaging for kids, but they’re also incredibly important! They help children perform important tasks such as feeding themselves, grasping objects, and writing. 
+
+All you need for this activity is the letter worksheet and a dot marker. To start off, you will introduce the shape, circle. Then your child will dot inside each circle in the letter Uu. This is a great opportunity to use language like “Dot inside the circle.” I also love to have my own kids (and students) say the name of the letter (or the sound if they’re ready) each time they dot on the paper. 
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-scissor-skills.jpg)
 
@@ -61,15 +63,15 @@ Then, watch your little ones as they play and learn! Place one of each number ca
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-sensory-bin.jpg)
 
-I am all about making activities easy, and reusing a sensory bin filler is a great way to do this. Just switch out the skills your little one is learning to make the bin “fresh” and new. So, use the same bin filled with rainbow sprinkles, and add the unicorn sensory bin puzzle pieces. For extra fun, add a few mini unicorns into the bin. Hide the unicorns and cards under the sprinkles for a fun hunt for your child. When your child finds a match, they can lay it down next to the sensory bin.
+We're all busy, so reusing a sensory bin filler is a great way to save time. Just switch out the skills your little one is learning to make the bin “fresh” and new. So, use the same bin filled with rainbow sprinkles, and add the unicorn sensory bin puzzle pieces. For extra fun, add a few mini unicorns into the bin. Hide the unicorns and cards under the sprinkles for a fun hunt for your child. When your child finds a match, they can lay it down next to the sensory bin.
 
 ## Math Activities 
 
-![UnicornToddler]({{ site.github.url }}/assets/img/toddler-flower-number-cards.jpg)
-
-Children love books. The earlier we introduce books to our children, the sooner they can begin to develop a love of reading. To prepare this number book, you’ll prep the book and explain to your child that in this book, you will work on counting each unicorn. Support your child as they count the unicorns on each page and say the number. Don’t forget to point to the number and say the name. Have fun coloring the book! Feel free to reread the book over and over again, too. The repeated readings are important because it will build you child’s confidence. 
-
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-math-book.jpg)
+
+The earlier we introduce books to our children, the sooner they can begin to develop a love of reading. To prepare this number book, you’ll prep the book and explain to your child that in this book, you will work on counting each unicorn. Support your child as they count the unicorns on each page and say the number. Don’t forget to point to the number and say the name. Have fun coloring the book! Feel free to reread the book over and over again, too. The repeated readings are important because it will build you child’s confidence. 
+
+![UnicornToddler]({{ site.github.url }}/assets/img/toddler-flower-number-cards.jpg)
 
 1:1 correspondence is the ability to match an object to the corresponding number and recognize that numbers are symbols to represent a quantity. When your child masters 1:1 counting, he or she will be on the right track to be successful in school. These unicorn number match cards provide exposure to 1:1 correspondence. 
 
