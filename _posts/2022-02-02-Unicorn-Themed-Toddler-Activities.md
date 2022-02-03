@@ -10,9 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-My daughter is all about unicorns! Unicorns bring a sense of magic into the room and are a childhood favorite! When you pair learning with your child's favorite things, it is always so much easier to inspire learning. 
-
-This week, we are working on the letter U through a variety of unicorn toddler activities. This [Unicorn Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=599268609963749f136721233bf5fa5d) is packed with everything you need for a full week of learning. I hope your little ones are as engaged as mine was! 
+Unicorns bring a sense of magic into the room and are a childhood favorite! I love finding ways to create learning activities around my children's favorite things, so a unicorn week is perfect! This [Unicorn Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=599268609963749f136721233bf5fa5d) is packed with everything you need for a full week of learning, so get ready to have fun while you learn about the letter U!
 
 ## Lesson Components 
 
