@@ -69,13 +69,11 @@ We're all busy, so reusing a sensory bin filler is a great way to save time. Jus
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-math-book.jpg)
 
-The earlier we introduce books to our children, the sooner they can begin to develop a love of reading. To prepare this number book, you’ll prep the book and explain to your child that in this book, you will work on counting each unicorn. Support your child as they count the unicorns on each page and say the number. Don’t forget to point to the number and say the name. Have fun coloring the book! Feel free to reread the book over and over again, too. The repeated readings are important because it will build you child’s confidence. 
+We love math! This number book is a quick and easy way to work on counting as you learn about unicorns. Plus, it is a great way to begin working on concepts of print. You can show your child the cover, the spine, and the pages. As we went through the book together, it was fun to count the unicorns on each page and say the number.
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/toddler-flower-number-cards.jpg)
 
-1:1 correspondence is the ability to match an object to the corresponding number and recognize that numbers are symbols to represent a quantity. When your child masters 1:1 counting, he or she will be on the right track to be successful in school. These unicorn number match cards provide exposure to 1:1 correspondence. 
-
-To play, you will give your child the number match cards and about 30 fun counters.  Place a counter on each image on the number match cards. Count aloud as you and your child place the counters on the number match cards. Simple, low prep, and engaging! 
+1:1 correspondence is the ability to match an object to the corresponding number and recognize that numbers are symbols to represent a quantity. In this activity, you will give your child number match cards and about 30 fun counters.  Place a counter on each image on the number match cards. Count aloud as you and your child place the counters on the number match cards. Simple, low prep, and engaging! 
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-clothespins.jpg)
 
