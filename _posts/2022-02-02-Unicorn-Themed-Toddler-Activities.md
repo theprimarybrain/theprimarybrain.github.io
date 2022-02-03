@@ -38,10 +38,7 @@ Fine motor skills are not only fun and engaging for kids, but they’re also inc
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-scissor-skills.jpg)
 
-When I was little, I loved giving haircuts to My Little Ponies. Then my mom found out and quickly cut that off!  I’m sure that’s where this next fine motor activity was inspired from! You’ll use the Unicorn Haircut Printable, bright colored ribbon, and kid scissors. 
-- Cut out the unicorn. (Older kids can cut it out on their own for more cutting practice.) 
-- Tape the unicorn’s hair (ribbon) to the back of the unicorn. 
-- Give your child scissors and direct your child to give the unicorn a haircut. 
+What could be more fun than giving a unicorn a haircut! To prepare this activity, just tape some ribbon to the back of a unicorn. Then, give your child some scissors and watch as they give their first haircut to the unicorn.
 
 _***Don’t forget to remind your child we only cut the unicorn’s hair, not our own!_
 
