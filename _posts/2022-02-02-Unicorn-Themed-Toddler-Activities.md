@@ -72,17 +72,15 @@ We love math! This number book is a quick and easy way to work on counting as yo
 
 Another fun way to count while also getting some fine motor practice in is through clip cards. Laminate the cards and give your child clothespins. Guide your child in clipping clothespins onto the number that matches the number of unicorns on each card. Encourage your child to count aloud. This is perfect work to strengthen those finger muscles and build up those fine motor skills. 
 
-![UnicornToddler]({{ site.github.url }}/assets/img/Unicorn Pattern Strips)
-
-Patterns are another important skill for our littles to work on. For this activity, you will cut out the unicorn pattern strips. Then, give your child 10-15 pom pom balls that match the colors on the strips. Watch as they create patterns by matching the colored pom pom balls to the colors on the unicorn pattern strips. For an extra challenge, you can even have your child try creating his or her own patterns with the pom pom balls. 
-
 ## Gross Motor Activity 
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-maze-gross-motor.jpg)
 
 Gross motor skills are important for young children to practice as they learn how to coordinate and control their body movements. For today's movement activity, we set up a maze outside! It was so much fun following chalk lines to find matching unicorns. It was a great way to get moving and we loved doing it over and over again!
 
+
 [![UnicornUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Unicorn-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=599268609963749f136721233bf5fa5d)
+
 
 I hope you found some magical ideas here to inspire you and your little one! If you want to make teaching your toddler super simple this week, make sure to check out my [Unicorn Themed Toddler Unit](https://https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015) for 5 complete lesson plans and all the printables and activities you’ll need to make the week magical. And if you need even more toddler school themed units, check out the [Tot School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281).
 
