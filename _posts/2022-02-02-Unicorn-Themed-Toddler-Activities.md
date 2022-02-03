@@ -10,7 +10,9 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-My daughter is all about unicorns! Unicorns bring a sense of magic into the room and are a childhood favorite! When you pair learning with your child's favorite things, it is always so much easier to inspire learning. This week, we are working on the letter U through a variety of unicorn toddler activities. This [Unicorn Themed Toddler Unit](https://https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015) is packed with everything you need for a full week of learning. I hope your little ones are as engaged as mine was! 
+My daughter is all about unicorns! Unicorns bring a sense of magic into the room and are a childhood favorite! When you pair learning with your child's favorite things, it is always so much easier to inspire learning. 
+
+This week, we are working on the letter U through a variety of unicorn toddler activities. This [Unicorn Themed Toddler Unit](https://https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015) is packed with everything you need for a full week of learning. I hope your little ones are as engaged as mine was! 
 
 ## Lesson Components 
 
@@ -26,7 +28,7 @@ This unit is made up of 5 lessons that will each work on the following activitie
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-folder-cover.jpg)
 
-To start this magical week off, tell your little ones that you will be playing with and learning all about unicorns. Get excited, because your excitement is contagious! Have your child color the unicorn cover page and attach it to the front of the notebook. Make sure to say the letters in your child’s name as you write them. If your child is ready, he or she can even practice writing their own name. Don’t forget to introduce the letter U as well. If the letter U is in your child's name, then see if they can spot it.  
+To start this magical week off, tell your little ones that you will be playing with and learning all about unicorns. As you begin a new unit, it's fun to create a journal to store your masterpieces in. Your child can color the unicorn cover page and attach it to the front of the notebook. Make sure to say the letters in your child’s name as you write them. If your child is ready, he or she can even practice writing their own name. Don’t forget to introduce the letter U as well. If the letter U is in your child's name, then see if they can spot it.  
 
 ## Fine Motor Activities 
 
