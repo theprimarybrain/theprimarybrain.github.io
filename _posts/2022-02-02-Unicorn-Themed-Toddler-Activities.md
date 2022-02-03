@@ -44,20 +44,15 @@ _***Don’t forget to remind your child we only cut the unicorn’s hair, not ou
 
 ## Sensory Bins 
 
-![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-sensory-bin-explore.jpg)
+We love sensory bins because they provide play opportunities that keep our little ones entertained, while also incorporating meaningful learning opportunities. Here are three fun bins to use this week! 
 
-Sensory bins are an excellent teaching tool because kids love them and they keep our little ones entertained and busy for a while, plus you can incorporate so much learning into them. 
+![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-sensory-bin-explore.jpg)
 
 For this sensory exploration activity, all you’ll need to do is fill a bin with colored rice, spoons, unicorn toys, and a “water” bowl. Give your child time to explore the rice and have a fun sensory experience. The more pouring, scooping, playing and talking, the better! 
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-math-sensory-bin.jpg)
 
-Like I mentioned before, I love sensory bins because you can incorporate so many different skills into them. I always find that my littles one are far more excited when we turn our learning activities into a game, such as hide and seek! Here is a fun one to try at home or in your classroom:
-- Fill a bin with rainbow sprinkles. 
-- Add three empty dishes to the bin. 
-- "Hide” number cards under the sprinkles. 
-
-Then, watch your little ones as they play and learn! Place one of each number card in each empty dish. Guide your child as much support as needed in sorting the numbers into the three dishes. Provide time for free play for your child to play with the bin after sorting the cards. 
+In this sensory bin, we are working on matching numbers. What could be more fun than turning it into a game of hide and seek?!?! To prep this bin, just fill it with rainbow sprinkles, add 3 dishes, and "hide" several number cards in the sprinkles. Then, watch your little ones go on a hunt to find them! As they find each card, have them sort the number cards into the dishes. Then, give them free time to play with the bin after sorting the cards. 
 
 ![UnicornToddler]({{ site.github.url }}/assets/img/unicorn-toddler-sensory-bin.jpg)
 
