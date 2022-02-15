@@ -2,7 +2,7 @@
 layout: post
 title: Spring Fine Motor Activities
 categories: [Fine Motor Activities]
-tags: [writing, literacy]
+tags: [fine motor]
 image:
   feature: spring-fine-motor-feature.jpg
   teaser: spring-fine-motor-teaser.jpg
@@ -11,7 +11,7 @@ image:
 ---
 Spring is in the air, and it’s a perfect time to practice fine motor skills with your students! Fine motor skills are so important since they strengthen finger control and muscles in the hands, develop hand-eye coordination, and help students learn how to manipulate objects. These skills lead to student mastery of gripping a pencil, holding scissors, and manipulating small objects confidently. Our students need time to practice fine motor skills in lots of different ways throughout the day. 
 
-In this blog post, I hope you find some fun ideas that will engage your students and help them develop fine motor skills using items you likely have on hand!
+In this blog post, I hope you find some fun ideas that will engage your students and help them develop fine motor skills using items you likely have on hand! 
 
 ![SpringFineMotor]({{ site.github.url }}/assets/img/Fine-Motor-Spring-Flower-Beads.jpg)
 
