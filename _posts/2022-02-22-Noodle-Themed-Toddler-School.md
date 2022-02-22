@@ -26,12 +26,12 @@ This unit is made up of 5 lessons that will each work on the following activitie
 ![NoodleToddler]({{ site.github.url }}/assets/img/Noodle-Toddler-Coloring-Page.jpg)
 My toddler was instantly intrigued when I told him we would be learning with noodles this week! We started off the unit by introducing the letter Nn. This Nn is for Noodle coloring page was the perfect way to explore the letter and sound, as well as work on fine motor coloring skills. We also enjoyed working on vocabulary and talking about all of the different types of noodles. 
 
-![NoodleToddler]({{ site.github.url }}/Noodle-Toddler-Spaghetti-Painting.jpg)
+![NoodleToddler]({{ site.github.url }}/assets/img/Noodle-Toddler-Spaghetti-Painting.jpg)
 Have you ever experimented with painting using a variety of “paintbrushes”? Your little ones will love using cooked spaghetti dipped in paint.  If you’re using two different colors, the colors will overlap just by the nature of the project. This is a great opportunity to show your child what happens when colors mix and how primary colors mixed together can make new colors. Make sure you have lots of space and be prepared for messy hands and big smiles with this activity! 
 
 ## Fine Motor Activities 
 
-![NoodleToddler]({{ site.github.url }}/Noodle-Toddler-Design.jpg)
+![NoodleToddler]({{ site.github.url }}/assets/img/Noodle-Toddler-Design.jpg)
 
 This fine motor activity uses plastic tweezers because they are a great tool to help build strong muscles in our little one’s hands. To begin, have your child use plastic tweezers to pick up different types of noodles and place them on the mat. This is also great hand-eye coordination practice. Your child can even place the noodles in different shapes or designs, like a flower, car, or train. 
 
