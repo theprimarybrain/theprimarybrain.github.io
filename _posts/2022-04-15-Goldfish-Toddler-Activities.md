@@ -66,7 +66,7 @@ These goldfish number puzzles were also a hit and a great way to practice counti
 
 [![GoldfishToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Goldfish-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226?st=37d4201800545be553a7803fd5cc2083&utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20School%20Image%20Cover)
 
-I hope you found some great goldfish themed ideas to use at home with your little ones! We had so much fun with this goldfish unit and I know you will too! If you want to make teaching your toddler super simple and fun this week, check out my [Goldfish Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Flower-Themed-Activities-Homeschool-Classroom-4537052?st=1f6effd49a447a67c15a3ac86f29d15e) for 5 complete lesson plans and all the printables you need. 
+I hope you found some great goldfish themed ideas to use at home with your little ones! We had so much fun with this goldfish unit and I know you will too! If you want to make teaching your toddler super simple and fun this week, check out my [Goldfish Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226) for 5 complete lesson plans and all the printables you need. 
 
 And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) for an entire year of learning!
 
