@@ -64,7 +64,7 @@ Patterns are another fun math skill to practice with goldfish crackers. While do
 
 These goldfish number puzzles were also a hit and a great way to practice counting and matching a set of objects to a numeral. You’ll help your little one count the number of fish and match the set to the correct number. You can include numbers 1-3 if your child is just starting out, or challenge them with larger sets and numbers as he or she becomes more confident. 
 
-![GoldfishToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Goldfish-Unit.jpg)(https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226?st=37d4201800545be553a7803fd5cc2083&utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20School%20Image%20Cover)
+[![GoldfishToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Goldfish-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226?st=37d4201800545be553a7803fd5cc2083&utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20School%20Image%20Cover)
 
 I hope you found some great goldfish themed ideas to use at home with your little ones! We had so much fun with this goldfish unit and I know you will too! If you want to make teaching your toddler super simple and fun this week, check out my [Goldfish Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Flower-Themed-Activities-Homeschool-Classroom-4537052?st=1f6effd49a447a67c15a3ac86f29d15e) for 5 complete lesson plans and all the printables you need. 
 
