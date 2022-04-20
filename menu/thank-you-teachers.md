@@ -4,6 +4,8 @@ title: Thank You Teachers!
 image:
   feature: 
 ---
+![ThankfulImage]({{ site.github.url }}/assets/img/Everyone-Wins-Graphic.png)
+
 <div id="fd-form-625e2bc00f214591d11978bd"></div>
 <script>
   window.fd('form', {
@@ -11,3 +13,5 @@ image:
     containerEl: '#fd-form-625e2bc00f214591d11978bd'
   });
 </script>
+
+![ThankfulImage]({{ site.github.url }}/assets/img/Everyone-Wins-Logos.png)
