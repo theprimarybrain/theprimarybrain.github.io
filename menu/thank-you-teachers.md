@@ -2,7 +2,7 @@
 layout: default
 title: Thank You Teachers!
 image:
-  feature: 
+  feature: Everyone-Wins-Graphic.png
 ---
 ![ThankfulImage]({{ site.github.url }}/assets/img/Everyone-Wins-Graphic.png)
 
