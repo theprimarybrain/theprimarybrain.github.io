@@ -2,16 +2,8 @@
 layout: default
 title: Thank You Teachers!
 image:
-  feature: Everyone-Wins-Graphic.png
+  feature: Landing Page image after.png
 ---
-![ThankfulImage]({{ site.github.url }}/assets/img/Everyone-Wins-Graphic.png)
+![Inside]({{ site.github.url }}/assets/img/Landing Page image after.png)
 
-<div id="fd-form-625e2bc00f214591d11978bd"></div>
-<script>
-  window.fd('form', {
-    formId: '625e2bc00f214591d11978bd',
-    containerEl: '#fd-form-625e2bc00f214591d11978bd'
-  });
-</script>
-
-![ThankfulImage]({{ site.github.url }}/assets/img/Everyone-Wins-Logos.png)
+Thank you for joining us for this FUN teacher giveaway! This giveaway has now ended. Be sure to join our email list for future freebies, giveaways, teacher tips, and more!
