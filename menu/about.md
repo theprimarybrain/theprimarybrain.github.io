@@ -2,18 +2,23 @@
 layout: page
 title: About
 image:
-  feature: Laurins-About-Me-Photo.jpg
+  feature: Laurins Headshot_0133.jpg
 ---
-Hello Teacher Friends! Welcome to my blog! I'm Laurin Brainard and I am a first grade teacher in Southern California. I am so glad you stopped by!
+Hello Teacher Friend! Welcome to The Primary Brain! 
 
-![Family Photo]({{ site.github.url }}/assets/img/Laurins-About-Me-Photo.jpg)
+![LaurinsHeadshot]({{ site.github.url }}/assets/img/Laurins Headshot_0133.jpg)
 
-Ever since I was a little girl, I have known that I wanted to be a teacher. I used to set up all my stuffed animals and "teach" them. This later turned into using my trusty Crayola crayons to draw curriculum for my 4 year old sister. She may not have been as engaged as I wanted her to be, but it was great practice! 
+I'm Laurin and I am here to help preschool through first grade parents and teachers find the resources and strategies you need to be successful in teaching in your students while saving you time! Maybe you are here looking for hands-on activities, phonics resources, small group reading, centers, and ways to engage your little ones. If so, I have you covered!
 
-I am now in my 7th year teaching first grade in the same classroom where my teaching journey began! Before I started teaching first grade, I was an intervention teacher for struggling readers. For the past three years I have been fortunate to share a teaching contract. This allows me to work half the week and be a mommy at home the other half. I really do experience the best of both worlds!
+## A Little About Laurin...
 
-![Family Photo]({{ site.github.url }}/assets/img/Laurins-About-Me-Photo-Family.jpg)
+![Family Photo]({{ site.github.url }}/assets/img/LaurinWithKids.jpg)
 
-I was born and raised in Southern California where I now live with my amazing husband, son and daughter. When I am not teaching, you will find me spending time with family, going to church, playing in my kitchen, homeschooling for preschool, writing curriculum, and blogging to my heart’s content.  
+Ever since I was a little girl, I have known that I wanted to be a teacher. I used to set up all my stuffed animals and "teach" them. This later turned into using my trusty crayons to draw curriculum for my 4 year old sister. She may not have been as engaged as I wanted her to be, but it was great practice! 
 
-You can connect with me on [Instagram](https://www.instagram.com/theprimarybrain/) or [Click Here to join my email list](https://theprimarybrain.com/menu/email-list/) to email me directly! 
+I have taught first grade for 8 years in Southern California! Before I started teaching first grade, I was an intervention teacher for struggling readers. I now have the great priviledge of homeschooling my preschoolers at home while I work on new resources to support you in your classroom!
+
+When I am not teaching, you will find me spending time with my family, relaxing at the beach, playing in my kitchen, or digging into a sensory bin with my little ones!
+
+If you want to connect with Laurin, please follow me on social media and make sure to sign up for my email list!
+To chat about teaching with Laurin, you can message me on [Instagram](https://www.instagram.com/theprimarybrain/) and [click Here to join my email list](https://theprimarybrain.com/menu/email-list/) to email me directly! Can't wait to hear from you!
