@@ -25,4 +25,4 @@ Since then, I have taught first grade for 8 years in Southern California. I was 
 When I am not teaching, you will find me spending time with my family, relaxing at the beach, playing in my kitchen, or digging into a sensory bin with my little ones!
 
 If you want to connect with Laurin, please follow me on social media and make sure to sign up for my email list!
-To chat about teaching with Laurin, you can message me on [Instagram](https://www.instagram.com/theprimarybrain/) and [click Here to join my email list](https://theprimarybrain.com/menu/email-list/) to email me directly! Can't wait to hear from you!
+To chat about teaching with Laurin, you can message me on [Instagram](https://www.instagram.com/theprimarybrain/) and [click here to join my email list](https://theprimarybrain.com/menu/email-list/) to email me directly! Can't wait to hear from you!
