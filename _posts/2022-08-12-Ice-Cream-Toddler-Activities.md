@@ -27,7 +27,7 @@ This unit is made up of 5 lessons that will each work on the following activitie
 
 This unit is filled with ice cream art activities to bring some summer fun into your home! To kick off the unit, you’ll give your child the ice cream coloring page. This is a great time to review the color names and what it means to color in the lines. As your child begins to color, point to the letter I and say the name of the letter. The more exposure your child has to letters, the easier it will be for your child to remember the name.
 
-![IceCreamToddler]({{ site.github.url }}/ice-cream-toddler-painting.jpg)
+![IceCreamToddler]({{ site.github.url }}/assets/img/ice-cream-toddler-painting.jpg)
 
 Another fun activity is this ice cream painting! All you need are watercolor paints, a paintbrush, and a small cup of water. 
 
@@ -35,13 +35,13 @@ Allow your child to paint the ice cream independently and celebrate the masterpi
 
 ## Fine Motor Activities 
 
-![IceCreamToddler]({{ site.github.url }}/ice-cream-dot-marker-picture.jpg)
+![IceCreamToddler]({{ site.github.url }}/assets/img//ice-cream-dot-marker-picture.jpg)
 
 Fine motor skills are so important for our little ones to master. They need lots and lots of repetitive practice manipulating small items with their tiny little hands. One way to build hand strength is using clothespins. 
 
 In this activity, your child will match uppercase and lowercase letters using clothespins. Clothespins are a great way to build fine motor skills because they provide opportunities for your child to develop important foundational skills required to use scissors, hold a pencil, and so many other important skills. Plus they’re fun! 
 
-![IceCreamToddler]({{ site.github.url }}/ice-cream-dot-marker-picture.jpg)
+![IceCreamToddler]({{ site.github.url }}/assets/img//ice-cream-dot-marker-picture.jpg)
 
 Another exciting fine motor activity in this ice cream unit is the dot marker ice cream art project. For this activity, you can review the shape name “circle.” Your child will practice dotting inside each circle in the ice cream. This is great hand-eye coordination practice for your little one! 
 
@@ -69,7 +69,7 @@ This last sensory exploration activity was a HUGE hit! For this activity, have y
 
 ## Math Activity 
 
-![IceCreamToddler]({{ site.github.url }}/ice-cream-toddler-fine-motor-cards.jpg)
+![IceCreamToddler]({{ site.github.url }}/assets/img//ice-cream-toddler-fine-motor-cards.jpg)
 
 This 1:1 counting activity will help your little one start to recognize that we count one object once, and can match the set with a numeral. For this activity, use any type of counter you have on hand. Mini erasers are fun, and we love using pom pom balls as “sprinkles.” Guide your child in placing one counter on the number one ice cream. Remind your child that “1” represents one item while placing the counters on each card to match the number and counting out loud. You can use numbers 1-6, depending on your child’s ability level. 
 
