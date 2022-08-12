@@ -35,7 +35,7 @@ Allow your child to paint the ice cream independently and celebrate the masterpi
 
 ## Fine Motor Activities 
 
-![IceCreamToddler]({{ site.github.url }}/assets/img//ice-cream-dot-marker-picture.jpg)
+![IceCreamToddler]({{ site.github.url }}/assets/img//ice-cream-toddler-clip-cards.jpg)
 
 Fine motor skills are so important for our little ones to master. They need lots and lots of repetitive practice manipulating small items with their tiny little hands. One way to build hand strength is using clothespins. 
 
