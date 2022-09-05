@@ -34,7 +34,7 @@ Isn’t it _the best_ when simple household products can become fantastic crafts
 
 ## Fine Motor Activities 
 
-[![Toddler]({{ site.github.url }}/assets/img/xray-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/xray-fine-motor-activity.jpg](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post) 
 
 Fine motor activities are so important during the toddler years. This activity for the letter x is a great way to help your toddler practice fine motor skills like gluing and working with different materials like cooked spaghetti or yarn!
 
