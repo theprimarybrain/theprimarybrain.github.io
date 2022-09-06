@@ -9,7 +9,9 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Children need to build fine motor skills to help them grasp objects, become strong writers, and to be able to complete self-care tasks each day. During the fall season, what could be more fun than fall fine motor activities for preschool and kindergarten students! Here are 6 activities from my [Fall Fine Motor Activities](https://www.teacherspayteachers.com/Product/Fall-Fine-Motor-Skills-Activities-Hole-Punch-Tracing-Prewriting-Playdough-More-8039943?st=41030671373b72ebc21c69d36073ba04&utm_source=PB%20Blog&utm_campaign=Fine%20Motor%20Activities) that you can add to morning tubs or fine motor centers each week. 
+Children need to build fine motor skills to help them grasp objects, become strong writers, and to be able to complete self-care tasks each day. During the fall season, what could be more fun than fall fine motor activities for preschool and kindergarten students! 
+
+Here are 6 activities from my [Fall Fine Motor Activities](https://www.teacherspayteachers.com/Product/Fall-Fine-Motor-Skills-Activities-Hole-Punch-Tracing-Prewriting-Playdough-More-8039943?st=41030671373b72ebc21c69d36073ba04&utm_source=PB%20Blog&utm_campaign=Fine%20Motor%20Activities) that you can add to morning tubs or fine motor centers each week. 
 
 ## Developing Finger Control
 
