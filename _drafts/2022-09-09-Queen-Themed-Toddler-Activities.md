@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ice Cream Toddler Activities
+title: Queen Toddler Activities
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
