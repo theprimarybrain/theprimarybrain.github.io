@@ -52,7 +52,7 @@ For this next sensory bin activity, fill a bin with water beads or blue rice. Ad
 
 Giving our little ones lots of opportunities to practice 1:1 correspondence is essential in order for them to build confidence and master this skill. For this activity, you’ll give your child the number match cards and about 30 counters. We love using blue gems or mini erasers! Your child will place a counter on each image on the number match cards. Encourage your child to count aloud as he or she places each counter on the card. 
 
-![YachtToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Yacht-Unit.jpg)(https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Yacht-Themed-Lessons-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20School%20Post)
+[![YachtToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Yacht-Unit.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Yacht-Themed-Lessons-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20School%20Post)
 
 I hope you found some great ideas to use this week with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Yacht Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Yacht-Themed-Lessons-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20School%20Post) for 5 complete lesson plans and all the printables you need. 
 
