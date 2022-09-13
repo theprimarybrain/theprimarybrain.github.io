@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Queen Toddler Activities
+title: Queen Toddler Activities - Simple Activities for the Letter Q
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
