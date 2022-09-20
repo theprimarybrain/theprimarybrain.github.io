@@ -28,7 +28,7 @@ This unit is made up of 5 lessons that will each work on the following activitie
 
 Dot paints may be the _best invention ever_. I wish I had thought of it! Help your child not only learn about spiders but teach them the shape name _circle_ at the same time! 
 
-[![Toddler]({{ site.github.url }}/assets/imgspider-toddler-fine-motor.jpg/)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-fine-motor.jpg/)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
 
 Clothes pins are a great tool to help your toddler with **fine motor skills**. Let your child add some legs to the spider in this fun fine motor activity!
 
