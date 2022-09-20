@@ -38,7 +38,7 @@ Clothes pins are a great tool to help your toddler with **fine motor skills**. L
 
 Create a spooky spider web out of yarn, string, or even cooked spaghetti! Add some plastic spiders, and your child can sort the letters by uppercase/lowercase. 
 
-[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-playdough-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-playdough-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) 
 
 You can’t have activities with a spider theme and not build some fun spiders. Make sure to grab some pipe cleaners, googly eyes, and Playdoh. Your toddler will surely have some fun in this build-a-spider sensory bin. 
 
