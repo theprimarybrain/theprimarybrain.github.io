@@ -63,7 +63,7 @@ Sometimes your toddler is just not ready to open up a book and read! That’s ok
 
 [![Letter S Spider Activities]({{ site.github.url }}/assets/img/Cover-Toddler-Spider-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
  
-These are just a few of the fantastic fun activities in my [Letter S Spider Activites]](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) for toddlers. This [letter S spider curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) includes gross motor activities, spider crafts, and more! I even include daily lesson plans to ensure you get the most out of every creepy crawly activity. 
+These are just a few of the fantastic fun activities in my [Letter S Spider Activites](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) for toddlers. This [letter S spider curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) includes gross motor activities, spider crafts, and more! I even include daily lesson plans to ensure you get the most out of every creepy crawly activity. 
 
 ## Don’t Forget!
 
