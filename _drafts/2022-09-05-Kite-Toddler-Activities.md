@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Ice Cream Toddler Activities
+title: Kite Toddler Activities
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
 image:
-  feature: 
-  teaser: 
+  feature: kite-toddler-activities-feature.jpg
+  teaser: kite-toddler-activities-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
@@ -16,10 +16,10 @@ This week we are diving into kite toddler activities as we learn outside the cla
 This unit is made up of 5 lessons that will each work on the following activities:
 - literacy/language 
 - sensory bin 
-- math and science activity 
-- fine motor activity 
-- gross motor activity 
-- art activity 
+- math and science activities
+- fine motor activities
+- gross motor activities
+- art activities
 
 ## Art Activities 
 

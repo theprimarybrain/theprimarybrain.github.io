@@ -5,8 +5,8 @@ categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
 image:
-  feature: 
-  teaser: 
+  feature: volcano-themed-toddler-activities-feature.jpg
+  teaser: volcano-toddler-activities-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
