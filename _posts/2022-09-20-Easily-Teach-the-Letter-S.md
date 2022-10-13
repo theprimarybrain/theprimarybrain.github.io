@@ -3,7 +3,7 @@ layout: post
 title: Easily Teach The Letter S With Spider Activities For Toddlers
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
-tags: [toddler, toddler school]
+tags: [toddler, toddler school, halloween toddler]
 image:
   feature: spider-activities-feature.jpg
   teaser: spider-activities-teaser.jpg

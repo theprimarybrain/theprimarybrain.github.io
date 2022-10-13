@@ -2,7 +2,7 @@
 layout: post
 title: Fall Fine Motor Activities
 categories: [Fine Motor Activities]
-tags: [fine motor]
+tags: [fine motor, halloween toddler]
 image:
   feature: fall-fine-motor-activities-feature.jpg
   teaser: fall-fine-motor-activities-teaser.jpg

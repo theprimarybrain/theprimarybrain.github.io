@@ -3,7 +3,7 @@ layout: post
 title: 12 Fantastic And Fun Halloween Activities For Toddlers
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
-tags: [toddler, toddler school]
+tags: [halloween toddler]
 image:
   feature: halloween-toddler-feature.jpg
   teaser: halloween-toddler-teaser.jpg
