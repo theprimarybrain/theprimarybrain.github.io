@@ -59,7 +59,7 @@ If you’re doing volcano week with your little one, it’s essential that you c
 
 This fun gross motor activity is sure to keep your child excited and engaged while practicing those gross motor skills, coordination, and body movements. For this activity, you’ll lay out red construction paper in a row on the ground. Add a thick strip of tape on top of the construction paper. Tell your child that the red paper is lava and the tape is a bridge over the lava. Your child will walk over the “bridge” to get to the other side. Be careful not to step in the hot lava! 
 
-![VolcanoToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Volcano-Unit.jpg)(https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Volcano-Preschool-Curriculum-Letter-V-5232563?st=e30448ebb266bb1f799086c644e17e40&utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit)
+[![VolcanoToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Volcano-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Volcano-Preschool-Curriculum-Letter-V-5232563?st=e30448ebb266bb1f799086c644e17e40&utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit)
 
 I hope you found some great ideas to use this week with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Volcano Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Volcano-Preschool-Curriculum-Letter-V-5232563?st=e30448ebb266bb1f799086c644e17e40&utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit) for 5 complete lesson plans and all the printables you need. 
 
