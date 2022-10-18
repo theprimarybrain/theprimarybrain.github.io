@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Sunday Fundays
+title: Join Our Email List!
 image:
-  feature: sunday-fundays.jpg
+  feature: stem-snowman-collage.jpg
 ---
-![SundayFundaysImage]({{ site.github.url }}/assets/img/sunday-fundays.jpg)
 
-<div id="fd-form-62939c4fbf853c6bf09f3477"></div>
+<div id="fd-form-5de8831449ed9c00265f98de"></div>
 <script>
   window.fd('form', {
-    formId: '62939c4fbf853c6bf09f3477',
-    containerEl: '#fd-form-62939c4fbf853c6bf09f3477'
+    formId: '5de8831449ed9c00265f98de',
+    containerEl: '#fd-form-5de8831449ed9c00265f98de'
   });
 </script>
