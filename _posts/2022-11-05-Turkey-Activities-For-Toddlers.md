@@ -49,7 +49,7 @@ Looking for some other [fall fine motor activities](https://www.teacherspayteach
 
 [![Toddler]({{ site.github.url }}/assets/img/turkey-toddler-puzzle-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Turkey-Preschool-Curriculum-Letter-T-4199735?utm_source=PB%20Blog&utm_campaign=Turkey%20Toddler%20Post)
 
-Add some feathers to the bottom of a bin and place all Letter T/t cards throughout the bin. Your child’s job is to sort each uppercase and lowercase letter T/t. 
+Add some feathers to the bottom of a bin and place all puzzle piece cards throughout the bin. Show the letter cards for T and t. Review the difference between an uppercase T or a “big t” and a lowercase t or “little t.”Your child’s job is to match each puzzle piece while reviewing letter names!
 
 [![Toddler]({{ site.github.url }}/assets/img/turkey-toddler-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Turkey-Preschool-Curriculum-Letter-T-4199735?utm_source=PB%20Blog&utm_campaign=Turkey%20Toddler%20Post)
 
@@ -59,7 +59,7 @@ Everyone _loves_ a good build-a-turkey! Give your child some play dough, feather
 
 [![Toddler]({{ site.github.url }}/assets/img/turkey-toddler-memory.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Turkey-Preschool-Curriculum-Letter-T-4199735?utm_source=PB%20Blog&utm_campaign=Turkey%20Toddler%20Post)
 
-Show the letter cards for T and t. Review the difference between an uppercase T or a “big t” and a lowercase t or “little t.” Flip the cards over and play a matching game with your toddler. 
+Memory was one of my favorite childhood games. In this game, you will flip the cards over and play a matching game with your toddler. Two two cards over at a time to see if they match. Review the vocabulary word on each card to help your child master a few new words.
 
 ## Turkey Activities For Toddlers
 
