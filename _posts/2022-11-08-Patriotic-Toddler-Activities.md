@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-When it gets busy and holidays approach, learning activities often get replaced with activities like parades, the park, watching fireworks, or family vacations. It can be challenging to fit everything in! But, just like school-aged children, toddlers can also experience a learning slide. But, you don’t have to worry because these patriotic activities for toddlers are the perfect mix of fun and learning and can be done in small increments of time!
+When it gets busy and holidays approach, learning activities often get replaced with activities like parades, the park, watching fireworks, or family vacations. It can be challenging to fit everything in! But, just like school-aged children, toddlers can enjoy learning about the freedoms and patriotic holidays we enjoy in our country. These patriotic activities for toddlers are the perfect mix of fun and learning and can be done in small increments of time!
 
 ## Lesson Components 
 This unit is made up of 12 patriotic activities you can use for Veteran’s Day, Memorial Day, and 4th of July that will help to provide kindergarten readiness skills to your little ones:
