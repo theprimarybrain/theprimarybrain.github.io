@@ -34,9 +34,9 @@ In this second craft, we combined fine motor skills and art to make another fun 
 ## Sensory Bins
 Any time I get out the sensory bins in our house, my kids come running! They love to feel each piece of sensory bin filler and dig their hands into a fun learning opportunity. For Valentine's Day, I put together opportunities to work on letter names and sounds and a math matching bin. Take a look at how I set up our sensory bins in this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BhwsK3UXfiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### Candy Heart Letter Name and Sounds Sensory Bin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BhwsK3UXfiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-reading.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
 
