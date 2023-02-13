@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Valentine Activities For Toddlers
+title: 5 Valentine Activities For Toddlers
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Valentine's Day is right around the corner and we are filling our days with painting, sensory bins, and all the fine motor activities our hearts desire! These 7 Valentine's Day activities for toddlers are sure to keep your little ones engaged in learning as we enjoy the month of love! Just grab a few materials and you will be ready to play and learn with your little ones!
+Valentine's Day is right around the corner and we are filling our days with painting, sensory bins, and all the fine motor activities our hearts desire! These 5 Valentine's Day activities for toddlers are sure to keep your little ones engaged in learning as we enjoy the month of love! Just grab a few materials and you will be ready to play and learn with your little ones!
 
 ## Lesson Components 
 This unit is made up of 12 valentine activities you can use for the entire month of February:
@@ -25,7 +25,7 @@ Little ones LOVE to create art for their parents, grandparents, and other specia
 
 [![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-fingerprint-art.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
 
-All you need for this fingerprint tree is this [tree printable from our Valentine Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) and some liquid paint on a plate. Then, kids will tip their fingertips in the paint and press around the tree to make leaves. When finished, you can cut out the tree and paste onto a large piece of construction paper for a jumbo size card! 
+All you need for this fingerprint tree is this [printable from our Valentine Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) and some liquid paint on a plate. Then, kids will tip their fingertips in the paint and press around the tree to make leaves. When finished, you can cut out the tree and paste onto a large piece of construction paper for a jumbo size card! 
 
 [![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-art.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
 
