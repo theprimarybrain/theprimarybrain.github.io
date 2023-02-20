@@ -61,7 +61,7 @@ This week we are reviewing number recognition and counting to four. For this mat
 
 ![KiteToddler]({{ site.github.url }}/assets/img/kite-toddler-math-2.jpg)
 
-For this next math activity, you’ll create a kite1 You’ll punch a hole in the bottom of the kite and string a ribbon through the hole to create a tail. Glue number squares onto clothespins, or handwrite numbers 1-9 onto the clothespins with a permanent marker. 
+For this next math activity, you’ll create a kite. You’ll punch a hole in the bottom of the kite and string a ribbon through the hole to create a tail. Glue number squares onto clothespins, or handwrite numbers 1-9 onto the clothespins with a permanent marker. 
 
 Next, your child will clip the numbered clothespins onto the ribbon tail. Review the name of each number with your child as he or she adds each clip. For an added challenge, you can have your child clip the numbers in counting order.
 
