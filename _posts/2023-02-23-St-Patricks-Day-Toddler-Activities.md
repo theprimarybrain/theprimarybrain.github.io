@@ -36,7 +36,7 @@ To create this bin for your child, just add two dishes into your favorite sensor
 
 [![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-fine-motor.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
 
-In this second sensory bin, we added in some plastic tweezers and a printable rainbow workmat to work on fine motor skills. Learning to use tweezers can be tricky at first, but they are an excellent tool to use to help your child gain hand strength as they squeeze the tweezers to pick up each pom pom ball and place on their rainbow mat. 
+In this second sensory bin, we added in some [plastic tweezers](https://amzn.to/3SrpzcY) and a printable rainbow workmat to work on fine motor skills. Learning to use tweezers can be tricky at first, but they are an excellent tool to use to help your child gain hand strength as they squeeze the tweezers to pick up each pom pom ball and place on their rainbow mat. 
 
 To add in some fun conversation, ask your child what they think is at the end of the rainbow! We loved reading a St. Patrick's Day book and learning about how a pot of gold can be found at the end of the rainbow, then building our own rainbow!
 
@@ -44,13 +44,13 @@ To add in some fun conversation, ask your child what they think is at the end of
 
 [![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-play-dough.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
 
-Playdough is always a hit in our house! In this activity, I created St. Patrick's Day vocabulary cards so we could work on the names of various symbols that our little ones may encounter in their daily lives this month. Then, we rolled snakes and balls of dough and used them to build the symbols. 
+[Playdough](https://amzn.to/3YXfYxg) is always a hit in our house! In this activity, I created St. Patrick's Day vocabulary cards so we could work on the names of various symbols that our little ones may encounter in their daily lives this month. Then, we rolled snakes and balls of dough and used them to build the symbols. 
 
-Playing with playdough from a young age is an excellent way to build up the tiny hand muscles in little hands. Kindergarten will be here before you know it, and this activity will help your child's fine motor skill development as they prepare to start writing!
+Playing with [playdough](https://amzn.to/3YXfYxg) from a young age is an excellent way to build up the tiny hand muscles in little hands. Kindergarten will be here before you know it, and this activity will help your child's fine motor skill development as they prepare to start writing!
 
 [![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-dot-marker.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
 
-Dot markers are another fun tool to use to work on hand strength and hand control. In this dot marker activity, your little ones will have the opportunity to grasp a dot marker, while having to use precise hand control to dot inside each circle. It's also a great opportunity to teach the difference between inside and outside vocabulary. 
+[Dot markers](https://amzn.to/3XW6MaY) are another fun tool to use to work on hand strength and hand control. In this dot marker activity, your little ones will have the opportunity to grasp a dot marker, while having to use precise hand control to dot inside each circle. It's also a great opportunity to teach the difference between inside and outside vocabulary. 
 
 ## Work on Patterns
 
