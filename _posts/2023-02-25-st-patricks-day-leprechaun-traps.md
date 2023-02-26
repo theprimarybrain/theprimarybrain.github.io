@@ -47,6 +47,8 @@ If you have ever read the book How To Catch a Leprechaun, then you probably alre
 
 ## Final Reflections 
 
+![Reflections]({{ site.github.url }}/assets/img/leprechaun-reflection-pages.jpg)
+
 I always have my students help clean up the mess the leprechaun left behind. It's a great way to have them take ownership of our classroom and their space. Then, it's the perfect time to break out the writing pages from our [Leprechaun Trap STEM Project Unit](https://www.teacherspayteachers.com/Product/How-to-Catch-a-Leprechaun-Trap-STEM-Project-Pulley-Simple-Machine-Activity-3043860?utm_source=PB%20Blog&utm_campaign=Leprechaun%20Trap%20STEM%20Project). There are graphic organizers and formal writing pages to help them reflect on the learning that took place. They can reflect on their opinions, what did or did not go well on their traps, or anything else you want your students to write about. Plus, it's a great way to help calm down some excited students after they find that their traps did not work as they had hoped!
 
 If you want to grab all the fun in this unit, then grab my [Leprechaun Trap STEM Project Unit](https://www.teacherspayteachers.com/Product/How-to-Catch-a-Leprechaun-Trap-STEM-Project-Pulley-Simple-Machine-Activity-3043860?utm_source=PB%20Blog&utm_campaign=Leprechaun%20Trap%20STEM%20Project) and make planning easy this year! If you make traps with your class, I would love to see them and your messy classrooms! Just tag me on Instagram @theprimarybrain and let me see all the fun you have on St. Patrick's Day! 
