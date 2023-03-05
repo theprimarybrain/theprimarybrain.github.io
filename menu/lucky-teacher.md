@@ -13,3 +13,5 @@ image:
     containerEl: '#fd-form-64051a5ad72bad5482cadc1e'
   });
 </script>
+
+![LuckyTeacher]({{ site.github.url }}/assets/img/lucky-teacher-teacher-friends.jpg)
