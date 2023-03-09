@@ -6,8 +6,8 @@ categories: [Preschool]
 tags: [preschool]
 flodesk: 5ed46ff3df06e70026d0a856
 image:
-  feature: 
-  teaser: 
+  feature: baking-preschool-feature.jpg
+  teaser: baking-preschool-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
