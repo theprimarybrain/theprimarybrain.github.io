@@ -36,7 +36,7 @@ Nothing gets my little ones more excited than playing in our pretend kitchen! If
 
 Cooking requires gross motor and fine motor skills. Your preschooler will use children's scissors to cut their way toward a variety of baking tools in this activity. Each strip has a line that matches the tool, a straight line for the piping bag, and a squiggly for the icing spreader or mixer. It will give your preschooler great cutting practice, and they can learn new vocabulary as they cut!
 
-[![FineMotor]({{ site.github.url }}/assets/imgbaking-preschool-playdough-letters.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48-Hrs-Baking-Preschool-Curriculum-Lesson-Plans-and-Activities-8675317?utm_source=PB%20Blog&utm_campaign=Baking%20Preschool%20Unit)
+[![FineMotor]({{ site.github.url }}/assets/img/baking-preschool-playdough-letters.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48-Hrs-Baking-Preschool-Curriculum-Lesson-Plans-and-Activities-8675317?utm_source=PB%20Blog&utm_campaign=Baking%20Preschool%20Unit)
 
 Homemade playdough is so easy to make and so fun to play with. Let your child create the ultimate preschool snack and construct the different letters of the alphabet out of dough. When they are done, enjoy some pretend play as they bake them up and enjoy! 
 
