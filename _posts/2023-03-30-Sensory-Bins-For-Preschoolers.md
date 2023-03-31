@@ -4,8 +4,8 @@ title:  Why Preschoolers Should Use Sensory Bins
 categories: [Preschool]
 tags: [preschool, toddler school]
 image:
-  feature: 
-  teaser:
+  feature: sensory-bin-benefits-for-preschool.jpg
+  teaser: sensory-bin-benefits-for-preschoolers.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
