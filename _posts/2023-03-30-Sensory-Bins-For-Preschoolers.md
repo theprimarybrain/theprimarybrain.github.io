@@ -4,8 +4,8 @@ title:  Why Preschoolers Should Use Sensory Bins
 categories: [Preschool]
 tags: [preschool, toddler school]
 image:
-  feature: why-preschoolers-benefit-from-sensory-bins.jpg
-  teaser: sensory-bin-benefits-for-preschoolers.jpg
+  feature: 
+  teaser:
   credit: Laurin Brainard
   creditlink: ""
 ---
@@ -18,6 +18,8 @@ A sensory bin is a container filled with materials that are designed to engage y
 ### Why should preschool aged children use sensory bins?
 
 Sensory bins are excellent for preschoolers because they provide an engaging and interactive way for children to explore and learn about the environment around them. When children engage in sensory play, it helps to stimulate their senses, which is important for children's brain development and can enhance their cognitive, social-emotional, and physical development.
+
+![SensoryBins]({{ site.github.url }}/assets/img/sensory-bin-benefits-play.jpg)
 
 ### What are some of the benefits of using sensory bins?
 
