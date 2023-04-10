@@ -5,8 +5,8 @@ author: Laurin Brainard
 categories: [STEM Activities]
 tags: [stem]
 image:
-  feature: 
-  teaser: 
+  feature: spring-chicks-stem-feature.jpg
+  teaser: spring-chicks-stem-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
