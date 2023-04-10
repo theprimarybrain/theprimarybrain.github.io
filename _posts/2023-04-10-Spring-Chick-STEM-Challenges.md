@@ -10,9 +10,9 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Easter was yesterday and if your family is anything like ours, then you may find yourself with quite the problem on your hands today… More candy peeps than you know what to do with! 
+Easter was yesterday and if your family is anything like ours, then you may find yourself with quite the problem on your hands today… More candy chicks than you know what to do with! 
 
-Every year I see the debates on social media about whether or not people like the taste of candy peeps. Whether you are team delicious or team no thank you (that’s me!), I have two perfect activities from my [Spring STEM Challenges](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges) to help you use up these bright colored treats in a really fun way!
+Every year I see the debates on social media about whether or not people like the taste of candy chicks. Whether you are team delicious or team no thank you (that’s me!), I have two perfect activities from my [Spring STEM Challenges](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges) to help you use up these bright colored treats in a really fun way!
 
 ## 1. Build a Spring Chick Raft
 
@@ -30,7 +30,7 @@ Once your students have finished brainstorming, it is time to let the STEM build
 
 ![SpringChickHouse]({{ site.github.url }}/assets/img/spring-stem-chick-house.jpg)
 
-Any time we build gingerbread houses at Christmastime, student engagement goes through the roof! So, I decided to take this same idea and build spring chick houses in the spring season! All you need for this challenge is peeps, graham crackers, icing, and popsicle sticks to spread the icing. 
+Any time we build gingerbread houses at Christmastime, student engagement goes through the roof! So, I decided to take this same idea and build spring chick houses in the spring season! All you need for this challenge is candy chicks, graham crackers, icing, and popsicle sticks to spread the icing. 
 
 Just like my other STEM challenges, we begin by putting on our engineering hats and brainstorming how to build the house. Then, I have my students draw their plan in their journals. After the final touches are put on their sketches, they receive graham crackers and icing and the creativity begins! 
 
