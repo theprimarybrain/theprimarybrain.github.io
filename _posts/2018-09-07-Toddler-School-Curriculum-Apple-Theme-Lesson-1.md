@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Themed Toddler School Lessons
+title: Apple Themed Activities for Toddlers
 categories: [Toddler School]
 flodesk: 5e6bae8cb57a7300267c1cf2
 tags: [toddler, toddler school]
@@ -99,6 +99,6 @@ This apple lacing fine motor activity was a struggle at first for my little guy.
 The most exciting part of our day was eating our fun apple snacks! We enjoyed apple "donuts" and apple sandwiches, apple slices, apples dipped in caramel, and homemade applesauce. All of our snacks were delicious! 
 
 ## Now Let's Start Learning!
-[![AppleUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Apple.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Apple-Themed-Homeschool-Preschool-Letter-A-4042753?st=c20028439ee4f0be53147621cc6602e8&utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Photo)
+[![AppleUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Apple.jpg)](https://www.etsy.com/listing/956103440)
 
-I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Toddler School Curriculum - Apple Themed Lessons](http://bit.ly/toddlerapple) on Teachers Pay Teachers! Have fun learning and growing with your little ones! 
+I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](http://bit.ly/toddlerapple)! Have fun learning and growing with your little ones! 
