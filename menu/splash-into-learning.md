@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Splash Into Preschool Learning
+image:
+  feature: Splash-Into-Learning-Form-Header.png
 ---
 ![Image]({{ site.github.url }}/assets/img/Splash-Into-Learning-Form-Header.png)
 
