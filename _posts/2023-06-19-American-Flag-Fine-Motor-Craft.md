@@ -38,3 +38,6 @@ If you want to dive even deeper into learning about the American flag, you can s
 - The 13 stripes represent the original 13 colonies that made up our country.
 - Our country’s first flag had 13 stars. These represented the 13 colonies that first settled in America. Each time a new state was added, a star was added to the flag.  
 - Today, the American flag has 50 stars. Each star represents one of the 50 states.
+
+## Even More Patriotic Fun!
+If you are looking for even more patriotic themed fun to add to your week, then check out my [Patriotic Toddler Activities blog post](https://theprimarybrain.com/toddler%20school/2022/11/08/Patriotic-Toddler-Activities/) for lots of other ideas!
