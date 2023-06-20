@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-The 4th of July is right around the corner, so I am pulling out all of my favorite Patriotic Activities to use with my kids at home. We are starting our learning this week with an American flag craft that includes coloring and stamping with dot markers!
+The 4th of July is right around the corner, so I am pulling out all of my favorite [Patriotic Activities](https://www.teacherspayteachers.com/Product/Patriotic-Toddler-Lesson-Plans-Independence-Day-Activities-for-4th-of-July-8239797?utm_source=PB%20Blog&utm_campaign=Flag%20Craft%20Blog%20Post%20to%20Unit) to use with my kids at home. We are starting our learning this week with an American flag craft that includes coloring and stamping with dot markers!
 
 ## American Flag Facts for Kids
 
