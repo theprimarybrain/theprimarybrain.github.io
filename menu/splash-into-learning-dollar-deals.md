@@ -2,9 +2,9 @@
 layout: page
 title: Splash Into Learning Dollar Deals
 image:
-  feature: SIL2023_Bundle Deals Header.png
+  feature: SIL2023_Dollar Deals Header.png
 ---
-![Image]({{ site.github.url }}/assets/img/SIL2023_Bundle Deals Header.png)
+![Image]({{ site.github.url }}/assets/img/SIL2023_Dollar Deals Header.png)
 
 [![Image]({{ site.github.url }}/assets/img/SIL2023_DollarDeals6.jpg)](https://www.teacherspayteachers.com/Product/Alphabet-Task-Cards-Letter-Recognition-Letter-Formation-Centers-Activities-8566498)
 

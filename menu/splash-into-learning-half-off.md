@@ -2,9 +2,9 @@
 layout: page
 title: Splash Into Learning Half Off Bundles
 image:
-  feature: SIL2023_Bundle Deals Header.png
+  feature: SIL2023_Bundle Deals Header2.png
 ---
-![Image]({{ site.github.url }}/assets/img/SIL2023_Bundle Deals Header.png)
+![Image]({{ site.github.url }}/assets/img/SIL2023_Bundle Deals Header2.png)
 
 [![Image]({{ site.github.url }}/assets/img/SIL2023_HalfOffBundle.jpg)](https://www.teacherspayteachers.com/Product/Seasonal-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-7642528?utm_source=PB%20Collab%20SIL&utm_campaign=Seasonal%20Toddler%20Bundle)
 
