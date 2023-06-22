@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Splash Into Preschool Learning
+title: Splash Into Preschool Learning With Us!
 image:
   feature: Splash-Into-Learning-Form-Header.png
 ---
