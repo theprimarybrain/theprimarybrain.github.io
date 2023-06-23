@@ -27,34 +27,36 @@ This pineapple sensory bin is great for exploring using the senses. The colorful
 
 ![Summer Sensory Bins]({{ site.github.url }}/assets/img/toddler-summer-sensory-bin-sand.jpg)
 
-Another great way to practice the alphabet is by bringing the beach to your home. Fill up a bin with beach colored kinetic sand. Then, hide letter tiles or magnetic letters inside the bin. Give your child the alphabet matching printable and watch as they dig up letters and match to their matching mat. You can grab a FREE alphabet matching printable using the form at the end of this post! 
+Another great way to practice the alphabet is by bringing the beach to your home. Fill up a bin with [beach colored kinetic sand](https://amzn.to/3CLmcXx). Then, hide letter tiles or [magnetic letters](https://amzn.to/44dMdKP) inside the bin. Give your child the alphabet matching printable and watch as they dig up letters and match to their matching mat. You can grab a FREE alphabet matching printable using the form at the end of this post! 
 
 ## Summer Fine Motor Activities
 
 ![Summer Fine Motor]({{ site.github.url }}/assets/img/toddler-summer-dot-marker.jpg)
 
-Dot markers are an excellent tool for building hand control. Children need to not only hold the dabber steady, but they need to press the dabber right inside the circle they want to color. Inside our [Summer Toddler School Unit](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post), I have included a few different dot marker printables so children can build hand control as they color in the circles. Plus, they can build some new vocabulary while they have fun with dot markers!
+[Dot markers](https://amzn.to/3JuiVja) are an excellent tool for building hand control. Children need to not only hold the dabber steady, but they need to press the dabber right inside the circle they want to color. Inside our [Summer Toddler School Unit](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post), I have included a few different dot marker printables so children can build hand control as they color in the circles. Plus, they can build some new vocabulary while they have fun with dot markers!
 
 ![Summer Fine Motor]({{ site.github.url }}/assets/img/toddler-summer-fine-motor.jpg)
 
-Here is another fine motor idea for building hand control. In this activity, children get to add "sprinkles" to an ice cream cone. Depending on the ability of your child, you could use plastic tweezers to pick up large hole beads. Or, your child can work on their pincer grasp by picking up and placing the beads on the ice cream using their fingers. 
+Here is another fine motor idea for building hand control. In this activity, children get to add "sprinkles" to an ice cream cone. Depending on the ability of your child, you could use [plastic tweezers](https://amzn.to/3Xmjmlc) to pick up large hole beads. Or, your child can work on their pincer grasp by picking up and placing the beads on the ice cream using their fingers. 
 
 ## Summer Art Activity
 
 ![Summer Art for Toddlers]({{ site.github.url }}/assets/img/toddler-summer-dot-painting.jpg)
 
-Nothing is more nostalgic than picturing little ones enjoying popsicles on a hot summer day! In this art activity, children will use a q-tip to dot paint on a popsicle. 
+Nothing is more nostalgic than picturing little ones enjoying popsicles on a hot summer day! In this art activity, children will use a q-tip to dot [liquid paint](https://amzn.to/44dMEEX) on a popsicle. 
 
-If your children are working on learning their color names, then this is a way to practice through a fun art project where children won't even realize they are learning! Just place a variety of liquid paint colors on a paper plate with a q-tip set in each paint squirt. Then, allow your children to paint a variety of colors on their popsicle. As they pick up a q-tip, you can say something like "Yellow is a great choice! Can you think of anything you see during summer that is yellow?" Children may respond with _the sun, pineapples, or lemons_. 
+If your children are working on learning their color names, then this is a way to practice through a fun art project where children won't even realize they are learning! Just place a variety of [liquid paint](https://amzn.to/44dMEEX) colors on a paper plate with a q-tip set in each paint squirt. Then, allow your children to paint a variety of colors on their popsicle. As they pick up a q-tip, you can say something like "Yellow is a great choice! Can you think of anything you see during summer that is yellow?" Children may respond with _the sun, pineapples, or lemons_. 
 
 ## Summer Math Activities
 ![Summer Math Activities]({{ site.github.url }}/assets/img/toddler-summer-counting-cards.jpg)
 
-These counting cards are the perfect introduction for toddlers who are learning to count a set of objects and identify numbers by name. First, point to the number and see if your child can identify the number. Then, have children place count and place objects on each picture on the card. After they finish placing an object on each picture, ask how many objects were on the card and have cyour child respond with the number. 
+These counting cards are the perfect introduction for toddlers who are learning to count a set of objects and identify numbers by name. First, point to the number and see if your child can identify the number. Then, have children place count and place objects on each picture on the card. After they finish placing an object on each picture, ask how many objects were on the card and have your child respond with the number. 
 
 ![Summer Math Activities]({{ site.github.url }}/assets/img/toddler-summer-math-puzzle.jpg)
 
-We love building puzzles in our home, so I put together these math puzzles to work on ordering numbers. Children find the numbers 1-4 and place in order to build the puzzle. It's a great way to have children check their own work by seeing if the picture in the puzzle looks correct. After building, then have your child point to each number and say the name of the number. 
+We love building puzzles in our home, so I put together these math puzzles to work on ordering numbers. 
+
+Children find the numbers 1-4 and place in order to build the puzzle. It's a great way to have children check their own work by seeing if the picture in the puzzle looks correct. After building, then have your child point to each number and say the name of the number. 
 
 ![Summer Math Activities]({{ site.github.url }}/assets/img/toddler-summer-math-counting.jpg)
 
