@@ -85,3 +85,5 @@ I hope you are feeling inspired to create an area in your classroom where fast f
 3. [Roll and Read Phonics Games](https://www.teacherspayteachers.com/Product/Roll-and-Read-Phonics-Sight-Words-Literacy-Activities-for-Centers-Games-3100666?utm_source=PB%20Blog&utm_campaign=Roll%20and%20Read%20Bundle%20Early%20Finisher)
 4. [Roll and Read Phonics Games](https://www.teacherspayteachers.com/Product/Roll-and-Read-Phonics-Sight-Words-Literacy-Activities-for-Centers-Games-3100666?utm_source=PB%20Blog&utm_campaign=Roll%20and%20Read%20Bundle%20Early%20Finisher)
 5. [Phonics Memory Games](https://www.teacherspayteachers.com/Product/Phonics-Memory-Games-Literacy-Centers-Activities-7757382?utm_source=PB%20Blog&utm_campaign=Phonics%20Memory%20Early%20Finisher)
+
+Want to save this blog post to read later? Just [click here](https://pin.it/5hUHmtA) to save to your favorite Pinterest board!
