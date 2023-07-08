@@ -66,8 +66,6 @@ I hope you enjoyed following our Preschool journey this week as we learned all a
 
 If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link) for a variety of fun lessons and activities you can use all year long!
 
-{% include image class="css-class" path="/assets/images/file_thumb.jpg" url="/assets/images/file_detailed.jpg" alt="Alt Text" caption="Grab all the fun!" %}
+Want to save this blog post to read later? Just [click here](https://pin.it/6Cc7BXF) to save to your favorite Pinterest board!
 
- Want to save this blog post to read later? Just [click here](https://pin.it/6Cc7BXF) to save to your favorite Pinterest board!
-
-  I hope you enjoy playing and learning with your little ones this week! 
+I hope you enjoy playing and learning with your little ones this week! 
