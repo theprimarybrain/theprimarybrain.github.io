@@ -15,7 +15,7 @@ Getting started with centers can be so tricky! What activities should you use? W
 
 When I think about successful literacy centers, I immediately think about material management. You need enough materials to keep all of your students engaged in learning, but they also need to be easy enough to manage that your students can complete the activities on their own.
 
-In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you! You can grab it here:
+In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you!
 
 ## Choosing Activities For Your Students
 
