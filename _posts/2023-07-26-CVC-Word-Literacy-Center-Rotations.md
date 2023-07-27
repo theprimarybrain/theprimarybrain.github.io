@@ -47,4 +47,4 @@ When I choose activities to use during my center rotations, I like to choose thi
 - Sheet Protector Write and Wipe Mats
 - Task Card Boxes
 
-I hope these tips and activities help your centers to run smoothly all year long! I want to make starting centers as easy as possible for you, so I have planned and put together an entire week of -at family activities that I hope will make this school year a little bit easier for you! You can sign up using this form and I will email you all the activities and plans for free:
+I hope these tips and activities help your centers to run smoothly all year long! I want to make starting centers as easy as possible for you, so I hope this week week of -at family activities will make this school year a little bit easier for you! 
