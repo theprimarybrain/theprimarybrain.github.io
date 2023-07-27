@@ -36,17 +36,17 @@ Starting centers in your classroom is a lot to think about and I want to make it
 
 ## How to Organize Materials
 
-Once you have prepped the activities, it is time to choose a management system! I tried a lot of ways to organize materials over the year and my favorite system is a stack of [large clip boxes](https://amzn.to/3QfkZjk). They fit sheet protectors, copy paper, cards, and all the small pieces we have in each center. Plus, they stack so they don't take up a lot of space in my classroom! You can also put a written label, number, or sticker on the front of each bin so your students know which bin to grab. 
+Once you have prepped the activities, it is time to choose a management system! I tried a lot of ways to organize materials over the years and my favorite system is a stack of [large clip boxes](https://amzn.to/3QfkZjk). They fit sheet protectors, copy paper, cards, and all the small pieces we have in each center. Plus, they stack so they don't take up a lot of space in my classroom! You can also put a written label, number, or sticker on the front of each bin so your students know which bin to grab. 
 
 ![CenterBins]({{ site.github.url }}/assets/img/center-organization-tip.jpg)
 
 I have also used a 6 drawer tower with labeled drawers for some of our activities. In this style, students will take the materials out of the drawers instead of taking the entire bin to their table group. Both of these methods worked well for me depending on the style of activities.
 
-![CenterBins]({{ site.github.url }}/assets/img/center-organization-tip.jpg)
+![CenterBins]({{ site.github.url }}/assets/img/small-group-workshop-organization-drawers.jpg)
 
 You can grab these [Black and Bright Labels](https://www.teacherspayteachers.com/Product/Black-and-Brights-EDITABLE-Bin-Labels-Classroom-Decor-3371262?utm_source=PB%20Blog&utm_campaign=Sterilite%20bin%20labels) in my shop and edit with the wording that will work best for you!
 
-### Practice, Practice, Practice!!
+## Practice, Practice, Practice!!
 
 To help your centers run smoothly all year, you will need to practice, practice, practice! On the first day of centers, you will want to practice every step that you want for your students to do independently. Here are a few important steps to practice before they even work on an activity:
 - How to gather materials
@@ -66,7 +66,11 @@ In my classroom, I like to have one student from each table group be the _Materi
 
 ## Now it's Time to Learn!
 
-Once you have practiced all of your center procedures with your students, then it is time to use the materials! In my classroom, I would have the entire class use the same center on the first day to make sure they all understand how to appropriately complete the activity. Since centers are designed to be independent or partner activities, it is very important to make sure they know how to use the materials independently so that you can work with a small group or complete assessments. Once they understand how to use the center and can complete a rotation on their own, then it is time to add another center. I usually spend an entire week just practicing how to use centers and I walk around the room to assist students as needed. By setting this foundation, your class can run itself and you will be able to work with your small groups for as long as you need to! 
+Once you have practiced all of your center procedures with your students, then it is time to use the materials! In my classroom, I like to have the entire class use the same center on the first day to make sure they all understand how to appropriately complete the activity. 
+
+Since centers are designed to be independent or partner activities, it is very important to make sure they know how to use the materials independently so that you can work with a small group or complete assessments. Once they understand how to use the center and can complete a rotation on their own, then it is time to add another center. 
+
+I usually spend an entire week just practicing how to use centers and I walk around the room to assist students as needed. By setting this foundation, your class can run itself and you will be able to work with your small groups for as long as you need to! 
 
 ## I'm Here to Help!
 
