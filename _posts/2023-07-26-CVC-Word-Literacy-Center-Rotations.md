@@ -66,6 +66,8 @@ In my classroom, I like to have one student from each table group be the _Materi
 
 ## Now it's Time to Learn!
 
+![CenterBins]({{ site.github.url }}/assets/img/pocket-chart-center-activity.jpg)
+
 Once you have practiced all of your center procedures with your students, then it is time to use the materials! In my classroom, I like to have the entire class use the same center on the first day to make sure they all understand how to appropriately complete the activity. 
 
 Since centers are designed to be independent or partner activities, it is very important to make sure they know how to use the materials independently so that you can work with a small group or complete assessments. Once they understand how to use the center and can complete a rotation on their own, then it is time to add another center. 
