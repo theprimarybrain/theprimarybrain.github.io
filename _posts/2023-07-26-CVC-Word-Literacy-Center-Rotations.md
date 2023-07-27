@@ -17,6 +17,15 @@ When I think about successful literacy centers, I immediately think about materi
 
 In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you! You can grab it here:
 
+## Choosing Activities For Your Students
+
+When I choose activities to use during my center rotations, I like to choose resources that can be repeated each week for a variety of phonics skills. This way, I only have to train my students on how to use each center one time, then they can continue using similar activities in the center each week. Here are a few of my favorite types of reusable activities:
+- Partner Games
+- Write and Erase Cards
+- Sheet Protector Write and Wipe Mats
+- Task Card Boxes
+
+Starting centers in your classroom is a lot to think about and I want to make it as easy as possible for you! I planned out a full week of -at family centers so you can try out a variety of activities and see what types are your favorite. You can grab them here:
 <div id="fd-form-64c1f4f9d206cffe61186713"></div>
 <script>
   window.fd('form', {
@@ -25,26 +34,40 @@ In this post, I am sharing my favorite tips and tricks for running successful ce
   });
 </script>
 
-## Organizing Materials
+## How to Organize Materials
 
-One of the trickiest parts of starting center rotations in the classroom is managing all the materials that come with each center. I love to use [large sterilite clip boxes](https://amzn.to/3QfkZjk) because they fit all of the materials that I use at each center. Plus, they stack so they don't take up a lot of space in my classroom! You can also put a written label, number, or sticker on the front of each bin so your students know which bin to grab. 
+Once you have prepped the activities, it is time to choose a management system! I tried a lot of ways to organize materials over the year and my favorite system is a stack of [large clip boxes](https://amzn.to/3QfkZjk). They fit sheet protectors, copy paper, cards, and all the small pieces we have in each center. Plus, they stack so they don't take up a lot of space in my classroom! You can also put a written label, number, or sticker on the front of each bin so your students know which bin to grab. 
 
-## Materials Management
+![CenterBins]({{ site.github.url }}/assets/img/center-organization-tip.jpg)
 
-To help your centers run smoothly all year, you will need to practice, practice, practice! On the first day of centers, you will want to practice every step that you want for your students to do independently. 
+I have also used a 6 drawer tower with labeled drawers for some of our activities. In this style, students will take the materials out of the drawers instead of taking the entire bin to their table group. Both of these methods worked well for me depending on the style of activities.
+
+![CenterBins]({{ site.github.url }}/assets/img/center-organization-tip.jpg)
+
+You can grab these [Black and Bright Labels](https://www.teacherspayteachers.com/Product/Black-and-Brights-EDITABLE-Bin-Labels-Classroom-Decor-3371262?utm_source=PB%20Blog&utm_campaign=Sterilite%20bin%20labels) in my shop and edit with the wording that will work best for you!
+
+### Practice, Practice, Practice!!
+
+To help your centers run smoothly all year, you will need to practice, practice, practice! On the first day of centers, you will want to practice every step that you want for your students to do independently. Here are a few important steps to practice before they even work on an activity:
+- How to gather materials
+- Where to sit with their materials
+- How to use the materials
+- Appropriate voice levels during centers
+- Where to put any completed work pages
+- How to complete the center activity
+- How to rotate to the next center (if rotating)
+- How to put away their centers
+
+By putting all of these procedures in place on day 1, you can set the foundation for successful center rotations in your classroom!
+
+## Assign a Materials Manager
 
 In my classroom, I like to have one student from each table group be the _Materials Manager_. This student is responsible for picking up the center bin at the start of centers and returning the bin at the end of the rotation. This way, only a few students are moving around the room at a time and it helps to keep all the materials where they need to be. 
 
-## Independent Activities
+## Now it's Time to Learn!
 
-Once your students know how to gather and put away their center materials, then it is time to practice completing the activities! First, you will want to establish volume levels for your classroom. Are your students able to whisper speak with a partner during a game, or do you want them to be as quiet as they can be? Establishing these guidelines on day one will help your centers to run the way you want them to all year long! 
+Once you have practiced all of your center procedures with your students, then it is time to use the materials! In my classroom, I would have the entire class use the same center on the first day to make sure they all understand how to appropriately complete the activity. Since centers are designed to be independent or partner activities, it is very important to make sure they know how to use the materials independently so that you can work with a small group or complete assessments. Once they understand how to use the center and can complete a rotation on their own, then it is time to add another center. I usually spend an entire week just practicing how to use centers and I walk around the room to assist students as needed. By setting this foundation, your class can run itself and you will be able to work with your small groups for as long as you need to! 
 
-## Choosing Activities
+## I'm Here to Help!
 
-When I choose activities to use during my center rotations, I like to choose things that can be repeated each week, but for different phonics skills. This way, I only have to train my students on how to use each center one time, then they can continue using similar activities in the center each week. Here are a few of my favorite types of reusable activities:
-- Partner Games
-- Write and Erase Cards
-- Sheet Protector Write and Wipe Mats
-- Task Card Boxes
-
-I hope these tips and activities help your centers to run smoothly all year long! I want to make starting centers as easy as possible for you, so I hope this week week of -at family activities will make this school year a little bit easier for you! 
+If you have any questions about getting started with centers in your classroom or what resources you should use, feel free to [click here](https://m.me/theprimarybrain) to send me a message! Make sure to grab my free week of centers so you can try out some of my favorite activities. I hope these plans help you in your classroom! 
