@@ -11,11 +11,13 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---  
-Getting started with centers can be so tricky! What activities should you use? What can your students manage independently? There are so many things to consider! When I think about successful literacy centers, I immediately think about material management. You need enough materials to keep all of your students engaged in learning, but they also need to be easy enough to manage that your students can complete the activities on their own. In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you!
+Getting started with centers can be so tricky! What activities should you use? What can your students manage independently? There are so many things to consider! 
+
+When I think about successful literacy centers, I immediately think about material management. You need enough materials to keep all of your students engaged in learning, but they also need to be easy enough to manage that your students can complete the activities on their own.
+
+In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you!
 
 ## Organizing Materials
-
-![OrganizingBins]({{ site.github.url }}/assets/img/center-organization-tip-teaser.jpg)
 
 One of the trickiest parts of starting center rotations in the classroom is managing all the materials that come with each center. I love to use [large sterilite clip boxes](https://amzn.to/3QfkZjk) because they fit all of the materials that I use at each center. Plus, they stack so they don't take up a lot of space in my classroom! You can also put a written label, number, or sticker on the front of each bin so your students know which bin to grab. 
 
