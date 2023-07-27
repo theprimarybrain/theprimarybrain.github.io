@@ -15,7 +15,15 @@ Getting started with centers can be so tricky! What activities should you use? W
 
 When I think about successful literacy centers, I immediately think about material management. You need enough materials to keep all of your students engaged in learning, but they also need to be easy enough to manage that your students can complete the activities on their own.
 
-In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you!
+In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you! You can grab it here:
+
+<div id="fd-form-64c14ec065f7dbbf4ebf0ba8"></div>
+<script>
+  window.fd('form', {
+    formId: '64c14ec065f7dbbf4ebf0ba8',
+    containerEl: '#fd-form-64c14ec065f7dbbf4ebf0ba8'
+  });
+</script>
 
 ## Organizing Materials
 
@@ -23,7 +31,9 @@ One of the trickiest parts of starting center rotations in the classroom is mana
 
 ## Materials Management
 
-To help your centers run smoothly all year, you will need to practice, practice, practice! On the first day of centers, you will want to practice every step that you want for your students to do independently. In my classroom, I like to have one student from each table group be the _Materials Manager_. This student is responsible for picking up the center bin at the start of centers and returning the bin at the end of the rotation. This way, only a few students are moving around the room at a time and it helps to keep all the materials where they need to be. 
+To help your centers run smoothly all year, you will need to practice, practice, practice! On the first day of centers, you will want to practice every step that you want for your students to do independently. 
+
+In my classroom, I like to have one student from each table group be the _Materials Manager_. This student is responsible for picking up the center bin at the start of centers and returning the bin at the end of the rotation. This way, only a few students are moving around the room at a time and it helps to keep all the materials where they need to be. 
 
 ## Independent Activities
 
