@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Themed Toddler School Lessons
+title:  How Our Homeschool Preschool Journey Began
 categories: [Toddler School]
 tags: [toddler, toddler school]
 image:
@@ -9,30 +9,10 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+When my oldest son was just 2 years old, I grabbed a cup of hot tea, my favorite flair pen and notebook, and I began to plan out an entire year of toddler activities that I could do with him at home.  My daughter was just 3 weeks old at the time and I really wanted to create something that he and I could do together every day while baby sister napped. 
 
 
-## Lesson Components
-Each of the 5 lessons in this unit includes the following activities:
-- literacy/language
-- math or science activity
-- fine motor activity
-- gross motor activity
-- art activity
 
-## Lesson Setup
+And this was the beginning of the most beautiful memories I could have ever imagined as we started our Toddler School Journey! I created my Toddler School Curriculum so that Parents and Teachers could have an easy to follow lesson series that covers all the important skills our little ones need as they learn and grow!
 
-
-We kicked off our unit The first thing I  do with my son at the beginning of a new unit is color our cover page for our unit notebook. I fold a large sheet of construction paper in half and glue the cover page on with stick glue. It's a great way to introduce the new unit while getting in some much needed coloring practice. 
-
-## Sensory Bins
-
-
-## Fine Motor Activities
-
-
-## Art Activities
-
-
-## Math and Science Activities
-
-I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Toddler School Unit]() from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 
+When I thought about what I wanted structured mornings to look like, I knew I wanted to take a play-based approach to learning so that my son would have fun and enjoy learning! 
