@@ -21,8 +21,6 @@ Each of the 5 lessons in this unit includes the following activities:
 - recipe/snack
 
 ## Day One: Field Trip Day!
-![Grocery Store Field Trip]({{ site.github.url }}/assets/img/toddler-apple-field-trip-1.jpg)
-
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
 
 ![Grocery Store Field Trip 2]({{ site.github.url }}/assets/img/toddler-apple-field-trip-2.jpg)
