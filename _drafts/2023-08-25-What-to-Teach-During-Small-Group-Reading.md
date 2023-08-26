@@ -15,7 +15,7 @@ When I first started teaching, it was so overwhelming to figure out what to teac
 After a couple years, I found a system that really worked for me and I am excited to share it with you, too! But first, if you haven't already assessed your students and formed your groups, then you can read more about how I assess my students AND grab a free phonics assessment in this blog post ([click here for the post!](https://theprimarybrain.com/small%20group%20reading/2023/08/22/Phonics-Skills-Assessment/)).
 
 ## How to Store Materials
-Before you even begin to prep your copies and assemble materials, take a moment to find the way that works the best for you to organize materials. My favorite way to keep everything at my fingertips is with this [6 drawer tower](https://amzn.to/44siyNI). 
+Before you even begin to prep your copies and assemble materials, take a moment to find the way that works the best for you to organize materials. My favorite way to keep everything at my fingertips is with this [6 drawer tower](). 
 
 ![CenterBins]({{ site.github.url }}/assets/img/small-group-workshop-organization-drawers.jpg)
 
