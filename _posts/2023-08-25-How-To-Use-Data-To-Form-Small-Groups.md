@@ -11,15 +11,15 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Figuring out how to form groups for small group reading can be tricky! You have a full class of students who all have different strengths and abilities, so it can be very tricky to figure out exactly what to work on with each group of kids. We know the end goal is to teach our students how to read, but how do we get there? What skills and materials do we use to reach this goal? The good news is that we can use data to make decisions and place our students in groups based on their phonics abilities! 
+Placing your students into groups for small group reading can be tricky! All of your students have different strengths and abilities and we want to meet each student at their individual instructional level. We know the end goal is to teach our students how to read, but how do we get there? What skills and materials do we use to reach this goal? The good news is...we can use data to make decisions to place our students in groups based on their phonics abilities! 
 
-I created a [FREE phonics assessment](https://theprimarybrain.com/small%20group%20reading/2023/08/22/Phonics-Skills-Assessment/) that you can use to identify the phonics skills that your students already know. Then, once you have this data, you can use it to form your small groups! If you haven't already given the assessment, then [_click here to read this post_](https://theprimarybrain.com/small%20group%20reading/2023/08/22/Phonics-Skills-Assessment/) all about how to give the assessment!
+I created a [FREE Phonics Assessment](https://theprimarybrain.com/small%20group%20reading/2023/08/22/Phonics-Skills-Assessment/) that you can use to identify the phonics skills that your students already know and what they are ready to learn. Then, once you have this data, you can use it to form your small groups! If you haven't already given a phonics skills assessment, then [_click here to read this post_](https://theprimarybrain.com/small%20group%20reading/2023/08/22/Phonics-Skills-Assessment/) for a free assessment!
 
-## I have my data. Now what?
+## I've assessed my students and gathered the data. Now what?
 
-![Photo-With-Post-Its]({{ site.github.url }}/assets/img/small-group-post-its.jpg)
+![PhonicsAssessment]({{ site.github.url }}/assets/img/phonics-assessment-teacher-pages.jpg)
 
-Once you have assessed all of your students, it is time to dig into this data and form your small groups! First, I like to take all of the assessments and form 6 piles of students. Here is a rough idea of how I usually divide up students. This will change based on the number of students who land in each area, but it is a great way to help you get started:
+Once you have assessed all of your students, it is time to dig into this data and form your small groups! First, I like place 6 post-its on a table and sort all the assessments into 6 data groups. I outlined the way I begin to divide up students to give you a starting point. This will change based on the number of students who land in each area, but it is a great way to help you get started:
 
 1. Students who know 0-16 letter names and/or sounds
 2. Students who know at least 16 letter names and sounds but could not read cvc words
@@ -28,11 +28,11 @@ Once you have assessed all of your students, it is time to dig into this data an
 5. Students who know how to read cvc words, blends, and digraphs and are ready to read r-controlled vowels or cvce/magic e words
 6. Students who could complete the majority of the assessment and are now ready for vowel teams
 
-Now that you have a starting point, then you will want to form 6 groups of 4-6 students per group that are all working on similar skills.
+Now that you have sorted assessments, then you will want to form 6 groups of 4-6 students per group who are all working on similar skills. If half of your class is working at the same level, then you will want more than one group that is focusing on the same skills.
 
 ## Naming Groups
 
-Once you have identified the students in these 6 groups, then you will want to set up a schedule of when you will meet with each group. I find it is easiest to keep track of each group when you give each group a name. I use color names, but you could also do sports teams, animal names, or any other fun theme in your classroom. You can use these FREE planning pages to help you form your small groups:
+Once you have identified the students in these 6 groups, then you can set up a schedule of when you will meet with each group. I find it is easiest to keep track of each group by naming them. I use color names, but you could also do sports teams, animal names, or any other fun theme in your classroom. You can use these FREE planning pages to help you form your small groups:
 
 <div id="fd-form-64e91c618ae79e9ed264b61d"></div>
 <script>
@@ -55,7 +55,7 @@ This is completely up to you! I like to meet with students who are working below
 - Group 5: 15 minutes (3 days per week)
 - Group 6: 15 minutes (2 days per week)
 
-Since groups 5 and 6 are working at or above grade level, I meet with these groups less often than the students who are working below grade level and need the extra small group practice. After I meet with groups 5 and 6, I give them extension activities that they finish during their center time to give them an extra challenge. 
+Since groups 5 and 6 are working at or above grade level, I meet with these groups less often than the students who are working below grade level and need the extra small group practice. After I meet with groups 5 and 6, I give them extension activities that they finish during their center time to provide extra practice on the content we are learning in small group sessions. 
 
 ## Your groups are formed, so where do we go from here?
 
