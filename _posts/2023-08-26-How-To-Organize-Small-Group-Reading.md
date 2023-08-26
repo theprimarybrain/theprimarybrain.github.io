@@ -13,6 +13,8 @@ image:
 ---
 The key to saving your sanity when planning for small groups is materials management! There is nothing worse than spending an afternoon making copies, folding books, and binding all the things, only to misplace the copies you need for your first group tomorrow morning! 
 
+## How to Store Materials
+
 You are likely working with multiple groups of kids who are all at different reading levels, which means you will need a wide array of materials to focus on the skills that each of your students need. Here are my favorite ways to organize materials in my classroom:
 
 - [6 drawer Iris tower](https://amzn.to/44siyNI): I use this drawer tower to organize the materials for each group for the week. I can place everything I need (including small pieces) in one drawer with a group name label on the front. I created [these labels](https://www.teacherspayteachers.com/Product/Black-and-Brights-EDITABLE-Bin-Labels-Classroom-Decor-3371262?utm_source=PB%20Blog&utm_campaign=Sterilite%20bin%20labels) for each drawer.
