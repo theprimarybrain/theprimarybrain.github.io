@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-If you have a messy little monster in your house, this may be the Toddler School Curriculum pack for you! During October, kids, especially toddlers, seem to sense the excitement. Candy, costumes, and chaos are a big part of the month, and trying to find engaging and educational activities that will keep your child excited and away from the bowl of candy can be tough. But don’t worry, these fun Halloween activities for toddlers are a perfect choice! 
+If you have a messy little monster in your house, this may be the Toddler School Curriculum pack for you! During October, kids, especially toddlers, seem to sense the excitement. Candy, costumes, and chaos are a big part of the month, and trying to find engaging and educational activities that will keep your child excited and away from the bowl of candy can be tough. But don’t worry, these fun Halloween activities for toddlers are a perfect choice! You can grab all of these printables in our [Halloween Toddler School Pack](https://www.teacherspayteachers.com/Product/-50-off-48-Hrs-Halloween-Toddler-Lesson-Plans-Fall-Preschool-Activities-8619780?utm_source=PB%20Blog&utm_campaign=Halloween%20Toddler%20School%20Unit).
 
 ## Lesson Components 
 This unit is made up of 12  Halloween activities that will work on the following learning areas:
@@ -58,8 +58,10 @@ What could be more fun when working on letter names than some Halloween puzzles 
 
 ## Halloween Activities For Toddlers
 
+[![Halloweencurriculum]({{ site.github.url }}/assets/img/Halloween-TpT-Unit-Cover.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48-Hrs-Halloween-Toddler-Lesson-Plans-Fall-Preschool-Activities-8619780?utm_source=PB%20Blog&utm_campaign=Halloween%20Toddler%20School%20Unit)
+
 A busy toddler is a happy toddler, and when looking for some Halloween preschool activities, it can be challenging to find the perfect mix of fun and educational activities. These 12 Halloween lessons are the perfect mix of fun and learning! You not only receive the easy Halloween activities mentioned above in my Toddler School Curriculum Halloween Activities. But, you will also receive pumpkin lacing, a jack o’ lantern craft, and more! So many Halloween preschool ideas all wrapped into one awesomely spooky pack. You can grab the printable unit [HERE](https://www.teacherspayteachers.com/Product/-50-off-48-Hrs-Halloween-Toddler-Lesson-Plans-Fall-Preschool-Activities-8619780?utm_source=PB%20Blog&utm_campaign=Halloween%20Toddler%20School%20Unit) and get started right away!
 
 **Don’t worry, I’ve got all seasons covered!** If you absolutely love the Toddler School Curriculum Halloween Activities and are looking for something you can use for all seasons, then I suggest you check out my [Seasonal Toddler Bundle](https://www.teacherspayteachers.com/Product/Seasonal-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-7642528?utm_source=PB%20Blog&utm_campaign=Seasonal%20Toddler%20Bundle%20Upsell) for activities for fall, winter, spring, and summer. Your toddler will definitely enjoy all of the easy toddler activities included! 
 
-You can also plan ahead by taking a look at my winter activities on my blog! Just [click here to read](https://theprimarybrain.com/toddler%20school/2022/01/19/Winter-Themed-Toddler-Activities/) about my Winter Toddler School. 
+You can also plan ahead by taking a look at my winter activities on my blog! Just [click here to get ahead](https://theprimarybrain.com/toddler%20school/2022/01/19/Winter-Themed-Toddler-Activities/) on some winter ideas! 
