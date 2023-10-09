@@ -66,4 +66,6 @@ I hope you enjoyed following our Preschool journey this week as we learned throu
 
 If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link) for a variety of fun lessons and activities you can use all year long!
 
+You can also [CLICK HERE](https://pin.it/2LGXVbX) to save this post for later on your favorite Pinterest board!
+
 I hope you enjoy playing and learning with your little ones this week! 
