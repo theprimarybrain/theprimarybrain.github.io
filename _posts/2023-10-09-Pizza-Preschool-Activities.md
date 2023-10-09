@@ -58,7 +58,7 @@ If you want to add an additional challenge, you can ask about the number of side
 
 [![Pizza-Preschool-Math]({{ site.github.url }}/assets/img/pizza-preschool-measurement.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
 
-Let's work on measurement! Using these meansurement cards, your child can use Legos to determine how tall each slide of pizza is. 
+Let's work on measurement! Using these measurement cards, your child can use [Legos](https://amzn.to/3tv8xCm) to determine how tall each slice of pizza is. 
 
 [![Pizza Preschool Cover]({{ site.github.url }}/assets/img/pizza-preschool-upsell-cover.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
 
