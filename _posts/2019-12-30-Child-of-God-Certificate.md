@@ -15,7 +15,7 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 16, 2
 
 Hearing a child ask Jesus into their hearts to accept the Lord into his or her life is one of the greatest joys I will ever experience. It is such a personal moment that will change the life of a child! Inside the [Beginner's Bible](https://www.amazon.com/gp/product/031075013X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=031075013X&linkCode=as2&tag=theprimarybra-20&linkId=dd6edeaa97a0baf2f410731dd7f7f3ee), there is a wonderful story about how Jesus died on the cross and rose from the grave. This Bible story opens the door to discuss how Christ paid the price for our sins so that we can go to Heaven when we die. If we ask Jesus into our hearts, then we become a Child of God and He will be with us wherever we go. There is no greater joy than hearing a child make this decision to become a follower of Christ. 
 
-## Next Steps for Your Child
+## Salvation Celebration Ideas
 
 Your child asked Jesus into their heart. It is so important to celebrate the gift of salvation! I created this I am a Child of God Salvation Certificate to celebrate this momentous occasion. It has a place for your child to sign his or her name and place the date on it. I hope this certificate helps you celebrate your child's choice to ask Jesus into his or her heart! You can download it here:
 
@@ -27,3 +27,10 @@ Your child asked Jesus into their heart. It is so important to celebrate the gif
   });
 </script>
 
+The night my children accepted Jesus into their hearts, we went out to a special family dinner. Our family loves to go out for birthday celebrations and this is just that - A spiritual birthday celebration!
+
+## Next Steps for Your Child
+
+Now that your child has asked Jesus into their heart, you might be wondering what you should do to help further their relationship with Jesus. In our home, we love to help our children learn to memorize Bible Verses. Hiding God's truth in your heart can help our children overcome so many obstacles in life. You can read more about [How to Teach Bible Verses to Kids](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/) by Clicking on [This Blog Post](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/).
+
+I hope you have a wonderful day with your little ones!
