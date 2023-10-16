@@ -10,6 +10,8 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 16, 2023
+
 Ask a child their favorite food and you are likely to hear pizza in the top 5! Our [Pizza Preschool Theme](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit) is sure to engage children as they learn academic skills through a variety of pizza themed activities.
 
 ## Lesson Components 
