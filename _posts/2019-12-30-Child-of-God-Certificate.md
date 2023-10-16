@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Am A Child of God
+title: I Am A Child of God Salvation Certificate
 author: Laurin Brainard
 flodesk: 652daa90dc27cdbbd331c8d9
 categories: [Religious]
