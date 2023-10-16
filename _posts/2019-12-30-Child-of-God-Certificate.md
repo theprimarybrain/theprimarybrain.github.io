@@ -2,7 +2,7 @@
 layout: post
 title: I Am A Child of God Salvation Certificate
 author: Laurin Brainard
-flodesk: 652daa90dc27cdbbd331c8d9
+flodesk: 652db077dc27cdbbd331c8dc
 categories: [Religious]
 tags: [religious]
 image:
@@ -19,11 +19,11 @@ Hearing a child ask Jesus into their hearts to accept the Lord into his or her l
 
 Your child asked Jesus into their heart. It is so important to celebrate the gift of salvation! I created this I am a Child of God Salvation Certificate to celebrate this momentous occasion. It has a place for your child to sign his or her name and place the date on it. I hope this certificate helps you celebrate your child's choice to ask Jesus into his or her heart! You can download it here:
 
-<div id="fd-form-652daa90dc27cdbbd331c8d9"></div>
+<div id="fd-form-652db077dc27cdbbd331c8dc"></div>
 <script>
   window.fd('form', {
-    formId: '652daa90dc27cdbbd331c8d9',
-    containerEl: '#fd-form-652daa90dc27cdbbd331c8d9'
+    formId: '652db077dc27cdbbd331c8dc',
+    containerEl: '#fd-form-652db077dc27cdbbd331c8dc'
   });
 </script>
 
@@ -33,4 +33,4 @@ The night my children accepted Jesus into their hearts, we went out to a special
 
 Now that your child has asked Jesus into their heart, you might be wondering what you should do to help further their relationship with Jesus. In our home, we love to help our children learn to memorize Bible Verses. Hiding God's truth in your heart can help our children overcome so many obstacles in life. You can read more about [How to Teach Bible Verses to Kids](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/) by Clicking on [This Blog Post](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/).
 
-I hope you have a wonderful day with your little ones!
+I hope you have a wonderful day celebrating with your child!
