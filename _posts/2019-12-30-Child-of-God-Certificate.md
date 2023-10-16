@@ -31,6 +31,6 @@ The night my children accepted Jesus into their hearts, we went out to a special
 
 ## Next Steps for Your Child
 
-Now that your child has asked Jesus into their heart, you might be wondering what you should do to help further their relationship with Jesus. In our home, we love to help our children learn to memorize Bible Verses. Hiding God's truth in your heart can help our children overcome so many obstacles in life. You can read more about [How to Teach Bible Verses to Kids](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/) by Clicking on [This Blog Post](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/).
+Now that your child has asked Jesus into their heart, you might be wondering what you should do to help further their relationship with Jesus. In our home, we love to help our children learn to memorize Bible Verses. Hiding God's truth in your heart can help our children overcome so many obstacles in life. You can read more about [How to Teach Bible Verses to Kids](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/) by clicking on [This Blog Post](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/).
 
 I hope you have a wonderful day celebrating with your child!
