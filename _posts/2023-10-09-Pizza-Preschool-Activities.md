@@ -80,4 +80,10 @@ You can also [CLICK HERE](https://pin.it/2LGXVbX) to save this blog post to read
 
 I hope you enjoy playing and learning with your little ones this week! 
 
-### Here are some more preschool themes you may love:
+### HERE ARE SOME MORE PRESCHOOL THEMES YOU MAY LOVE:
+
+[Baking Preschool Activities](https://theprimarybrain.com/preschool/2023/03/09/Baking-Activities-For-Preschoolers/)
+
+[Transportation Preschool Activities](https://theprimarybrain.com/preschool/2023/07/03/Transportation-Preschool-Theme/)
+
+[Ocean Preschool Activities](https://theprimarybrain.com/preschool/2020/05/31/Ocean-Preschool-Activities/)
