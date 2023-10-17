@@ -2,7 +2,7 @@
 layout: post
 title:  Ocean Preschool Lessons
 author: Laurin Brainard
-categories: [Preschool Themes]
+categories: [Preschool}
 tags: [preschool]
 flodesk: 5ed46ff3df06e70026d0a856
 image:

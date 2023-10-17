@@ -2,7 +2,7 @@
 layout: post
 title:  Pizza Themed Activities for Preschoolers
 author: Laurin Brainard
-categories: [Preschool Themes]
+categories: [Preschool]
 tags: [preschool]
 image:
   feature: pizza-preschool-activities-feature.jpg
