@@ -39,4 +39,5 @@ I hope you have a wonderful day celebrating with your child!
 [![BlogButton]({{ site.github.url }}/assets/img/bible-lessons-for-learners.jpg)](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=Certificate%20to%20Bible%20Lessons%20Bundle)
 
 I have created Bible Study Lessons filled with Bible story books, activities, games, and more!
+
 [![BlogButton]({{ site.github.url }}/assets/img/blog-button-teal.jpg)](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=Certificate%20to%20Bible%20Lessons%20Bundle)
