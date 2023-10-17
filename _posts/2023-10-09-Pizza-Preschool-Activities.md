@@ -27,6 +27,7 @@ This unit is made up of so many fun activities that your little one can enjoy:
 You can find all of the printables in my [Pizza Preschool Unit](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit). 
 
 [![PizzaCover]({{ site.github.url }}/assets/img/pizza-preschool-cover.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
+
 [![Button]({{ site.github.url }}/assets/img/buttons-red-click-here-to-grab-the-unit.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
 
 ## Sensory Bins
