@@ -2,7 +2,7 @@
 layout: post
 title:  Baking Activities for Little Learners
 author: Laurin Brainard
-categories: [Preschool]
+categories: [Preschool Themes]
 tags: [preschool]
 flodesk: 5ed46ff3df06e70026d0a856
 image:

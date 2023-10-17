@@ -2,7 +2,7 @@
 layout: post
 title:  Transportation Activities for Preschoolers
 author: Laurin Brainard
-categories: [Preschool]
+categories: [Preschool Themes]
 tags: [preschool]
 image:
   feature: transportation-preschool-feature.jpg
