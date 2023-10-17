@@ -9,6 +9,8 @@ image:
   teaser: apple-toddler-teaser-image.jpg
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 17, 2023
+
 I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler school in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created an [Apple Themed Unit](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit). Enjoy a peek into our week through a sampling of our activities together!
 
 ## Lesson Components
@@ -73,4 +75,14 @@ The most exciting part of our day was eating our fun apple snacks! We enjoyed ap
 ## Now Let's Start Learning!
 [![AppleUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Apple.jpg)](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)
 
-I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)! Have fun learning and growing with your little ones! 
+I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)! 
+
+If you are looking for even more Toddler School fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link) for all the plans and printables you need for an entire year of learning!
+
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+
+[![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
+
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
+
+I hope you have a wonderful day playing and learning with your little ones! Feel free to reach out @theprimarybrain on Instagram with any questions about how to use these activities!
