@@ -66,9 +66,13 @@ If you want to add an additional challenge, you can ask about the number of side
 
 Let's work on measurement! Using these measurement cards, your child can use [Legos](https://amzn.to/3tv8xCm) to determine how tall each slice of pizza is. 
 
-[![Pizza Preschool Cover]({{ site.github.url }}/assets/img/pizza-preschool-upsell-cover.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
+## All the Plans and Printables You Need!
 
-I hope you enjoyed following our Preschool journey this week as we learned through pizza themed activities! [Click here if you want to download this Pizza Preschool Unit](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit) from my shop. It comes with 20+ lesson plans and all the pizza themed printable materials you will need to make teaching your preschooler as easy as possible. You can also grab any of the hands-on materials you need in my [Amazon Storefront by clicking HERE](https://www.amazon.com/shop/theprimarybrain/list/KJUJOA00IRJD?ref_=cm_sw_r_cp_ud_aipsflist_aipsftheprimarybrain_B9AH83XZ1BN2Y1W3QZPD).
+I hope you enjoyed following our Preschool journey this week as we learned through pizza themed activities! [Click here if you want to download this Pizza Preschool Unit](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit) from my shop. 
+
+[![PizzaCover]({{ site.github.url }}/assets/img/pizza-preschool-cover.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
+
+It comes with 20+ lesson plans and all the pizza themed printable materials you will need to make teaching your preschooler as easy as possible. You can also grab any of the hands-on materials you need in my [Amazon Storefront by clicking HERE](https://www.amazon.com/shop/theprimarybrain/list/KJUJOA00IRJD?ref_=cm_sw_r_cp_ud_aipsflist_aipsftheprimarybrain_B9AH83XZ1BN2Y1W3QZPD).
 
 If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link) for a variety of fun lessons and activities you can use all year long!
 
