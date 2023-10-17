@@ -34,3 +34,9 @@ The night my children accepted Jesus into their hearts, we went out to a special
 Now that your child has asked Jesus into their heart, you might be wondering what you should do to help further their relationship with Jesus. In our home, we love to help our children learn to memorize Bible Verses. Hiding God's truth in your heart can help our children overcome so many obstacles in life. You can read more about [How to Teach Bible Verses to Kids](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/) by clicking on [This Blog Post](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/).
 
 I hope you have a wonderful day celebrating with your child!
+
+### Interested in more information on teaching Bible lessons with your learners?
+[![BlogButton]({{ site.github.url }}/assets/img/bible-lessons-for-learners.jpg)](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=Certificate%20to%20Bible%20Lessons%20Bundle)
+
+I have created Bible Study Lessons filled with Bible story books, activities, games, and more! Check it out here:
+[![BlogButton]({{ site.github.url }}/assets/img/blog-button-click-here.jpg)](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=Certificate%20to%20Bible%20Lessons%20Bundle)
