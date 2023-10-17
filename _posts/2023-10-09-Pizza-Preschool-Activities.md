@@ -68,11 +68,9 @@ Let's work on measurement! Using these measurement cards, your child can use [Le
 
 ## All the Plans and Printables You Need!
 
-I hope you enjoyed following our Preschool journey this week as we learned through pizza themed activities! [Click here if you want to download this Pizza Preschool Unit](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit) from my shop. 
+I hope you enjoyed following our Preschool journey this week as we learned through pizza themed activities! You can download this[Pizza Preschool Unit](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit) from my shop. It comes with 20+ lesson plans and all the pizza themed printable materials you will need to make teaching your preschooler as easy as possible. 
 
 [![PizzaCover]({{ site.github.url }}/assets/img/pizza-preschool-cover.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
-
-It comes with 20+ lesson plans and all the pizza themed printable materials you will need to make teaching your preschooler as easy as possible. You can also grab any of the hands-on materials you need in my [Amazon Storefront by clicking HERE](https://www.amazon.com/shop/theprimarybrain/list/KJUJOA00IRJD?ref_=cm_sw_r_cp_ud_aipsflist_aipsftheprimarybrain_B9AH83XZ1BN2Y1W3QZPD).
 
 If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link) for a variety of fun lessons and activities you can use all year long!
 
@@ -80,10 +78,7 @@ If you are looking for even more preschool fun for you and your little ones, the
 
 [![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover)
 
-You can also [CLICK HERE](https://pin.it/2LGXVbX) to save this blog post to read later on your favorite Pinterest board!
-
-I hope you enjoy playing and learning with your little ones this week! 
-
+I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
 
 
 ### HERE ARE SOME MORE PRESCHOOL THEMES YOU MAY LOVE:
@@ -93,3 +88,5 @@ I hope you enjoy playing and learning with your little ones this week!
 [Transportation Preschool Activities](https://theprimarybrain.com/preschool/2023/07/03/Transportation-Preschool-Theme/)
 
 [Ocean Preschool Activities](https://theprimarybrain.com/preschool/2020/05/31/Ocean-Preschool-Activities/)
+
+Don't want to forget about this theme? You can [CLICK HERE](https://pin.it/2LGXVbX) to save this blog post to read later on your favorite Pinterest board!
