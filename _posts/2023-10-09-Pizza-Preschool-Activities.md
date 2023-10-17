@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 16, 2023
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 17, 2023
 
 Ask a child their favorite food and you are likely to hear pizza in the top 5! Our [Pizza Preschool Theme](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit) is sure to engage children as they learn academic skills through a variety of pizza themed activities.
 
@@ -25,6 +25,9 @@ This unit is made up of so many fun activities that your little one can enjoy:
 - art activities
 
 You can find all of the printables in my [Pizza Preschool Unit](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit). 
+
+[![PizzaCover]({{ site.github.url }}/assets/img/pizza-preschool-cover.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
+[![Button]({{ site.github.url }}/assets/img/buttons-red-click-here-to-grab-the-unit.jpg)](https://www.teacherspayteachers.com/Product/Pizza-Theme-Preschool-Curriculum-and-Lesson-Plans-Pre-K-Activities-8371690?utm_source=PB%20Blog&utm_campaign=Pizza%20Preschool%20Unit)
 
 ## Sensory Bins
 
