@@ -96,7 +96,7 @@ To set up the color maze, draw colored lines that intercept. To complete the maz
 ## Continue the Fun With Your Toddler
 Be sure to check out my [Rainbow Toddler School Activities](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit) in my shop for all the printables, recipes, lesson plans, and instructions you will need to complete a full week of learning about the colors in the rainbow.
 
-[![RainbowToddler]({{ site.github.url }}/assets/img/product-cover-rainbow-toddler-school](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
+[![RainbowToddler]({{ site.github.url }}/assets/img/product-cover-rainbow-toddler-school.jpg](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
 
 
 [![TpTButton]({{ site.github.url }}/assets/img/blog-button-green-TAKE-LOOK-here.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
