@@ -12,17 +12,17 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 18, 2023
 
-Teaching your toddler about colors is so much fun! There are so many opportunities for learning about colors that you can work on as you go about your daily life. Even though my son already knows most of his colors, I wanted to create a week of learning that dove a little deeper into the world of colors. So, what could be better than a week focusing on the colors of the rainbow!
+Teaching your toddler about colors is so much fun! There are so many opportunities for learning about colors that you can work on as you go about your daily life. Even though my son already knows most of his colors, I wanted to create a week of learning that dove a little deeper into the world of colors. So, what could be better than a week focusing on the colors of the rainbow! I hope you will join us in learning all about the rainbow and the world of colors!
 
 All of the plans and printable activities in this post can be found in my [Rainbow Toddler School Unit](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit):
 
-[![RainbowToddler]({{ site.github.url }}/assets/img/product-cover-rainbow-toddler-school](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
+[![RainbowToddler]({{ site.github.url }}/assets/img/product-cover-rainbow-toddler-school.jpg](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
 
 
 [![TpTButton]({{ site.github.url }}/assets/img/blog-button-green-TAKE-LOOK-here.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
 
 ## Lesson Components
-Each of the 5 lessons in this unit include the following activities:
+Each of the 5 lessons in this [rainbow unit](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit) include the following activities:
 - literacy/language
 - math or science activity
 - fine motor activity
@@ -32,10 +32,15 @@ Each of the 5 lessons in this unit include the following activities:
 
 ## Lesson Setup
 ![Cover]({{ site.github.url }}/assets/img/toddler-rainbow-cover.jpg)
-Before beginning this fun week of learning, you will want to do some prep work to help your lessons run smoothly. First, set up a unit notebook by folding a large piece of construction paper in half and placing about 10 pieces of copy paper and 1 large ziplock bag inside. Staple the left side to hold it all together and paste a cover page on the front. Your child can color this cover page to make the book his or her own. As you go through the week, paste all your child's printable activities inside the book for a fun keepsake. You will also have several small items that are reusable, so place these items in the ziplock bag to reuse at a later date. 
+
+Before beginning this fun week of learning, you will want to do some prep work to help your lessons run smoothly. The easiest way I have found to store our weekly materials in a folder. Just fold a large piece of construction paper in half and placing about 10 pieces of copy paper and 1 large ziplock bag inside. Then, staple the left side to hold it all together and paste a cover page on the front. 
+
+The first art activity in this unit is to have your child color this cover page to kick off the new unit theme. As you go through the week, paste all your child's printable activities inside the book for a fun keepsake. You will also have several small items that are reusable, so you can place these items in the ziplock bag to reuse at a later date. 
 
 ## Art Activities
+
 ![Art Photo]({{ site.github.url }}/assets/img/toddler-rainbow-art-activities.jpg)
+
 1. **R is for Rainbow Coloring Page** - Give your child all the colors of the rainbow to color with and review the color names as they pick up each color. 
 2. **R is for Rainbow Cereal Art** - Glue rainbow colored cereal onto the rainbow in order of the colors of the rainbow.
 3. **Rainbow Cut, Tear, and Glue** - Give your child strips of paper to cut with kid scissors and tear with their hands. I find it helpful to start the cut so my son can easily tear the pieces of paper.
