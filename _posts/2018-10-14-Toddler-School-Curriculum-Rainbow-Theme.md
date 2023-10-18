@@ -41,6 +41,8 @@ The first art activity in this unit is to have your child color this cover page 
 
 ![Art Photo]({{ site.github.url }}/assets/img/toddler-rainbow-art-activities.jpg)
 
+Here are 5 art activities you can do with your child this week: 
+
 1. **R is for Rainbow Coloring Page** - Give your child all the colors of the rainbow to color with and review the color names as they pick up each color. 
 2. **R is for Rainbow Cereal Art** - Glue rainbow colored cereal onto the rainbow in order of the colors of the rainbow.
 3. **Rainbow Cut, Tear, and Glue** - Give your child strips of paper to cut with kid scissors and tear with their hands. I find it helpful to start the cut so my son can easily tear the pieces of paper.
@@ -49,7 +51,9 @@ The first art activity in this unit is to have your child color this cover page 
 
 ## Fine Motor Activities
 ![Fine Motor Photo]({{ site.github.url }}/assets/img/toddler-rainbow-fine-motor-activities.jpg)
-Developing fine motor skills at the toddler age is so important. This week, you will learn about the letter R though several fine motor activities. 
+
+Developing fine motor skills at the toddler age is so important. This week, you will learn about the letter R though several fine motor activities:
+
 1. **Dot Marker Rr** - Work on inside/outside vocabulary by telling your child to dot inside the circles. At this age, it really helps my son to hold a dot marker with two hands. This gives him more control over where the dot stamper lands. 
 2. **Q-tip Painting Rr** - Place several dots of rainbow colored paints on a paper plate. Use a q-tip to dot inside the letters. Remind your toddler to go nice and slow so the paint stays inside the letters.
 3. **Yarn Rr** - Cut strips of yarn to make the letters. Place a bead of liquid glue on the letters. Hand your child pieces of yarn and point to where they need to be placed. Allow your child to independently place the yarn on the letters. 
@@ -58,14 +62,27 @@ Developing fine motor skills at the toddler age is so important. This week, you 
 
 ## Math Activities
 ![Math Cards]({{ site.github.url }}/assets/img/toddler-rainbow-math-cards.jpg)
+
+In this activity, you will work on 1:1 coorespondence by placing objects on pictures that match the number. First, show your child the number and say it's name. Then, place a counter on each picture of the rainbow and count aloud. For example, tell your child that the first card is the number one card, so we will only place one counter. Do the same for the number 2 and number 3 cards. Allow your child to complete the activity several times so they can feel successful completing independently. 
+
 ![Math Cards 2]({{ site.github.url }}/assets/img/toddler-rainbow-math-rainbow-clouds.jpg)
-This week you will work on 1:1 coorespondence by placing objects on pictures that match the number. First, show your child the number and say it's name. Then, place a counter on each picture of the rainbow and count aloud. For example, tell your child that the first card is the number one card, so we will only place one counter. Do the same for the number 2 and number 3 cards. Allow your child to complete the activity several times so they can feel successful completing independently. Once your child is able to place objects without a visual representation to copy, then they can move onto placing marshmallows on rainbows to match the number!
+
+Once your child is able to place objects without a visual representation to copy, then you can increase the challenge by placing marshmallows on rainbows to match the number!
 
 ## Sensory Activities
+
+How do you make green? How do you make purple? Do these questions sound familiar? If so, hopefully this activity will help your child remember the answers to their own questions through a sensory activity!
+
 ![Mixing Colors]({{ site.github.url }}/assets/img/toddler-rainbow-color-mixing.jpg)
-Your child will also work on color mixing sensory activities this week! Combine two primary colors in a quart size zip-lock bag. Your child will love pressing the colors together to create new colors! Once the colors are mixed, press your finger onto the bag to draw. You can draw shapes, letters, numbers, and anything else that interests your child. For a second color mixing activity, place red, yellow, and blue food coloring and water into individual small cups. Give your child a small dropper and some empty cups to squeeze the water into. Discuss the names of the colors as your child transfers water into a new cup. Once two colors have been mixed, ask your child the name of the new color.
+
+To set up the sensory play station, combine two primary colors in a quart size zip-lock bag. Place a piece of tape at the top to make sure it does not open and leak. Then, give your child the opportunity to press the colors together to create new colors! 
+
+Once the colors are mixed, press your finger onto the bag to draw. You can draw shapes, letters, numbers, and anything else that interests your child. 
+
+For a second color mixing activity, place red, yellow, and blue food coloring and water into individual small cups. Give your child a small dropper and some empty cups to squeeze the water into. Discuss the names of the colors as your child transfers water into a new cup. Once two colors have been mixed, ask your child the name of the new color.
 
 ## Gross Motor Activities
+
 Two of our favorite activities from this unit were the color hop and color maze!
 
 ![Color Hop]({{ site.github.url }}/assets/img/toddler-gross-motor-color-hop.jpg)
