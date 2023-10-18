@@ -85,4 +85,4 @@ If you are looking for even more Toddler School fun for you and your little ones
 
 [![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
 
-I hope you have a wonderful day playing and learning with your little ones! Feel free to reach out @theprimarybrain on Instagram with any questions about how to use these activities!
+I hope you have a wonderful day playing and learning with your little ones! Feel free to send me a message on Instagram @theprimarybrain with any questions about how to teach your little ones!
