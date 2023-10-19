@@ -3,6 +3,7 @@ layout: post
 title: How to Make Dinosaur Fossils
 author: Laurin Brainard
 categories: [Science]
+flodesk: 650b1ff80de6ead05a550369
 tags: [science,dinosaurs]
 image:
   feature: salt-dough-fossils.jpg
