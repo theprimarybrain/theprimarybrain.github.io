@@ -19,12 +19,14 @@ If you want to grow closer to Jesus, then opening your Bible and reading God's t
 
 We love to read a few different children's Bibles in our homes since our children are a variety of ages. Here are our favorites:
 
-For Baby: First 100 Bible Words Board Book
+For Baby: [First 100 Bible Words Board Book](https://amzn.to/3tK1UMU)
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=theprimarybra-20&language=en_US&marketplace=amazon&region=US&placement=1684490685&asins=1684490685&linkId=c26aaf0db56a85cf13f609eb7c7563f3&show_border=false&link_opens_in_new_window=true"></iframe>
 
-For Young Kids: The Beginner's Bible
+For Young Kids: [The Beginner's Bible](https://amzn.to/3Qs0e3x)
 <a href="https://www.amazon.com/Beginners-Bible-Timeless-Childrens-Stories/dp/031075013X?crid=KOOELNQA69E7&keywords=beginners+bible&qid=1697908785&sprefix=beginners+bible%2Caps%2C160&sr=8-1&linkCode=li3&tag=theprimarybra-20&linkId=109b18acc7946fd1578657759380ef4e&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=031075013X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theprimarybra-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&language=en_US&l=li3&o=1&a=031075013X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-For Older Kids: Super Heroes Story Bible
+For Older Kids: [Super Heroes Story Bible](https://amzn.to/404gqLo)
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=theprimarybra-20&language=en_US&marketplace=amazon&region=US&placement=0310744377&asins=0310744377&linkId=a7e7683cd560d39400ae3cd829c6a44e&show_border=false&link_opens_in_new_window=true"></iframe>
 
 ## 2. Memorize Bible Verses
 "I have hidden your word in my heart that I might not sin against you." Psalm 119:11 
