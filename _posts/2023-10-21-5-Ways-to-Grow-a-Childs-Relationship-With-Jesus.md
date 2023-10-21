@@ -20,46 +20,11 @@ If you want to grow closer to Jesus, then opening your Bible and reading God's t
 We love to read a few different children's Bibles in our homes since our children are a variety of ages. Here are our favorites:
 
 For Baby: First 100 Bible Words Board Book
-<script type="text/javascript">
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "1684490685";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "e3a9683b01d5923a45cc73a09ffd0b20";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 For Young Kids: The Beginner's Bible
-<script type="text/javascript">
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "031075013X";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "6874cf06ff9fd9f46f0667d1ef14e58a";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="https://www.amazon.com/Beginners-Bible-Timeless-Childrens-Stories/dp/031075013X?crid=KOOELNQA69E7&keywords=beginners+bible&qid=1697908785&sprefix=beginners+bible%2Caps%2C160&sr=8-1&linkCode=li3&tag=theprimarybra-20&linkId=109b18acc7946fd1578657759380ef4e&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=031075013X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theprimarybra-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&language=en_US&l=li3&o=1&a=031075013X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 For Older Kids: Super Heroes Story Bible
-<script type="text/javascript">
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "0310744377";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "908be0b10379f10200a8832fe538ee1d";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ## 2. Memorize Bible Verses
 "I have hidden your word in my heart that I might not sin against you." Psalm 119:11 
