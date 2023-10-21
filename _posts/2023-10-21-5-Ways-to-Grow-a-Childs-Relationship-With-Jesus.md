@@ -1,0 +1,84 @@
+---
+layout: post
+title: 5 Ways to Grow a Child's Relationship With Jesus
+author: Laurin Brainard
+categories: [Religious]
+tags: [bible,religious]
+image:
+  feature: children-reading-bible.jpg
+  teaser: children-reading-bible-teaser.jpg
+  credit: Laurin Brainard
+  creditlink: ""
+---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 21, 2023
+
+Helping your child grow in his or her relationship with Jesus is one of the most important jobs that we are called to do as Christian parents. If we want our children to grow closer to God, then we need to give them the tools to do so. Here are 5 of my favorite ways to help your kids have a close relationship with God:
+
+## 1. Read Your Bible!
+If you want to grow closer to Jesus, then opening your Bible and reading God's truth is the best place to start. You can read aloud to your child, your child can take a picture walk through the Bible, and when they are ready they can read the Bible independently. The most important thing is make reading the Bible a habit that we do every day.
+
+We love to read a few different children's Bibles in our homes since our children are a variety of ages. Here are our favorites:
+
+For Baby: First 100 Bible Words Board Book
+<script type="text/javascript">
+amzn_assoc_tracking_id = "theprimarybra-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "1684490685";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "e3a9683b01d5923a45cc73a09ffd0b20";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+For Young Kids: The Beginner's Bible
+<script type="text/javascript">
+amzn_assoc_tracking_id = "theprimarybra-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "031075013X";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "6874cf06ff9fd9f46f0667d1ef14e58a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+For Older Kids: Super Heroes Story Bible
+<script type="text/javascript">
+amzn_assoc_tracking_id = "theprimarybra-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "0310744377";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "908be0b10379f10200a8832fe538ee1d";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+## 2. Memorize Bible Verses
+"I have hidden your word in my heart that I might not sin against you." Psalm 119:11 
+
+Hiding God's Truth in our hearts is one of the best ways that we can grow closer to God. Whenever your child is struggling in life, they will be able to pull from the Bible they have hidden in their hearts to help them through whatever they are going through.
+
+If you want to learn more about how to help your child memorize Bible Verses, then check out this post: [How To Teach Bible Verses to Kids](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/).
+
+## 3. Spend Time in Prayer  
+Make prayer a part of your daily life. 
+
+Learning to pray takes time. It doesn't always come naturally to everyone. In our home, we pray at specific times of day with our children. We pray before meals and before bed. Over time, prayers go from just a few words, to longer sentences and thoughts. Jesus hears every prayer, no matter the length or words that are said. 
+
+As your children grow, you can begin to add prayer into even more parts of your day. If your child is sad, lift that up to Jesus. If your child is struggling with a decision, pause from what you are doing and say a prayer. You can even model for your child how to pray about anything and treat Jesus as a friend that you can talk to about anything. 
+
+## 4. Read a Family Devotional
+Growing up, we used to read a family devotional most nights after dinner. This is a great way to include Bible lessons into your day through a fun read aloud. We have really enjoyed reading [How Great is Our God](https://amzn.to/3Qqo4MZ) since our kids love to learn about science. 
+
+## 5. Sunday School
+Giving our children the opportunity to go to Sunday School is so important for cultivating a relationship with Jesus. Our children are able to hear a Bible story, study God's word, worship, and fellowship with friends. It sets the tone for a great week by spending time with Jesus before the week even begins!
+
+I hope that you feel equipped to help your little ones continue to grow in their relationship with Jesus. If you are looking for even more resources to help teach your little ones about the Bible, you can check out my [Old Testament Bible Lessons](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=OT%20Bible%20Bundle) for Bible stories, activities, and games to play with your children. Have a wonderful day!
