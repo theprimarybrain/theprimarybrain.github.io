@@ -10,6 +10,8 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 22, 2023
+
 Halloween is one of the craziest school days of the entire year. My students dress up in their Halloween costumes, we enjoy a costume parade, and students always bring treats to share. Rather than fight the chaos, I decided to take the advice from [Jodi Southard at Fun in First](https://funinfirst.com/) and transform my classroom into a bat cave! We just finished learning about bats so it was the perfect culminating activity. I have never seen such sheer delight across every student's face that entered my classroom. It was definitely one of my all-time favorite teaching moments! 
 
 ![Bat Cave Sign]({{ site.github.url }}/assets/img/bat-cave-sign.jpg)
@@ -24,19 +26,21 @@ All I heard were very quiet oooooo's and aaaaahhhh's as each of my littles caref
 
 We started out the day by working on our KWL bat chart. Each of my students wrote about things they wondered about bats on this fun worksheet by [Jodi Southard](https://www.teacherspayteachers.com/Product/Bat-Freebies-354008). Then we watched a short video about bats and added some things we learned to our KWL chart. 
 
-![Bat Cave Math]({{ site.github.url }}/assets/img/bat-cave-bat-math.jpg)
+[![Bat Cave Math]({{ site.github.url }}/assets/img/bat-cave-bat-math.jpg)](https://www.teacherspayteachers.com/Product/Halloween-Math-Worksheets-First-Grade-Math-Review-Centers-Activities-3417074?utm_source=PB%20Blog&utm_campaign=Halloween%20Math%20Worksheets)
 
-We had to take a short break for the costume parade and then we jumped right into some bat themed math activities. My batty math worksheet from my [Halloween NO PREP Math Pack](http://bit.ly/bat_cave) was a huge hit with my littles. They were so excited to finish their more and less answers so they could color the bats. 
+We had to take a short break for the costume parade and then we jumped right into some bat themed math activities. My batty math worksheet from my [Halloween NO PREP Math Pack](https://www.teacherspayteachers.com/Product/Halloween-Math-Worksheets-First-Grade-Math-Review-Centers-Activities-3417074?utm_source=PB%20Blog&utm_campaign=Halloween%20Math%20Worksheets) was a huge hit with my littles. They were so excited to finish their more and less answers so they could color the bats. 
 
-![Bat Cave Flashlight]({{ site.github.url }}/assets/img/bat-cave-flashlight.jpg)
+## Use Flashlights to Set the Mood 
 
 To make the day that much more fun, we worked from the light of a small flashlight to help our bat cave feel as real as possible. My students did such a fantastic job sharing their flashlights since I did not have enough for every student to use their own. I loved seeing the teamwork naturally occur at each table group.
+
+## Drink Bat Juice
 
 ![Bat Cave Punch]({{ site.github.url }}/assets/img/bat-cave-punch.jpg)
 
 We ended our morning by enjoying some delicious bat juice. My students were so excited to drink the "bat's blood" as they called it! All it took was a clear plastic cup, some googly eyes and fruit punch to make this special treat. 
 
-### How I Transformed My Classroom
+## How I Transformed My Classroom
 
 I have always been hesitant to transform my classroom because I assumed it would be **expensive**. However, this transformation was easy *and* inexpensive! I used a total of seven black disposable table cloths. It took three tablecloths to cover up all the windows and doors. I needed the classroom to be very dark in order to pull off a bat cave. I used two tablecloths to use to cover the desks. I also created a cave entrance and exit since I have two classroom doors. 
 
@@ -44,25 +48,10 @@ To create the illusion of bats hanging up above us, I strung a piece of yarn fro
 
 I gathered up all the flashlights I could find in my home and put one on each table group. I also brought in an LED camping lantern to provide a little extra light. Last, I found a 50 pack of glow sticks for $2.99 at the grocery store. This was the perfecting finishing touch to each student's desk. 
 
-Transforming my classroom was worth every bit of time and effort it took to pull it off. It was one of those days that I hope my students will remember for the rest of their lives. I can't wait to do it again next year!
+Transforming my classroom was worth every bit of time and effort it took to pull it off. It was one of those days that I hope my students will remember for the rest of their lives. I can't wait to do it again next year! If you want to grab a complete learning unit and theme day lesson plans, check out my [No Prep Bat Activity Pack](https://www.teacherspayteachers.com/Product/Bats-NO-PREP-Activities-Pack-Thematic-Unit-Study-with-Emergency-Sub-Plans-9991620?utm_source=PB%20Blog&utm_campaign=Bat%20No%20Prep%20Activities)!
+
+[![PreschoolCurriculumBundle]({{ site.github.url }}/assets/img/product-cover-bat-no-prep-pack.jpg)](https://www.teacherspayteachers.com/Product/Bats-NO-PREP-Activities-Pack-Thematic-Unit-Study-with-Emergency-Sub-Plans-9991620?utm_source=PB%20Blog&utm_campaign=Bat%20No%20Prep%20Activities)
+
+[![OrangeButton]({{ site.github.url }}/assets/img/blog-button-orange-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/Bats-NO-PREP-Activities-Pack-Thematic-Unit-Study-with-Emergency-Sub-Plans-9991620?utm_source=PB%20Blog&utm_campaign=Bat%20No%20Prep%20Activities)
 
 [Click here to pin this post](https://pin.it/2o21rX4) to save for later!
-
-<script>
-  (function(w, d, t, s, n) {
-    w.FlodeskObject = n;
-    var fn = function() {
-      (w[n].q = w[n].q || []).push(arguments);
-    };
-    w[n] = w[n] || fn;
-    var f = d.getElementsByTagName(t)[0];
-    var e = d.createElement(t);
-    var h = '?v=' + new Date().getTime();
-    e.async = true;
-    e.src = s + h;
-    f.parentNode.insertBefore(e, f);
-  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
-  window.fd('form', {
-    formId: '5d7fd38715f78a0010f2e414'
-  });
-</script>
