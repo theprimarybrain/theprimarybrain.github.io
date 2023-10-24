@@ -2,7 +2,7 @@
 layout: post
 title: Noodle Themed Toddler School Lessons
 categories: [Toddler School]
-flodesk: 650b1ff80de6ead05a550369
+flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
 image:
   feature: Noodle-Toddler-Cover.jpg
@@ -63,4 +63,4 @@ I hope you found some great ideas and inspiration to use at home with your littl
 
 And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell).
 
-I hope you enjoy playing and learning with your little ones this week!
+I hope you enjoy playing and learning with your little ones this week! If you are interested in learning more about how to plan toddler school activities for your little ones, then sign up right here to receive my free guide!
