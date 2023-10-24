@@ -3,6 +3,7 @@ layout: post
 title: Fall Fine Motor Activities
 categories: [Fine Motor Activities]
 tags: [fine motor, halloween toddler]
+flodesk: 65374920be19019fdd96d794
 image:
   feature: fall-fine-motor-activities-feature.jpg
   teaser: fall-fine-motor-activities-teaser.jpg
@@ -56,3 +57,5 @@ In my experience, hole punching fine motor activities can be very tricky for lit
 ## Next Steps
 
 If you want to incorporate targeted fine motor practice opportunities into your daily routine, then check out my [Fall Fine Motor Activities](https://www.teacherspayteachers.com/Product/Fall-Fine-Motor-Skills-Activities-Hole-Punch-Tracing-Prewriting-Playdough-More-8039943?st=41030671373b72ebc21c69d36073ba04&utm_source=PB%20Blog&utm_campaign=Fine%20Motor%20Activities) for practice you can use all season long. You can also check out my [Seasonal Fine Motor Activities Bundle](https://www.teacherspayteachers.com/Product/Fall-and-Winter-Fine-Motor-Skills-Activities-All-Seasons-GROWING-BUNDLE-7240892?utm_source=PB%20Blog&utm_campaign=Spring%20Fine%20Motor%20Post) for activities you can use the entire school year! All printables are included so all you have to do is print and grab a few materials to begin building fine motor skills!
+
+If you want to learn more about how to get started planning fine motor activities for your little ones, download my FREE guide to learn everything you need to know about planning fine motor activities and more!

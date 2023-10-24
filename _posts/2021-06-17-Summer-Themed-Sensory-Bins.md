@@ -3,6 +3,7 @@ layout: post
 title: Summer Themed Sensory Play
 categories: [Toddler Activities]
 tags: [toddler, sensorybins]
+flodesk: 65374920be19019fdd96d794
 image:
   feature: summer-sensory-play-2.jpg
   teaser: summer-sensory-play-teaser.jpg
@@ -49,4 +50,4 @@ All you need for this sensory science activity is a melon baller, watermelon, an
 
 ## Have a Great Summer!
 
-I hope you are feeling inspired to break out some sensory bins and sensory play this summer! Have fun playing and learning with your little ones!
+I hope you are feeling inspired to break out some sensory bins and sensory play this summer! Have fun playing and learning with your little ones! If you want to download my FREE guide all about how sensory bins and how we set up activities in our home, you can download it right here:

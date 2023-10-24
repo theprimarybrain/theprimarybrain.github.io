@@ -2,6 +2,7 @@
 layout: post
 title: Fall Activities for Kids
 author: Laurin Brainard
+flodesk: 65374920be19019fdd96d794
 categories: [Fall]
 tags: [Fall, fallliteracy, fallmath]
 image:
@@ -48,21 +49,4 @@ If your littles need to work on identifying numbers, then this pumpkin number ma
 
 I hope these activities gave you a few new ideas for adding some Fall fun to your week. Enjoy the fall season with your littles! 
 
-<script>
-  (function(w, d, t, s, n) {
-    w.FlodeskObject = n;
-    var fn = function() {
-      (w[n].q = w[n].q || []).push(arguments);
-    };
-    w[n] = w[n] || fn;
-    var f = d.getElementsByTagName(t)[0];
-    var e = d.createElement(t);
-    var h = '?v=' + new Date().getTime();
-    e.async = true;
-    e.src = s + h;
-    f.parentNode.insertBefore(e, f);
-  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
-  window.fd('form', {
-    formId: '5d7fd38715f78a0010f2e414'
-  });
-</script>
+If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

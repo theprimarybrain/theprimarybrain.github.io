@@ -21,6 +21,16 @@ This unit is made up of 5 lessons that incorporate the following activities:
 - gross motor activities 
 - art activities
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Vocabulary Development
 
 Finding ways to incorporate strong vocabulary development is so important for our youngest learners. As you teach your child about lemons, be sure to use strong vocabulary and give your child time to repeat and digest the new language you are using. In this unit, you will have the opportunity to teach vocabulary through picture cards, tangible items, and hands-on materials. As parents, we know we are teaching our children, but all they know is that they are having fun! 

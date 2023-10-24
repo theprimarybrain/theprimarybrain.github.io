@@ -20,6 +20,16 @@ This [Easter Toddler Unit](https://www.teacherspayteachers.com/Product/Easter-To
 - fine motor activities
 - art activities
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Art Activities for Toddlers
 
 [![EasterToddler]({{ site.github.url }}/assets/img/easter-toddler-holiday-art.jpg)](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Lesson-Plans-and-Activities-9270574?utm_source=PB%20Blog%2020230412&utm_campaign=Easter%20Toddler%20Unit)

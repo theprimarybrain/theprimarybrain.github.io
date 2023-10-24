@@ -20,7 +20,17 @@ Each of the 5 lessons in this butterfly unit include the following activities:
 - gross motor activity
 - art activity
 
-## Lesson Setup
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
+## Create a Butterfly Cover Page
 ![Butterfly Cover]({{ site.github.url }}/assets/img/toddler-butterfly-cover.jpg)
 
 The first thing I do with my son at the beginning of a new unit is color our cover page for our unit notebook. I fold a large sheet of construction paper in half and glue the cover page on with stick glue. It's a great way to introduce the new unit while getting in some much needed coloring practice. *Remember*, your toddler is still learning how to color, so going outside the lines is normal for the age.

@@ -20,6 +20,16 @@ This unit is made up of 12 patriotic activities you can use for Veteran’s Day,
 - fine motor activities
 - art and music activities
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Art Activities 
 
 [![Patriotic Toddler Curriculum]({{ site.github.url }}/assets/img/patriotic-toddler-wreath.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hrs-Patriotic-Toddler-Lesson-Plans-4th-of-July-Crafts-Activities-8239797?utm_source=PB%20Blog&utm_campaign=Patriotic%20Toddler%20Post)

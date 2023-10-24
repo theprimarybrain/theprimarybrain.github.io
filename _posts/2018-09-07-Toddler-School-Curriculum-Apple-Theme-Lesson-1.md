@@ -22,7 +22,17 @@ Each of the 5 lessons in this unit includes the following activities:
 - art activity
 - recipe/snack
 
-## Day One: Field Trip Day!
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
+## Kick off Apple Week with a Field Trip to the Grocery Store or Apple Farm
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
 
 ![Grocery Store Field Trip 2]({{ site.github.url }}/assets/img/toddler-apple-field-trip-2.jpg)
@@ -85,4 +95,4 @@ If you are looking for even more Toddler School fun for you and your little ones
 
 [![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
 
-I hope you have a wonderful day playing and learning with your little ones! Feel free to send me a message on Instagram @theprimarybrain with any questions about how to teach your little ones!
+I hope you have a wonderful day playing and learning with your little ones! Feel free to send me a message on Instagram @theprimarybrain with any questions about how to teach your little ones! 

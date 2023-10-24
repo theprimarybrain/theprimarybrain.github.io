@@ -23,6 +23,16 @@ Finger control is important because it prepares children to manipulate small obj
 
 Tweezers are another tool I love using to build hand muscles and develop the strength and stamina to hold a pencil correctly. There are lots of different kinds of kid-friendly tweezers available and you can incorporate them into all subject areas. Even household items, like kitchen tongs, will engage your students. Once students have developed those hand muscles, they will be more confident in school activities such as writing, cutting with scissors, and even playing on the monkey bars!
 
+If you want to learn more about how to get started planning fine motor activities for your little ones, download my FREE guide to learn everything you need to know about planning fine motor activities and more!
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Developing Scissor Skills
 
 ![SpringFineMotor]({{ site.github.url }}/assets/img/Fine-Motor-Spring-Scissor-Skills.jpg)

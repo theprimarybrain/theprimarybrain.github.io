@@ -3,7 +3,7 @@ layout: post
 title: Let's Learn Through Play!
 categories: [Toddler Activities]
 tags: [toddler, play]
-flodesk: 5e6bae8cb57a7300267c1cf2
+flodesk: 65374920be19019fdd96d794
 image:
   feature: Play-Based-learning-feature.jpg
   teaser: Play-Based-Learning-Teaser.jpg
@@ -21,6 +21,17 @@ Play is a child’s most favorite word, and it’s what makes up their world. Bu
 Incorporating imaginative play into our child's day opens the door to a whole world of learning. Giving open ended materials and letting your child explore the materials inspires them to pretend, create, and imagine. Pretend play in the kitchen, digging in the dirt, and building towers with their favorite blocks are just a few of the ways our kids learn! Unstructured, imaginative play teaches our little ones (especially preschoolers) about cause and effect, social expectations, and builds a foundation for social interaction. 
 
 As a parent and teacher, I know we put stress on ourselves to make sure that our kids are constantly learning. But, unstructured play is learning! Not every play-based activity needs to be structured. Children do not need to be directed on how to play with every item we give them to play with. As adults, we can provide the materials, but we do not need to direct the movements during the play activity. That is the best part about it! It’s child-led and simply meant to be FUN! 
+
+If you want to learn more about creating play-based activities for your little ones, sign up for my FREE guide here:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 
 ## How Do We Set Up Success During Play?
 

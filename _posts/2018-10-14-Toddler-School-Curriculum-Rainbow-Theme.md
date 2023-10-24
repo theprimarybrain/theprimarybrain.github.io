@@ -30,7 +30,17 @@ Each of the 5 lessons in this [rainbow unit](https://www.teacherspayteachers.com
 - art activity
 - recipe/snack
 
-## Lesson Setup
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
+## Gather Materials and Set Up for Rainbow Week
 ![Cover]({{ site.github.url }}/assets/img/toddler-rainbow-cover.jpg)
 
 Before beginning this fun week of learning, you will want to do some prep work to help your lessons run smoothly. The easiest way I have found to store our weekly materials in a folder. Just fold a large piece of construction paper in half and placing about 10 pieces of copy paper and 1 large ziplock bag inside. Then, staple the left side to hold it all together and paste a cover page on the front. 

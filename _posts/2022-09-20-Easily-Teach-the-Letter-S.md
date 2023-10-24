@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easily Teach The Letter S With Spider Activities For Toddlers
+title: Spider Activities For Toddlers
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school, halloween toddler]
@@ -21,6 +21,16 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - fine motor activity 
 - gross motor activity 
 - art activity 
+
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
 
 ## Fine Motor Activities 
 

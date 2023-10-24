@@ -4,6 +4,7 @@ title: Caterpillar Activities
 author: Laurin Brainard
 categories: [My Book]
 tags: [phonics,book]
+flodesk: 65374920be19019fdd96d794
 image:
   feature: caterpillar-my-phonics-workbook-feature.jpg
   teaser: caterpillar-my-phonics-workbook-teaser.jpg
@@ -36,24 +37,8 @@ Then, we added fresh soil.
 
 Finally, we planted the milkweed and filled the dirt in around our new plant. It was so much fun!
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "My Amazon Picks";
-amzn_assoc_linkid = "7d4a045dbe714fd0e2bbb3bb09a1a397";
-amzn_assoc_asins = "1641524413,B013HO4OR0,B00CI6J3HA,B003HGGPLW";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ![Binoculars]({{ site.github.url }}/assets/img/caterpillar-binoculars.jpg)
 
 When we finished planting, we used our [Kwikstix Paints](https://amzn.to/2w0FVQr) to make some "binoculars" to use while we hunted for our caterpillar friends. We didn't find any caterpillars...YET... but we found some snails and had fun trying!
 
-It was such a fun day!
-
-If you haven't already, make sure to [click here to order _My Phonics Workbook_ today!](https://amzn.to/2DTwFlP)
+It was such a fun day! If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

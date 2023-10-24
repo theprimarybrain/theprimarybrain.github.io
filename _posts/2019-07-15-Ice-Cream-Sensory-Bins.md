@@ -3,7 +3,7 @@ layout: post
 title: Ice Cream Themed Sensory Bins
 author: Laurin Brainard
 categories: [Sensory Bins]
-flodesk: 5e6bae8cb57a7300267c1cf2
+flodesk: 65374920be19019fdd96d794
 tags: [toddler, sensory bins]
 image:
   feature: ice-cream-sensory-bin-puzzles.jpg
@@ -42,21 +42,4 @@ For our last sensory bin, I added ice cream puzzle pieces to the rainbow sprinkl
 
 I hope these sensory bins have given you some fun ideas for ice cream week with your own little ones! You can grab all of the printable pieces from my [Ice Cream Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Ice-Cream-Themed-Lessons-4635846?utm_source=My%20Blog&utm_campaign=Ice%20Cream%20Sensory%20Bins%20Blog%20Post)! 
 
-<script>
-  (function(w, d, t, s, n) {
-    w.FlodeskObject = n;
-    var fn = function() {
-      (w[n].q = w[n].q || []).push(arguments);
-    };
-    w[n] = w[n] || fn;
-    var f = d.getElementsByTagName(t)[0];
-    var e = d.createElement(t);
-    var h = '?v=' + new Date().getTime();
-    e.async = true;
-    e.src = s + h;
-    f.parentNode.insertBefore(e, f);
-  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
-  window.fd('form', {
-    formId: '5d7fd38715f78a0010f2e414'
-  });
-</script>
+If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

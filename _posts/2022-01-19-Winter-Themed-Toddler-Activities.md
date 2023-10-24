@@ -2,7 +2,7 @@
 layout: post
 title: Winter Themed Toddler School Lessons
 categories: [Toddler School]
-flodesk: 5e6bae8cb57a7300267c1cf2
+flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
 image:
   feature: winter-cover-feature.jpg
@@ -80,7 +80,8 @@ This activity was so much fun, but is also excellent for building strong hand mu
 
 [![SeasonalUnit]({{ site.github.url }}/assets/img/seasonal-toddler-bundle-cover.jpg)](https://www.teacherspayteachers.com/Product/10-Flash-Sale-Toddler-Activities-Lesson-Plans-Seasonal-Fall-Winter-7642528?utm_source=PB%20Blog&utm_campaign=Seasonal%20Bundle%20Photo)
 
-
 I hope you found some great ideas to use at home with your little ones this winter season! If you want to make teaching your toddler super simple and fun this week, then check out my [Seasonal Toddler School Activities](https://www.teacherspayteachers.com/Product/50-off-48-Hours-Toddler-Lesson-Plans-Winter-Themed-Seasonal-Activities-7641533) for complete lesson plans and all the printables you need to make learning easy and fun each season! And if you need even more toddler school themed units, check out my full [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281).
 
-I hope you enjoy bringing the winter season indoors as you play, learn, and explore with your child this week!
+I hope you enjoy bringing the winter season indoors as you play, learn, and explore with your child this week! 
+
+If you want to learn more about how to set up toddler school in your own home or classroom, you can download my free planning guide here:

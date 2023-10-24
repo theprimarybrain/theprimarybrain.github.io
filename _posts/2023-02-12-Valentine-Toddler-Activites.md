@@ -20,6 +20,16 @@ This unit is made up of 12 valentine activities you can use for the entire month
 - fine motor activities
 - art activities
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Art Activities 
 Little ones LOVE to create art for their parents, grandparents, and other special people in their lives. In this unit, we made two different art projects that can be turned into cards for Valentine's Day! 
 

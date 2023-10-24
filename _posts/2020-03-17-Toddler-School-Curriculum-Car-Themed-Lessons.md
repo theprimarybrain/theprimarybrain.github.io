@@ -21,7 +21,17 @@ Each of the 5 lessons in this unit include the following activities:
 - gross motor activity
 - art activity
 
-## Lesson Setup
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
+## Create a Cars Cover Page
 
 ![Toddler School]({{ site.github.url }}/assets/img/Toddler-Cars-20.jpg)
 

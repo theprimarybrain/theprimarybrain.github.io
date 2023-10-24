@@ -21,6 +21,16 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Art Activities 
 
 ![IceCreamToddler]({{ site.github.url }}/assets/img/ice-cream-toddler-coloring.jpg)

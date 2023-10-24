@@ -20,6 +20,16 @@ This unit is made up of over 10 activities that include:
 - fine motor activities
 - art activities
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Art Activities 
 
 [![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-craft.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
