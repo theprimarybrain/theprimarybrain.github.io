@@ -3,7 +3,7 @@ layout: post
 title:  How to Plan Toddler Activities - The Complete Guide
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
-tags: [toddler school]
+tags: [toddler guide]
 image:
   feature: toddler-school-guide.jpg
   teaser: toddler-school-guide-teaser.jpg

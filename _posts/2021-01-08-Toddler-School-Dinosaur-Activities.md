@@ -3,7 +3,7 @@ layout: post
 title:  Dinosaur Themed Toddler School Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
-tags: [toddler, dinosaur, toddler school]
+tags: [toddler, dinosaur, toddler school, toddler guide]
 image:
   feature: Toddler-Dino-Feature.jpg
   teaser: Toddler-Dino-teaser.jpg

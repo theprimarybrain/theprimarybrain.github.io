@@ -2,7 +2,7 @@
 layout: post
 title:  How To Set Up a Sensory Bin
 categories: [Preschool]
-tags: [preschool, toddler school]
+tags: [preschool, toddler school, toddler guide]
 flodesk: 65374920be19019fdd96d794
 image:
   feature: how-to-set-up-sensory-bins.jpg
