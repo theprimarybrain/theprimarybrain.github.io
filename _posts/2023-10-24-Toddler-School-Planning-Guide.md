@@ -12,7 +12,7 @@ image:
 ---
 Are you looking to plan activities for your toddler? Well you are in the right place! I know how challenging it can be to plan activities that will hold your child's attention, while also having fun! 
 
-I created this guide to give you lots of activity ideas that you can quickly implement with your little ones. In this guide, we talk about how to choose a theme based on your child's interests. Then, you will create a daily routine for your home or classroom based on the theme. 
+I created this guide to give you lots of activity ideas that you can quickly implement with your little ones. You'll learn about how to choose a theme based on your child's interests. Then, you will create a daily routine for your home or classroom based on the theme. 
 
 As part of this daily routine, we take a deep dive into 6 skill areas that you can focus on with your toddler:
 - sensory bins
@@ -21,8 +21,6 @@ As part of this daily routine, we take a deep dive into 6 skill areas that you c
 - math activities
 - gross motor skills
 - arts and crafts
-
-Just sign up here to get right to work planning toddler activities:
 <div id="fd-form-65388aed2aaccd4af3f7fe5a"></div>
 <script>
   window.fd('form', {
