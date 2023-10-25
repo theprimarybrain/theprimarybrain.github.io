@@ -33,7 +33,7 @@ Just sign up here to get right to work planning toddler activities:
 
 ## A Look Inside the Guide
 
-![ToddlerSchoolGuide]({{ site.github.url }}/assets/img/toddler-school-guide-fine-motor.jpg)
+![ToddlerSchoolGuide]({{ site.github.url }}/assets/img/toddler-school-fine-motor.jpg)
 
 Each section of the guide reviews what each of the 6 skill areas are and why they are important for your toddler. Then, I share a variety of toddler activities for each skill area that you can do with materials you most likely have on hand already! 
 
