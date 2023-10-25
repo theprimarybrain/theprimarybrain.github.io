@@ -10,24 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Are you looking to plan activities for your toddler? Well you are in the right place! I know how challenging it can be to plan activities that will hold your child's attention, while also having fun through play-based activities. So, I created this guide to give you lots of activity ideas that you can use right away. Just sign up here to get right to work planning toddler activities:
-<div id="fd-form-65388aed2aaccd4af3f7fe5a"></div>
-<script>
-  window.fd('form', {
-    formId: '65388aed2aaccd4af3f7fe5a',
-    containerEl: '#fd-form-65388aed2aaccd4af3f7fe5a'
-  });
-</script>
-
-## Choose a Theme to Create a Daily Routine
-
-![ToddlerSchoolGuide]({{ site.github.url }}/assets/img/toddler-school-guide-theme-routine.jpg)
-
-In this guide, we begin by talking about how to choose a theme based on your child's interests. Then, you will create a daily routine for your home or classroom based on the theme. 
-
-## A Look Inside the Guide
-
-![ToddlerSchoolGuide]({{ site.github.url }}/assets/img/toddler-school-guide-fine-motor.jpg)
+Are you looking to plan activities for your toddler? Well you are in the right place! I know how challenging it can be to plan activities that will hold your child's attention, while also having fun through play-based activities. So, I created this guide to give you lots of activity ideas that you can use right away. In this guide, we begin by talking about how to choose a theme based on your child's interests. Then, you will create a daily routine for your home or classroom based on the theme. 
 
 In this guide, we take a deep dive into 6 skill areas that you can focus on with your toddler:
 - sensory bins
@@ -37,9 +20,20 @@ In this guide, we take a deep dive into 6 skill areas that you can focus on with
 - gross motor skills
 - arts and crafts
 
-![ToddlerSchoolGuide]({{ site.github.url }}/assets/img/toddler-school-guide-literacy-math.jpg)
+Just sign up here to get right to work planning toddler activities:
+<div id="fd-form-65388aed2aaccd4af3f7fe5a"></div>
+<script>
+  window.fd('form', {
+    formId: '65388aed2aaccd4af3f7fe5a',
+    containerEl: '#fd-form-65388aed2aaccd4af3f7fe5a'
+  });
+</script>
+
+## A Look Inside the Guide
 
 Each section of the guide reviews what each of the 6 skill areas are and why they are important for your toddler. Then, I share a variety of toddler activities for each skill area that you can do with materials you most likely have on hand already! 
+
+![ToddlerSchoolGuide]({{ site.github.url }}/assets/img/toddler-school-guide-fine-motor.jpg)
 
 ## Planning Pages to Plan Your Week 
 
