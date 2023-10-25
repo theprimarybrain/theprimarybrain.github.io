@@ -6,7 +6,7 @@ flodesk: 65374920be19019fdd96d794
 tags: [toddler school]
 image:
   feature: toddler-school-guide.jpg
-  teaser: 
+  teaser: toddler-school-guide-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
