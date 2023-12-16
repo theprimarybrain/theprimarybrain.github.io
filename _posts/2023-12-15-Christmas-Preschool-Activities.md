@@ -15,8 +15,6 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Dec. 15, 2
 
 Christmas is such a special time of year in our home! Every year in December I pull out a variety of Christmas preschool activites and my little ones get so excited!! There is nothing more exciting than decorating the house in red and green colors, the sound of jingle bells, and crafting in December. I included all of this and more in my [Christmas Preschool Unit](https://www.teacherspayteachers.com/Product/Christmas-Theme-Preschool-Curriculum-Lesson-Plans-December-Pre-K-Activities-10550121?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Unit)! Here are some of our favorite activities that you can enjoy all December long!
 
-![PreschoolChristmasUnit]({{ site.github.url }}/assets/img/)
-
 [![ChrsitmasCover]({{ site.github.url }}/assets/img/product-cover-christmas-preschool-unit.jpg)](https://www.teacherspayteachers.com/Product/Christmas-Theme-Preschool-Curriculum-Lesson-Plans-December-Pre-K-Activities-10550121?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Unit)
 
 [![Button]({{ site.github.url }}/assets/img/buttons-red-bright-click-here-to-grab-the-unit.jpg)](https://www.teacherspayteachers.com/Product/Christmas-Theme-Preschool-Curriculum-Lesson-Plans-December-Pre-K-Activities-10550121?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Unit)
