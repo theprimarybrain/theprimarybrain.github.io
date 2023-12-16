@@ -59,7 +59,7 @@ What could be more fun than painting a Christmas tree this time of year?!?! In t
 
 ## Keep Learning Through the Year!
 
-I hope you enjoyed following our preschool journey this week as we learned through Christmas themed activities! You can download this[Christmas Preschool Unit](https://www.teacherspayteachers.com/Product/Christmas-Theme-Preschool-Curriculum-Lesson-Plans-December-Pre-K-Activities-10550121?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Unit) from my shop. It comes with 20+ lesson plans and all the Christmas themed printable materials you will need to make teaching your preschooler as easy as possible. 
+I hope you enjoyed following our preschool journey this week as we learned through Christmas themed activities! You can download this [Christmas Preschool Unit](https://www.teacherspayteachers.com/Product/Christmas-Theme-Preschool-Curriculum-Lesson-Plans-December-Pre-K-Activities-10550121?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Unit) from my shop. It comes with 20+ lesson plans and all the Christmas themed printable materials you will need to make teaching your preschooler as easy as possible. 
 
 [![ChristmasCover]({{ site.github.url }}/assets/img/product-cover-christmas-preschool-unit.jpg)](https://www.teacherspayteachers.com/Product/Christmas-Theme-Preschool-Curriculum-Lesson-Plans-December-Pre-K-Activities-10550121?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Unit)
 
