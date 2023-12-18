@@ -33,7 +33,7 @@ If you want to download all the plans and printables in this unit, you can find 
 
 [![Button]({{ site.github.url }}/assets/img/blog-button-teal-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)
 
-## Sensory Bins
+## Butterfly Themed Toddler Sensory Bins
 
 [![Butterfly Sensory Bin]({{ site.github.url }}/assets/img/toddler-butterfly-sensory-bin-letters.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)
 
@@ -45,7 +45,7 @@ Sensory bins are my favorite way to teach new letters and sounds to my toddler. 
 
 In our next sensory bin, we enjoyed building a butterfly and a caterpillar together. First, my son had to move his tiny fingers through the sensory bin filler to find all the butterfly parts. Then, he placed the pieced together the parts to build a butterfly and a caterpillar. 
 
-## Fine Motor Activities
+## Butterfly Themed Fine Motor Activities
 This unit was filled with fine motor activities that are perfect for the spring season! 
 
 [![Butterfly Sensory Bin]({{ site.github.url }}/assets/img/toddler-butterfly-dot-marker-painting.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)
@@ -56,7 +56,7 @@ We worked on the letter B using dot markers. I love adding fine motor activities
 
 Then, we made caterpillar bracelets by stringing cheerios onto a piece of yarn. Something about creating an animal made this lacing practice extra fun!
 
-## Art Activities
+## Butterfly Themed Art Activities
 
 [![Butterfly Art]({{ site.github.url }}/assets/img/toddler-butterfly-art-mask.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)
 
@@ -68,7 +68,7 @@ My son LOVES anything with craft sticks right now. Not sure why, but using liqui
 
 To set up the activity, grab one of the many cardboard boxes you have around the house. *If you have Amazon Prime, then you know what I mean!* Carve a hole out of the cardboard box. One person hides behind the box and holds the puppet up into the opening. Have fun taking turns putting on the play!
 
-## Math and Science Activities
+## Butterfly Themed Math and Science Activities
 
 Since this unit is all about butterflies, we took a couple walks in nature to hunt for butterflies. It is so much fun to bring a [butterfly net](https://amzn.to/39r0xU3) and try to catch a few butterflies. My son was unsuccessful at catching any, but the hunt was half the fun! After our butterfly hunt, we worked on a couple of counting activities. 
 
@@ -80,7 +80,7 @@ We used these butterfly counting cards to work on counting objects from 1 to 6. 
 
 We also worked on counting through this Tabbed Number Book. Each page had a butterfly on the page that matched the number on the tab. We counted all the butterflies and said the name of each number.
 
-## Gross Motor Activities
+## Butterfly Themed Gross Motor Activities
 
 ![Gross Motor]({{ site.github.url }}/assets/img/toddler-butterfly-gross-motor.jpg)
 
@@ -90,9 +90,9 @@ We also worked on counting through this Tabbed Number Book. Each page had a butt
 
 No week is complete without some gross motor activities that get us outside! Not only did we take a couple of nature walks, but we also did a butterfly dance, hopped on butterfly cards, and practice flying like a butterfly. 
 
-I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Butterfly Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. 
+I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Butterfly Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible:
 
-[![ButterflyUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Butterfly.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Butterfly-Homeschool-Preschool-Letter-B-4130868?st=2f9ff0675c067b21cd5eb57236ff535e&utm_source=PB%20Blog&utm_campaign=Toddler%20Butterfly%20Cover%20Image)
+[![ButterflyCover]({{ site.github.url }}/assets/img/product-cover-butterfly-toddler-school.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)
 
 If you want to plan out the rest of your month of toddler activities, then here are some other toddler themes that are great for the spring season:
 
