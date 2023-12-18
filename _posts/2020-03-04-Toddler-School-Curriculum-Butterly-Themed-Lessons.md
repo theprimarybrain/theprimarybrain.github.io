@@ -22,7 +22,7 @@ Each of the 5 lessons in this butterfly unit include the following activities:
 - gross motor activity
 - art activity
 
-## Create a Butterfly Cover Page
+## How To Start a Week of Toddler Learning
 [![Butterfly Cover]({{ site.github.url }}/assets/img/toddler-butterfly-cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)
 
 The first thing I do with my son at the beginning of a new unit is color our cover page for our unit notebook. I fold a large sheet of construction paper in half and glue the cover page on with stick glue. It's a great way to introduce the new unit while getting in some much needed coloring practice. *Remember*, your toddler is still learning how to color, so going outside the lines is normal for the age.
@@ -90,7 +90,7 @@ We also worked on counting through this Tabbed Number Book. Each page had a butt
 
 No week is complete without some gross motor activities that get us outside! Not only did we take a couple of nature walks, but we also did a butterfly dance, hopped on butterfly cards, and practice flying like a butterfly. 
 
-I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Butterfly Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible:
+I hope you enjoyed following our Toddler School journey this week! If you want to make it easy to create spring memories with your little ones, then you can download the full [Butterfly Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post) from my shop! It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible:
 
 [![ButterflyCover]({{ site.github.url }}/assets/img/product-cover-butterfly-toddler-school.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)
 
@@ -99,6 +99,16 @@ If you want to plan out the rest of your month of toddler activities, then here 
 [Flower Toddler Activities](https://theprimarybrain.com/toddler%20school/2021/03/23/Toddler-Flower-Activities/)
 
 [Spring Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/03/28/Spring-Toddler-Activities/)
+
+## A Year of Toddler Activities All Planned for You!
+
+If you are looking for even more Toddler School fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+
+[![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
+
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
 
 ## Grab this FREE Guide to Plan Your Own Toddler Activities!
 
