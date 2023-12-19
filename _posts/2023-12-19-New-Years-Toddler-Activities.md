@@ -13,7 +13,9 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Dec. 19, 2023
 
-Let's get ready to count down to the new year with our little ones! I am planning a New Years Eve celebration with my kids at home this year and we will be using all of the activities in my [New Years Toddler School Pack](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post). We will be kicking off the fun in the early morning and counting down the hours until noon when we will countdown to the new year at the stroke of noon, since that is the only 12:00 my littles will be seeing this year!
+Let's get ready to count down to the new year with our little ones! I am planning a New Years Eve celebration with my kids at home this year and we will be using all of the activities in my [New Years Toddler School Pack](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post). 
+
+We will be kicking off the fun in the early morning and counting down the hours until noon! Beginning at 11:59:50 a.m., we will count down to the new year at the stroke of noon, since that is the only 12:00 my littles will be seeing this year!
 
 ## Activities Included in this New Years Theme:
 This unit is made up of 12 activities that include:
@@ -25,7 +27,7 @@ This unit is made up of 12 activities that include:
 - art activities
 - music activity
 
-If you want to grab all the plans and printables in this unit, you can grab them inside my [New Years Toddler School Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post): 
+If you want to grab all the plans and printables in this unit, you can grab them right here:
 
 [![NewYearToddlerCover]({{ site.github.url }}/assets/img/product-cover-new-years-toddler-unit.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
 
@@ -35,7 +37,7 @@ If you want to grab all the plans and printables in this unit, you can grab them
 
 [![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-book.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
 
-To begin our Noon Years Eve Party, we will be reading our Happy New Year Book and making a party hat! This book includes a variety of vocabulary words that you can teach to your little ones.
+To begin our Noon Years Eve Party, we will be reading our Happy New Year Book. This book includes a variety of vocabulary words that you can teach to your little ones.
 
 [![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-art-hat.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
 
