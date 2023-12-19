@@ -26,6 +26,7 @@ This unit is made up of 12 activities that include:
 - music activity
 
 If you want to grab all the plans and printables in this unit, you can grab them inside my [New Years Toddler School Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post): 
+
 [![NewYearToddlerCover]({{ site.github.url }}/assets/img/product-cover-new-years-toddler-unit.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
 
 [![Button]({{ site.github.url }}/assets/img/buttons-green-click-here-to-grab-the-unit.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
@@ -79,3 +80,27 @@ It's that time we have all been waiting for! Your child will be so excited to le
 To create the shaker, your child can decorate the bottom side of two paper plates. Then, you will fill the inside with 1/2 cup of dried beans. Then, place a bead of liquid glue around the edge of plate and paste the two plates together. Then, add staples all around to make sure the plates stay together. 
 
 Allow a couple hours for the plates to dry and then it is time to begin the musical fun!
+
+## Grab All the Plans and Printables You Need!
+
+I hope you are feeling inspired to have a new years eve party with your little ones this year! You can download this [New Year's Toddler Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post) and make it easy to plan some fun activities. It includes 12 lesson plans and all the New Years themed printable materials you will need to make teaching your toddler as easy as possible. 
+
+[![NewYearToddlerCover]({{ site.github.url }}/assets/img/product-cover-new-years-toddler-unit.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+
+If you are looking for an entire year of fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+
+[![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
+
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
+
+I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
+
+### Here are some of our other blog posts you may enjoy, too!
+
+[5 Valentine Activies for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/12/Valentine-Toddler-Activites/)
+
+[5 Patriotic Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/11/08/Patriotic-Toddler-Activities/)
+
+[St. Patrick's Day Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/23/St-Patricks-Day-Toddler-Activities/)
