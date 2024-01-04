@@ -27,17 +27,15 @@ This unit is made up of 11 activities that include:
 - art activities
 - science activity
 
-If you want to grab all the plans and printables in this [Birthday Unit](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog), you can grab them right here:
-
-[![BirthdayToddlerCover]({{ site.github.url }}/assets/img/birthday-toddler-unit-cover.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
-
-[![Button]({{ site.github.url }}/assets/img/0button-teal-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
-
 ## Kick Off Your Child's Birthday Celebration
 
 [![BirthdayToddlerBook]({{ site.github.url }}/assets/img/birthday-toddler-vocabulary-book.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
 
-To begin our birthday celebration week, we will be reading our Happy Birthday vocabulary book. This book includes a variety of pictures and vocabulary words that they may see at a birthday celebration.
+To begin our birthday celebration week, we will be reading our Happy Birthday vocabulary book. This book includes a variety of pictures and vocabulary words that they may see at a birthday celebration. You can grab all the plans and printables in this [Birthday Unit](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog) right here:
+
+[![BirthdayToddlerCover]({{ site.github.url }}/assets/img/birthday-toddler-unit-cover.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
+
+[![Button]({{ site.github.url }}/assets/img/0button-teal-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
 
 ## Birthday Sensory Bins for Toddlers
 [![BirthdayToddlerSensoryBin]({{ site.github.url }}/assets/img/birthday-toddler-sensory-bin-cupcake-candle.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
