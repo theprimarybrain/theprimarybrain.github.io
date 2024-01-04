@@ -38,7 +38,7 @@ If you want to grab all the plans and printables in this [Birthday Unit](https:/
 To begin our birthday celebration week, we will be reading our Happy Birthday vocabulary book. This book includes a variety of pictures and vocabulary words that they may see at a birthday celebration.
 
 ## Birthday Sensory Bins for Toddlers
-\[![BirthdayToddlerSensoryBin]({{ site.github.url }}/assets/img/birthday-toddler-sensory-bin-cupcake-candle.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
+[![BirthdayToddlerSensoryBin]({{ site.github.url }}/assets/img/birthday-toddler-sensory-bin-cupcake-candle.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
 
 Nothing brings me back to my childhood faster than sprinkles on a cupcake! So for this sensory bin, we are giving our little ones the opportunity to dig their fingers into a sensory bin filled with sprinkles! To set up this bin, just fill up a bin with rainbow sprinkles and add some real birthday candles to the bin. 
 
