@@ -42,7 +42,7 @@ To begin our birthday celebration week, we will be reading our Happy Birthday vo
 
 Nothing brings me back to my childhood faster than sprinkles on a cupcake! So for this sensory bin, we are giving our little ones the opportunity to dig their fingers into a sensory bin filled with sprinkles! To set up this bin, just fill up a bin with rainbow sprinkles and add some real birthday candles to the bin. 
 
-We paired this bin with our [Candle Cupcakes](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog) to work on math skills. To help your children learn to count, you will want to point to the number and help our child say the name. Then, have your child grab one candle at a time from the bin and count up to the number. You can even have your child pretend to blow out the candles when they finish adding the correct amount!
+We paired this bin with our [Candle Cupcakes](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog) to work on math skills. To help your children learn to count, you will want to point to the number and help your child say the name. Then, have your child grab one candle at a time from the bin and count up to the number. You can even have your child pretend to blow out the candles when they finish adding the correct amount!
 
 [![BirthdayToddlerSensoryBin]({{ site.github.url }}/assets/img/birthday-toddler-sensory-bin-alphabet.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
 
@@ -60,13 +60,13 @@ How old is your child turning this year? This [Birthday Candle Counting Activity
 
 [![BirthdayToddlerSensoryBin]({{ site.github.url }}/assets/img/birthday-toddler-dot-markers.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
 
-Dot markers are one of our favorite tools for building fine motor skills! They help to develop hand control in your child's tiny little hands as they dot inside specific areas on an activity. Plus, they are so much fun!! This [Cake Dot Marker Printable](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog) is such a fun way to celebrate a birthday and can even be used as a card for family members!
+[Dot markers](https://amzn.to/3NQtdwf) are one of our favorite tools for building fine motor skills! They help to develop hand control in your child's tiny little hands as they dot inside specific areas on an activity. Plus, they are so much fun!! This [Cake Dot Marker Printable](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog) is such a fun way to celebrate a birthday and can even be used as a card for family members!
 
 ## Help Your Toddler Learn About Emotions
 
 [![BirthdayToddlerFineMotor]({{ site.github.url }}/assets/img/birthday-toddler-fine-motor-playdough.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
 
-Giving our children opportunities to recognize the types of emotions we feel is so important, so we created these birthday cupcakes to do just that! You can pull out one card each day and have your child use Playdoh to show the emotion. 
+Giving our children opportunities to recognize the types of emotions we feel is so important, so we created these birthday cupcakes to do just that! You can pull out one card each day and have your child use [Playdoh](https://amzn.to/3tQoG5X) to show the emotion. 
 
 You can even act it out by showing the emotion on our faces and through body language. Then, ask your child how these emotions make them feel. I always like to pair a positive emotion such as happy or excited along with a mad or sad emotion. It's a great way to teach how these emotions are opposites. 
 
@@ -93,3 +93,5 @@ I hope you enjoy playing and learning with your little ones this week! Feel free
 [5 Patriotic Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/11/08/Patriotic-Toddler-Activities/)
 
 [St. Patrick's Day Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/23/St-Patricks-Day-Toddler-Activities/)
+
+### If you are looking for practical ways to set up a daily routine for your little ones, then grab my FREE toddler school guide here:
