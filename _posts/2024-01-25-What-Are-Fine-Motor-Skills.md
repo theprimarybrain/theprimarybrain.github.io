@@ -54,3 +54,19 @@ If you are looking for fine motor activities to help you over the next couple mo
 
 ## Free Fine Motor Activities For You!
 One of our favorite activities for working on fine motor skills is to play with and manipulate play dough! I created a book of playdough mats that you can use to work on colors with your little ones. Just sign up here for your free activity and I will email it right over to you:
+
+<div id="fd-form-65b2d572470cdb14a563b776"></div>
+<script>
+  window.fd('form', {
+    formId: '65b2d572470cdb14a563b776',
+    containerEl: '#fd-form-65b2d572470cdb14a563b776'
+  });
+</script>
+
+## Looking to learn about other activities you can do with your little ones? Check out these blog posts:
+
+[How to Plan Toddler Activities](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-School-Planning-Guide/)
+
+[How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin/)
+
+[How to Make Dinosaur Fossils](https://theprimarybrain.com/science/2019/01/31/Making-Dinosaur-Fossils/)
