@@ -43,6 +43,8 @@ In order for our little ones to be successful when handwriting in school, we nee
 - Use tweezers to pick up small items
 - Scoop flour and sugar using a spoon
 
+_Looking for more activities to build fine motor skills?_ You won’t want to miss our season specific blog posts all about [Fall Fine Motor Activities](https://theprimarybrain.com/fine%20motor%20activities/2022/09/06/Fall-Fine-Motor-Activities/) and [Spring Fine Motor Activities](https://theprimarybrain.com/fine%20motor%20activities/2022/02/14/Spring-Fine-Motor-Activities/).
+
 ## Seasonal Fine Motor Activities
 If you are looking for fine motor activities to help you over the next couple months, then check out my [Seasonal Fine Motor Activities](https://www.teacherspayteachers.com/Product/Seasonal-Fine-Motor-Skills-Center-Activities-Winter-Spring-Summer-Fall-Seasons-7240892?st=92e9ad88a503071e53220362b8dc131b&utm_source=PB%20Blog&utm_campaign=What%20is%20Fine%20Motor%20Post%20to%20Fine%20Motor%20Bundle)! This pack is filled with activities for prewriting, hand strength, hand and finger control, beading, scissor skills, tracing, and more! All you have to do is print and prepare the materials and you can use them again and again!
 
