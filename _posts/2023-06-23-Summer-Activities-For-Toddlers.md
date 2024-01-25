@@ -50,6 +50,8 @@ Another great way to practice the alphabet is by bringing the beach to your home
 
 Here is another fine motor idea for building hand control. In this activity, children get to add "sprinkles" to an ice cream cone. Depending on the ability of your child, you could use [plastic tweezers](https://amzn.to/3Xmjmlc) to pick up large hole beads. Or, your child can work on their pincer grasp by picking up and placing the beads on the ice cream using their fingers. 
 
+_If you want to learn more about what fine motor skills actually are, then you can also read this blog post:_ [What are fine motor skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Summer Art Activity
 
 ![Summer Art for Toddlers]({{ site.github.url }}/assets/img/toddler-summer-dot-painting.jpg)

@@ -14,6 +14,8 @@ Children need to build fine motor skills to help them grasp objects, become stro
 
 Here are 6 activities from my [Fall Fine Motor Activities](https://www.teacherspayteachers.com/Product/Fall-Fine-Motor-Skills-Activities-Hole-Punch-Tracing-Prewriting-Playdough-More-8039943?st=41030671373b72ebc21c69d36073ba04&utm_source=PB%20Blog&utm_campaign=Fine%20Motor%20Activities) that you can add to morning tubs or fine motor centers each week. 
 
+_If you want to learn more about what fine motor skills actually are, then you can also read this blog post:_ [What are fine motor skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Developing Finger Control
 
 [![FallFineMotor]({{ site.github.url }}/assets/img/fine-motor-fall-beading.jpg)](https://www.teacherspayteachers.com/Product/Fall-Fine-Motor-Skills-Activities-Hole-Punch-Tracing-Prewriting-Playdough-More-8039943?st=41030671373b72ebc21c69d36073ba04&utm_source=PB%20Blog&utm_campaign=Fine%20Motor%20Activities)
