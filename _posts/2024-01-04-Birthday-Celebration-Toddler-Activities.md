@@ -11,7 +11,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Jan. 4, 2023
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Jan. 4, 2024
 
 What could be more special than spending an entire week celebrating your child's birthday?!?! I created this set of [Birthday Celebration Toddler School activities](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog) to do just that! Not only will you be able to have family fun celebrations with your little one, but you can also create a themed week of learning activities that are all designed with birthday themes. 
 
