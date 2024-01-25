@@ -12,7 +12,6 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Jan. 25, 2024
 
-## What are fine motor skills?
 Fine motor skills involve our ability to make movements as we use the small muscles in our hands.  When we use a pencil, scissors, manipulate play dough, or build a block tower, we are utilizing our fine motor skills. When we press two blocks together, we are utilizing our hand strength to squeeze the blocks together. We also use hand control as we properly line up the blocks for success. Both hand control and strength work together as we develop our fine motor skills. We use these skills every day throughout our daily tasks such as brushing hair or turning a doorknob. 
 
 Interested in downloading some fine motor activities that you can print and use right away?  Click on the image or button below to check them out in my TpT shop! 
