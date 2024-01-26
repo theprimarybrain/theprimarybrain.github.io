@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Toddler Activities
+title: Spring Activities for Toddlers
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
