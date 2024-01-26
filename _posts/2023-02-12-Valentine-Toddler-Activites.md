@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 5 Valentine Activities For Toddlers
+title: Valentine's Day Activities for Toddlers
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
-tags: [toddler, toddler school]
+tags: [toddler, toddler school, valentine's day]
 image:
   feature: feature-valentine-toddler-activities.jpg
   teaser: valentine-toddler-school-teaser.jpg
