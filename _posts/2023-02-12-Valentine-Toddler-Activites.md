@@ -76,7 +76,13 @@ If you want to bring some Valentine fun centered around learning into your home 
 
 [![Valentine Cover]({{ site.github.url }}/assets/img/valentine-toddler-cover.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
 
-If adding learning activities into your home this year sounds like something you would enjoy, then you can save money on this unit by purchasing it as part of my [Holiday Toddler Curriculum](https://www.teacherspayteachers.com/Product/Holiday-Toddler-Activities-Lesson-Plans-Growing-Bundle-Preschool-Curriculum-8705555?utm_source=PB%20Blog&utm_campaign=Holiday%20Toddler%20Bundle%20Upsell). This holiday curriculum includes activities for Valentine's Day, St. Patrick's Day, Easter, Patriotic days, Halloween, and Christmas! Your toddler or preschooler will be ready for Kindergarten before you know it! 
+If adding learning activities into your home this year sounds like something you would enjoy, then you can save money on this unit by purchasing it as part of my [Holiday Toddler Curriculum](https://www.teacherspayteachers.com/Product/Holiday-Toddler-Activities-Homeschool-Preschool-Curriculum-and-Lesson-Plans-8705555?utm_source=PB%20Blog&utm_campaign=Holiday%20Toddler%20Bundle%20Upsell%20Valentine%20Post). This holiday curriculum includes activities for Valentine's Day, St. Patrick's Day, Easter, Patriotic days, Halloween, and Christmas! Your toddler or preschooler will be ready for Kindergarten before you know it! You can check it out here:
+
+[![Holiday Toddler Bundle]({{ site.github.url }}/assets/img/product-cover-holiday-toddler-school-bundle.jpg)](https://www.teacherspayteachers.com/Product/Holiday-Toddler-Activities-Homeschool-Preschool-Curriculum-and-Lesson-Plans-8705555?utm_source=PB%20Blog&utm_campaign=Holiday%20Toddler%20Bundle%20Upsell%20Valentine%20Post)
+
+[![TPTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/Holiday-Toddler-Activities-Homeschool-Preschool-Curriculum-and-Lesson-Plans-8705555?utm_source=PB%20Blog&utm_campaign=Holiday%20Toddler%20Bundle%20Upsell%20Valentine%20Post)
+
+[![ETSYButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1452488678/holiday-toddler-school-bundle-homeschool)
 
 ### If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
