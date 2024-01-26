@@ -22,6 +22,12 @@ This Valentine's Day Toddler Unit is made up of 12 valentine activities you can 
 - fine motor activities
 - art activities
 
+Interested in downloading [these Valentine's Day activities](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) that you can print and use right away?  Click on the image or button below to check them out in my TpT shop! 
+
+[![FineMotorActivities]({{ site.github.url }}/assets/img/product-cover-valentine-toddler-school.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+
+[![Button]({{ site.github.url }}/assets/img/0button_pink_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+
 ## Valentine's Day Crafts for Toddlers
 
 Little ones LOVE to create art for their parents, grandparents, and other special people in their lives. For Valentine's Day, you can make these two different art projects with your little ones that can be turned into cards for Valentine's Day:
