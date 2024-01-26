@@ -15,7 +15,7 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Jan. 25, 2
 Valentine's Day is right around the corner and as my youngest is getting older, I am so excited to fill our days with painting, sensory bins, and all the fine motor activities our hearts desire! As we head into February, I want you to feel as prepared as I do to teach your little ones so I put together some of our favorite toddler activities for February!
 
 ## Valentine's Day Toddler Lessons
-This Valentine's Day Toddler Unit is made up of 12 valentine activities you can use for the entire month of February:
+This [Valentine's Day Toddler Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) is made up of 12 valentine activities you can use for the entire month of February:
 - literacy and language activities
 - sensory bins 
 - math activities
