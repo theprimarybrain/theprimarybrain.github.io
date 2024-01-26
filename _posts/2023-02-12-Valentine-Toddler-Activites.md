@@ -46,7 +46,9 @@ In this second craft, we combined fine motor skills and art to make another fun 
 
 [![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-reading.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
 
-What could be more fun than learning letter names and sounds through a candy heart sensory bin?!?! In this bin, we used crinkled paper as our sensory bin filler and added candy heart letter cards. As children pick up each card, they can practice saying the name and/or sound for each letter, then place it in their candy heart box. We added in some extra practice by saying the name of each letter as we placed back in the sensory bin for next time. I made a quick video to show you how to set up this bin:
+What could be more fun than learning letter names and sounds through a candy heart sensory bin?!?! In this bin, we used crinkled paper as our sensory bin filler and added candy heart letter cards. As children pick up each card, they can practice saying the name and/or sound for each letter, then place it in their candy heart box. We added in some extra practice by saying the name of each letter as we placed back in the sensory bin for next time. 
+
+I made a quick video to show you how to set up this bin:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BhwsK3UXfiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -65,6 +67,8 @@ In this second bin, we built cupcakes by matching numbers! First, I cut out the 
 Playdough is always a hit in our house! In this activity, I created vocabulary cards so we could work on the names of various Valentine's Day symbols that may encounter in our daily lives this month. Then, we rolled snakes and balls of dough and used them to build the symbols. 
 
 Playing with playdough from a young age is an excellent way to build up the tiny hand muscles in little hands. This will help your child's fine motor skill development as they prepare to start writing in Kindergarten!
+
+_If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?[(https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
 
 ## Valentine's Day Toddler Curriculum
 
