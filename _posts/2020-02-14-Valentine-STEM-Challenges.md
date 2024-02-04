@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valentine STEM Challenges
+title: 7 Valentine's Day STEM Challenge Activities
 author: Laurin Brainard
 categories: [STEM Activities]
 tags: [stem]
