@@ -68,7 +68,7 @@ Playdough is always a hit in our house! In this activity, I created vocabulary c
 
 Playing with playdough from a young age is an excellent way to build up the tiny hand muscles in little hands. This will help your child's fine motor skill development as they prepare to start writing in Kindergarten!
 
-_If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?[(https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
+_If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
 
 ## Valentine's Day Toddler Curriculum
 
