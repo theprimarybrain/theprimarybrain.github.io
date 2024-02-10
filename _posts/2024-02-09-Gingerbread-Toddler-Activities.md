@@ -32,7 +32,7 @@ Interested in downloading [these gingerbread activities](https://www.teacherspay
 
 [![Gingerbread Toddler Curriculum]({{ site.github.url }}/assets/img/gingerbread-toddler-sensory-bin-houses.jpg)](https://www.teacherspayteachers.com/Product/Gingerbread-Toddler-Lesson-Plans-Christmas-Preschool-Activities-Curriculum-8320868?utm_source=PB%20Blog&utm_campaign=Gingerbread%20Toddler%20Unit)
 
-My favorite way to introduce this gingerbread theme is through this Gingerbread Sensory Bin! Your little ones will love getting to dig their hands through their favorite sensory bin filler to find all the pieces to build their own gingerbread house. You can begin by selecting a building and laying on the table outside the bin. Then, your little one can add all their favorite accents to their house. 
+My favorite way to introduce this gingerbread theme is through this Gingerbread Sensory Bin! Your little ones will love getting to dig their hands through their favorite sensory bin filler to find all the pieces to build their own gingerbread house. You can begin by selecting a building and laying it flat on the table outside the bin. Then, your little one can add all their favorite accents to their house. 
 
 ## Gingerbread Math Activitites for 2 to 3 Year Olds
 
@@ -50,7 +50,7 @@ Toddlers need a lot of repetition when learning the names of letters. These ging
 
 [![Gingerbread Lacing]({{ site.github.url }}/assets/img/gingerbread-toddler-lacing.jpg)](https://www.teacherspayteachers.com/Product/Gingerbread-Toddler-Lesson-Plans-Christmas-Preschool-Activities-Curriculum-8320868?utm_source=PB%20Blog&utm_campaign=Gingerbread%20Toddler%20Unit)
 
-Finding ways to build fine motor skills from a young age is crucial to building strength and control in the tiny hand muscles in little hands. These lacing cards will help your child's fine motor skill development as they prepare to start writing in Kindergarten! If it your first time lacing, you may need to model how to put the lace through the hole with hand over hand movements with your child.
+Finding ways to build fine motor skills from a young age is crucial to building strength and control in the tiny hand muscles in little hands. These lacing cards will help your child's fine motor skill development as they prepare to start writing in Kindergarten! If it your child's first time lacing, you may need to model how to put the lace through the hole with hand over hand movements.
 
 _If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
 
