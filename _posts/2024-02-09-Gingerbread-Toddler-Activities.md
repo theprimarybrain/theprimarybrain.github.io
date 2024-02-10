@@ -15,7 +15,7 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Feb. 9, 20
 Nothing makes it feel more like the Christmas season than digging into some fun gingerbread activities for toddlers! I love to break out all of our gingerbread themed lesson plans the week after Thanksgiving so we can stretch out all the holiday fun for as long as we can. If you want to fill this holiday season with hands-on fun for your little ones, then here are a few of our favorite activities! 
 
 ## Gingerbread Toddler Lessons
-This [Gingerbread Toddler Unit](https://www.teacherspayteachers.com/Product/Gingerbread-Toddler-Lesson-Plans-Christmas-Preschool-Activities-Curriculum-8320868?utm_source=PB%20Blog&utm_campaign=Gingerbread%20Toddler%20Unit) is made up of 12 gingerbread activities you can use for the entire month of December:
+This [Gingerbread Toddler Unit](https://www.teacherspayteachers.com/Product/Gingerbread-Toddler-Lesson-Plans-Christmas-Preschool-Activities-Curriculum-8320868?utm_source=PB%20Blog&utm_campaign=Gingerbread%20Toddler%20Unit) is made up of 10+ gingerbread activities you can use for the entire month of December:
 - literacy and language activities
 - sensory bins 
 - math activities
@@ -68,7 +68,7 @@ I also love to pair this book with our favorite play dough recipe in this blog p
 
 ## Gingerbread Toddler Curriculum
 
-If you want to bring some holiday fun centered around learning into your home this year, then this [Gingerbread Toddler Unit](https://www.teacherspayteachers.com/Product/Gingerbread-Toddler-Lesson-Plans-Christmas-Preschool-Activities-Curriculum-8320868?utm_source=PB%20Blog&utm_campaign=Gingerbread%20Toddler%20Unit) is a perfect choice. It's full of 12 activities that will get your toddler **excited about learning**, all while working on their developmental needs.
+If you want to bring some holiday fun centered around learning into your home this year, then this [Gingerbread Toddler Unit](https://www.teacherspayteachers.com/Product/Gingerbread-Toddler-Lesson-Plans-Christmas-Preschool-Activities-Curriculum-8320868?utm_source=PB%20Blog&utm_campaign=Gingerbread%20Toddler%20Unit) is a perfect choice. It's full of 10+ activities that will get your toddler **excited about learning**, all while working on their developmental needs.
 
 [![Gingerbread Cover]({{ site.github.url }}/assets/img/product-cover-gingerbread-toddler.jpg)](https://www.teacherspayteachers.com/Product/Gingerbread-Toddler-Lesson-Plans-Christmas-Preschool-Activities-Curriculum-8320868?utm_source=PB%20Blog&utm_campaign=Gingerbread%20Toddler%20Unit)
 
