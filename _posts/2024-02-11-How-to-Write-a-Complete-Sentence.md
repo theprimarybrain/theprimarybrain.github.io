@@ -23,11 +23,13 @@ The first step in learning to write beautiful sentences is to master how to writ
 
 Before my students even take a pencil to paper, I like to begin by building a sentence using word cards. You can write words on notecards and place in a pocket chart, use sticky notes, or small pieces of paper. To practice as a whole group, I prepare enough sentence cards for every student to take a turn.
 
-I begin by selecting 3 students and giving each student one word card. We work together to read each word and talk about the features we see on each card such as capital letters and ending marks. Then, I give these students time to work together to place the word cards in order to build a sentence. When they finish, we point to each word and read the sentence together as a class. Over the coming weeks, we will slowly add additional words to our sentences to begin writing longer sentences. 
+I begin by selecting 3 students and giving each student one word card. We work together to read each word and talk about the features we see on each card, such as capital letters and ending marks. Then, I give these students time to work together to place the word cards in order to build a sentence. When they finish, we point to each word and read the sentence together as a class. 
+
+Over the coming weeks, we will slowly add additional words to our sentences to begin writing longer sentences. 
 
 [![How to Write a Sentence]({{ site.github.url }}/assets/img/how-to-write-a-sentence-group.jpg)](https://www.teacherspayteachers.com/Product/How-to-Write-a-Sentence-Building-Sentences-Writing-Activity-7680019?utm_source=PB%20Blog&utm_campaign=20240211%20How%20to%20Write%20Complete%20Sentences%20Blog%20Post)
 
-After practicing building sentences using our pre-made word cards, I like to break my students into groups and give them the opportunity to write their own sentences. When they finish, they present their sentences to the class. 
+After building sentences using our pre-made word cards, I like to break my students into groups and give them the opportunity to write their own sentences. When they finish, they present their sentences to the class. 
 
 ## Building Sentences Center Work
 

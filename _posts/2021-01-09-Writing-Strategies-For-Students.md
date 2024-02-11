@@ -15,6 +15,8 @@ Do your students need some extra help writing sentences? Let's spend some time b
 ## Expanding Sentences
 At the beginning of the school year, we work on writing simple sentences. We begin with sentences such as _I see the cat._ As the year progresses and my students master writing simple sentences, we begin to expand the sentences by adding an adjective, conjunction, or preposition to the sentence. This helps students add details and make their sentences more exciting!
 
+_If your students need extra help learning to write a simple sentence, then check out this post:_ [How to Write a Complete Sentence](https://theprimarybrain.com/writing/2024/02/11/How-to-Write-a-Complete-Sentence/)
+
 ## Combining Sentences
 Learning to combine sentences is such an important skill for our little learners as they begin to write paragraphs. You know those repetitive sentences that our little ones write as they are first learning? 
 
