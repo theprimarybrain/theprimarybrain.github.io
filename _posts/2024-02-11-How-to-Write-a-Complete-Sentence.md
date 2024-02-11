@@ -9,13 +9,13 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Do your students need some extra help writing sentences? Let's spend some time brushing up on the writing strategies your students NEED! For my stdents to be successful at writing paragraphs by the end of the year, they first need learn how to write a complete sentence. Once they master writing simple sentences, then they can learn how to expand a sentence, how to combine two sentences, and how to proofread their sentences. 
+Do your students need some extra help writing sentences? Let's spend some time brushing up on the writing strategies your students NEED! For my students to be successful at writing paragraphs by the end of the year, they first need learn how to write a complete sentence. Once they master writing simple sentences, then they can learn how to expand a sentence, how to combine two sentences, and how to proofread their sentences. 
 
 ## What does a complete sentence need?
 
 The first step in learning to write beautiful sentences is to master how to write a simple sentence. When I first teach a student to write a sentence, I like to begin with a simple 3 word sentence such as _He is tall._ The sentence is very short, but it contains all the features that our students need to learn when first writing a complete sentence:
-1. The sentence has a subject and a verb.
-2. The sentence is a complete thought.
+1. A sentence has a subject and a verb.
+2. A sentence is a complete thought.
 3. A sentence begins with a capital letter.
 4. A sentence has an ending mark.
 
