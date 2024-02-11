@@ -3,7 +3,6 @@ layout: post
 title: How to Write a Complete Sentence
 categories: [Writing]
 tags: [writing]
-flodesk: 
 image:
   feature: feature-student-writing-with-pencil.jpg
   teaser: how-to-write-a-complete-sentence-teaser.jpg
@@ -39,3 +38,7 @@ After completing our whole group lessons, I like to add a building complete sent
 [![SentenceActivities]({{ site.github.url }}/assets/img/product-cover-how-to-build-a-sentence.jpg)](https://www.teacherspayteachers.com/Product/How-to-Write-a-Sentence-Building-Sentences-Writing-Activity-7680019?utm_source=PB%20Blog&utm_campaign=20240211%20How%20to%20Write%20Complete%20Sentences%20Blog%20Post)
 
 [![Button]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/How-to-Write-a-Sentence-Building-Sentences-Writing-Activity-7680019?utm_source=PB%20Blog&utm_campaign=20240211%20How%20to%20Write%20Complete%20Sentences%20Blog%20Post)
+
+## Writing Strategies to Write Complex Sentences
+
+Once your students have mastered writing simple sentences, then it is time to move on to more complex sentences by extending, combining, and proofreading their sentences. You can read all about these writing strategies in this blog post: [Writing Strategies to Build Strong Writers](https://theprimarybrain.com/writing/2021/01/09/Writing-Strategies-For-Students/)
