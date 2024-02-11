@@ -29,10 +29,10 @@ Proofreading is what makes our writing complete! Learning how to add capitalizat
 
 After editing their writing, it is time to write a final draft! To get your students more excited about writing their final draft, you can give them a special paper with a border to write their final drafts on. Then, add their polished writing to a Writing Wall Bulletin Board to show off that beautiful writing!
 
-## Writing Strategies FREEBIE
+## Free Writing Strategies Tools
 
 I want to give you a tool to use as you work on these strategies with your students! This writing intervention freebie includes 3 worksheets that are designed to target the 3 individual writing skills. By explicitly teaching the skill, your students will learn how to apply the skill to their writing. They will also work on proper handwriting as they rewrite their corrected, expanded, and combined sentences. 
 
-I hope these worksheets help your students pick up their pencils and get right back to working on writing! If you are looking for additional worksheets to use with your students, you can find these in my [Printable Writing Intervention Bundle](https://www.teacherspayteachers.com/Product/Sentence-Writing-Intervention-Activity-BUNDLE-Distance-Learning-3522570?utm_source=PB%20Blog&utm_campaign=Writing%20Strategies%20Blog%20Post%2020210107%20Printable%20Bundle%20Link) or [Digital Writing Intervention Bundle](https://www.teacherspayteachers.com/Product/DIGITAL-Sentence-Writing-Intervention-BUNDLE-for-Google-Classroom-5825750?utm_source=PB%20Blog&utm_campaign=Writing%20Strategies%20Blog%20Post%2020210107%20Digital%20Bundle%20Link). Have a great rest of your school year!
+I hope these worksheets help your students pick up their pencils and get right back to working on writing! If you are looking for additional worksheets to use with your students, you can find these in my [Printable Writing Intervention Bundle](https://www.teacherspayteachers.com/Product/Sentence-Writing-Intervention-Activity-BUNDLE-Distance-Learning-3522570?utm_source=PB%20Blog&utm_campaign=Writing%20Strategies%20Blog%20Post%2020210107%20Printable%20Bundle%20Link). Have a great rest of your school year!
 
 ![WritingStrategiesForm]({{ site.github.url }}/assets/img/extending-sentences-graphic-for-flodesk-form.jpg)
