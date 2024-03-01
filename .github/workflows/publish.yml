@@ -1,0 +1,17 @@
+name: Publish
+
+on:
+  schedule:
+    - cron: '50 22 * * *'
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger GH Pages Build
+        run: |
+          gh api https://api.github.com/repos/$OWNER/$REPO/pages/builds --method POST
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
