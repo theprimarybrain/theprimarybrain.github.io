@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Zoo Themed Toddler School Lessons
+title:  Zoo Themed Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
 image:
-  feature: Toddler-School-Zoo-Theme-2.jpg
+  feature: zoo-feature-image.jpg
   teaser: toddler-zoo-alphabet-zoo-sensory-bin-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""

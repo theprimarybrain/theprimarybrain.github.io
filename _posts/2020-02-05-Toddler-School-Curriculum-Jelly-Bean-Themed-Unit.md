@@ -5,7 +5,7 @@ categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
 image:
-  feature: toddler-school-jelly-bean-feature.jpg
+  feature: jelly-bean-feature-image.jpg
   teaser: toddler-school-jelly-bean-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
