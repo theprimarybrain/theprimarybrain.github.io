@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Mar. 8, 2024
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Mar. 10, 2024
 
 Let's dive right in to Earth Day activities for toddlers! Earth Day is an excellent opportunity to teach our little ones how we can take care of our planet. It's a great way to learn about recycling, caring for the world, planting trees, and more! Here are a few of my favorite ways to celebrate Earth Day with my little ones!
 
