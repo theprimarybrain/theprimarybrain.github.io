@@ -69,7 +69,7 @@ Learning how to hold scissors can be tricky for little ones, so don't be afraid 
 
 ## Earth Day Science Polution Activity
 
-[![EarthDaySensoryBin]({{ site.github.url }}/assets/img/toddler-earth-day-scissor-skills.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
+[![EarthDaySensoryBin]({{ site.github.url }}/assets/img/toddler-earth-day-science.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
 
 I never imagined I would be teaching my 2 to 3 year toddlers about pollution, but this activity made it make sense! Our family loves going to the beach, so in this activity we talked about how pollution can hurt the fish in the ocean. I cut out two paper fish and set them on the table. Then, I filled up two zip-top bags with water. One bag had clean water. The second bag is filled with polluted water. To create polluted water, I added a couple drops of brown food coloring and some sprinkles. 
 
