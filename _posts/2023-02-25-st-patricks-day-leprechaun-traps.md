@@ -2,6 +2,7 @@
 layout: post
 title: How To Catch A Leprechaun STEM Project
 categories: [Literacy Activities]
+flodesk: 63fb751d864dc2481435412a
 tags: [science, stem]
 image:
   feature: leprechaun-trap-stem-project-feature.jpg
@@ -57,7 +58,7 @@ Once your students finish their leprechaun traps, you will want to store them un
 
 If you have ever read the book [How To Catch a Leprechaun](https://amzn.to/3m2O5VP), then you probably already know just how sneaky these pesky little leprechauns can be! Despite setting the best traps they could, my students have never actually caught a leprechaun. BUT, to add some fun to our morning, I always make it look like the leprechaun outsmarted them all. I love to set off all the traps, leave green "footprints" on the desks, take the gold coins, spill items on the floor, turn chairs upside down, and anything else that can make it look like a leprechaun came through the room.
 
-## Final Reflections 
+## Writing Activities for St. Patrick's Day
 
 ![Reflections]({{ site.github.url }}/assets/img/leprechaun-reflection-pages.jpg)
 
@@ -67,16 +68,6 @@ Then, it's the perfect time to break out the writing pages from our [Leprechaun 
 
 If you want to grab all the fun in this unit, then grab my [Leprechaun Trap STEM Project Unit](https://www.teacherspayteachers.com/Product/How-to-Catch-a-Leprechaun-Trap-STEM-Project-Pulley-Simple-Machine-Activity-3043860?utm_source=PB%20Blog&utm_campaign=Leprechaun%20Trap%20STEM%20Project) and make planning easy this year! If you make traps with your class, I would love to see them and your messy classrooms! Just tag me on Instagram @theprimarybrain and let me see all the fun you have on St. Patrick's Day! 
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "A Few Things You May Need:";
-amzn_assoc_linkid = "41251a6173fa0cfb27a77ea6b7d1ce9c";
-amzn_assoc_asins = "1492632910,B09CWBFXTG,B018REM7II,B096KVNH9G";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+[![Leprechaun Trap Cover Image]({{ site.github.url }}/assets/img/product-cover-leprechaun-trap-unit.jpg)](https://www.teacherspayteachers.com/Product/How-to-Catch-a-Leprechaun-Trap-STEM-Project-Pulley-Simple-Machine-Activity-3043860?utm_source=PB%20Blog&utm_campaign=Leprechaun%20Trap%20STEM%20Project)
+
+[![Button]({{ site.github.url }}/assets/img/0button-truegreen-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/How-to-Catch-a-Leprechaun-Trap-STEM-Project-Pulley-Simple-Machine-Activity-3043860?utm_source=PB%20Blog&utm_campaign=Leprechaun%20Trap%20STEM%20Project)
