@@ -30,23 +30,20 @@ Let's start planning! The first step in planning activities for toddlers is to c
 
 Inside the guide you will find a toddler lesson plan template that you can use to plan daily activities for toddlers! We cover 6 skill areas to plan for and why they are important for your toddler. Then, I share a variety of toddler activities for each skill area that you can do with materials you most likely have on hand already! 
 
-## 6 Skill Areas for Toddler Learning
+## What should I teach my toddlers? 
 
 ![ToddlerSchoolGuideFineMotor]({{ site.github.url }}/assets/img/toddler-activities-guide-fine-motor.jpg)
 
-### Sensory Bins: A hands-on way to play while learning new skills.
+This guide is created to give you 6 skill areas to focus on as you create activities for your little ones:
 
-### Fine Motor Skills: Build strong hands to prepare toddlers for writing.
+- Sensory Bins: A hands-on way to play while learning new skills.
+- Fine Motor Skills: Build strong hands to prepare toddlers for writing.
+- Literacy and Vocabulary: Help your toddlers learn language and letters.
+- Math Activities: Work on numbers, counting, and more!
+- Gross Motor Skills: Get little bodies moving!
+- Arts and Crafts: Fun activities that let little hands create!
 
-### Literacy and Vocabulary: Help your toddlers learn language and letters.
-
-### Math Activities: Work on numbers, counting, and more!
-
-### Gross Motor Skills: Get little bodies moving!
-
-### Arts and Crafts: Fun activities that let little hands create!
-
-These skill pages are created to help give you everything you need to plan toddler activities for your little ones! Just use each activity page in the guide for ideas and you will be on your way to a fun week of learning with your little ones! If you want to grab all of the ideas, just sign up for the guide here and I will send it right over:
+Just use each activity page in the guide for ideas for each toddler learning skill area and you will be on your way to a fun week of learning with your little ones! If you want to grab all of the ideas, just sign up for the guide here and I will send it right over:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
 <script>
