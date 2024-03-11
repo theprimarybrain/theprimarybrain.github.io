@@ -32,23 +32,19 @@ Inside the guide you will find a toddler lesson plan template that you can use t
 
 ## 6 Skill Areas for Toddler Learning
 
-### Sensory Bins: A hands-on way to play while learning new skills.
-![ToddlerSchoolGuideSensoryBins]({{ site.github.url }}/assets/img/toddler-activities-guide-sensory-bins.jpg)
-
-### Fine Motor Skills: Build strong hands to prepare toddlers for writing.
 ![ToddlerSchoolGuideFineMotor]({{ site.github.url }}/assets/img/toddler-activities-guide-fine-motor.jpg)
 
+### Sensory Bins: A hands-on way to play while learning new skills.
+
+### Fine Motor Skills: Build strong hands to prepare toddlers for writing.
+
 ### Literacy and Vocabulary: Help your toddlers learn language and letters.
-![ToddlerSchoolGuideLiteracy]({{ site.github.url }}/assets/img/toddler-activities-guide-literacy.jpg)
 
 ### Math Activities: Work on numbers, counting, and more!
-![ToddlerSchoolGuideMath]({{ site.github.url }}/assets/img/toddler-activity-guide-math-skills.jpg)
 
 ### Gross Motor Skills: Get little bodies moving!
-![ToddlerSchoolGuideGrossMotor]({{ site.github.url }}/assets/img/toddler-activity-guide-gross-motor.jpg)
 
 ### Arts and Crafts: Fun activities that let little hands create!
-![ToddlerSchoolGuideArt]({{ site.github.url }}/assets/img/toddler-activity-guide-arts-crafts.jpg)
 
 These skill pages are created to help give you everything you need to plan toddler activities for your little ones! Just use each activity page in the guide for ideas and you will be on your way to a fun week of learning with your little ones! If you want to grab all of the ideas, just sign up for the guide here and I will send it right over:
 
