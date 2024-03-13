@@ -5,7 +5,7 @@ categories: [Toddler School]
 flodesk: 65f1da75f97cdc8ec73dee06
 tags: [toddler curriculum map]
 image:
-  feature: 40-themes-for-toddler-lessons-teaser.jpg 
+  feature: 
   teaser: 40-themes-for-toddler-lessons-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
