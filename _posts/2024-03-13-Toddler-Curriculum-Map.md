@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Are you looking for activities to do with your toddlers? I know how challenging it can be to plan activities for toddlers and I want to come alongside you to make this as easy as possible for you! I remember when I started my own homeschool preschool journey 6 years ago. I spent so many hours just pouring over resources to try to piece our toddler learning activities, so I want to help you save time by sharing what has worked so well for us!
+Are you looking for activities to do with your toddlers? I know how challenging it can be to plan activities for toddlers and I want to come alongside you to make this as easy as possible for you! I remember when I started my own homeschool preschool journey 6 years ago. I spent so many hours just pouring over resources to try to plan our toddler learning activities, so I want to help you save time by sharing what has worked so well for us!
 
 I want to take the guesswork out of creating toddler lesson plans so I put together our Homeschool Preschool Curriculum Map to do just that! It maps out all 40 of our favorite toddler themes that include a theme for each letter from A to Z, holidays, and seasons. Just sign up here and I will email it right over to you:
 
