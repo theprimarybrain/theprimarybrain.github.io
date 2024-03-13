@@ -1,18 +1,26 @@
 ---
 layout: post
-title: Spring Chick STEM Challenges
+title: Spring STEM Activities for Kids
 author: Laurin Brainard
 categories: [STEM Activities]
 tags: [stem]
 image:
-  feature: spring-chicks-stem-feature.jpg
+  feature: 
   teaser: spring-chicks-stem-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Mar. 13, 2024
+
 Easter was yesterday and if your family is anything like ours, then you may find yourself with quite the problem on your hands today… More candy chicks than you know what to do with! 
 
-Every year I see the debates on social media about whether or not people like the taste of candy chicks. Whether you are team delicious or team no thank you (that’s me!), I have two perfect activities from my [Spring STEM Challenges](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges) to help you use up these bright colored treats in a really fun way!
+Every year I see the debates on social media about whether or not people like the taste of candy chicks. Whether you are team delicious or team no thank you (that’s me!), I have two perfect activities from my [Spring STEM Challenges](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges) to help you use up these bright colored treats in a really fun way! 
+
+_Interested in downloading [these Spring STEM Challenges](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges) that you can print and use right away?_ Click on the image or button below to check them out in my TpT shop! 
+
+[![Spring STEM Cover Image]({{ site.github.url }}/assets/img/product-cover-spring-chick-stem-cover.jpg)](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges)
+
+[![Button]({{ site.github.url }}/assets/img/0button-truegreen-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges)
 
 ## 1. Build a Spring Chick Raft
 

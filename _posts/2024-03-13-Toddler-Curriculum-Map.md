@@ -10,6 +10,8 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Mar. 13, 2024
+
 Are you looking for activities to do with your toddlers? I know how challenging it can be to plan activities for toddlers and I want to come alongside you to make this as easy as possible for you! I remember when I started planning toddler activities 6 years ago. I spent so many hours just pouring over resources to try to plan our toddler lessons, so I want to help you save time by sharing what has worked so well for us!
 
 I want to take the guesswork out of creating toddler lesson plans so I put together our Toddler Curriculum Map to do just that! It maps out all 40 of our favorite toddler themes that include a theme for each letter from A to Z, holidays, and seasons. Just sign up here and I will email it right over to you:
