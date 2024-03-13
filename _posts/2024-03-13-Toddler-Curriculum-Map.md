@@ -5,7 +5,7 @@ categories: [Toddler School]
 flodesk: 65f1da75f97cdc8ec73dee06
 tags: [toddler curriculum map]
 image:
-  feature: 
+  feature: toddler-curriculum-map-feature.jpg
   teaser: toddler-curriculum-map-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
