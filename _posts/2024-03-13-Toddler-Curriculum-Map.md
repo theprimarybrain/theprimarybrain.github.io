@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Toddler Curriculum Map for Homeschool Preschool
+title:  Toddler Curriculum Map for Preschool
 categories: [Toddler School]
 flodesk: 65f1da75f97cdc8ec73dee06
 tags: [toddler curriculum map]
@@ -10,9 +10,9 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Are you looking for activities to do with your toddlers? I know how challenging it can be to plan activities for toddlers and I want to come alongside you to make this as easy as possible for you! I remember when I started my own homeschool preschool journey 6 years ago. I spent so many hours just pouring over resources to try to plan our toddler learning activities, so I want to help you save time by sharing what has worked so well for us!
+Are you looking for activities to do with your toddlers? I know how challenging it can be to plan activities for toddlers and I want to come alongside you to make this as easy as possible for you! I remember when I started planning toddler activities 6 years ago. I spent so many hours just pouring over resources to try to plan our toddler lessons, so I want to help you save time by sharing what has worked so well for us!
 
-I want to take the guesswork out of creating toddler lesson plans so I put together our Homeschool Preschool Curriculum Map to do just that! It maps out all 40 of our favorite toddler themes that include a theme for each letter from A to Z, holidays, and seasons. Just sign up here and I will email it right over to you:
+I want to take the guesswork out of creating toddler lesson plans so I put together our Toddler Curriculum Map to do just that! It maps out all 40 of our favorite toddler themes that include a theme for each letter from A to Z, holidays, and seasons. Just sign up here and I will email it right over to you:
 
 <div id="fd-form-65f1da75f97cdc8ec73dee06"></div>
 <script>
@@ -30,7 +30,7 @@ A curriculum map is used to show what skills and topics are taught in a curricul
 
 ![6 Toddler Skills]({{ site.github.url }}/assets/img/toddler-curriculum-map-6-skills.jpg)
 
-Now that you have your curriculum map, let's go over how you can use it! I created this curriculum map to give you the tools you need to teach your little ones at home! At the top of each page, you will see the following headers:
+Now that you have your curriculum map, let's go over how you can use it! I created this curriculum map to give you the tools you need to teach your little ones! At the top of each page, you will see the following headers:
 - Weekly Theme
 - Literacy Skills
 - Math Skills
@@ -63,7 +63,7 @@ Here are some helpful blog posts that explain more about the skill areas covered
 
 ## Make Planning Even Easier with our Toddler Learning Curriculum
 
-If you would like to download a full year of lesson plans and printables to go with all of the themes on the curriculum map, then you can take a look at our Complete Toddler Learning Curriculum! All the planning is done for you so that you can just dive right in to homeschool preschool! 
+If you would like to download a full year of lesson plans and printables to go with all of the themes on the curriculum map, then you can take a look at our Complete Toddler Learning Curriculum! All the planning is done for you so that you can just dive right in to toddler learning activities! 
 
 [![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-Learning-Curriculum-Preschool-Activities-Lesson-Plans-9277137?utm_source=PB%20Blog&utm_campaign=Curriculum%20Map%20Blog%2020240313%20to%20Complete%20Toddler%20Bundle)
 
@@ -71,4 +71,4 @@ If you would like to download a full year of lesson plans and printables to go w
 
 [![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-Learning-Curriculum-Preschool-Activities-Lesson-Plans-9277137?utm_source=PB%20Blog&utm_campaign=Curriculum%20Map%20Blog%2020240313%20to%20Complete%20Toddler%20Bundle)
 
-I hope these resources help you to feel confident in teaching your children during your homeschool preschool learning times! Feel free to reach out to me on Instagram [@theprimarybrain](https://www.instagram.com/theprimarybrain/) with any questions as you begin a magical time of making memories with your little ones!
+I hope these resources help you to feel confident in teaching your children during your toddler learning times! Feel free to reach out to me on Instagram [@theprimarybrain](https://www.instagram.com/theprimarybrain/) with any questions as you begin a magical time of making memories with your little ones!
