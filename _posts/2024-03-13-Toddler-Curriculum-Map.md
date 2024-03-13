@@ -28,6 +28,8 @@ A curriculum map is used to show what skills and topics are taught in a curricul
 
 ## How to Use Your Toddler Curriculum Map
 
+![6 Toddler Skills]({{ site.github.url }}/assets/img/toddler-curriculum-map-6-skills.jpg)
+
 Now that you have your curriculum map, let's go over how you can use it! I created this curriculum map to give you the tools you need to teach your little ones at home! At the top of each page, you will see the following headers:
 - Weekly Theme
 - Literacy Skills
@@ -36,6 +38,12 @@ Now that you have your curriculum map, let's go over how you can use it! I creat
 - Sensory Play
 - Arts and Crafts
 - Gross Motor
+
+![6 Toddler Skills]({{ site.github.url }}/assets/img/toddler-curriculum-map-skill-areas-on-plans.jpg)
+
+Under each header, you will see the skills we learn each week. It is so fun to watch our toddlers learn new skills through play based activities. I hope you enjoy watching your littles learn new skills as they play!
+
+## A Homeschool Preschool Calendar
 
 I have included our favorite 40 themes in the order I choose to teach them to my own children. There is no right or wrong order, but I hope this gives you a starting point. You can view the **school year calendar** in the download to see how each theme falls over the course of a school year. Some years there may be some adjusting needed depending on when holidays fall, but this will give you a great starting point! 
 
