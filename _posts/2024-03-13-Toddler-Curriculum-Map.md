@@ -43,7 +43,7 @@ Now that you have your curriculum map, let's go over how you can use it! I creat
 
 Under each header, you will see the skills we learn each week. It is so fun to watch our toddlers learn new skills through play based activities. I hope you enjoy watching your littles learn new skills as they play!
 
-## A Homeschool Preschool Calendar
+## Our School Year Homeschool Preschool Calendar
 
 I have included our favorite 40 themes in the order I choose to teach them to my own children. There is no right or wrong order, but I hope this gives you a starting point. You can view the **school year calendar** in the download to see how each theme falls over the course of a school year. Some years there may be some adjusting needed depending on when holidays fall, but this will give you a great starting point! 
 
