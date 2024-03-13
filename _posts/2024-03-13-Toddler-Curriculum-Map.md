@@ -5,7 +5,7 @@ categories: [Toddler School]
 flodesk: 65f1da75f97cdc8ec73dee06
 tags: [toddler curriculum map]
 image:
-  feature: toddler-curriculum-map-feature.jpg
+  feature: 
   teaser: toddler-curriculum-map-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
@@ -46,6 +46,8 @@ Under each header, you will see the skills we learn each week. It is so fun to w
 ## Our School Year Homeschool Preschool Calendar
 
 I have included our favorite 40 themes in the order I choose to teach them to my own children. There is no right or wrong order, but I hope this gives you a starting point. You can view the **school year calendar** in the download to see how each theme falls over the course of a school year. Some years there may be some adjusting needed depending on when holidays fall, but this will give you a great starting point! 
+
+Interested in a closer look at each theme? Check out this blog post: [40 Themes for Toddler Lessons and Activities]()
 
 ## How to Plan a Toddler Lesson
 
