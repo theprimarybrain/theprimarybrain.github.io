@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 21, 2023
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Mar. 13, 2024
 
 Helping your child grow in his or her relationship with Jesus is one of the most important jobs that we are called to do as Christian parents. If we want our children to grow closer to God, then we need to give them the tools to do so. Here are 5 of my favorite ways to help your kids have a close relationship with God:
 
@@ -20,13 +20,11 @@ If you want to grow closer to Jesus, then opening your Bible and reading God's t
 We love to read a few different children's Bibles in our homes since our children are a variety of ages. Here are our favorites:
 
 For Baby: [First 100 Bible Words Board Book](https://amzn.to/3tK1UMU)
-<a href="https://www.amazon.com/First-100-Bible-Words-Padded/dp/1684490685?crid=19G4I9EK20ZCX&keywords=first+100+bible+words&qid=1697908844&sprefix=first+100+bible+words%2Caps%2C170&sr=8-1&linkCode=li3&tag=theprimarybra-20&linkId=2ce5dce4d40e482b4316f42866af0afe&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1684490685&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theprimarybra-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&language=en_US&l=li3&o=1&a=1684490685" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 For Young Kids: [The Beginner's Bible](https://amzn.to/3Qs0e3x)
-<a href="https://www.amazon.com/Beginners-Bible-Timeless-Childrens-Stories/dp/031075013X?crid=KOOELNQA69E7&keywords=beginners+bible&qid=1697908785&sprefix=beginners+bible%2Caps%2C160&sr=8-1&linkCode=li3&tag=theprimarybra-20&linkId=109b18acc7946fd1578657759380ef4e&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=031075013X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theprimarybra-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&language=en_US&l=li3&o=1&a=031075013X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 For Older Kids: [Super Heroes Story Bible](https://amzn.to/404gqLo)
-<a href="https://www.amazon.com/NIrV-Super-Heroes-Bible-Hardcover/dp/0310744377?crid=1APLXMA9KS7E2&keywords=super+heroes+story+bible&qid=1697908875&sprefix=super+heroes+story+bible%2Caps%2C163&sr=8-5&linkCode=li3&tag=theprimarybra-20&linkId=19166855e47a6c1917f329aaa567b4f7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0310744377&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theprimarybra-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&language=en_US&l=li3&o=1&a=0310744377" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 ## 2. Memorize Bible Verses
 "I have hidden your word in my heart that I might not sin against you." Psalm 119:11 
@@ -48,4 +46,14 @@ Growing up, we used to read a family devotional most nights after dinner. This i
 ## 5. Sunday School
 Giving our children the opportunity to go to Sunday School is so important for cultivating a relationship with Jesus. Our children are able to hear a Bible story, study God's word, worship, and fellowship with friends. It sets the tone for a great week by spending time with Jesus before the week even begins!
 
-I hope that you feel equipped to help your little ones continue to grow in their relationship with Jesus. If you are looking for even more resources to help teach your little ones about the Bible, you can check out my [Old Testament Bible Lessons](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=OT%20Bible%20Bundle) for Bible stories, activities, and games to play with your children. Have a wonderful day!
+I hope that you feel equipped to help your little ones continue to grow in their relationship with Jesus. If you are looking for even more resources to help teach your little ones about the Bible, you can check out my [Old Testament Bible Lessons](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=OT%20Bible%20Bundle) for Bible stories, activities, and games to play with your children. You can take a closer look here:
+
+[![Bible Cover Image]({{ site.github.url }}/assets/img/product-cover-bible-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1311582628/old-testament-bible-lessons-sunday)
+
+[![Button]({{ site.github.url }}/assets/img/0button_green_take_a_closer_look.jpg)](https://theprimarybrain.etsy.com/listing/1311582628/old-testament-bible-lessons-sunday)
+
+### Here are some other blog posts that may help you:
+
+[I am a Child of God Certificate](https://theprimarybrain.com/religious/2019/12/30/Child-of-God-Certificate/)
+
+[How to Teach Bible Verses to Kids](https://theprimarybrain.com/religious/2020/01/31/How-To-Teach-Bible-Verses-To-Kids/)
