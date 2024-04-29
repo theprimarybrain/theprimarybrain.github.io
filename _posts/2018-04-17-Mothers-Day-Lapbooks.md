@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mother's Day Lapbooks
+title: Mother's Day Craft for Kids
 categories: [Mother's Day]
 tags: [writing, literacy]
 image:
@@ -9,10 +9,12 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-As a teacher, I always feel like I have a huge responsibility to make sure my first graders create a special and memorable Mother's Day gift to give to their sweet Mommas. My students are always so excited this time of year to channel their creativity into the perfect gift. [Mother's Day Lapbooks](http://bit.ly/mothersdaylapbook) are the perfect gift because my littles are able to showcase their writing and artistic skills while writing really sweet and thoughtful notes in this lap sized card. 
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated April 29, 2024
 
+As a teacher, I always feel like I have a huge responsibility to make sure my students create a special and memorable Mother's Day gift to give to their Mama or other special woman in their life. I love to use this Mother's Day Lapbook craft to give my students four different writing activities throughout the week as we put this Mother's Day booklet together. [Mother's Day Lapbooks](http://bit.ly/mothersdaylapbook) are the perfect gift because my littles are able to showcase their writing and artistic skills while writing really sweet and thoughtful notes! 
+
+## Mother's Day Writing Activities
 ![Inside]({{ site.github.url }}/assets/img/mothers-day-lapbook-inside.jpg)
-![Lapbook Reasons]({{ site.github.url }}/assets/img/mothers-day-lapbook-reasons.jpg)
 
 I love all the opportunities for writing that my students are exposed to through this lapbook. They write about their Mom's favorite things, things she is really good at, and things she likes to do through an "All About My Mother" flip book. They write 5 reasons why they love their mother under each flap on the flap book. I seriously love reading the reasons they come up! Most of them are so heartfelt, but there are always a few really silly ones! They also get to write about the ways their mom helps them through a fun hearts book. 
 
