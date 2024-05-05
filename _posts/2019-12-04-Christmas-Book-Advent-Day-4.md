@@ -2,7 +2,6 @@
 layout: post
 title: Christmas Book Advent Day 4
 author: Laurin Brainard
-flodesk: 5de1a2f59cb352002633b7af
 categories: [Christmas]
 tags: [christmas]
 image:

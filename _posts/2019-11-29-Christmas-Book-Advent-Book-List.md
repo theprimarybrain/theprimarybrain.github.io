@@ -2,7 +2,6 @@
 layout: post
 title: Christmas Book Advent Book List
 author: Laurin Brainard
-flodesk: 5de1a2f59cb352002633b7af
 categories: [Christmas]
 tags: [christmas]
 image:
@@ -93,6 +92,4 @@ Click the title of the book to order on Amazon using my affiliate link.
 ###### 25. [Five Busy Elves](https://amzn.to/2RDGIDh)
 <a target="_blank"  href="https://www.amazon.com/gp/product/1589255615/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1589255615&linkCode=as2&tag=theprimarybra-20&linkId=0910e11c817728f67d1f95409ade9151"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1589255615&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=theprimarybra-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=1589255615" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-My hope with our Christmas Book Advent is that this will become a tradition that can be passed on by my children to their children. There is nothing more special than reading books to my kids that my mom read to me growing up.  I know, I know... Slow down Laurin, but one can dream right?!?! 
-
-Make sure to check back each day for our book pick of the day and a fun activity, conversation, or game to go with it! You can fill out this form to join my email list and receive an email from me each day letting you know about the book of the day! I hope you enjoy new memories with your little ones this year!
+My hope with our Christmas Book Advent is that this will become a tradition that can be passed on by my children to their children. There is nothing more special than reading books to my kids that my mom read to me growing up.  I know, I know... Slow down Laurin, but one can dream right?!?! If you decide to do a Christmas book advent with your own children, I would love to hear how it goes!!
