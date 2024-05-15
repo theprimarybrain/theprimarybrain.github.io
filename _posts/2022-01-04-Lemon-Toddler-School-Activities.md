@@ -33,7 +33,7 @@ This unit is made up of 5 lessons that incorporate the following activities:
 
 Interested in downloading [these lemon activities](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
+[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon2.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
 
