@@ -23,7 +23,7 @@ Each of the 5 lessons in this unit include the following activities:
 
 Interested in downloading [these cars activities](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Cars Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-cars.jpg)](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover)
+[![Cars Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-cars2.jpg)](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover)
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover)
 
