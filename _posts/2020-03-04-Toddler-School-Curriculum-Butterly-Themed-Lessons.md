@@ -24,7 +24,7 @@ Each of the 5 lessons in this butterfly unit include the following activities:
 
 Interested in downloading [these butterfly activities](https://www.teacherspayteachers.com/Product/Butterfly-Toddler-Activities-for-Spring-Preschool-Curriculum-and-Lesson-Plans-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Butterfly Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-butterfly.jpg)](https://www.teacherspayteachers.com/Product/Butterfly-Toddler-Activities-for-Spring-Preschool-Curriculum-and-Lesson-Plans-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20Unit%20Cover)
+[![Butterfly Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-butterfly2.jpg)](https://www.teacherspayteachers.com/Product/Butterfly-Toddler-Activities-for-Spring-Preschool-Curriculum-and-Lesson-Plans-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20Unit%20Cover)
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Butterfly-Toddler-Activities-for-Spring-Preschool-Curriculum-and-Lesson-Plans-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20Unit%20Cover)
 
