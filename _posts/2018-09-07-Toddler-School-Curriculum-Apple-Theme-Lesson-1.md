@@ -22,15 +22,11 @@ Each of the 5 lessons in this unit includes the following activities:
 - art activity
 - recipe/snack
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these apple activities](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Apple Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-apple.jpg)](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover)
 
 ## Kick off Apple Week with a Field Trip to the Grocery Store or Apple Farm
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
@@ -42,6 +38,16 @@ I really wanted the first day of learning to fill my little guy with an exciteme
 ## Lesson Setup
 ![Cover]({{ site.github.url }}/assets/img/toddler-apple-cover-coloring-sheet.jpg)
 After our shopping trip, we dove right into learning about apples! To begin the first lesson, we colored the cover page for our unit notebook. We read the I CAN statement and discussed what we would be learning about. To prepare the notebook, I stapled a gallon size ziplock bag and copy paper inside a folded piece of construction paper. As we finish activities, we will be gluing the completed work on the pieces of copy paper. Any reusable materials will be kept inside the ziplock bag for use again at a later date. 
+
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
 
 ## Art Activities
 ![Coloring Page]({{ site.github.url }}/assets/img/toddler-apple-a-apple-coloring-page.jpg)

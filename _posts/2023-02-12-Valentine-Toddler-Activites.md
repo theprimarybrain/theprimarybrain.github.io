@@ -24,7 +24,7 @@ This [Valentine's Day Toddler Unit](https://www.teacherspayteachers.com/Product/
 
 Interested in downloading [these Valentine's Day activities](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) that you can print and use right away?  Click on the image or button below to check them out in my TpT shop! 
 
-[![ValentineCover]({{ site.github.url }}/assets/img/toddler-cover-valentine.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+[![Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-valentine.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
 
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
 
