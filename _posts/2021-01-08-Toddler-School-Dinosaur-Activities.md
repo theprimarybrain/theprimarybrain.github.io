@@ -33,7 +33,7 @@ This unit is made up of 5 lessons that will work on each include the following a
 
 Interested in downloading [these dinosaur activities](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Dinosaur Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
+[![Dinosaur Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
 
