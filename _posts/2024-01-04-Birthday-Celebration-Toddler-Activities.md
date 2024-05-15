@@ -86,12 +86,13 @@ If you are looking for an entire year of fun for you and your little ones, then 
 
 I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
 
-### Here are some of our other blog posts you may enjoy, too!
+### Looking for more activities you can do with your little ones? Check out these blog posts:
 
-[5 Valentine Activies for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/12/Valentine-Toddler-Activites/)
+[FREE Toddler Curriculum Map - 40 Weeks of Plans](https://theprimarybrain.com/toddler%20school/2024/03/13/Toddler-Curriculum-Map/)
 
-[5 Patriotic Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/11/08/Patriotic-Toddler-Activities/)
+[How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin/)
 
-[St. Patrick's Day Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/23/St-Patricks-Day-Toddler-Activities/)
+[Apple Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2018/09/07/Toddler-School-Curriculum-Apple-Theme-Lesson-1/)
+
 
 ### If you are looking for practical ways to set up a daily routine for your little ones, then grab my FREE toddler school guide here:

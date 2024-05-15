@@ -39,16 +39,6 @@ I really wanted the first day of learning to fill my little guy with an exciteme
 ![Cover]({{ site.github.url }}/assets/img/toddler-apple-cover-coloring-sheet.jpg)
 After our shopping trip, we dove right into learning about apples! To begin the first lesson, we colored the cover page for our unit notebook. We read the I CAN statement and discussed what we would be learning about. To prepare the notebook, I stapled a gallon size ziplock bag and copy paper inside a folded piece of construction paper. As we finish activities, we will be gluing the completed work on the pieces of copy paper. Any reusable materials will be kept inside the ziplock bag for use again at a later date. 
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
-
 ## Art Activities
 ![Coloring Page]({{ site.github.url }}/assets/img/toddler-apple-a-apple-coloring-page.jpg)
 This unit is FILLED with art activities! Each day we work on the letter A and a. We colored a picture to reinforce this learning and associate a picture with the letter of the week. 
@@ -102,4 +92,4 @@ If you are looking for even more Toddler School fun for you and your little ones
 
 [![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
 
-I hope you have a wonderful day playing and learning with your little ones! Feel free to send me a message on Instagram @theprimarybrain with any questions about how to teach your little ones! 
+### If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
