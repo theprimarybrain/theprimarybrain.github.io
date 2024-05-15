@@ -2,7 +2,7 @@
 layout: post
 title:  Elephant Themed Toddler School Activities
 categories: [Toddler School]
-flodesk: 65374920be19019fdd96d794
+flodesk: 65f1da75f97cdc8ec73dee06
 tags: [toddler, animal activities, toddler school]
 image:
   feature: Toddler-Elephant-Featured-Collage.jpg
@@ -11,6 +11,16 @@ image:
   creditlink: ""
 ---
 Do your kiddos love taking a trip to the zoo?! We sure do! My kids cannot wait to go to the zoo to see the elephants! I created this [elephant themed toddler unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) to bring a little piece of the zoo to you and your littles at home!! 
+
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler learning:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
 
 ## Lesson Components
 
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will work on each include the following a
 - gross motor activity
 - art activity
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these elephant activities](https://www.teacherspayteachers.com/Product/Elephant-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-Tot-School-4588214?utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Elephant Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-elephant.jpg)](https://www.teacherspayteachers.com/Product/Elephant-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-Tot-School-4588214?utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Elephant-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-Tot-School-4588214?utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Unit%20Cover)
 
 ## Elephant Toddler Art Activities 
 
@@ -62,13 +68,13 @@ One of my favorite ways to teach children how to cut with scissors is to cut on 
 
 _Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
-## Math Activities 
+## Toddler Math Activities 
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Counting-Cards.jpg)
 
 In this math activity, we worked on counting and number identification through these printable counting cards! Conner chose his favorite mini erasers, but any counter you have on hand will work. As he added an eraser to eat elephant, we counted together. Then, Conner would point to the number and we would say the name of the number together.
 
-## Sensory Activities 
+## Elephant Themed Sensory Activities 
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Feed-Sensory-Bin.jpg)
 
@@ -78,7 +84,7 @@ I love sensory exploration just as much as Conner does! To prepare this activity
 
 As you know by now, I am all about offering as many opportunities to practice letters as I can. Sensory bins are another fun way for little ones to practice letters. Plus, they can be so much fun that your child won't even realize they are learning! To set up this sensory bin, just fill a bin with some rice, then add the big E and little e elephant cards into the rice! 
 
-## Gross Motor Activity
+## Elephant Themed Gross Motor Activity for Toddlers
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Gross-Motor-Bear-Walk.jpg)
 
@@ -86,4 +92,6 @@ I love to take our gross motor activities outside! Our favorite activity was thi
 
 [![ElephantToddlerCover]({{ site.github.url }}/assets/img/Toddler-Elephant-Cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Elephant-Homeschool-Preschool-Letter-E-4588214?st=f3d837846cb915a6631d4d9e92fdf355&utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Photo%20Cover)
 
-This unit includes everything you need to make teaching your toddlers about elephants EASY! I hope you enjoy playing and learning with your little ones! this week. If you want to make learning EASY this week, just grab my [Elephant Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) for all the fun!
+This unit includes everything you need to make teaching your toddlers about elephants EASY! I hope you enjoy playing and learning with your little ones! this week. If you want to make learning EASY this week, just grab my [Elephant Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) for all the fun!
+
+### Check out how these activities fit into our year long toddler learning plan in our FREE Toddler Curriculum Map:
