@@ -12,15 +12,6 @@ image:
 ---
 Finding simple activities to teach the letter M is so much fun! This [Monkey Themed Toddler Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Monkey-Themed-Lessons-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20School%20Unit) will bring a little bit of adventure and fun to your learning! We had so much fun learning about monkeys, making monkey sounds, and using our hands to create through monkey themed activities. 
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activity 
-- fine motor activity 
-- gross motor activity 
-- art activity 
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activity 
+- fine motor activity 
+- gross motor activity 
+- art activity 
+
+Interested in downloading [these monkey activities](https://www.teacherspayteachers.com/Product/Monkey-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-2-to-3-Year-Olds-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Monkey Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-monkey.jpg)](https://www.teacherspayteachers.com/Product/Monkey-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-2-to-3-Year-Olds-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Monkey-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-2-to-3-Year-Olds-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

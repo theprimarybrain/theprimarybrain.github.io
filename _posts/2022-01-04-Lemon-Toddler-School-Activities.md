@@ -12,15 +12,6 @@ image:
 ---
 When life gives you lemons… Enjoy lemon themed learning activities with your toddlers! I created this [Lemon Themed Toddler Activities Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Lemon-Preschool-Curriculum-Letter-L-4616157?st=af76699ab021192774b95a849e291d33&utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20School%20Unit) to make learning with your toddler easy peasy, lemon squeezy, and tons of fun for you and your little ones! 
 
-## Lesson Components 
-This unit is made up of 5 lessons that incorporate the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activities 
-- fine motor activities
-- gross motor activities 
-- art activities
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that incorporate the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activities 
+- fine motor activities
+- gross motor activities 
+- art activities
+
+Interested in downloading [these lemon activities](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
 
 ## Vocabulary Development
 

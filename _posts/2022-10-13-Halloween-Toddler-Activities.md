@@ -12,14 +12,6 @@ image:
 ---
 If you have a messy little monster in your house, this may be the Toddler School Curriculum pack for you! During October, kids, especially toddlers, seem to sense the excitement. Candy, costumes, and chaos are a big part of the month, and trying to find engaging and educational activities that will keep your child excited and away from the bowl of candy can be tough. But don’t worry, these fun Halloween activities for toddlers are a perfect choice! You can grab all of these printables in our [Halloween Toddler School Pack](https://www.teacherspayteachers.com/Product/-50-off-48-Hrs-Halloween-Toddler-Lesson-Plans-Fall-Preschool-Activities-8619780?utm_source=PB%20Blog&utm_campaign=Halloween%20Toddler%20School%20Unit).
 
-## Lesson Components 
-This unit is made up of 12  Halloween activities that will work on the following learning areas:
-- literacy/language 
-- sensory bin 
-- math activity
-- fine motor activity 
-- art activity 
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -29,6 +21,20 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 12  Halloween activities that will work on the following learning areas:
+- literacy/language 
+- sensory bin 
+- math activity
+- fine motor activity 
+- art activity 
+
+Interested in downloading [these Halloween activities](https://www.teacherspayteachers.com/Product/Halloween-Toddler-Activities-Fall-Preschool-Curriculum-and-Lesson-Plans-8619780?utm_source=PB%20Blog&utm_campaign=Halloween%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Halloween Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-halloween.jpg)](https://www.teacherspayteachers.com/Product/Halloween-Toddler-Activities-Fall-Preschool-Curriculum-and-Lesson-Plans-8619780?utm_source=PB%20Blog&utm_campaign=Halloween%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Halloween-Toddler-Activities-Fall-Preschool-Curriculum-and-Lesson-Plans-8619780?utm_source=PB%20Blog&utm_campaign=Halloween%20Toddler%20Unit%20Cover)
 
 ## Fine Motor Activities 
 

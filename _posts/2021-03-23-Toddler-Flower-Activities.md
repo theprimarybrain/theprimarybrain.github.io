@@ -12,15 +12,6 @@ image:
 ---
 Spring is in the air and that means flowers are starting to bloom! Do your little ones love to take walks around the neighborhood and try to pick every flower they see? I know mine do! I created this [flower themed toddler unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Flower-Themed-Activities-Homeschool-Classroom-4537052?st=1f6effd49a447a67c15a3ac86f29d15e) to bring a bit of spring to you and your littles. 
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activity 
-- fine motor activity 
-- gross motor activity 
-- art activity 
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activity 
+- fine motor activity 
+- gross motor activity 
+- art activity 
+
+Interested in downloading [these flower activities](https://www.teacherspayteachers.com/Product/Flower-Theme-Toddler-Activities-for-Spring-Preschool-Curriculum-Lesson-Plans-4537052?utm_source=PB%20Blog&utm_campaign=Flower%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Flower Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-flower.jpg)](https://www.teacherspayteachers.com/Product/Flower-Theme-Toddler-Activities-for-Spring-Preschool-Curriculum-Lesson-Plans-4537052?utm_source=PB%20Blog&utm_campaign=Flower%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Flower-Theme-Toddler-Activities-for-Spring-Preschool-Curriculum-Lesson-Plans-4537052?utm_source=PB%20Blog&utm_campaign=Flower%20Toddler%20Unit%20Cover)
 
 ## Toddler Art Activities 
 

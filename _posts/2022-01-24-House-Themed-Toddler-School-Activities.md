@@ -12,15 +12,6 @@ image:
 ---
 There’s no place like home! I know my favorite place to be is at home, and what better way to introduce the letter H and explore homes than with this [House Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-House-Themed-Preschool-Curriculum-Letter-H-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Text%20Link). You little one will love learning about the letter H while exploring, building, and learning all week! 
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activities 
-- fine motor activities
-- gross motor activities 
-- art activities
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activities 
+- fine motor activities
+- gross motor activities 
+- art activities
+
+Interested in downloading [these house activities](https://www.teacherspayteachers.com/Product/House-Themed-Toddler-Curriculum-Homes-Preschool-Activities-Lesson-Plans-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![House Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-house.jpg)](https://www.teacherspayteachers.com/Product/House-Themed-Toddler-Curriculum-Homes-Preschool-Activities-Lesson-Plans-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/House-Themed-Toddler-Curriculum-Homes-Preschool-Activities-Lesson-Plans-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Unit%20Cover)
 
 ## Literacy Activities 
 

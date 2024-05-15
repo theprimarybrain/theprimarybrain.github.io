@@ -12,6 +12,16 @@ image:
 ---
 Do your little ones love eating goldfish crackers? I know mine do! I created this [Goldfish Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226?) to bring a bit of under the sea fun to you and your little ones this week!
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components 
 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities 
 - art activities
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these goldfish activities](https://www.teacherspayteachers.com/Product/Goldfish-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-4722226?utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Goldfish Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-goldfish.jpg)](https://www.teacherspayteachers.com/Product/Goldfish-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-4722226?utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Goldfish-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-4722226?utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

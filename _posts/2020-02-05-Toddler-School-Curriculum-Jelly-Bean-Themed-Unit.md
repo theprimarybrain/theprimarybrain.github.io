@@ -12,14 +12,6 @@ image:
 ---
 If your toddlers are anything like mine, then you can probably relate to the excitement that comes out when Easter bunnies, jelly beans, and chocolate eggs start to line the shelves at the grocery store. Every time we would walk down the aisle my son would ask to bring some jelly beans home. So, I put together this fun [Jelly Bean Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Jelly-Bean-Themed-Lessons-4886650?utm_source=TPB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20School%20Post) that incorporates the letter J, science fun, and other jelly bean activities. The best part is, this unit can be done at any time of year since it incorporates jelly beans without any other Easter themes. Enjoy a peek into our jelly bean week through a sampling of our activities together.
 
-## Lesson Components
-Each of the 5 lessons in this unit includes the following activities:
-- literacy/language
-- math or science activity
-- fine motor activity
-- gross motor activity
-- art activity
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -29,6 +21,20 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components
+Each of the 5 lessons in this unit includes the following activities:
+- literacy/language
+- math or science activity
+- fine motor activity
+- gross motor activity
+- art activity
+
+Interested in downloading [these jelly bean activities](https://www.teacherspayteachers.com/Product/Jelly-Bean-Easter-Toddler-Activities-Preschool-Curriculum-Spring-Lesson-Plan-4886650?utm_source=PB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Jelly Bean Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-jelly-bean.jpg)](https://www.teacherspayteachers.com/Product/Jelly-Bean-Easter-Toddler-Activities-Preschool-Curriculum-Spring-Lesson-Plan-4886650?utm_source=PB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Jelly-Bean-Easter-Toddler-Activities-Preschool-Curriculum-Spring-Lesson-Plan-4886650?utm_source=PB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20Unit%20Cover)
 
 ## Lesson Setup
 ![Cover Page]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-cover.jpg)

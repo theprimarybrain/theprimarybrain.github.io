@@ -12,14 +12,6 @@ image:
 ---
 When I started making activities for toddlers, it was because I wanted to create memories with my own kids, while also helping them learn academic concepts along the way. This [Easter Toddler School Unit](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Lesson-Plans-and-Activities-9270574?utm_source=PB%20Blog%2020230412&utm_campaign=Easter%20Toddler%20Unit) is a new favorite in our house. There is just nothing better than having my kids ask for more and more activities! I hope your little ones love these activities as much as mine do!
 
-## Lesson Components 
-This [Easter Toddler Unit](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Lesson-Plans-and-Activities-9270574?utm_source=PB%20Blog%2020230412&utm_campaign=Easter%20Toddler%20Unit) is made up of over 10 activities that include:
-- literacy/language 
-- sensory bins 
-- math activities
-- fine motor activities
-- art activities
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -29,6 +21,20 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This [Easter Toddler Unit](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Lesson-Plans-and-Activities-9270574?utm_source=PB%20Blog%2020230412&utm_campaign=Easter%20Toddler%20Unit) is made up of over 10 activities that include:
+- literacy/language 
+- sensory bins 
+- math activities
+- fine motor activities
+- art activities
+
+Interested in downloading [these Easter activities](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Activities-Preschool-Lesson-Plans-and-Curriculum-9270574?utm_source=PB%20Blog&utm_campaign=Easter%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Easter Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-easter.jpg)](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Activities-Preschool-Lesson-Plans-and-Curriculum-9270574?utm_source=PB%20Blog&utm_campaign=Easter%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Activities-Preschool-Lesson-Plans-and-Curriculum-9270574?utm_source=PB%20Blog&utm_campaign=Easter%20Toddler%20Unit%20Cover)
 
 ## Art Activities for Toddlers
 

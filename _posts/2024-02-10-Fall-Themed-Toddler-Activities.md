@@ -23,11 +23,11 @@ This [Fall Toddler Unit](https://www.teacherspayteachers.com/Product/Fall-Themed
 - art activities
 - gross motor activities
 
-Interested in downloading [these Fall activities](https://www.teacherspayteachers.com/Product/Fall-Themed-Toddler-Activities-Autumn-Preschool-Curriculum-and-Lesson-Plans-6277164?utm_source=PB%20Blog&utm_campaign=Fall%20Toddler%20Unit) that you can print and use right away?  Click on the image or button below to check them out in my TpT shop:
-
-[![FallActivities]({{ site.github.url }}/assets/img/product-cover-fall-toddler-school-unit.jpg)](https://www.teacherspayteachers.com/Product/Fall-Themed-Toddler-Activities-Autumn-Preschool-Curriculum-and-Lesson-Plans-6277164?utm_source=PB%20Blog&utm_campaign=Fall%20Toddler%20Unit)
-
-[![Button]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/Fall-Themed-Toddler-Activities-Autumn-Preschool-Curriculum-and-Lesson-Plans-6277164?utm_source=PB%20Blog&utm_campaign=Fall%20Toddler%20Unit)
+Interested in downloading [these fall activities](https://www.teacherspayteachers.com/Product/Fall-Themed-Toddler-Activities-Autumn-Preschool-Curriculum-and-Lesson-Plans-6277164?utm_source=PB%20Blog&utm_campaign=Fall%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Fall Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-fall.jpg)](https://www.teacherspayteachers.com/Product/Fall-Themed-Toddler-Activities-Autumn-Preschool-Curriculum-and-Lesson-Plans-6277164?utm_source=PB%20Blog&utm_campaign=Fall%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Fall-Themed-Toddler-Activities-Autumn-Preschool-Curriculum-and-Lesson-Plans-6277164?utm_source=PB%20Blog&utm_campaign=Fall%20Toddler%20Unit%20Cover)
 
 ## Fall Sensory Bins for Toddlers
 

@@ -12,15 +12,6 @@ image:
 ---
 Nothing makes it feel more like spring is on the way than diving into kite toddler activities as we learn outside our home or classroom! There’s nothing like watching a child’s face holding onto a kite as it soars through the air. I created this [Kite Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Unit) to bring a bit of the spring, kite-flying season to you and your little ones!
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activities
-- fine motor activities
-- gross motor activities
-- art activities
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activities
+- fine motor activities
+- gross motor activities
+- art activities
+
+Interested in downloading [these kite activities](https://www.teacherspayteachers.com/Product/Kite-Theme-Toddler-Activities-2-3-Year-Old-Preschool-Curriculum-Lesson-Plans-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Kite Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-kite.jpg)](https://www.teacherspayteachers.com/Product/Kite-Theme-Toddler-Activities-2-3-Year-Old-Preschool-Curriculum-Lesson-Plans-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Kite-Theme-Toddler-Activities-2-3-Year-Old-Preschool-Curriculum-Lesson-Plans-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

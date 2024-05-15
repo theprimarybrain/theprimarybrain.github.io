@@ -12,15 +12,6 @@ image:
 ---
 Do your little ones love ice cream? I know mine do! I created this [Ice Cream Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Ice-Cream-Homeschool-Preschool-Letter-I-4635846) to satisfy that sweet tooth for learning with my toddlers! We dove into ice cream themed sensory bins, fine motor activities, arts and crafts, and lots more!
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activity 
-- fine motor activity 
-- gross motor activity 
-- art activity 
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activity 
+- fine motor activity 
+- gross motor activity 
+- art activity 
+
+Interested in downloading [these ice cream activities](https://www.teacherspayteachers.com/Product/Ice-Cream-Themed-Summer-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-4635846?utm_source=PB%20Blog&utm_campaign=Ice%20Cream%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Ice Cream Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-ice-cream.jpg)](https://www.teacherspayteachers.com/Product/Ice-Cream-Themed-Summer-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-4635846?utm_source=PB%20Blog&utm_campaign=Ice%20Cream%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Ice-Cream-Themed-Summer-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-4635846?utm_source=PB%20Blog&utm_campaign=Ice%20Cream%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 
