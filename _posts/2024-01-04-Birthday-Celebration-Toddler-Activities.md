@@ -74,7 +74,7 @@ You can even act it out by showing the emotion on our faces and through body lan
 
 I hope you are feeling inspired to have a week of learning through birthday celebration themed activities! You can download this [Birthday Celebration Toddler Unit](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog) and make it easy to plan some fun activities. It includes 11 lesson plans and all the Birthday themed printable materials you will need to make teaching your toddler as easy as possible. 
 
-[![BirthdayToddlerCover]({{ site.github.url }}/assets/img/birthday-toddler-unit-cover.jpg)](https://www.teacherspayteachers.com/Product/50-off-48hr-Birthday-Celebration-Toddler-School-Activities-Preschool-Lesson-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Blog)
+[![Birthday Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-birthday.jpg)](https://www.teacherspayteachers.com/Product/Birthday-Celebration-Toddler-Activities-Preschool-Lesson-Plans-Curriculum-10796299?utm_source=PB%20Blog&utm_campaign=Birthday%20Toddler%20Unit%20Cover)
 
 If you are looking for an entire year of fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
 

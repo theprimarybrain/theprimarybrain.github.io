@@ -89,9 +89,10 @@ This apple lacing fine motor activity was a struggle at first for my little guy.
 The most exciting part of our day was eating our fun apple snacks! We enjoyed apple "donuts" and apple sandwiches, apple slices, apples dipped in caramel, and homemade applesauce. All of our snacks were delicious! 
 
 ## Now Let's Start Learning!
-[![AppleUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Apple.jpg)](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)
 
-I hope you are feeling inspired to begin toddler school with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)! 
+I hope you are feeling inspired to start working with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)! 
+
+[![Apple Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-apple.jpg)](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover)
 
 If you are looking for even more Toddler School fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
 
