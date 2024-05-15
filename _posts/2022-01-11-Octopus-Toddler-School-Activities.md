@@ -34,7 +34,7 @@ This unit is made up of 5 detailed lessons that will work on the following activ
 
 Interested in downloading [these octopus activities](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Octopus Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-octopus.jpg)](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover)
+[![Octopus Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-octopus2.jpg)](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover)
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover)
 
