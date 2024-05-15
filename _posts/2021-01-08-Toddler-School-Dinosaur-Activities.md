@@ -55,6 +55,8 @@ For another activity, we used clothespins to place on each spike of the dinosaur
 
 I loved watching the focus my son had during this lacing activity. It kept him amused while working on his hand-eye coordination. 
 
+_Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-puzzle-sensory-bin-2.jpg)

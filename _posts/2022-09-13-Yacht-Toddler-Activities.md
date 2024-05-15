@@ -46,6 +46,8 @@ As the paint dried, we painted a yacht and cut that out. Once everything was dry
 
 Fine motor activities can be simple and fun. For this activity, introduce the shape name “circle”, and give your child a dot marker. Have your child dot inside the circles to make the letter Yy. Give your child multiple opportunities and reminders to say the letter name “Y” as he or she dabs away. 
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Exploration Activities
 
 ![YachtToddler]({{ site.github.url }}/assets/img/yacht-toddler-play-dough.jpg)

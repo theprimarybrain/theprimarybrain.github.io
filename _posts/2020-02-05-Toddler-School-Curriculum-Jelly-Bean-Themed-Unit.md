@@ -61,6 +61,8 @@ One of our favorite fine motor activities in this unit was working with tweezers
 
 We also enjoyed learning about the letter J/j by pinching glitter, squirting liquid glue, and using dot markers.
 
+_Want to learn more about what fine motor skills are? Read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
+
 ## Art Activities
 ![Jelly Bean Rolling]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-paint-roll.jpg)
 

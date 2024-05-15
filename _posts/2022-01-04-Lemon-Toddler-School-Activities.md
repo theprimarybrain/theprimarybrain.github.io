@@ -67,6 +67,8 @@ Practicing fine motor skills is essential for developing finger control and buil
 
 This is another fine motor activity that was a HUGE hit in our house. My son asked to do it over and over again and he never got sick of it! Anything the kids ask to do over and over again AND helps develop those fine motor skills is a win-win for everyone! For this activity, you’ll begin by poking holes in a lemon using a golf tee. Then, give your child about 20 golf tees to poke into the lemon in the pre-made holes. You’ll want to model for your child how to hold the lemon in one hand and the golf tee in the other hand. Juice will spill out of the lemon, so make sure to put some towels down to catch the spills. It’s a great opportunity to discuss how juicy a lemon is and incorporate that vocabulary! 
 
+_Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-sensory-bin-letters.jpg)

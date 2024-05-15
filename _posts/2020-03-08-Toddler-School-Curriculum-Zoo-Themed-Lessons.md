@@ -87,6 +87,8 @@ This pom pom letter Z mat was a huge hit! I loved watching Conner use the plasti
 
 We also used liquid glue to paste cereal onto our giraffe printable. This incorporated coloring, squeezing glue, and pinching cereal to place in the correct spots. 
 
+_If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
+
 ## Math and Science Activities
 
 In this unit, we worked on the numbers 1 to 9. 

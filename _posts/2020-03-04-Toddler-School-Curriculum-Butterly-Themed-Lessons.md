@@ -56,6 +56,8 @@ We worked on the letter B using dot markers. I love adding fine motor activities
 
 Then, we made caterpillar bracelets by stringing cheerios onto a piece of yarn. Something about creating an animal made this lacing practice extra fun!
 
+_If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
+
 ## Butterfly Themed Art Activities
 
 [![Butterfly Art]({{ site.github.url }}/assets/img/toddler-butterfly-art-mask.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Butterfly-Themed-Lessons-4130868?utm_source=PB%20Blog&utm_campaign=Butterfly%20Toddler%20School%20Post)

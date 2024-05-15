@@ -73,6 +73,8 @@ To work on fine motor skills, we rolled playdoh and placed the playdoh on the le
 
 This apple lacing fine motor activity was a struggle at first for my little guy. He understood that he needed to pull the lace through the hole, but he kept missing the hole and pulling the lacing behind his head. I used hand over hand movements and this really helped him understand the concept of lacing. This is definitley a skill we will be practicing over the next several months. 
 
+_If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
+
 ## Snacks/Recipes
 ![Apple Snack]({{ site.github.url }}/assets/img/toddler-apple-donuts.jpg)
 ![Apple Snack]({{ site.github.url }}/assets/img/toddler-apple-sandwich.jpg)

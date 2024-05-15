@@ -45,6 +45,8 @@ In our home, I turn any activity I can into fine motor practice! This butterfly 
 ![SpringToddler]({{ site.github.url }}/assets/img/spring-toddler-art.jpg)
 Another great fine motor activity is this torn paper flower art. Tearing paper is fun for kids and it allows them to continue building strength in those tiny hand and finger muscles. Your child can tear small pieces of paper and use a glue stick to stick the torn paper onto the flower. Be sure to give your little one spring colors to create a beautiful spring flower.  
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![SpringToddler]({{ site.github.url }}/assets/img/spring-toddler-sensory-bin-2.jpg)

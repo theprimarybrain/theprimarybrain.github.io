@@ -50,6 +50,8 @@ Plastic tweezers are a great way to practice fine motor skills and build strengt
 
 If you see your child struggling to pick up the beads with the tweezers, then this activity can be modified by using pom pom balls. Don’t be afraid to modify so you can do what works best for your child's skills. You know them best! 
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![GoldfishToddler]({{ site.github.url }}/assets/img/Goldfish-Sensory-Bin-Letters.jpg)

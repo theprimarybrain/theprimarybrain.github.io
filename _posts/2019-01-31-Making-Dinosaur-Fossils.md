@@ -37,6 +37,19 @@ Have the child press small dinosaurs into the dough, but gently enough that the 
 
 Remove the dinosaur after pressing to reveal a “dinosaur fossil.” Bake in a 350 degree oven until the dough starts to turn brown. This may take 30-60 minutes depending on the size and thickness of the dough. 
 
-We found that the dinosaur fossils look the most realistic when they are not painted. But... We had lots of fun painting our dinosaur fossils! If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Curriculum-Dinosaur-Themed-Lessons-4313867?utm_source=My%20Blog&utm_campaign=Dinosaur%20Fossils%20Post) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
+We found that the dinosaur fossils look the most realistic when they are not painted. But... We had lots of fun painting our dinosaur fossils! 
+
+If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Curriculum-Dinosaur-Themed-Lessons-4313867?utm_source=My%20Blog&utm_campaign=Dinosaur%20Fossils%20Post) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
+
+
+### Read these posts for even more fun activities:
+
+[Salt Dough Handprint Keepsake](https://theprimarybrain.com/valentine's%20day/2020/02/06/Salt-Dough-Handprint-Keepsake/)
+
+[Dinosaur Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2021/01/08/Toddler-School-Dinosaur-Activities/)
+
+[Zoo Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2020/03/08/Toddler-School-Curriculum-Zoo-Themed-Lessons/)
+
+[Apple Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2018/09/07/Toddler-School-Curriculum-Apple-Theme-Lesson-1/)
 
 If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

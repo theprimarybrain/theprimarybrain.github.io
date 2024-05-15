@@ -55,6 +55,8 @@ In this activity, your child will match uppercase and lowercase letters using cl
 
 Another exciting fine motor activity in this ice cream unit is the dot marker ice cream art project. For this activity, you can review the shape name “circle.” Your child will practice dotting inside each circle in the ice cream. This is great hand-eye coordination practice for your little one! 
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![IceCreamToddler]({{ site.github.url }}/assets/img/ice-cream-sensory-bin.jpg)

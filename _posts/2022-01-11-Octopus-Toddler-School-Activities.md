@@ -56,6 +56,8 @@ You might be wondering why we spend so much time working on finger control activ
 
 Teaching your little ones to use scissors early on will be a huge benefit for when they start school. This octopus scissor skill practice page will really help with this practice. Your child will practice holding the paper appropriately with one hand, while cutting on the dashed lines up to the octopus with the other. Cutting can be frustrating at first, especially when little ones are still learning. Be patient and assist as needed! With lots of practice and your encouragement, they’ll master cutting in no time! 
 
+_Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![OctopusToddler]({{ site.github.url }}/assets/img/octopus-toddler-sensory-bin-water-beads.jpg)

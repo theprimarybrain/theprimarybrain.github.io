@@ -70,6 +70,8 @@ Developing fine motor skills at the toddler age is so important. This week, you 
 4. **Cereal Bracelet** - Thread rainbow cereal, such as Fruit Loops, onto a piece of yarn. Tie it off and make a bracelet for your child to much on!
 5. **Playdoh Rr** - Trace the letter Rr with playdoh! 
 
+_Want to learn more about what fine motor skills are? Read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Math Activities
 ![Math Cards]({{ site.github.url }}/assets/img/toddler-rainbow-math-cards.jpg)
 

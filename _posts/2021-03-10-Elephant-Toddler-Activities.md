@@ -60,6 +60,8 @@ Proper scissor skills are SO important for our littles as they get older. As a p
 
 One of my favorite ways to teach children how to cut with scissors is to cut on a straight line. In this activity, Conner used scissors to cut up a straight line to reach the elephant, He did need a little help at times, but that is perfectly normal for a 2-3 year old child.
 
+_Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Math Activities 
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Counting-Cards.jpg)

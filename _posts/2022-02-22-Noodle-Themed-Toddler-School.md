@@ -47,6 +47,8 @@ Have you ever experimented with painting using a variety of “paintbrushes”? 
 
 This fine motor activity uses plastic tweezers because they are a great tool to help build strong muscles in our little one’s hands. To begin, have your child use plastic tweezers to pick up different types of noodles and place them on the mat. This is also great hand-eye coordination practice. Your child can even place the noodles in different shapes or designs, like a flower, car, or train. 
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![NoodleToddler]({{ site.github.url }}/assets/img/Noodle-Toddler-Sensory-Bin.jpg)

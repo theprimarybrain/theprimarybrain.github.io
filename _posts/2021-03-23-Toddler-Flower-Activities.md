@@ -54,6 +54,8 @@ A lot of parents have a love-hate relationship with glitter, but I definitely on
 
 You can assist your child with squeezing the glue, but you might be surprised how great they are at doing this independently! Then, watch how hard your child pinches their little fingers to sprinkle all of that glitter. I promise you that the mess is worth the reward! 
 
+_Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![FlowerToddler]({{ site.github.url }}/assets/img/Toddler-flower-puzzle-sensory-bin.jpg)

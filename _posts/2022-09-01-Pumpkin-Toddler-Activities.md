@@ -68,6 +68,8 @@ _A quick tip:_ If you’re using yarn, make sure to wrap some tape around the ed
 
 This dot marker activity integrates shapes and colors with fine motor practice. You can review the circle shape with your child, and give your child an orange dot marker. You can also use brown and green for the stem and leaves. You’ll review the letter Pp and show your child how to fill in the dots by using the dot marker. It’s okay if your child is still mastering dotting inside the circles, just remind them to dot inside, not outside the circles and you hand over hand motions as needed. 
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Exploration Activities/Bins 
 
 ![PumpkinToddler]({{ site.github.url }}/assets/img/toddler-pumpkin-guts-sensory-bin.jpg)

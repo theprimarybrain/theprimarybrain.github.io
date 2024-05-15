@@ -54,6 +54,8 @@ We can also build fine motor skills by simply using items you find in the kitche
 
 Tweezers are one of my favorite ways to put those fine motor skills to work.  To set up this activity, all you need are pom pom balls, tweezers, and a watermelon printable. Your child will use tweezers to place the pom pom balls onto the watermelon workmat. It's a great way to work on squeezing those little hand muscles!
 
+_Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![WatermelonToddler]({{ site.github.url }}/assets/img/Toddler-Watermelon-Sensory.jpg)

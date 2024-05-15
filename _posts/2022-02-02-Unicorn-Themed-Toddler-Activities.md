@@ -52,6 +52,8 @@ What could be more fun than giving a unicorn a haircut! To prepare this activity
 
 _***Don’t forget to remind your child we only cut the unicorn’s hair, not our own!_
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 We love sensory bins because they provide play opportunities that keep our little ones entertained, while also incorporating meaningful learning opportunities. Here are three fun bins to use this week! 

@@ -31,7 +31,7 @@ Fine motor skills help our little ones in so many ways, even beyond building str
 
 In order for our little ones to be successful when handwriting in school, we need to give them ample time to practice and mature their fine motor skills. So, how can we further this fine motor development? You can do this through a variety of activities that build strength and control in your child's hands! 
 
-## 10 Activities to Build Fine Motor Skills
+## Fine Motor Skills Activities for Preschoolers
 - Roll, squeeze, and press play dough
 - String beads onto a necklace
 - Cut on a line with scissors

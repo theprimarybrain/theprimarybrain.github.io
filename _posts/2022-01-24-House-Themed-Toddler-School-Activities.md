@@ -58,6 +58,8 @@ Practicing fine motor skills is so important! Building strong muscles in your ch
 
 Another fun fine motor activity that is included in this unit is the Hh play dough mat. What kid doesn't love to use play dough!?! My kids (and students!) LOVE when we use it for learning! For this, you can place the play dough Hh printable inside a sheet protector. Your child will roll the play dough into snakes and then place the snakes on each line or curve of the letters to form the letters. Make sure to leave some time for free play with the play dough, too! Working with play dough is the perfect way to build up those tiny hand muscles and build strength and control in those fingers! 
 
+_Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+
 ## Sensory Bins 
 
 ![HouseToddler]({{ site.github.url }}/assets/img/house-toddler-stem.jpg)

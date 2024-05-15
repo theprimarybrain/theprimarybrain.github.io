@@ -91,6 +91,8 @@ In another activity, we added in some more letter practice by dotting ink inside
 
 Since this is a cars unit, I created a road that my son could paste cars onto. This activity provided great practice using stick glue on the back of each card, then pasting onto the road on the paper. 
 
+_If you aren't familiar with what fine motor skills are, then you can read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)]
+
 ## Math Activities
 
 ![Cars Dot Marker]({{ site.github.url }}/assets/img/Toddler-Cars.jpg)
