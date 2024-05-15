@@ -9,7 +9,7 @@ image:
   teaser: apple-toddler-teaser-image.jpg
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 17, 2023
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated May 14, 2024
 
 I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler school in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created an [Apple Themed Unit](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit). Enjoy a peek into our week through a sampling of our activities together!
 
