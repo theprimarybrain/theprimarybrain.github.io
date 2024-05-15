@@ -5,7 +5,7 @@ categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
 image:
-  feature: Toddler-Cover-Octopus.jpg
+  feature: octopus-toddler-toilet-paper-tube-art.jpg
   teaser: Toddler-Octopus-Teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
