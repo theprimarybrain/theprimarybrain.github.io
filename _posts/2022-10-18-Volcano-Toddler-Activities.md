@@ -12,15 +12,6 @@ image:
 ---
 I don’t know about you, but my littles are intrigued by volcanoes! I created this [Volcano Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Volcano-Preschool-Curriculum-Letter-V-5232563?st=e30448ebb266bb1f799086c644e17e40&utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit) to bring a bit of explosive fun to you and your little ones while learning all week about the letter Vv. 
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bins
-- math and science activities 
-- fine motor activities
-- gross motor activities 
-- art activities
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bins
+- math and science activities 
+- fine motor activities
+- gross motor activities 
+- art activities
+
+Interested in downloading [these volcano activities](https://www.teacherspayteachers.com/Product/Volcano-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-5232563?utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Volcano Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-volcano.jpg)](https://www.teacherspayteachers.com/Product/Volcano-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-5232563?utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Volcano-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-5232563?utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit%20Cover)
 
 ## Fine Motor Activities 
 

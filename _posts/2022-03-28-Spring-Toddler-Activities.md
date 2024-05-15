@@ -12,6 +12,16 @@ image:
 ---
 Spring is here and that means it is time to break out all of the spring toddler activities! We love Spring in our house because flowers bloom, we get outside more to enjoy the fresh air, and the sun is shining! I created this [Spring Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Spring-Themed-Seasonal-Activities-Preschool-Curriculum-7791962?st=3e8e459fd7edb289a5f0466a6f8f2415&utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit) to bring some of the spring season to you and your little ones!
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components 
 This unit is made up of 5 lessons that will each work on the following activities:
 - literacy/language 
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - art activities
 - science activities
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these spring activities](https://www.teacherspayteachers.com/Product/Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-7791962?utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Spring Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-spring.jpg)](https://www.teacherspayteachers.com/Product/Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-7791962?utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-7791962?utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit%20Cover)
 
 ## Building Vocabulary
 

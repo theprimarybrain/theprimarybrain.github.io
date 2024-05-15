@@ -12,6 +12,16 @@ image:
 ---
 Are you looking for some simple activities for the Letter Q? This [Queen Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Letter-of-the-Week-Letter-Q-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20School%20Unit) will bring a bit of royalty, fun, and learning to your little ones all while working on academic skills that our toddlers need!
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components 
 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities
 - art activities
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these queen activities](https://www.teacherspayteachers.com/Product/Queen-Toddler-Activities-2-to-3-Year-Old-Preschool-Curriculum-Lesson-Plans-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Queen Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-queen.jpg)](https://www.teacherspayteachers.com/Product/Queen-Toddler-Activities-2-to-3-Year-Old-Preschool-Curriculum-Lesson-Plans-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Queen-Toddler-Activities-2-to-3-Year-Old-Preschool-Curriculum-Lesson-Plans-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

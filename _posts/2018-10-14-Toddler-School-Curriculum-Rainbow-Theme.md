@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rainbow Themed Toddler School Lessons
+title: Rainbow Themed Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, rainbow, toddler school]
@@ -14,12 +14,15 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Oct. 18, 2
 
 Teaching your toddler about colors is so much fun! There are so many opportunities for learning about colors that you can work on as you go about your daily life. Even though my son already knows most of his colors, I wanted to create a week of learning that dove a little deeper into the world of colors. So, what could be better than a week focusing on the colors of the rainbow! I hope you will join us in learning all about the rainbow and the world of colors!
 
-All of the plans and printable activities in this post can be found in my [Rainbow Toddler School Unit](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit):
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
 
-[![RainbowToddler]({{ site.github.url }}/assets/img/product-cover-rainbow-toddler-school.jpg](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
-
-
-[![TpTButton]({{ site.github.url }}/assets/img/blog-button-green-TAKE-LOOK-here.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
 
 ## Lesson Components
 Each of the 5 lessons in this [rainbow unit](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit) include the following activities:
@@ -30,15 +33,11 @@ Each of the 5 lessons in this [rainbow unit](https://www.teacherspayteachers.com
 - art activity
 - recipe/snack
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these rainbow activities](https://www.teacherspayteachers.com/Product/Rainbow-Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Rainbow Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-rainbow.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20Unit%20Cover)
 
 ## Gather Materials and Set Up for Rainbow Week
 ![Cover]({{ site.github.url }}/assets/img/toddler-rainbow-cover.jpg)

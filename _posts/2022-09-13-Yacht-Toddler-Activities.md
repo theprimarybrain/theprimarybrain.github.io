@@ -12,6 +12,16 @@ image:
 ---
 When you think of the letter Y, what words do you think of? As I planned out a unit for the letter Y, I thought of taking our little ones sailing away on a yacht! This unit will get your toddlers using their brains, provide opportunities to practice fine and gross motor skills, and have fun while learning! This [Yacht Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Yacht-Themed-Lessons-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20School%20Post) includes lots of fun ways to use the word **yacht** and teach your toddler all about the **letter Y**. Here are just a few simple activities for the letter Y.
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components 
 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities
 - art activities
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these yacht activities](https://www.teacherspayteachers.com/Product/Yacht-Toddler-Activities-Lesson-Plans-for-Summer-2-to-3-Year-Old-Curriculum-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Yacht Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-yacht.jpg)](https://www.teacherspayteachers.com/Product/Yacht-Toddler-Activities-Lesson-Plans-for-Summer-2-to-3-Year-Old-Curriculum-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Yacht-Toddler-Activities-Lesson-Plans-for-Summer-2-to-3-Year-Old-Curriculum-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20Unit%20Cover)
 
 ## Art Activity
 

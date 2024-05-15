@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Noodle Themed Toddler School Lessons
+title: Noodle Themed Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
@@ -12,15 +12,6 @@ image:
 ---
 Get ready for a fun week of noodle toddler activities! Noodles are always a hit with the little ones to eat and to learn with! I created this [Noodle Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Homeschool-Preschool-Curriculum-Letter-N-5010808?st=07e9e14865e03b51c0a88df1f34eb167&utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20School%20Unit) to bring a bit of noodle fun into your home. 
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activities
-- fine motor activities
-- gross motor activities 
-- art activities
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activities
+- fine motor activities
+- gross motor activities 
+- art activities
+
+Interested in downloading [these noodle activities](https://www.teacherspayteachers.com/Product/Noodle-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5010808?utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Noodle Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-noodle.jpg)](https://www.teacherspayteachers.com/Product/Noodle-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5010808?utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Noodle-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5010808?utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20Unit%20Cover)
 
 ## Art Activities
 

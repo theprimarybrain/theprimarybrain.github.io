@@ -12,14 +12,6 @@ image:
 ---
 Nothing says summer with toddlers quite like watermelon! Are you and your little ones ready for a summer filled with warm weather? I know we are so excited to kick off summer with all the watermelon themed toddler activities! I hope you and your littles have so much fun with the activities from my [Watermelon Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Watermelon-Theme-Activities-Homeschool-Classroom-4762010?st=de9cd60d8dfd70334033c279f463c701&utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20School%20)! 
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activity 
-- fine motor activity 
-- art activity 
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -29,6 +21,20 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activity 
+- fine motor activity 
+- art activity 
+
+Interested in downloading [these watermelon activities](https://www.teacherspayteachers.com/Product/Watermelon-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Theme-4762010?utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Watermelon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-watermelon.jpg)](https://www.teacherspayteachers.com/Product/Watermelon-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Theme-4762010?utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Watermelon-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Theme-4762010?utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20Unit%20Cover)
 
 ## Toddler Art Activities 
 

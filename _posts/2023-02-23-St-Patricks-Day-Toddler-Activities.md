@@ -22,11 +22,11 @@ This unit is made up of over 10 activities that include:
 - fine motor activities
 - art activities
 
-_Interested in downloading [these St. Patrick's Day activities](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School) that you can print and use right away? Click on the image or button below to check them out in my TpT shop:_
-
-[![StPatricksActivities]({{ site.github.url }}/assets/img/product-cover-stpatricksday.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
-
-[![Button]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+_Interested in downloading [these St Patricks Day activities](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-9040486?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Day%20Toddler%20Unit%20Cover) that you can print and use right away?_ Click on the image or button below to check them out in my TpT shop! 
+ 
+[![St Patricks Day Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-st-patricks-day.jpg)](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-9040486?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Day%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-9040486?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Day%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

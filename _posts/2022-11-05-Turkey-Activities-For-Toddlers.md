@@ -12,15 +12,6 @@ image:
 ---
 Gobble, gobble! It’s time for the letter T! T, as in turkey. I absolutely love everything about Thanksgiving, like the turkey, mashed potatoes, stuffing, and of course, the pumpkin pie! So when I was trying to figure out some educational activities to go along with my [toddler school curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell), I just couldn’t leave turkey activities for toddlers out since turkey and Thanksgiving both start with the letter T!
 
-## Lesson Components 
-This unit is made up of 5 lessons that will each work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activity 
-- fine motor activity 
-- gross motor activity 
-- art activity 
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will each work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activity 
+- fine motor activity 
+- gross motor activity 
+- art activity 
+
+Interested in downloading [these turkey activities](https://www.teacherspayteachers.com/Product/Turkey-Toddler-Activities-Thanksgiving-Lesson-Plans-Fall-Preschool-Curriculum-4199735?utm_source=PB%20Blog&utm_campaign=Turkey%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Turkey Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-turkey.jpg)](https://www.teacherspayteachers.com/Product/Turkey-Toddler-Activities-Thanksgiving-Lesson-Plans-Fall-Preschool-Curriculum-4199735?utm_source=PB%20Blog&utm_campaign=Turkey%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Turkey-Toddler-Activities-Thanksgiving-Lesson-Plans-Fall-Preschool-Curriculum-4199735?utm_source=PB%20Blog&utm_campaign=Turkey%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

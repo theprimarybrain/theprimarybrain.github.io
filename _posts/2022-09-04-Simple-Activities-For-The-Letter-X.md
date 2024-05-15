@@ -12,6 +12,16 @@ image:
 ---
 When teaching and learning letters, there are many different ways to teach toddlers. But, with the letter X, it seems that the only two words ever used are xylophone and x-ray. So, how can you engage a learner with just two example words? Let’s leave the xylophone craft in the past and get our toddlers using their brains, fine and gross motor skills, and have fun while learning! There are tons of fun ways to use the word **x-ray** and teach your toddler all about the **letter X**. Here are just a few simple activities for the letter x.
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components
 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities
 - art activities
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these xray activities](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Xray Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-x-ray.jpg)](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover)
 
 ## Art Activities
 

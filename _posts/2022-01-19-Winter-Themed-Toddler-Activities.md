@@ -21,6 +21,12 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities 
 - art activities
 
+Interested in downloading [these winter activities](https://www.teacherspayteachers.com/Product/Winter-Toddler-Activities-Seasonal-Preschool-Curriculum-Tot-School-Lesson-Plan-7641533?utm_source=PB%20Blog&utm_campaign=Winter%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Winter Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-winter.jpg)](https://www.teacherspayteachers.com/Product/Winter-Toddler-Activities-Seasonal-Preschool-Curriculum-Tot-School-Lesson-Plan-7641533?utm_source=PB%20Blog&utm_campaign=Winter%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Winter-Toddler-Activities-Seasonal-Preschool-Curriculum-Tot-School-Lesson-Plan-7641533?utm_source=PB%20Blog&utm_campaign=Winter%20Toddler%20Unit%20Cover)
+
 ## Literacy Activities 
 
 ![WinterToddler]({{ site.github.url }}/assets/img/winter-toddler-vocab-book.jpg)

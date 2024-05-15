@@ -10,17 +10,13 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Summer is here and that means it is time to fill our days with pineapple sensory bins, ice cream counting activities, and sand running through tiny fingers! During the summer, life can be so busy with vacations, holidays, and family activities, so it can be easy to let learning activities fall to the wayside. Today I am sharing a variety of summer activities for toddlers that can fit into the quiet moments of busy days! You can find all of the printable materials in my [Toddler School Summer Unit](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post)!
+Summer is here and that means it is time to fill our days with pineapple sensory bins, ice cream counting activities, and sand running through tiny fingers! During the summer, life can be so busy with vacations, holidays, and family activities, so it can be easy to let learning activities fall to the wayside. Today I am sharing a variety of summer activities for toddlers that can fit into the quiet moments of busy days!
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these summer activities](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Summer Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-summer.jpg)](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Cover)
 
 ## Summer Sensory Bins
 ![Summer Sensory Bins]({{ site.github.url }}/assets/img/toddler-summer-math-sensory-bin.jpg)

@@ -12,14 +12,6 @@ image:
 ---
 When it gets busy and holidays approach, learning activities often get replaced with activities like parades, the park, watching fireworks, or family vacations. It can be challenging to fit everything in! But, just like school-aged children, toddlers can enjoy learning about the freedoms and patriotic holidays we enjoy in our country. These patriotic activities for toddlers are the perfect mix of fun and learning and can be done in small increments of time!
 
-## Lesson Components 
-This unit is made up of 12 patriotic activities you can use for Veteran’s Day, Memorial Day, and 4th of July that will help to provide kindergarten readiness skills to your little ones:
-- literacy and language activities
-- sensory bins 
-- math activities
-- fine motor activities
-- art and music activities
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -29,6 +21,20 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 12 patriotic activities you can use for Veteran’s Day, Memorial Day, and 4th of July that will help to provide kindergarten readiness skills to your little ones:
+- literacy and language activities
+- sensory bins 
+- math activities
+- fine motor activities
+- art and music activities
+
+Interested in downloading [these patriotic activities](https://www.teacherspayteachers.com/Product/Patriotic-Toddler-Activities-Independence-Day-Lesson-Plans-for-4th-of-July-8239797?utm_source=PB%20Blog&utm_campaign=Patriotic%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Patriotic Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-patriotic.jpg)](https://www.teacherspayteachers.com/Product/Patriotic-Toddler-Activities-Independence-Day-Lesson-Plans-for-4th-of-July-8239797?utm_source=PB%20Blog&utm_campaign=Patriotic%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Patriotic-Toddler-Activities-Independence-Day-Lesson-Plans-for-4th-of-July-8239797?utm_source=PB%20Blog&utm_campaign=Patriotic%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

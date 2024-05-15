@@ -27,11 +27,11 @@ This unit is made up of 12 activities that include:
 - art activities
 - music activity
 
-If you want to grab all the plans and printables in this unit, you can grab them right here:
-
-[![NewYearToddlerCover]({{ site.github.url }}/assets/img/product-cover-new-years-toddler-unit.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
-
-[![Button]({{ site.github.url }}/assets/img/buttons-green-click-here-to-grab-the-unit.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+Interested in downloading [these New Years activities](https://www.teacherspayteachers.com/Product/New-Years-Toddler-Activities-Lesson-Plans-2-to-3-Year-Preschool-Curriculum-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![New Years Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-new-years.jpg)](https://www.teacherspayteachers.com/Product/New-Years-Toddler-Activities-Lesson-Plans-2-to-3-Year-Preschool-Curriculum-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/New-Years-Toddler-Activities-Lesson-Plans-2-to-3-Year-Preschool-Curriculum-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Unit%20Cover)
 
 ## Kick Off the New Year's Celebration
 

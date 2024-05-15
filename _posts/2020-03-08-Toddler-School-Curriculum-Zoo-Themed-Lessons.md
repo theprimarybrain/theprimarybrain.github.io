@@ -12,15 +12,6 @@ image:
 ---
 For the past year and a half, my son and I worked through 26 toddler school units. It was so much fun to watch Conner engage in toddler activities while we learned about all 26 letters of the alphabet. We loved every moment! To finish out the alphabet, I created this [Zoo Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Zoo-Themed-Lessons-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20School). Our final 5 lesson plans were so much fun and I hope you find some great ideas in this post to do with your little ones. 
 
-## Lesson Components
-
-Each of the 5 lessons in this unit include the following activities:
-- literacy/language
-- math or science activity
-- fine motor activity
-- gross motor activity
-- art activity
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components
+
+Each of the 5 lessons in this unit include the following activities:
+- literacy/language
+- math or science activity
+- fine motor activity
+- gross motor activity
+- art activity
+
+Interested in downloading [these zoo activities](https://www.teacherspayteachers.com/Product/Zoo-Toddler-Activities-Lesson-Plans-Animals-2-to-3-Year-Preschool-Curriculum-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Zoo Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-zoo.jpg)](https://www.teacherspayteachers.com/Product/Zoo-Toddler-Activities-Lesson-Plans-Animals-2-to-3-Year-Preschool-Curriculum-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Zoo-Toddler-Activities-Lesson-Plans-Animals-2-to-3-Year-Preschool-Curriculum-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20Unit%20Cover)
 
 ## Create a Zoo Cover Page
 

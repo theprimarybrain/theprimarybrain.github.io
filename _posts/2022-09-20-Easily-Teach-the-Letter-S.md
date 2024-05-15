@@ -12,6 +12,16 @@ image:
 ---
 Little Miss Muffet is a favorite nursery rhyme of mine, and my toddler absolutely loves to sing along with me once I get it stuck in my head. Unlike adults, toddlers seem to have no fear and love to touch and learn all about spiders. Since most toddlers are fascinated by these 8-legged creatures, I just knew I needed to create some awesome and educational **spider activities for toddlers**.  This [Spider Themed Letter S Toddler Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) will allow your toddler to have some creepy crawly fun! 
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components 
 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these spider activities](https://www.teacherspayteachers.com/Product/Spider-Theme-Toddler-Activities-Lesson-Plans-Tot-School-Preschool-Curriculum-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Spider Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-spider.jpg)](https://www.teacherspayteachers.com/Product/Spider-Theme-Toddler-Activities-Lesson-Plans-Tot-School-Preschool-Curriculum-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Spider-Theme-Toddler-Activities-Lesson-Plans-Tot-School-Preschool-Curriculum-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Unit%20Cover)
 
 ## Fine Motor Activities 
 

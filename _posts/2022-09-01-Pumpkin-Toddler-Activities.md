@@ -12,6 +12,17 @@ image:
 ---
 September is here and that means it’s time to start planning pumpkin toddler activities for your little ones! I created this [Pumpkin Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Pumpkin-Homeschool-Curriculum-Letter-P-4096870?st=d37bde1e2d38d8836d2b79b197cc2bce) to bring a bit of the fall season into your home or classroom.
 
+
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler lessons:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components 
 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -22,15 +33,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these pumpkin activities](https://www.teacherspayteachers.com/Product/Pumpkin-Theme-Toddler-Activities-for-Fall-Preschool-Curriculum-Lesson-Plans-4096870?utm_source=PB%20Blog&utm_campaign=Pumpkin%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Pumpkin Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-pumpkin.jpg)](https://www.teacherspayteachers.com/Product/Pumpkin-Theme-Toddler-Activities-for-Fall-Preschool-Curriculum-Lesson-Plans-4096870?utm_source=PB%20Blog&utm_campaign=Pumpkin%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Pumpkin-Theme-Toddler-Activities-for-Fall-Preschool-Curriculum-Lesson-Plans-4096870?utm_source=PB%20Blog&utm_campaign=Pumpkin%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 

@@ -12,6 +12,16 @@ image:
 ---
 Unicorns bring a sense of magic into the room and are a childhood favorite! I love finding ways to create learning activities around my children's favorite things, so a unicorn week is perfect! This [Unicorn Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=599268609963749f136721233bf5fa5d) is packed with everything you need for a full week of learning, so get ready to have fun while you learn about the letter U!
 
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+
+<div id="fd-form-65374920be19019fdd96d794"></div>
+<script>
+  window.fd('form', {
+    formId: '65374920be19019fdd96d794',
+    containerEl: '#fd-form-65374920be19019fdd96d794'
+  });
+</script>
+
 ## Lesson Components 
 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -22,15 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these unicorn activities](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Unicorn Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-unicorn.jpg)](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Unit%20Cover)
 
 ## Literacy Activities
 

@@ -12,16 +12,6 @@ image:
 ---
 This week we are grabbing our swim gear and taking a dive down under the sea! This [Octopus Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Octopus-Preschool-Curriculum-Letter-O-4682918?st=5755ae47d6e6385296c92b5e58df441e&utm_source=PB%20Blog&utm_campaign=Octopus%20Text%20Click) will have your little ones squealing with joy as you learn all about this animal that is sure to be your child’s newest favorite. It’s the perfect combination of fun and learning, and a great way to introduce your little ones to the letter Oo! 
 
-## Lesson Components 
-
-This unit is made up of 5 detailed lessons that will work on the following activities:
-- literacy/language 
-- sensory bin 
-- math and science activities
-- fine motor activities
-- gross motor activities
-- art activities 
-
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
@@ -31,6 +21,22 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Noodle Toddler Lessons
+
+This unit is made up of 5 detailed lessons that will work on the following activities:
+- literacy/language 
+- sensory bin 
+- math and science activities
+- fine motor activities
+- gross motor activities
+- art activities 
+
+Interested in downloading [these octopus activities](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Octopus Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-octopus.jpg)](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 
