@@ -2,7 +2,7 @@
 layout: post
 title:  Dinosaur Themed Toddler School Activities
 categories: [Toddler School]
-flodesk: 65374920be19019fdd96d794
+flodesk: 65f1da75f97cdc8ec73dee06
 tags: [toddler, dinosaur, toddler school, toddler guide]
 image:
   feature: Toddler-Dino-Feature.jpg
@@ -11,15 +11,6 @@ image:
   creditlink: ""
 ---
 Are your little ones as obsessed with dinosaurs as mine are? Dinosaurs are a childhood favorite and a great way to capture your little one’s attention and curiosity. I put together this engaging [Dinosaur Themed Toddler Unit](http://bit.ly/DinoToddler) that is sure to capture your child’s interest! I hope you will join us as we learn about dinosaurs!
-
-## Lesson Components 
-This unit is made up of 5 lessons that will work on each include the following activities: 
-- literacy/language 
-- sensory bin 
-- math or science activity 
-- fine motor activity 
-- gross motor activity 
-- art activity 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -30,6 +21,21 @@ If you want to learn more about how to get started planning activities for your 
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+## Lesson Components 
+This unit is made up of 5 lessons that will work on each include the following activities: 
+- literacy/language 
+- sensory bin 
+- math or science activity 
+- fine motor activity 
+- gross motor activity 
+- art activity 
+
+Interested in downloading [these dinosaur activities](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Dinosaur Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
 
 ## Art Activities 
 
@@ -82,3 +88,5 @@ It’s time to brush up on those dinosaur names and get moving! Your little ones
 [![DinoUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Dinosaur.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
 
 I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](http://bit.ly/DinoToddler) for 5 complete lesson plans and all the printables you need to go with them! I hope you enjoy every minute of playing and learning with your little ones this week!
+
+### Check out how these activities fit into our year long toddler learning plan in our FREE Toddler Curriculum Map:

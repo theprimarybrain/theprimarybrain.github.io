@@ -21,15 +21,11 @@ Each of the 5 lessons in this unit include the following activities:
 - gross motor activity
 - art activity
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+Interested in downloading [these cars activities](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+ 
+[![Cars Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-cars.jpg)](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover)
 
 ## Create a Cars Cover Page
 
@@ -109,8 +105,12 @@ My son loved using this cars counting book. He colored the cars on every page an
 
 We loved this bean bag toss! Conner and I took turns tossing the bean bags onto the correct circles. My son worked on his hand-eye coordination while also reviewing the names of his colors. So fun! 
 
-## That's a Wrap!
+## All the Plans and Printables You Need
 
-[![CarsCover]({{ site.github.url }}/assets/img/Toddler-Cover-Cars.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Cars-Themed-Homeschool-Preschool-Letter-C-4394935?st=a75e11feac1fde0f9a503023db937c9a&utm_source=PB%20Blog&utm_campaign=Cars%20Cover%20Photo%20Bottom)
+I hope you enjoyed following our toddler learning journey this week! Click here if you want to download this [Cars Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Cars-Themed-Lessons-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Theme%20Toddler%20School%20Blog%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 
 
-I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Cars Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Cars-Themed-Lessons-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Theme%20Toddler%20School%20Blog%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 
+[![Cars Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-cars.jpg)](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Cars-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-2-to-3-Year-Old-4394935?utm_source=PB%20Blog&utm_campaign=Cars%20Toddler%20Unit%20Cover)
+
+### If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:

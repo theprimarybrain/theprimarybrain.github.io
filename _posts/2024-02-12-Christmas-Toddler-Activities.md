@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Feb. 11, 2024
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated May 15, 2024
 
 The Christmas season is one of my favorite times of year to incorporate meaningful learning opportunities for our little ones! It is the perfect time to pull out themed Christmas sensory bins, fine motor activities, and art activities for toddlers!! There is nothing more exciting than decorating the house in Christmas toddler art projects, the sound of Christmas sensory bins, and handmade toddler gifts. I included all of this and more in my [Christmas Toddler Unit](https://www.teacherspayteachers.com/Product/Christmas-Toddler-School-Lesson-Plans-Winter-Preschool-Activities-Curriculum-8705519?utm_source=PB%20Blog&utm_campaign=Christmas%20Toddler%20Unit)! Just grab a few materials and you will be ready to create Christmas toddler activities for the entire month of December!
 
@@ -22,11 +22,11 @@ This [Christmas Toddler Unit](https://www.teacherspayteachers.com/Product/Christ
 - fine motor activities
 - art activities
 
-_Interested in downloading [these Christmas activities](https://www.teacherspayteachers.com/Product/Christmas-Toddler-School-Lesson-Plans-Winter-Preschool-Activities-Curriculum-8705519?utm_source=PB%20Blog&utm_campaign=Christmas%20Toddler%20Unit) that you can print and use right away?_ Click on the image or button below to check them out in my TpT shop! 
-
-[![FineMotorActivities]({{ site.github.url }}/assets/img/product-cover-christmas-toddler-school-unit.jpg)](https://www.teacherspayteachers.com/Product/Christmas-Toddler-School-Lesson-Plans-Winter-Preschool-Activities-Curriculum-8705519?utm_source=PB%20Blog&utm_campaign=Christmas%20Toddler%20Unit)
-
-[![Button]({{ site.github.url }}/assets/img/0button-truegreen-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/Christmas-Toddler-School-Lesson-Plans-Winter-Preschool-Activities-Curriculum-8705519?utm_source=PB%20Blog&utm_campaign=Christmas%20Toddler%20Unit)
+Interested in downloading [these Christmas activities](https://www.teacherspayteachers.com/Product/Christmas-Toddler-School-Lesson-Plans-Winter-Preschool-Activities-Curriculum-8705519?utm_source=PB%20Blog&utm_campaign=Christmas%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop:
+ 
+[![Christmas Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-christmas.jpg)](https://www.teacherspayteachers.com/Product/Christmas-Toddler-School-Lesson-Plans-Winter-Preschool-Activities-Curriculum-8705519?utm_source=PB%20Blog&utm_campaign=Christmas%20Toddler%20Unit%20Cover)
+ 
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Christmas-Toddler-School-Lesson-Plans-Winter-Preschool-Activities-Curriculum-8705519?utm_source=PB%20Blog&utm_campaign=Christmas%20Toddler%20Unit%20Cover)
 
 ## Santa Sensory Bin for Toddlers
 
