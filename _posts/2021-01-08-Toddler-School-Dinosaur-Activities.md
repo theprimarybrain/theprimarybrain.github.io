@@ -28,7 +28,7 @@ This unit is made up of 5 lessons that will work on each include the following a
 - [Dinosaur Art Activities](#art-activities)
 - [Dinosaur Fine Motor Activities](#fine-motor-activities)
 - [Dinosaur Math Activity](#math-activities)
-- [gross motor activities](#gross-motor-activities)
+- [Dinosaur Gross Motor Activities](#gross-motor-activities)
 
 Interested in downloading [these dinosaur activities](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
@@ -88,7 +88,7 @@ It’s time to brush up on those dinosaur names and get moving! Your little ones
 
 ### Everything you need for a week of Apple Themed Toddler Learning:
 
-[![DinoUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Dinosaur.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
+[![DinoUnit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
 
 I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](http://bit.ly/DinoToddler) for 5 complete lesson plans and all the printables you need to go with them! 
 
