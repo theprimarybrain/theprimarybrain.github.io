@@ -22,8 +22,9 @@ If you want to learn more about how to get started planning activities for your 
   });
 </script>
 
-## Lesson Components 
-This unit is made up of 5 lessons that will work on each include the following activities: 
+## Included Activities in this Dinosaur Toddlers Theme
+
+In this post, I'm sharing 5 of my favorite types of dinoaur toddler activities:
 - [Dinosaur Sensory Bins](#sensory-bins)
 - [Dinosaur Art Activities](#art-activities)
 - [Dinosaur Fine Motor Activities](#fine-motor-activities)
@@ -36,7 +37,7 @@ Interested in downloading [these dinosaur activities](https://www.teacherspaytea
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
 
-## Dinosaur Sensory Bins for Toddlers {#sensory-bins}
+### Dinosaur Sensory Bins for Toddlers {#sensory-bins}
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-puzzle-sensory-bin-2.jpg)
 
@@ -48,7 +49,7 @@ For this sensory bin you can use colored rice, beans, or even some pasta. Then, 
 
 For this next sensory bin, you can use sand to bury the bones and allow your child to be a paleontologist (and teach them a new big word!). Conner spent so much time using his tweezers to dig up the bones and he used a paintbrush to carefully dust them off again and again! This quick and easy sensory bin was extremely engaging while putting his fine motor skills to work. Win-win!
 
-## Dinosaur Art Activities for Toddlers {#art-activities}     
+### Dinosaur Art Activities for Toddlers {#art-activities}     
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-coloring-page.jpg)
 
@@ -58,7 +59,7 @@ We had so much fun with the art activities this week! We started our unit with t
 
 Dino feet painting was a HUGE hit with my son, Conner. Who doesn’t love to use toys and paint at the same time?!? To set up this activity, just give your child the printable worksheet, a couple small dinosaurs and some liquid paint on a plate. Let your little one explore with the paint and watch them go! This activity really allows parents and teachers to encourage art as a process instead of a product. 
 
-## Dinosaur Fine Motor Activities for Toddlers {#fine-motor-activities}
+### Dinosaur Fine Motor Activities for Toddlers {#fine-motor-activities}
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-fine-motor-1.jpg)
 
@@ -74,19 +75,19 @@ I loved watching the focus my son had during this lacing activity. It kept him a
 
 _Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
-## Dinosaur Math Activity {#math-activities}
+### Dinosaur Math Activity {#math-activities}
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-toddler-math-1.jpg)
 
 How fun are these Dino Math Cards? We love working on counting and number recognition so these were a huge hit. It also gave us the opportunity to work on colors. You can use pom poms to color match or even grab some super cute dinosaur counters! 
 
-## Dinosaur Gross Motor Activities {#gross-motor-activities}
+### Dinosaur Gross Motor Activities {#gross-motor-activities}
 
 ![DinosaurToddler2]({{ site.github.url }}/assets/img/dino-gross-motor-action-cards.jpg)
 
 It’s time to brush up on those dinosaur names and get moving! Your little ones will have so much fun pretending to be all the different dinosaurs. Keep some water close by, because we were definitely out of breath by the end of it! These dinosaur cards are an excellent way to get those little bodies moving either at home or in the classroom! 
 
-### Everything you need for a week of Dinosaur Themed Toddler Learning:
+## Everything you need for a week of Dinosaur Themed Toddler Activities:
 
 [![DinoUnit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
 
