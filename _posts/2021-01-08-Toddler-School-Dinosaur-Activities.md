@@ -29,7 +29,7 @@ This unit is made up of 5 lessons that will work on each include the following a
 - math or science activity 
 - fine motor activity 
 - gross motor activity 
-- art activity 
+- [art activities](#art-activities)
 
 Interested in downloading [these dinosaur activities](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
@@ -37,7 +37,7 @@ Interested in downloading [these dinosaur activities](https://www.teacherspaytea
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
 
-## Art Activities 
+## Art Activities {#art-activities}     
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-coloring-page.jpg)
 
