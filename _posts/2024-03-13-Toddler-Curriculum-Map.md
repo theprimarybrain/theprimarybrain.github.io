@@ -24,11 +24,11 @@ I want to take the guesswork out of creating toddler lesson plans so I put toget
   });
 </script>
 
-## What is a Curriculum Map, anyways?!?!
+### What is a Curriculum Map, anyways?!?!
 
 A curriculum map is used to show what skills and topics are taught in a curriculum. You know your child needs to learn a lot of new skills during their toddler years, but what are the skills and when should we teach them? My goal with this curriculum map is to help give you a roadmap of when to teach each skill to your toddler over the course of the next year. 
 
-## How to Use Your Toddler Curriculum Map
+### How to Use Your Toddler Curriculum Map
 
 ![6 Toddler Skills]({{ site.github.url }}/assets/img/toddler-curriculum-map-6-skills.jpg)
 
@@ -45,7 +45,7 @@ Now that you have your curriculum map, let's go over how you can use it! I creat
 
 Under each header, you will see the skills we learn each week. It is so fun to watch our toddlers learn new skills through play based activities. I hope you enjoy watching your littles learn new skills as they play!
 
-## Our School Year Homeschool Preschool Calendar
+## A Year of Toddler Weekly Learning Themes
 
 ![School Year Calendar for Toddlers]({{ site.github.url }}/assets/img/toddler-curriculum-map-school-year-calendar.jpg)
 
@@ -65,7 +65,7 @@ Here are some helpful blog posts that explain more about the skill areas covered
 
 [How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin/)
 
-## Make Planning Even Easier with our Toddler Learning Curriculum
+### Make Planning Even Easier with our Toddler Learning Curriculum
 
 If you would like to download a full year of lesson plans and printables to go with all of the themes on the curriculum map, then you can take a look at our Complete Toddler Learning Curriculum! All the planning is done for you so that you can just dive right in to toddler learning activities! 
 
