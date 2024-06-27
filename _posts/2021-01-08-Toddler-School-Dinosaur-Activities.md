@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dinosaur Themed Toddler School Activities
+title:  Dinosaur Theme Toddler Activities
 categories: [Toddler School]
 flodesk: 65f1da75f97cdc8ec73dee06
 tags: [toddler, dinosaur, toddler school, toddler guide]
