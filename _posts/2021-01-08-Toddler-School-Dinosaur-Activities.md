@@ -86,7 +86,7 @@ How fun are these Dino Math Cards? We love working on counting and number recogn
 
 It’s time to brush up on those dinosaur names and get moving! Your little ones will have so much fun pretending to be all the different dinosaurs. Keep some water close by, because we were definitely out of breath by the end of it! These dinosaur cards are an excellent way to get those little bodies moving either at home or in the classroom! 
 
-### Everything you need for a week of Apple Themed Toddler Learning:
+### Everything you need for a week of Dinosaur Themed Toddler Learning:
 
 [![DinoUnit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
 
