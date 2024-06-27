@@ -10,6 +10,8 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated June 26, 2024
+
 When I think back on our childhood favorites, dinosaurs are always top of the list! This theme is one of our absolute favorites and I can't wait to share all about it with you!! 
 
 ## Included Activities in this Dinosaur Toddlers Theme
