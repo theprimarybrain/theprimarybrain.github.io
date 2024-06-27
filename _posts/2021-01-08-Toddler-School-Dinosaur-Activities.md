@@ -12,7 +12,7 @@ image:
 ---
 Are your little ones as obsessed with dinosaurs as mine are? Dinosaurs are a childhood favorite and a great way to capture your little one’s attention and curiosity. I put together this engaging [Dinosaur Themed Toddler Unit](http://bit.ly/DinoToddler) that is sure to capture your child’s interest! I hope you will join us as we learn about dinosaurs!
 
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
+If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler learning lessons:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>
 <script>
@@ -24,12 +24,11 @@ If you want to learn more about how to get started planning activities for your 
 
 ## Lesson Components 
 This unit is made up of 5 lessons that will work on each include the following activities: 
-- literacy/language 
-- sensory bin 
-- math or science activity 
-- fine motor activity 
-- gross motor activity 
-- [art activities](#art-activities)
+- [Dinosaur Sensory Bins](#sensory-bins)
+- [Dinosaur Art Activities](#art-activities)
+- [Dinosaur Fine Motor Activities](#fine-motor-activities)
+- [Dinosaur Math Activity](#math-activities)
+- [gross motor activities](#gross-motor-activities)
 
 Interested in downloading [these dinosaur activities](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
@@ -37,7 +36,19 @@ Interested in downloading [these dinosaur activities](https://www.teacherspaytea
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
 
-## Art Activities {#art-activities}     
+## Dinosaur Sensory Bins for Toddlers {#sensory-bins}
+
+![DinosaurToddler]({{ site.github.url }}/assets/img/dino-puzzle-sensory-bin-2.jpg)
+
+Nothing is better for kicking off a new toddler theme than a sensory bin! A sensory bin for toddlers quickly engages multiple senses all at once to help our little ones get right to learning. 
+
+For this sensory bin you can use colored rice, beans, or even some pasta. Then, just place the cards into the bin and let your child explore. Then, your little one can get right to work finding the matching puzzle pieces to put together each dinosaur while working on the letter D!
+
+![DinosaurToddler]({{ site.github.url }}/assets/img/digging-sensory-bin-1.jpg)
+
+For this next sensory bin, you can use sand to bury the bones and allow your child to be a paleontologist (and teach them a new big word!). Conner spent so much time using his tweezers to dig up the bones and he used a paintbrush to carefully dust them off again and again! This quick and easy sensory bin was extremely engaging while putting his fine motor skills to work. Win-win!
+
+## Dinosaur Art Activities for Toddlers {#art-activities}     
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-coloring-page.jpg)
 
@@ -47,7 +58,7 @@ We had so much fun with the art activities this week! We started our unit with t
 
 Dino feet painting was a HUGE hit with my son, Conner. Who doesn’t love to use toys and paint at the same time?!? To set up this activity, just give your child the printable worksheet, a couple small dinosaurs and some liquid paint on a plate. Let your little one explore with the paint and watch them go! This activity really allows parents and teachers to encourage art as a process instead of a product. 
 
-## Fine Motor Activities 
+## Dinosaur Fine Motor Activities for Toddlers {#fine-motor-activities}
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-fine-motor-1.jpg)
 
@@ -63,23 +74,13 @@ I loved watching the focus my son had during this lacing activity. It kept him a
 
 _Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
-## Sensory Bins 
-
-![DinosaurToddler]({{ site.github.url }}/assets/img/dino-puzzle-sensory-bin-2.jpg)
-
-Sensory bins are always a hit in our house, so let's take the opportunity to turn them into a teaching tool! For this sensory bin you can use colored rice, beans, or even some pasta. Then, just place the cards into the bin and let your child explore. Little ones LOVE finding the matching puzzle pieces to put together each dinosaur while working on the letter D!
-
-![DinosaurToddler]({{ site.github.url }}/assets/img/digging-sensory-bin-1.jpg)
-
-For this next sensory bin, you can use sand to bury the bones and allow your child to be a paleontologist (and teach them a new big word!). Conner spent so much time using his tweezers to dig up the bones and he used a paintbrush to carefully dust them off again and again! This quick and easy sensory bin was extremely engaging while putting his fine motor skills to work. Win-win!
-
-## Math Activity 
+## Dinosaur Math Activity {#math-activities}
 
 ![DinosaurToddler]({{ site.github.url }}/assets/img/dino-toddler-math-1.jpg)
 
 How fun are these Dino Math Cards? We love working on counting and number recognition so these were a huge hit. It also gave us the opportunity to work on colors. You can use pom poms to color match or even grab some super cute dinosaur counters! 
 
-## Gross Motor Activities 
+## Dinosaur Gross Motor Activities {#gross-motor-activities}
 
 ![DinosaurToddler2]({{ site.github.url }}/assets/img/dino-gross-motor-action-cards.jpg)
 
