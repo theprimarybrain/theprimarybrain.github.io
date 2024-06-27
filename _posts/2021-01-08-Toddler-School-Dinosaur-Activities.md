@@ -24,7 +24,7 @@ If you want to learn more about how to get started planning activities for your 
 
 ## Included Activities in this Dinosaur Toddlers Theme
 
-In this post, I'm sharing 5 of my favorite types of dinoaur toddler activities:
+In this post, I'm sharing 5 of my favorite types of dinosaur toddler activities:
 - [Dinosaur Sensory Bins](#sensory-bins)
 - [Dinosaur Art Activities](#art-activities)
 - [Dinosaur Fine Motor Activities](#fine-motor-activities)
