@@ -10,17 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Are your little ones as obsessed with dinosaurs as mine are? Dinosaurs are a childhood favorite and a great way to capture your little one’s attention and curiosity. I put together this engaging [Dinosaur Themed Toddler Unit](http://bit.ly/DinoToddler) that is sure to capture your child’s interest! I hope you will join us as we learn about dinosaurs!
-
-If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler learning lessons:
-
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+When I think back on our childhood favorites, dinosaurs are always top of the list! This theme is one of our absolute favorites and I can't wait to share all about it with you!! 
 
 ## Included Activities in this Dinosaur Toddlers Theme
 
