@@ -86,8 +86,20 @@ How fun are these Dino Math Cards? We love working on counting and number recogn
 
 It’s time to brush up on those dinosaur names and get moving! Your little ones will have so much fun pretending to be all the different dinosaurs. Keep some water close by, because we were definitely out of breath by the end of it! These dinosaur cards are an excellent way to get those little bodies moving either at home or in the classroom! 
 
+### Everything you need for a week of Apple Themed Toddler Learning:
+
 [![DinoUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Dinosaur.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
 
-I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](http://bit.ly/DinoToddler) for 5 complete lesson plans and all the printables you need to go with them! I hope you enjoy every minute of playing and learning with your little ones this week!
+I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](http://bit.ly/DinoToddler) for 5 complete lesson plans and all the printables you need to go with them! 
+
+If you are looking for even more toddler learning fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+
+[![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
+
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
+
+I hope you enjoy every minute of playing and learning with your little ones this week!
 
 ### Check out how these activities fit into our year long toddler learning plan in our FREE Toddler Curriculum Map:
