@@ -80,4 +80,4 @@ Once your child turns two, a whole new world will open as they begin to play wit
 - how to express emotions using words
 
 ## How to Teach the Skills Toddlers Need to Learn
-To help make it easier for you to get started teaching your toddlers, I created my FREE Toddler Curriculum Map that lays out 40 weeks of themes that include all the skills I shared in this post. You can download the full curriculum map here:
+To help make it easier for you to get started teaching your toddlers, I created my FREE [Toddler Curriculum Map](https://theprimarybrain.com/toddler%20school/2024/03/13/Toddler-Curriculum-Map/) that lays out 40 weeks of themes that include all the skills I shared in this post. You can download the full curriculum map here:
