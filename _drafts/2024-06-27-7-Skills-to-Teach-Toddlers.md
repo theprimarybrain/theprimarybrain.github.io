@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated June 26, 2024
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated June 27, 2024
 
 Did you know that about 80% of our child's brain develops by the time they are age 3? When I learned this statistic, I quickly realized the importance of teaching age appropriate skills to our toddlers! Teaching toddlers is so fun and rewarding, but it can also be challenging to know what to teach to 2 and 3 year old children. Young children are always learning. They learn by watching, listening, and playing. They are learning when they pick up a toy, when they watch a parent cook dinner in the kitchen, or even when they are riding in a shopping cart. 
 
