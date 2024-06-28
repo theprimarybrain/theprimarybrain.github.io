@@ -12,19 +12,13 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated June 27, 2024
 
-Did you know that about 80% of our child's brain develops by the time they are age 3? When I learned this statistic, I quickly realized the importance of teaching age appropriate skills to our toddlers! Teaching toddlers is so fun and rewarding, but it can also be challenging to know what to teach to 2 and 3 year old children. Young children are always learning. They learn by watching, listening, and playing. They are learning when they pick up a toy, when they watch a parent cook dinner in the kitchen, or even when they are riding in a shopping cart. 
+Did you know that about 80% of our child's brain develops by the time they are age 3? When I learned this statistic, I quickly realized the importance of teaching age appropriate skills to our toddlers! Teaching toddlers is so fun and rewarding, but it can also be challenging to know what to teach to 2 and 3 year old children. 
+
+Young children are always learning. They learn by watching, listening, and playing. They are learning when they pick up a toy, when they watch a parent cook dinner in the kitchen, or even when they are riding in a shopping cart. 
 
 As parents, we are always wondering what we should be teaching our children to set them up for success later in life. Some days are just about making it to bedtime, while other days we find ourselves wanting intentional learning moments. 
 
-To try to make it easier for you to know what to do when you sit down to plan a toddler activity, we are diving into 7 skills areas for toddlers that I focus on when planning toddler activities for my own little ones. As a mom to three kids (ages 1-8) and a classroom teacher with 11 years of experience, I have seen the differences in children as they grow when we take advantage of learning opportunities during the years of toddler development. In this post, I'm sharing 7 skill areas that are important to teach our toddlers. Before we dive in, take a moment to download my free guide to help you learn all my tips and tricks for planning toddler activities:
-
-<div id="fd-form-65388aed2aaccd4af3f7fe5a"></div>
-<script>
-  window.fd('form', {
-    formId: '65388aed2aaccd4af3f7fe5a',
-    containerEl: '#fd-form-65388aed2aaccd4af3f7fe5a'
-  });
-</script>
+To try to make it easier for you to know what to do when you sit down to plan a toddler activity, we are diving into 7 skills areas for toddlers that I focus on when planning toddler activities for my own little ones. As a mom to three kids (ages 1-8) and a classroom teacher with 11 years of experience, I have seen the differences in children as they grow when we take advantage of learning opportunities during the years of toddler development. In this post, I'm sharing 7 skill areas that are important to teach our toddlers. Before we dive in, you can grab my planning guide here: [How To Plan Toddler Activities - The Complete Guide](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-Activities-Planning-Guide/)
 
 ## Let's Dive Into 7 Skills for Toddlers to Learn
 1. [Language Development for Toddlers](#language)
@@ -50,7 +44,7 @@ Making arts and crafts with toddlers is so much fun! There are so many different
 - dot marker art
 - peel and stick stickers art
 
-### 3. Fine Motor Skills for Toddlers {fine-motor}
+### 3. Fine Motor Skills for Toddlers {#fine-motor}
 Fine motor skills involve our ability to make movements as we use the small muscles in our hands.  When we use a pencil, scissors, manipulate play dough, or build a block tower, we are utilizing our fine motor skills. When we press two blocks together, we are utilizing our hand strength to squeeze the blocks together. We also use hand control as we properly line up the blocks for success. Both hand control and strength work together as we develop our fine motor skills. We use these skills every day throughout our daily tasks such as brushing hair or turning a doorknob. 
 
 You can read more in this post: [What are fine motor skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
