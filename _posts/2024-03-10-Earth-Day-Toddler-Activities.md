@@ -28,7 +28,7 @@ _Interested in downloading [these Earth Day activities](https://www.teacherspayt
 
 [![Button]({{ site.github.url }}/assets/img/0button-truegreen-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
 
-## Earth Day Field Trip for Toddlers
+### Earth Day Field Trip for Toddlers
 
 ![Earth Day Cover Image]({{ site.github.url }}/assets/img/recycling-center.jpg)
 
@@ -38,13 +38,13 @@ What better way to kick off a week of Earth Day fun than with a trip to the recy
 
 When you finish the field trip, you can come home and read a book all about recycling and color the pictures.
 
-## Earth Day Sensory Bin for Toddlers
+### Earth Day Sensory Bin for Toddlers
 
 [![EarthDaySensoryBin]({{ site.github.url }}/assets/img/toddler-earth-day-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
 
 In this sensory bin, you can help your little ones learn about the ways our world can help us! Your child will match the colored pictures to the black and white workmat. As they match, you can talk about the ways that each item helps us live our daily lives. 
 
-## Earth Day Math Activities for Toddlers
+### Earth Day Math Activities for Toddlers
 
 [![EarthDaySensoryBin]({{ site.github.url }}/assets/img/toddler-earth-day-math-puzzles.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
 
@@ -55,7 +55,7 @@ Do you have a little one who enjoys making puzzles? Puzzles for toddlers are a H
 
 Learning to recognize patterns is such an important skill for our little ones. When we learn patterns, it is helping us learn what comes next in a series. This will apply to so many other areas of life as they grow. Using these pattern strips, you can help your child learn how to apply glue to the back of a square image. Then, they will paste the picture squares to complete each pattern. 
 
-## Earth Day Fine Motor Activities for Toddlers
+### Earth Day Fine Motor Activities for Toddlers
 
 [![EarthDaySensoryBin]({{ site.github.url }}/assets/img/toddler-earth-day-play-dough.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
 
@@ -67,7 +67,7 @@ Every time I pull out children's scissors, my little ones get so excited! They l
 
 Learning how to hold scissors can be tricky for little ones, so don't be afraid to use hand over hand movements as they learn. 
 
-## Earth Day Science Polution Activity
+### Earth Day Science Polution Activity
 
 [![EarthDaySensoryBin]({{ site.github.url }}/assets/img/toddler-earth-day-science.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
 
@@ -75,7 +75,7 @@ I never imagined I would be teaching my 2 to 3 year toddlers about pollution, bu
 
 Now it is the fun time! Give your child the bag of fresh water. Have them squeeze it and watch the bubbles move over the fish. Then, give your child the bag of polluted water and have them move their fingers over the paper fish underneath it. What do they notice? Does this look like a safe home for the fish? As they squish the sprinkles, they will begin to dissolve and they will see what happens when we throw things into the ocean that don't belong. It is a great way to teach about pollution and the impact on wildlife!
 
-## Grab All the Plans and Printables You Need!
+## Toddler Curriculum
 
 I hope you are feeling inspired to have a week of learning through Earth Day themed activities! You can download this [Earth Day Toddler Unit](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities) and make it easy to plan some fun activities. It includes 11 lesson plans and all the Birthday themed printable materials you will need to make teaching your toddler as easy as possible. 
 
