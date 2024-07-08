@@ -13,6 +13,14 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated July 7, 20
 
 I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler activities in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created a set of [Apple Themed Toddler Activities](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit). Enjoy a peek into our week through a sampling of our activities together!
 
+In this post, I'm sharing 5 of my favorite types of apple toddler activities:
+- [Apple Art Activities](#art-activities)
+- [Apple Sensory Play](#sensory-bins)
+- [Apple Math Activity](#math-activities)
+- [Apple Fine Motor Activities](#fine-motor-activities)
+- [Apple Snacks](#apple-snacks)
+- [Apple Theme Toddler Lesson Plans](#apple-lessons)
+
 ## Apple Toddler Lesson Plans
 Each of the 5 lessons in this unit includes the following activities:
 - literacy/language
@@ -39,7 +47,7 @@ I really wanted the first day of learning to fill my little guy with an exciteme
 ![Cover]({{ site.github.url }}/assets/img/toddler-apple-cover-coloring-sheet.jpg)
 After our shopping trip, we dove right into learning about apples! To begin the first lesson, we colored the cover page for our unit notebook. We read the I CAN statement and discussed what we would be learning about. To prepare the notebook, I stapled a gallon size ziplock bag and copy paper inside a folded piece of construction paper. As we finish activities, we will be gluing the completed work on the pieces of copy paper. Any reusable materials will be kept inside the ziplock bag for use again at a later date. 
 
-### Apple Art Activities
+### Apple Art Activities {#art-activities}  
 ![Coloring Page]({{ site.github.url }}/assets/img/toddler-apple-a-apple-coloring-page.jpg)
 This unit is FILLED with art activities! Each day we work on the letter A and a. We colored a picture to reinforce this learning and associate a picture with the letter of the week. 
 
@@ -49,7 +57,7 @@ This apple seed craft was a huge hit! My son loved getting to glue the apple see
 ![Apple Plate Craft]({{ site.github.url }}/assets/img/toddler-apple-plate-craft.jpg)
 My son had SO MUCH FUN with this apple plate craft! It was one of his first time using scissors, so I could definitely see a need for extra practice in this area. We cut and tore paper, then he used his gluestick to independently glue the paper onto the apple. When he finished, he shouted "the apple is done!!" and was so excited to show his apple to everyone he saw over the next few days. 
 
-### Apple Sensory Exploration
+### Apple Sensory Play {#sensory-bins}   
 ![SensoryBin]({{ site.github.url }}/assets/img/toddler-apple-pie-sensory-bin-play.jpg)
 
 Sensory play and exploration is so important for the toddler age. Allowing your child to use his or her imagination during a hands-on activity will engage the child and help him reach his full potential. I created this Apple Pie Sensory Bin to work on "big A" and "little a" through sensory play. My son would not stop playing for a full hour! 
@@ -60,12 +68,12 @@ We also enjoyed washing apples in this apple water sensory play station. I gave 
 
 _Looking for more information on how to set up a sensory bin?_  You won’t want to miss this blog post: [How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin) 
 
-### Apple Math Activities
+### Apple Math Activities {#math-activities}
 ![MathCards]({{ site.github.url }}/assets/img/toddler-apple-poms-number-match.jpg)
 
 To work on number skills, we added pom pom "apples" to these apple trees. Most children at this age will need support to count the apples, but can add the apples to the trees independently. 
 
-### Apple Fine Motor Activities
+### Apple Fine Motor Activities {#fine-motor-activities}
 ![Playdoh]({{ site.github.url }}/assets/img/toddler-apple-playdoh-2.jpg)
 
 ![Playdoh 2]({{ site.github.url }}/assets/img/toddler-apple-playdoh.jpg)
@@ -79,12 +87,12 @@ This apple lacing fine motor activity was a struggle at first for my little guy.
 
 _Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/) 
 
-### Apple Snacks/Recipes
+### Apple Snacks/Recipes {#apple-snacks}
 ![Apple Snack]({{ site.github.url }}/assets/img/toddler-apple-donuts.jpg)
 ![Apple Snack]({{ site.github.url }}/assets/img/toddler-apple-sandwich.jpg)
 The most exciting part of our day was eating our fun apple snacks! We enjoyed apple "donuts" and apple sandwiches, apple slices, apples dipped in caramel, and homemade applesauce. All of our snacks were delicious! 
 
-## Apple Theme Toddler Lesson Plans
+## Apple Theme Toddler Lesson Plans {#apple-lessons}
 
 I hope you are feeling inspired to start working with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)! 
 
