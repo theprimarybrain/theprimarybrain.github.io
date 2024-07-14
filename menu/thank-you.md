@@ -12,4 +12,6 @@ Once you find my email, move it to your inbox. This should help you receive my e
 
 I'm so glad you are here!
 
+🩵Laurin
+
 ![Laurin]({{ site.github.url }}/assets/img/Laurins Headshot_0133.jpg)
