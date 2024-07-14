@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Thank you for signing up!
+title: Thanks for stopping by The Primary Brain!
 ---
-## Thank you for stopping by The Primary Brain!
-
-### Your freebie will be emailed shortly, so I want to make sure you don't miss it! 
+## Your freebie will be emailed shortly, so I want to make sure you don't miss it! 
 
 **If you don't see the email in your inbox in the next few minutes, please check your junk/promotions folders.** Signing up with your personal email address will help to make sure you don't miss a thing!
 
