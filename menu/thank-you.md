@@ -8,6 +8,6 @@ title: Thank you for signing up!
 
 Once you find my email, move it to your inbox. This should help you receive my emails in the future. You can also add my email address to your contact list so all of your future freebies come right to you!
 
-I'm so glad you are here!! 
+I'm so glad you are here!
 
 ![Laurin]({{ site.github.url }}/assets/img/Laurins Headshot_0133.jpg)
