@@ -34,10 +34,22 @@ There are always a couple of kids who show up to school without a costume. My sw
 This year, my students are naturally chatty. Finding ways to keep the chatter to a minimum is a struggle...especially when all my kids are wearing costumes. I made sure to have silly stories, a class reflection, and lots of giggles to keep the chatter down and the learning a priority. 
 
 ## 5. Save Treats for the End of the Day
-Several students will typically show up to class with treat bags for their friends. I allow this, but we wait to pass out until the very end of the school day. Otherwise, it never fails that a few kids will be sneaking candy throughout the day. Nothing is worse than having to take away their treats because they didn't follow directions. 
+Several students will typically show up to class with treat bags for their friends. I allow this, but we wait to pass out until the very end of the school day. Otherwise, it never fails that a few kids will be sneaking candy throughout the day. Nothing is worse than having to take away their treats because they didn't follow directions. If you want to make your own treat bags, then check out this post for some free treat bag tags: [Halloween Treat Bag Tags.](https://theprimarybrain.com/freebies/2017/10/14/Blog-Launch-Halloween-Teacher-Gift/)
 
 ## 6. Have FUN! 
-Halloween is supposed to be a fun day. If your school is like mine, then students will be wearing costumes. We even have a parade! Spend this special day getting to know your students and plan some special activities to do with them. It is days like this that they will remember forever. 
+Halloween is supposed to be a fun day. If your school is like mine, then students will be wearing costumes. We even have a parade! 
+
+I love to play a Halloween version of I Have Who Has and you can grab it free in this post: [Halloween I Have Who Has](https://theprimarybrain.com/freebies/2017/10/17/Halloween-I-Have-Who-Has-Cards/)
+
+If you want to try something really creative, then you could also try out a [Spider Classroom Transformation](https://theprimarybrain.com/classroom%20decor/2019/10/29/Spider-Theme-Day-Classroom-Transformation/) this Halloween season! 
+
+Spend this special day getting to know your students and plan some special activities to do with them. It is days like this that they will remember forever. 
+
+### Here are some other FREE activities to have on hand this Halloween!
+- [Halloween Sentence Sorting Cards](https://theprimarybrain.com/freebies/2017/10/18/Halloween-Sentence-Sorting-Cards/)
+- [Halloween Write and Wipe Activity](https://theprimarybrain.com/literacy%20activities/2017/10/15/Halloween-Write-and-Wipe/)
+- [Halloween Name Tags](https://theprimarybrain.com/decor/2017/10/16/Halloween-Themed-Bulletin-Board-Name-Tags/)
+- [Fall Activities for Kids](https://theprimarybrain.com/fall/2019/09/25/Favorite-Fall-Activities/)
 
 I hope these tips help you make the most of your Halloween with your littles! Here is an free resource you can use with your students to make Halloween a fun day for your students:
 
@@ -48,13 +60,3 @@ I hope these tips help you make the most of your Halloween with your littles! He
     containerEl: '#fd-form-65300484fe758a3c69ed6fea'
   });
 </script>
-
-### HERE ARE SOME OTHER FALL ACTIVITIES YOU MAY BE INTERESTED IN:
-
-[Fall Fine Motor Activities](https://theprimarybrain.com/fine%20motor%20activities/2022/09/06/Fall-Fine-Motor-Activities/)
-
-[A Thankfulness Writing Project](https://theprimarybrain.com/literacy%20activities/2017/11/10/Thankfulness-Lapbook-Writing-Craftivity/)
-
-[Fall Activities for Kids](https://theprimarybrain.com/fall/2019/09/25/Favorite-Fall-Activities/)
-
-
