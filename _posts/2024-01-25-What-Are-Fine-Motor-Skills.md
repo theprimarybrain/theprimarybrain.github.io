@@ -65,7 +65,7 @@ One of our favorite activities for working on fine motor skills is to play with 
 
 ## Looking to learn about other activities you can do with your little ones? Check out these blog posts:
 
-[How to Plan Toddler Activities](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-School-Planning-Guide/)
+[How to Plan Toddler Activities](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-Activities-Planning-Guide/)
 
 [How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin/)
 

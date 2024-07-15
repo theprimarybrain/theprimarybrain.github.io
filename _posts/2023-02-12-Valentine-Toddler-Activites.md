@@ -96,7 +96,7 @@ If adding learning activities into your home this year sounds like something you
 
 ### Here are some other blog posts to help you keep planning activities for your little ones:
 
-[How to Plan Toddler Activities - The Complete Guide](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-School-Planning-Guide)
+[How to Plan Toddler Activities - The Complete Guide](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-Activities-Planning-Guide)
 
 [Spring Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/03/28/Spring-Toddler-Activities)
 

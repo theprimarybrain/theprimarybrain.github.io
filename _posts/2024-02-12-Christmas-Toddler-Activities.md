@@ -100,6 +100,6 @@ If adding learning activities into your home this year sounds like something you
 
 [Salt Dough Christmas Ornaments](https://theprimarybrain.com/christmas/2019/12/04/Salt-Dough-Christmas-Ornaments/)
 
-[How to Plan Toddler Activities - The Complete Guide](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-School-Planning-Guide)
+[How to Plan Toddler Activities - The Complete Guide](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-Activities-Planning-Guide)
 
 I hope these activities give you the tools to play and learn with your little ones all year long! Feel free to send me a message on Insta @theprimarybrain if you have any questions and I would love to chat about all things toddler learning with you! 
