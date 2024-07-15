@@ -7,6 +7,7 @@ tags: [toddler, toddler school]
 image:
   feature: 7-skill-areas-to-teach-toddlers.jpg
   teaser: 7-skill-areas-to-teach-toddlers.jpg
+  alt: 7 skill areas to teach toddlers
   credit: Laurin Brainard
   creditlink: ""
 ---
