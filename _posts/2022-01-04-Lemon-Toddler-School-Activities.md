@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lemon Themed Toddler School Lessons
+title: Lemon Themed Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
@@ -121,9 +121,7 @@ Finally, to wrap up this lemon unit, how about a lemon explosion!? To do this sc
 
 Let’s get moving! Lemons are so fun to use for gross motor activities. Our favorite gross motor activity in this unit was picking lemons from a tree! To prepare for the activity, all I did was cut out three tree template pieces to make pretend “trees” and taped them to the wall. Then gently tape lemon cut outs at all heights so your child will have easy access to “pick” the lower lemons off the tree. I found it worked best to roll the tape up onto the lemon. Then, the lemons will gradually become harder to “pick off the tree.” My son especially loved the highest lemons where he had to stand on his tippy toes to reach! We did a few other gross motor activities in this unit, but this is the one my son asked to do every single day!
 
-
-[![LemonUnit]({{ site.github.url }}/assets/img/Toddler-Cover-Lemon.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Lemon-Preschool-Curriculum-Letter-L-4616157?st=af76699ab021192774b95a849e291d33&utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20School%20Unit)
-
+[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon2.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
 
 I hope you found some great ideas to use at home (or at school!) with your little ones! If you want to make teaching your toddler super simple (and sweet!) this week, then check out the [Lemon Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Lemon-Preschool-Curriculum-Letter-L-4616157?st=af76699ab021192774b95a849e291d33&utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20School%20Unit) for 5 complete and detailed lesson plans and all the printables you’ll need to make the week easy cheesy lemon squeezy! I hope you enjoy every minute of playing and learning with your little ones!
 
