@@ -21,7 +21,7 @@ Along with their word lists, my students also receive a sheet of flash cards tha
 ![Silly Sentences]({{ site.github.url }}/assets/img/fry-spelling-bundle-silly-sentences.jpg)
 ![Rainbow Write It]({{ site.github.url }}/assets/img/fry-spelling-bundle-rainbow-write-it.jpg)
 
-We complete literacy centers four days per week in our classroom. One of the workshop rotations is always a spelling center. This center is always filled with a few different print and go worksheets that my students can complete independently. My [Spelling Centers for Any Word List](http://bit.ly/2F5RE2k) are perfect because they do not need to be changed each time I pass out a new word list. A few student favorites include writing silly sentences, rainbow writing, and spelling words with yarn or playdoh. You can read more about my spelling centers in my [Introducing Weekly Spelling Words Blog Post](http://theprimarybrain.com/literacy%20activities/2017/10/09/Introducing-Weekly-Spelling-Words/).
+We complete literacy centers four days per week in our classroom. One of the workshop rotations is always a spelling center. This center is always filled with a few different print and go worksheets that my students can complete independently. My [Spelling Centers for Any Word List](http://bit.ly/2F5RE2k) are perfect because they do not need to be changed each time I pass out a new word list. A few student favorites include writing silly sentences, rainbow writing, and spelling words with yarn or playdoh. You can read more about my spelling centers in my [Introducing Weekly Spelling Words Blog Post](https://theprimarybrain.com/literacy%20activities/2017/10/09/Introducing-Weekly-Spelling-Words/).
 
 ![Homework]({{ site.github.url }}/assets/img/fry-spelling-bundle-homework.jpg)
 
