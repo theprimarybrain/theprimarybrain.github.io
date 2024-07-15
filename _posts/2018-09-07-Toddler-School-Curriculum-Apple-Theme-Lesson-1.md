@@ -107,11 +107,10 @@ If you are looking for even more toddler learning fun for you and your little on
 [![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
 
 ### Here are some of our other favorite toddler themes: 
+- [Dinosaur Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2021/01/08/Toddler-School-Dinosaur-Activities/) 
+- [Zoo Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2020/03/08/Toddler-School-Curriculum-Zoo-Themed-Lessons/) 
+- [Lemon Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/01/04/Lemon-Toddler-School-Activities/) 
 
-[Dinosaur Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2021/01/08/Toddler-School-Dinosaur-Activities/) 
-
-[Zoo Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2020/03/08/Toddler-School-Curriculum-Zoo-Themed-Lessons/) 
-
-[Lemon Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/01/04/Lemon-Toddler-School-Activities/) 
+You can also check out all the themes in this post: [40 Toddler Activity Themes](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
 
 ### If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
