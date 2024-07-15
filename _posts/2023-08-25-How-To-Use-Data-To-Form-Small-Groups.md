@@ -11,6 +11,8 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated July 15, 2024
+
 Placing your students into groups for small group reading can be tricky! All of your students have different strengths and abilities and we want to meet each student at their individual instructional level. We know the end goal is to teach our students how to read, but how do we get there? What skills and materials do we use to reach this goal? The good news is...we can use data to make decisions to place our students in groups based on their phonics abilities! 
 
 I created a [FREE Phonics Assessment](https://theprimarybrain.com/small%20group%20reading/2023/08/22/Phonics-Skills-Assessment/) that you can use to identify the phonics skills that your students already know and what they are ready to learn. Then, once you have this data, you can use it to form your small groups! If you haven't already given a phonics skills assessment, then [_click here to read this post_](https://theprimarybrain.com/small%20group%20reading/2023/08/22/Phonics-Skills-Assessment/) for a free assessment!

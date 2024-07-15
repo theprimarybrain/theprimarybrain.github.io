@@ -11,11 +11,15 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---  
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated July 15, 2024
+
 Getting started with centers can be so tricky! What activities should you use? What can your students manage independently? There are so many things to consider! 
 
 When I think about successful literacy centers, I immediately think about material management. You need enough materials to keep all of your students engaged in learning, but they also need to be easy enough to manage that your students can complete the activities on their own.
 
 In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you!
+
+If you haven't yet used data to form your small groups, then check out this post: [How to Use Data to Form Small Groups](https://theprimarybrain.com/small%20group%20reading/2023/08/25/How-To-Use-Data-To-Form-Small-Groups/)
 
 ## Choosing Activities For Your Students
 

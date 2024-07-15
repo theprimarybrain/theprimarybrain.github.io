@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 12 Fantastic And Fun Halloween Activities For Toddlers
+title: Halloween Activities For Toddlers
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [halloween toddler]
@@ -80,4 +80,8 @@ A busy toddler is a happy toddler, and when looking for some Halloween preschool
 
 **Don’t worry, I’ve got all seasons covered!** If you absolutely love the Toddler School Curriculum Halloween Activities and are looking for something you can use for all seasons, then I suggest you check out my [Seasonal Toddler Bundle](https://www.teacherspayteachers.com/Product/Seasonal-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-7642528?utm_source=PB%20Blog&utm_campaign=Seasonal%20Toddler%20Bundle%20Upsell) for activities for fall, winter, spring, and summer. Your toddler will definitely enjoy all of the easy toddler activities included! 
 
-You can also plan ahead by taking a look at my winter activities on my blog! Just [click here to get ahead](https://theprimarybrain.com/toddler%20school/2022/01/19/Winter-Themed-Toddler-Activities/) on some winter ideas! 
+### Here are some other blog posts with toddler activites you may love:
+[Spider Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/09/20/Easily-Teach-the-Letter-S/)
+[Pumpkin Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/09/01/Pumpkin-Toddler-Activities/)
+[Fall Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2024/02/10/Fall-Themed-Toddler-Activities/)
+[Turkey Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/11/05/Turkey-Activities-For-Toddlers/)

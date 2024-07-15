@@ -101,8 +101,8 @@ I hope you enjoy playing and learning with your little ones this week! Feel free
 
 ### Here are some of our other blog posts you may enjoy, too!
 
-[5 Valentine Activies for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/12/Valentine-Toddler-Activites/)
+- [5 Valentine Activies for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/12/Valentine-Toddler-Activites/)
+- [5 Patriotic Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/11/08/Patriotic-Toddler-Activities/)
+- [St. Patrick's Day Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/23/St-Patricks-Day-Toddler-Activities/)
 
-[5 Patriotic Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/11/08/Patriotic-Toddler-Activities/)
-
-[St. Patrick's Day Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2023/02/23/St-Patricks-Day-Toddler-Activities/)
+If you want to take a closer look at our favorite themes to use to teach toddlers, then check out this post: [40 Themes For Toddler Lessons and Activities](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)

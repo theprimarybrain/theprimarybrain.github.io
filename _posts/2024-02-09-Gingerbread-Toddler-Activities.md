@@ -92,12 +92,11 @@ If adding learning activities into your home this year sounds like something you
 
 ### Here are some other blog posts to help you keep planning activities for your little ones:
 
-[How to Plan Toddler Activities - The Complete Guide](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-Activities-Planning-Guide)
+- [How to Plan Toddler Activities - The Complete Guide](https://theprimarybrain.com/toddler%20school/2023/10/24/Toddler-Activities-Planning-Guide)
+- [Winter Themed Toddler School Activities](https://theprimarybrain.com/toddler%20school/2022/01/19/Winter-Themed-Toddler-Activities/)
+- [How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin)
+- [Salt Dough Christmas Ornaments](https://theprimarybrain.com/christmas/2019/12/04/Salt-Dough-Christmas-Ornaments/)
 
-[Winter Themed Toddler School Activities](https://theprimarybrain.com/toddler%20school/2022/01/19/Winter-Themed-Toddler-Activities/)
-
-[How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin)
-
-[Salt Dough Christmas Ornaments](https://theprimarybrain.com/christmas/2019/12/04/Salt-Dough-Christmas-Ornaments/)
+If you want to take a closer look at our favorite themes to use to teach toddlers, then check out this post: [40 Themes For Toddler Lessons and Activities](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
 
 I hope these activities give you the tools to play and learn with your little ones all year long! Feel free to send me a message on Insta @theprimarybrain if you have any questions and I would love to chat about all things toddler learning with you! 
