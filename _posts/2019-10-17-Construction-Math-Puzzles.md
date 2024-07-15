@@ -18,7 +18,7 @@ Since this was Conner's first experience with addition facts, I started him out 
 
 ![DoublesFacts]({{ site.github.url }}/assets/img/construction-puzzles-various.jpg)
 
-If you would like to try these puzzles at home or in your own classroom, then [click here to download my Construction Puzzles Freebie](https://drive.google.com/file/d/1ThE2ebOGnzZ6m0lG5qx6jyRE2sx6GRJY/view?usp=sharing)! If you want to learn how to differentiate math instruction for your students, then [click here to read my blog post all about it](https://theprimarybrain.com/math%20activites/2018/05/29/Differentiating-Math-Instruction/)!
+If you would like to try these puzzles at home or in your own classroom, then [click here to download my Construction Puzzles Freebie](https://drive.google.com/file/d/1ThE2ebOGnzZ6m0lG5qx6jyRE2sx6GRJY/view?usp=sharing)! If you want to learn how to differentiate math instruction for your students, then [click here to read my blog post all about it](https://theprimarybrain.com/math%20activities/2018/05/29/Differentiating-Math-Instruction)!
 
 I hope you have fun playing and learning with your little ones! 
 
