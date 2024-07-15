@@ -8,8 +8,14 @@ title: Home
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
+  {% if page.image.alt %}
+    {% capture altTeaser %}{{ post.image.alt }}{% endcapture %}
+  {% else %}
+    {% capture altTeaser %}{{ post.title }}{% endcapture %}
+  {% endif %}
+
   {% if post.image.teaser %}
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image.teaser }}"></a>
+    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image.teaser }}" alt="{{ altTeaser }}"></a>
   {% endif %}
   <p>
     {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
