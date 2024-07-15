@@ -22,20 +22,20 @@ I have been doing a lot of baking this month, so I thought I would save some of 
 
 ### Long Vowel Roll and Read Activity
 
-During this [roll it, read it, color it activity](http://bit.ly/2Bey03B), students will roll a die to determine the word to read. Each time they read a word, they get to place a counter over the word. My students go crazy over the mini Target erasers that we all know and love. Such a great motivator for only $1! I like to laminate these worksheets to cut down on the prep work I have to do each year. I also LOVE Astrobrights paper since it adds such a fun pop of color to the worksheet. <a target="_blank" href="https://www.amazon.com/gp/product/B01GUUARV0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GUUARV0&linkCode=as2&tag=theprimarybra-20&linkId=92aa47e64d062f1f609b3933818611f3">Click here to grab a 150 page pack of Astrobrights paper on Amazon.</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B01GUUARV0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> This is the best deal I have found for Astrobrights paper!
+During this [roll it, read it, color it activity](http://bit.ly/2Bey03B), students will roll a die to determine the word to read. Each time they read a word, they get to place a counter over the word. My students go crazy over the mini Target erasers that we all know and love. Such a great motivator for only $1! I like to laminate these worksheets to cut down on the prep work I have to do each year. I also LOVE Astrobrights paper since it adds such a fun pop of color to the worksheet. This is the best deal I have found for Astrobrights paper!
 
 ![Long I Mega Blocks]({{ site.github.url }}/assets/img/long-i-open-blocks.jpg)
 ![Long I Mega Blocks]({{ site.github.url }}/assets/img/long-i-closed-blocks.jpg)
 
 ### Using Mega Blocks to Form Words
 
-I put these blocks in a center to help my students use a tactile material to form a word. For this activity, my students focused on forming **i_e words**. They had to use four letters to form each word and place on the base. They recorded their words on primary lined writing paper. <a target="_blank" href="https://www.amazon.com/gp/product/B007GE75HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007GE75HY&linkCode=as2&tag=theprimarybra-20&linkId=f1e3a90fcd89179a4e2d8ee84468809c"> Click here to grab this Mega Blocks 80-Piece set on Amazon. </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B007GE75HY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> This was the perfect set for my class since it came with lots of standard blocks that click together.
+I put these blocks in a center to help my students use a tactile material to form a word. For this activity, my students focused on forming **i_e words**. They had to use four letters to form each word and place on the base. They recorded their words on primary lined writing paper. This was the perfect set for my class since it came with lots of standard blocks that click together.
 
 ![Long I Cut and Sort]({{ site.github.url }}/assets/img/long-i-cut-and-sort.jpg)
 
 ### Long I Cut and Sort
 
-This [long I cut and sort worksheet]((http://bit.ly/2iJ1wqy)) focuses on two specific spelling patterns. Students cut out each word and sort them into the correct box. Students whisper read the words aloud to practice reading long vowel sounds. I prepare my intensive readers for this activity by reviewing the spelling pattern prior to sorting. I have the students use two colored highlighters to identify and highlight the two spelling patterns. This helps all students to be successful during this activity. 
+This [long I cut and sort worksheet]((http://bit.ly/2iJ1wqy) focuses on two specific spelling patterns. Students cut out each word and sort them into the correct box. Students whisper read the words aloud to practice reading long vowel sounds. I prepare my intensive readers for this activity by reviewing the spelling pattern prior to sorting. I have the students use two colored highlighters to identify and highlight the two spelling patterns. This helps all students to be successful during this activity. 
 
 ![Long I Write and Wipe]({{ site.github.url }}/assets/img/long-i-write-and-wipe.jpg)
 
