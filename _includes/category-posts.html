@@ -1,5 +1,5 @@
 <div class="related">
-  <h1>Categories:</h1>
+  <h3>Categories:</h3>
 
   {% if post %}
     {% assign categories = post.categories %}
@@ -10,9 +10,9 @@
     <ul class="related-posts">
     {% for category in categories %}
       <li>
-        <h3>
+        <h4>
           <a href="{{ site.baseurl }}/menu/categories/#{{ category | url_encode}}">{{category}}</a>
-        </h3>
+        </h4>
       </li>
     {% endfor %}
     </ul>
