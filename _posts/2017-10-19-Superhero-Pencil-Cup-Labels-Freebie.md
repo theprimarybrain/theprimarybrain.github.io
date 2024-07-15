@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Launch Giveaway Part 6 - Superhero Themed Pencil Cup Labels
+title: Superhero Pencil Cup Labels
 author: Laurin Brainard
 categories: [Classroom Decor]
 tags: [decor,freebie,superhero]

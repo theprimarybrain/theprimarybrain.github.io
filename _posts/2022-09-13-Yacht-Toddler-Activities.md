@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yacht Toddler Activities - Simple Activities for the Letter Y
+title: Yacht Themed Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]

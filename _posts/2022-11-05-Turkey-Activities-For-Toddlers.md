@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turkey Activities For Toddlers To Help Teach The Letter T
+title: Turkey Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
