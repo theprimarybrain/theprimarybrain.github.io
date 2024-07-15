@@ -6,8 +6,14 @@ layout: default
   {{ page.title }}
 </h1>
 
+{% if page.image.alt %}
+  {% capture altTitle %}{{ page.image.alt }}{% endcapture %}
+{% else %}
+  {% capture altTitle %}{{ page.title }}{% endcapture %}
+{% endif %}
+
 {% if page.image.feature %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
+  <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}" alt="{{ altTitle }}">
 {% endif %}
 
 {{ content }}
