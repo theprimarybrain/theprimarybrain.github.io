@@ -27,6 +27,6 @@ Add white rice to a zip-top bag. We use [Ziploc Gallon Freezer Bags](https://amz
 
 ![SensoryBin]({{ site.github.url }}/assets/img/watermelon-sensory-bin.jpg)
 
-Now that you made sensory rice, you can do so many things with it! My son loves to "cook" with measuring cups, spoons, and small dishes. You can also [click here](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Watermelon-Themed-Lessons-4762010?utm_source=TPB%20Blog&utm_campaign=20190820%20Watermelon%20Sensory%20Bins) to grab my sensory bin printables in my Watermelon Themed Toddler School Unit.
+Now that you made sensory rice, you can do so many things with it! My son loves to "cook" with measuring cups, spoons, and small dishes. You can also [click here for sensory bin printables](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Watermelon-Themed-Lessons-4762010?utm_source=TPB%20Blog&utm_campaign=20190820%20Watermelon%20Sensory%20Bins) in my Watermelon Themed Toddler School Unit.
 
 I hope you love playing and learning with your little ones! If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

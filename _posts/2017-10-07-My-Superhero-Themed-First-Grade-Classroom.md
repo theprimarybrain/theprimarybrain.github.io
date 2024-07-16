@@ -35,6 +35,6 @@ I hope you enjoyed a peek inside my home away from home. My superhero themed res
 
 [![TpTButton]({{ site.github.url }}/assets/img/button-red-take-look-at-bundle.jpg)](https://www.teacherspayteachers.com/Product/Superhero-Themed-Classroom-Decor-Pack-BUNDLE-3255953?utm_source=PB%20Blog&utm_campaign=Superhero%20Decor%20Bundle)
 
-If you want to create your own Superhero Data Wall, you can [click here](https://theprimarybrain.com/classroom%20decor/2017/10/28/Tracking-Student-Data-in-First-Grade/) to read all about [How I Track Student Data in my Superhero Classroom](https://theprimarybrain.com/classroom%20decor/2017/10/28/Tracking-Student-Data-in-First-Grade/). 
+If you want to create your own Superhero Data Wall, you check out this post: [How I Track Student Data in my Superhero Classroom](https://theprimarybrain.com/classroom%20decor/2017/10/28/Tracking-Student-Data-in-First-Grade/)
 
 If you want to save this post to read later, then just [Click here to save this post to your favorite Pinterest board.](https://pin.it/ktBB22Y).

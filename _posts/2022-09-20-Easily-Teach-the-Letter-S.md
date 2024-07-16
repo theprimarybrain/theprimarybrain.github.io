@@ -85,7 +85,7 @@ These are just a few of the fantastic fun activities in my [Letter S Spider Acti
 
 Don’t forget I have a whole toddler curriculum that will help your child learn the alphabet, while also working on important skills your child will need before kindergarten! You can grab all these spider activities for toddlers, plus 25 other themes in my [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell). 
 
-Keeping routine when learning the alphabet is not only helpful for children but makes life easier for you! You’ll get all you see here **and** activities for the rest of the alphabet, all at a great price!  You can grab the Toddler School A-Z Curriculum [here](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell)!
+Keeping routine when learning the alphabet is not only helpful for children but makes life easier for you! You’ll get all you see here **and** activities for the rest of the alphabet, all at a great price!  You can grab the [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) and start making memories with your little learners today!
 
 ### What Other A-Z Activities Do I Have? 
 

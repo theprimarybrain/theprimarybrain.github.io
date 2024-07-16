@@ -44,7 +44,7 @@ The final step was to take a black marker and trace over all the pencil lines. T
 
 One of my favorite parts of this project was seeing how each student interpreted the flower so differently. Every student created a flower that was completely unique from any other flower in the class. I hope this post has inspired you to create echo art flowers with your class. This is a project I will definitely repeat next year!
 
-Be sure to [click here](https://pin.it/mtjl7svm6hq5zl) to save this post to your favorite Pinterest board.
+Be sure to [click here to save to Pinterest](https://pin.it/mtjl7svm6hq5zl) to read again later!
 
 <script>
   (function(w, d, t, s, n) {

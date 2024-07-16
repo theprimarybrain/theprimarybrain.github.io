@@ -42,6 +42,6 @@ The best part about this binder is that it is jam-packed with practice opportuni
 
 During centers, I like to work on this binder spread with a small group. I will usually place a few letter cards on the table and ask my students to find a specific letter. They will look for the uppercase and lowercase letter and place it in the boxes. Then, they get to practice writing the letter in the box as many times as they can!
 
-If you think this Letter of the Day Boost Binder activity will help you in your classroom, you can [CLICK HERE](https://www.teacherspayteachers.com/Product/Letter-of-the-Day-Activity-Reading-Boost-Binder-FREEBIE-7067735?st=dc311d8442f7acf6e8428562b3bbc884) to download the freebie from my TpT store! 
+If you think this Letter of the Day Boost Binder activity will help you in your classroom, you can [click here to download the freebie](https://www.teacherspayteachers.com/Product/Letter-of-the-Day-Activity-Reading-Boost-Binder-FREEBIE-7067735?st=dc311d8442f7acf6e8428562b3bbc884) from my TpT store! 
 
 If you are looking for even more phonics activities to use with your students, then check out my [Reading Boost Binder](https://www.teacherspayteachers.com/Product/Reading-Intervention-Binder-Small-Group-Phonics-Activities-7067708) for all the tools you need for phonics intervention in your classroom!

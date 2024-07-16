@@ -73,8 +73,6 @@ I always find that learning math is so much more fun when the activity uses real
 
 [![Summer Toddler Cover]({{ site.github.url }}/assets/img/toddler-summer-upsell-cover.jpg)](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post)
 
-I hope you are feeling inspired to dive into summer learning activities for your preschoolers this week! [Click here](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post) if you want to download this [Summer Toddler School Unit](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post) to have 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible.
-
-Want to save this blog post to read later? Just [click here]() to save to your favorite Pinterest board!
+I hope you are feeling inspired to dive into summer learning activities for your preschoolers this week! You can download this [Summer Toddler School Unit](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post) to have 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible.
 
 I hope you enjoy playing and learning with your little ones this week! 
