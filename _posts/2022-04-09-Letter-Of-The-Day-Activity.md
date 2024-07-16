@@ -15,20 +15,6 @@ Are you looking for a simple and fun way to work on letters with your students? 
 
 Each student will need their own binder. All you have to do is add 2-4 sheet protectors to a binder or folder and fill with the letter of the day practice pages. Then, you will cut out the letter cards and place in a zip-top bag. We place this bag in the front pocket of our binder so my students always know where it is! Then, you will also need a dry erase marker and something to erase with, and your binders are ready to go!
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_linkid = "b26703d8e1680eeaad2cc4ee3ff8b99f";
-amzn_assoc_asins = "B000066OP7,B07R8D1RHS,B00I8OBAOU,B08BQMD5RC";
-amzn_assoc_title = "Boost Binder Materials";
-amzn_assoc_search_bar = "true";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ## Letter of the Day Activities
 
 ![BoostBinder]({{ site.github.url }}/assets/img/boost-binder-letter-of-the-day.jpg)
