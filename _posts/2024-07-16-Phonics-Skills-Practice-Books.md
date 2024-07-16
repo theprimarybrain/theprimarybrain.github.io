@@ -67,6 +67,7 @@ This is a great activity to have your students complete during an independent ce
 If you want to make planning for small groups simple and easy this year, then check out my Phonics Skills Practice Books for 104 books that focus on a variety of kindergarten and first grade phonics skills! Once you give the phonics assessment, you can just print the books and be ready to teach! You can check it out here:
 
 [![Phonics Skills Book Bundle]({{ site.github.url }}/assets/img/cover-phonics-skills-books.jpg)](https://www.teacherspayteachers.com/Product/Phonics-Skills-Practice-Books-Assessment-Reading-Fluency-Passages-Activities-7607081?utm_source=PB%20Blog&utm_campaign=Phonics%20Skills%20Practice%20Books%20Bundle)
+
 [![Green Button to Grab Unit Here]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/Phonics-Skills-Practice-Books-Assessment-Reading-Fluency-Passages-Activities-7607081?utm_source=PB%20Blog&utm_campaign=Phonics%20Skills%20Practice%20Books%20Bundle)
 
 Have a wonderful day reading a book with your little learners!
