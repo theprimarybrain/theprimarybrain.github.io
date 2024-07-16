@@ -38,19 +38,6 @@ Do you have a teacher in your life that you would love to buy something special 
 
 12. [**Teachers Pay Teachers Gift Card**](https://www.teacherspayteachers.com/Gift-Card) - *To help add time a teacher's day.* Teachers Pay Teachers has saved me so many times since I can just print a lesson, make copies, and be ready to teach! No extensive lesson planning required!
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "theprimarybra-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Teacher Self-Care Items";
-amzn_assoc_linkid = "5ccc667ad9dddabdb258a22d67ac2c27";
-amzn_assoc_asins = "B01CYDXMSW,B01BLUR2WG,B005PO9T44,B001UP2ULQ,B077NZ1R8J,B00GZRA3MW,B00714PJAE,B007IFT0EW";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 I hope you enjoyed reading about some of my favorite self-care items. All of these items are sure to help teachers take care of their emotional and physical well being. I hope you find the perfect gift for that special teacher in your life! 
 
 <script>
