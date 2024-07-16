@@ -12,15 +12,15 @@ image:
 ---
 November is a time where we stop to think about what we are thankful for. Every time I open social media I am inundated with thankfulness campaigns. I wanted to create a writing craftivity for my students that we can work on each week in November so that we too can reflect on what we are thankful for. I created this [Thankfulness Lapbook](http://bit.ly/2jfb1AR) to do just that! 
 
-![Cover]({{ site.github.url }}/assets/img/thankfulness-lapbook-front-cover.jpg)
+![Thankfulness Lapbook]({{ site.github.url }}/assets/img/thankfulness-lapbook-front-cover.jpg)
 
 I always begin a lapbook by having my students create their cover and write their names. This way, I can set it aside for later and we never wonder who the lapbook belongs to. On the cover, students will draw a portrait of how they look when they are thankful, then draw a picture of something they are thankful for. I love to see what they come up with! After completing the cover, we usually set the lapbooks aside for another day.
 
-![Cover]({{ site.github.url }}/assets/img/thankfulness-lapbook-full-inside.jpg)
+![Thankfulness Lapbook Inside]({{ site.github.url }}/assets/img/thankfulness-lapbook-full-inside.jpg)
 
 Inside the lapbook is where the real reflection begins. We write about the people we are thankful for, then we write five reasons on why it is important to be thankful. I love the critical thinking required in coming up with these reasons. It is always easy to say what we are thankful for, but many of my littles struggle to come up with five reasons on why thankfulness is important. We also write how we can show thankfulness and place strips in the pocket about things we are thankful for. My hope is that I can train my students on how to be thankful in their daily life.
 
-![Back Cover]({{ site.github.url }}/assets/img/thankfulness-lapbook-back-cover.jpg)
+![Thankfulness Lapbook Back Cover]({{ site.github.url }}/assets/img/thankfulness-lapbook-back-cover.jpg)
   
 The last step of the lapbook is to write a thank you letter to our parents. Our parents do SO MUCH for our us and it is so important to recognize them every chance we get. Since some students do not live with their parents, I created alternate versions such as aunt, uncle, and grandparents so that all of our littles are accommodated. 
 
