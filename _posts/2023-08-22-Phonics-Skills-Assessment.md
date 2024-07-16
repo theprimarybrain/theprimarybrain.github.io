@@ -42,4 +42,6 @@ If you would like to grab this FREE assessment, then just sign up using this for
 
 After you have given the assessment, then check out this post to learn more about how to use the assessment data to form your small groups: [How to Use Data to Form Small Groups](https://theprimarybrain.com/small%20group%20reading/2023/08/25/How-To-Use-Data-To-Form-Small-Groups/)
 
+You can also read about my favorite teaching resource for small groups in this post: [Use Phonics Books to Build Confident Readers](https://theprimarybrain.com/writing/2024/07/16/Phonics-Skills-Practice-Books/)
+
 If you have any questions on how to use this assessment to help you form your reading groups, just send me a message on Instagram @theprimarybrain and I am happy to chat! 
