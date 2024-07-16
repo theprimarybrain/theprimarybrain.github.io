@@ -37,7 +37,7 @@ Then, we added fresh soil.
 
 Finally, we planted the milkweed and filled the dirt in around our new plant. It was so much fun!
 
-![Binoculars]({{ site.github.url }}/assets/img/caterpillar-binoculars.jpg)
+![Caterpillar Binoculars Craft]({{ site.github.url }}/assets/img/caterpillar-binoculars.jpg)
 
 When we finished planting, we used our [Kwikstix Paints](https://amzn.to/2w0FVQr) to make some "binoculars" to use while we hunted for our caterpillar friends. We didn't find any caterpillars...YET... but we found some snails and had fun trying!
 

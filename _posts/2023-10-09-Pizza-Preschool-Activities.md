@@ -89,4 +89,4 @@ I hope you enjoy playing and learning with your little ones this week! Feel free
 
 [Ocean Preschool Activities](https://theprimarybrain.com/preschool/2020/05/31/Ocean-Preschool-Activities/)
 
-Don't want to forget about this theme? You can [CLICK HERE](https://pin.it/2LGXVbX) to save this blog post to read later on your favorite Pinterest board!
+Don't want to forget about this theme? You can [click here to save this post to Pinterest](https://pin.it/2LGXVbX) so you can read again later!

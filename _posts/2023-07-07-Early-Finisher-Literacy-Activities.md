@@ -70,7 +70,7 @@ These [Phonics Based Directed Drawing Task Cards](https://www.teacherspayteacher
 
 Plus, it is so easy for you to manage this activity. When your students complete a class assignment and have extra time, they can go to the early finisher area and grab a task card box. Then, they return to their work area and quietly work on the drawing in their journals or on an extra sheet of paper. After completing the drawing, you can have your students write a story about their illustration, or you can have them write facts about the image they drew. 
 
-To prep these boxes, all you need to do is print and laminate the cards _(or you could use cardstock)_. Each set includes a cover image that you can tape to the top of a photo storage box. Then, just cut the task cards and place inside your favorite storage container. I love these [photo storage boxes](https://amzn.to/44BiaN5) for task cards! You can [click here](https://www.teacherspayteachers.com/Product/Directed-Drawing-Task-Cards-Fast-Finishers-Phonics-Activities-8325475?utm_source=PB%20Blog&utm_campaign=Directed%20Drawing%20Task%20Cards%20Early%20Finisher) to grab these task cards if you think they will help you in your classroom!
+To prep these boxes, all you need to do is print and laminate the cards _(or you could use cardstock)_. Each set includes a cover image that you can tape to the top of a photo storage box. Then, just cut the task cards and place inside your favorite storage container. I love these [photo storage boxes](https://amzn.to/44BiaN5) for task cards! You can [grab these task cards here](https://www.teacherspayteachers.com/Product/Directed-Drawing-Task-Cards-Fast-Finishers-Phonics-Activities-8325475?utm_source=PB%20Blog&utm_campaign=Directed%20Drawing%20Task%20Cards%20Early%20Finisher) if you think they will help you in your classroom!
 
 ## Memory Games
 
@@ -86,4 +86,4 @@ I hope you are feeling inspired to create an area in your classroom where fast f
 4. [Roll and Read Phonics Games](https://www.teacherspayteachers.com/Product/Roll-and-Read-Phonics-Sight-Words-Literacy-Activities-for-Centers-Games-3100666?utm_source=PB%20Blog&utm_campaign=Roll%20and%20Read%20Bundle%20Early%20Finisher)
 5. [Phonics Memory Games](https://www.teacherspayteachers.com/Product/Phonics-Memory-Games-Literacy-Centers-Activities-7757382?utm_source=PB%20Blog&utm_campaign=Phonics%20Memory%20Early%20Finisher)
 
-Want to save this blog post to read later? Just [click here](https://pin.it/5hUHmtA) to save to your favorite Pinterest board!
+Want to save this blog post to read later? Just [click here to save to your favorite Pinterest board!](https://pin.it/5hUHmtA)
