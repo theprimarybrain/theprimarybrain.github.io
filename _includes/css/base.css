@@ -19,7 +19,7 @@ h1 {
     font-size: 2rem;
 }
   
-h1, h2 a {
+h1 a, h2 a {
     text-decoration: none;
 }
 
