@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turkey Activities For Toddlers To Help Teach The Letter T
+title: Turkey Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
@@ -87,6 +87,8 @@ These aren’t the only fun turkey activities included in my [turkey themed todd
 
 Don’t forget I have a whole toddler curriculum focused on the alphabet! You can grab all these turkey activities for toddlers, the letter t, and more in my [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell). Keeping routine when learning the alphabet is not only helpful for children but makes life easier for you! You’ll get all you see here **and** activities for the rest of the alphabet, all at almost a 50% discount when you can grab the Toddler School A-Z Curriculum [here](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell)!
 
-## Looking For More Fall-Themed Activities?
-
-Fall allows for so many fun activities. It is a great time to make a paper turkey, learn all about fall vocabulary, or create a fall bucket list. In one of my favorite blog posts, I’ve got a list of [fall activities for kids](https://theprimarybrain.com/fall/2019/09/25/Favorite-Fall-Activities/) that is filled with even more fall fun for you and your little ones! 
+### Looking For More Fall-Themed Activities for Toddlers?
+Here are some other activities to check out:
+- [Spider Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/09/20/Easily-Teach-the-Letter-S/)
+- [Pumpkin Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/09/01/Pumpkin-Toddler-Activities/)
+- [Fall Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2024/02/10/Fall-Themed-Toddler-Activities/)

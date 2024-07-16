@@ -11,6 +11,8 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated July 15, 2024
+
 Small group reading is such an important part of the school day since it gives us a chance to meet with our students in a smaller setting. This is where we can focus on the specific phonics skills that our students need to become fluent readers. It can be tricky to form these groups, so I created an assessment to help you!
 
 ![PhonicsAssessment]({{ site.github.url }}/assets/img/phonics-assessment-teacher-pages.jpg)
@@ -37,5 +39,7 @@ If you would like to grab this FREE assessment, then just sign up using this for
     containerEl: '#fd-form-64e4e0c39f3274e73d0b3aa8'
   });
 </script>
+
+After you have given the assessment, then check out this post to learn more about how to use the assessment data to form your small groups: [How to Use Data to Form Small Groups](https://theprimarybrain.com/small%20group%20reading/2023/08/25/How-To-Use-Data-To-Form-Small-Groups/)
 
 If you have any questions on how to use this assessment to help you form your reading groups, just send me a message on Instagram @theprimarybrain and I am happy to chat! 

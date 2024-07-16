@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Reflection Prompts to Guide Classroom Discussions in March
+title: March Classroom Discussion Ideas
 author: Laurin Brainard
 categories: [Classroom Discussions]
 tags: [ELD, March]
 image:
   feature: march-reflection-prompt-cards.jpg
   teaser: march-reflection-prompt-cards-teaser.jpg
+  alt: The image shows a photo of a classroom discussion prompt card to use in the month of March.
   credit: Laurin Brainard
   creditlink: ""
 ---

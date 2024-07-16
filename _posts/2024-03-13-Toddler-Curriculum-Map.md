@@ -77,4 +77,6 @@ If you would like to download a full year of lesson plans and printables to go w
 
 I hope these resources help you to feel confident in teaching your children during your toddler learning times! Feel free to reach out to me on Instagram [@theprimarybrain](https://www.instagram.com/theprimarybrain/) with any questions as you begin a magical time of making memories with your little ones!
 
+If you want to take a closer look at our favorite themes to use to teach toddlers, then check out this post: [40 Themes For Toddler Lessons and Activities](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
+
 Want to save this post to read later? [CLICK HERE to save to your favorite Pinterest board](https://www.pinterest.com/pin/447334175504149908/)!

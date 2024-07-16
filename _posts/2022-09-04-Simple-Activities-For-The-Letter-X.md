@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Activities For The Letter X - The Toddler School Curriculum
+title: X-ray Themed Toddler Activities
 categories: [Toddler School]
 flodesk: 65374920be19019fdd96d794
 tags: [toddler, toddler school]
@@ -36,7 +36,7 @@ Interested in downloading [these xray activities](https://www.teacherspayteacher
  
 [![Xray Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-x-ray.jpg)](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover)
+[![Click Here Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover)
 
 ## Art Activities
 

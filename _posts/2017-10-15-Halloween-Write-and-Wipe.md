@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Launch Giveaway Part 2 - Halloween Write and Wipe Activity
+title: Halloween Write and Wipe Activity
 author: Laurin Brainard
 categories: [Literacy Activities]
 tags: [halloween,writing,freebie]

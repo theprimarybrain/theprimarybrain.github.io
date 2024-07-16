@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Launch Giveaway Part 3 - Halloween Themed Name Tags
+title: Halloween Themed Name Tags
 author: Laurin Brainard
 categories: [Decor]
 tags: [halloween,decor,freebie]
@@ -10,6 +10,12 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Today is the 3rd day of my blog launch giveaway and so I thought I would help you spruce up those Halloween bulletin boards that still need *a little something*. I created Halloween name tags to place below student artwork in my hallways. My students work so hard on their work and I wanted a special name card to show it off. These tags can also be used for labeling Halloween center tubs, supply bins, and student desk tags. Head on over to TpT to grab my [Halloween Student Name Tags freebie](http://bit.ly/2gjXIOC)! I also have free [owl name tags](http://bit.ly/2hJ52zH) and [community helpers name tags](http://bit.ly/2gdOZJR) in my store if you need something for all year. Be sure to check out all seven days of my blog launch giveaway!
+Get ready to spruce up those Halloween bulletin boards that still need *a little something*! 
 
-[Click here to save this pin](https://pin.it/OeCqKVs) to your favorite Pinterest board!
+Our students work so hard on their classwork and it is so much fun to showcase their efforts with custom name tags! These tags can also be used for labeling Halloween center tubs, supply bins, and student desk tags. 
+
+## Halloween Name Tags Free Printable
+
+Head on over to TpT to grab my [Halloween Student Name Tags freebie](http://bit.ly/2gjXIOC)! In case you would also like a custom name tag for student desks, you can grab these: [EDITABLE Seasonal Name Tags for Student Desks](https://www.teacherspayteachers.com/Product/Seasonal-Student-Name-Tags-for-Desks-Classroom-Decor-EDITABLE-Labels-7378487)
+
+In case you want to save this freebie to your favorite Pinterest board, you can [Click here to save this pin](https://pin.it/OeCqKVs)!

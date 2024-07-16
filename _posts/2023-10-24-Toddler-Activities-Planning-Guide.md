@@ -52,3 +52,5 @@ Just use each activity page in the guide for ideas for each toddler learning ski
     containerEl: '#fd-form-65374920be19019fdd96d794'
   });
 </script>
+
+If you want to take a closer look at our favorite themes to use to teach toddlers, then check out this post: [40 Themes For Toddler Lessons and Activities](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)

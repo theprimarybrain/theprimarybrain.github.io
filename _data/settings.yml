@@ -33,10 +33,6 @@ menu:
     url: 'categories/'
   }
 - {
-    name: 'Audio Clips', 
-    url: 'audio-clips/'
-  }
-- {
     name: 'Toddler', 
     url: 'toddler-school/'
   }
