@@ -35,10 +35,10 @@ Before we ever ask a child to read, we want to check if children can recognize t
 Let's start segmenting! To teach a child to segment a word, you will start by saying the word slowly and emphasizing each sound. Then, children will repeat the word back to you and break the word into individual sounds. I like to write out the word and place dots under each sound to point to as we segment. You can practice with a variety of CVC words to see if your students can identify the beginning, middle, and ending sounds in each word.
 
 ### Blending CVC Words
-Next, you are ready to teach blending cvc words to your students. We first want to determine if our students can read the individual letter sounds contained in each word. Then, we can begin to blend sounds together to form a complete word.
-- Model Blending: Model how to blend sounds together to form a word. Slowly say each sound in a cvc word and then blend them together. For example, "c-a-t, cat."
-- Use Visuals and Gestures: Use hand movements or visual aids to show the blending process. I like to have students tap the dots under each letter of the word and 
-- Practice with Manipulatives: Use letter tiles or cards and have your students move the letters each time they say the sound.
+Next, you are ready to teach your children how to blend cvc words. We first want to determine if our students can read the individual letter sounds contained in each word. Then, we can begin to blend sounds together to form a complete word.
+- *Model Blending*: Model how to blend sounds together to form a word. Slowly say each sound in a cvc word and then blend them together. For example, "c-a-t, cat."
+- *Use Visuals and Gestures*: Use hand movements or visual aids to show the blending process. I like to have students tap the dots under each letter of the word and 
+- *Practice with Manipulatives*: Use letter tiles or cards and have your students move the letters each time they say the sound.
 
 ### Repetition and Practice
 
@@ -62,9 +62,9 @@ Once your students are able to read cvc words and are ready to read in the conte
 ## Printable CVC Word Fluency Practice
 If you want to help your students master reading cvc words this year, then check out my printable cvc word fluency practice activities! This resource will help your students become cvc word masters by taking their reading journey one step at a time. They will learn to read words in isolation, read in a sentence, and then read in a passage! Just click here for a closer look:
 
-[![CVC Word Fluency Bundle]({{ site.github.url }}/assets/img/cover-cvc-word-fluency-practice-pages)](https://www.teacherspayteachers.com/Product/CVC-Words-Fluency-Practice-Pages-No-Prep-Word-Family-Worksheets-Activities-9417341?utm_source=PB%20Blog%20What%20Are%20CVC%20Words&utm_campaign=CVC%20Fluency%20Bundle)
+[![CVC Word Fluency Bundle]({{ site.github.url }}/assets/img/cover-cvc-word-fluency-practice-pages.jpg)](https://www.teacherspayteachers.com/Product/CVC-Words-Fluency-Practice-Pages-No-Prep-Word-Family-Worksheets-Activities-9417341?utm_source=PB%20Blog%20What%20Are%20CVC%20Words&utm_campaign=CVC%20Fluency%20Bundle)
 
-[![Green Button to Grab Unit Here]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/CVC-Words-Fluency-Practice-Pages-No-Prep-Word-Family-Worksheets-Activities-9417341?utm_source=PB%20Blog%20What%20Are%20CVC%20Words&utm_campaign=CVC%20Fluency%20Bundle)
+[![Green Button to Grab Unit Here]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/CVC-Words-Fluency-Practice-Pages-No-Prep-Word-Family-Worksheets-Activities-9417341?utm_source=PB%20Blog%20What%20Are%20CVC%20Words&utm_campaign=CVC%20Fluency%20Bundle)
 
 Here are some other posts to help you teach your children to read:
 - [Use Phonics Books to Build Confident Readers](https://theprimarybrain.com/writing/2024/07/16/Phonics-Skills-Practice-Books/)
