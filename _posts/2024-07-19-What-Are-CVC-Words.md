@@ -19,12 +19,12 @@ CVC words are three letter words that follow one simple pattern: consonant-vowel
 
 CVC words make up some of the earliest words we teach to young learners since they can be read by understanding just 5 short vowel sounds and consonant letter sounds. Here are some examples of cvc words that children can begin learning: 
 
-| Short Vowel | CVC Words |
-| short a | cat, map, ran, fat |
-| short e | red, pet, hen, net |
-| short i | pig, lip, fin, sit |
-| short o | dog, pot, log, mop |
-| short u | cup, bus, sun, nut |
+| Short Vowel |   | CVC Words |
+| short a |   | cat, map, ran, fat |
+| short e |   | red, pet, hen, net |
+| short i |   | pig, lip, fin, sit |
+| short o |   | dog, pot, log, mop |
+| short u |   | cup, bus, sun, nut |
 
 ## How to Teach CVC Words
 
