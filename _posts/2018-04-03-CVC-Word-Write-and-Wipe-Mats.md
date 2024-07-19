@@ -11,6 +11,8 @@ image:
 ---
 CVC words are such a fun concept to teach anytime of the year. These are the first words that my first graders master in reading and in spelling. I love seeing the accomplishment on their little faces when they learn to read and write CVC words! This year, I created a [CVC Word Write and Wipe Activity Mat](http://bit.ly/2GP1SJf) that works on vocabulary, spelling, and writing. The best part is, completing the activity mat only takes a few minutes per word. Once my students can write CVC words with mastery, then we focus on extending our sentences using the vocabulary word we are focusing on. 
 
+Interested in learning more about what cvc words are? Check out this post: [What is a cvc word?](https://theprimarybrain.com/phonics/2024/07/19/What-Are-CVC-Words/)
+
 ![Blank Workmat]({{ site.github.url }}/assets/img/cvc-word-write-and-wipe-blank.jpg)
 
 All you need to complete this activity is a sheet protector, write and wipe mat, word cards and expo marker. To complete the workmat, each student will grab a vocabulary word card and place in the blank square on their workmat. Next, they will write the word using the three boxes for each sound. I like to have students segment each sound on their fingers before writing in the boxes. Once they complete the word, students will write a sentence using the word. I find it really helps my struggling writers when I write sentence frames on the board for them to use as they are writing. 

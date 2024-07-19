@@ -17,7 +17,7 @@ Getting started with centers can be so tricky! What activities should you use? W
 
 When I think about successful literacy centers, I immediately think about material management. You need enough materials to keep all of your students engaged in learning, but they also need to be easy enough to manage that your students can complete the activities on their own.
 
-In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of plans and activities for you!
+In this post, I am sharing my favorite tips and tricks for running successful centers, and I even planned out an entire week of cvc word plans and activities for you!
 
 If you haven't yet used data to form your small groups, then check out this post: [How to Use Data to Form Small Groups](https://theprimarybrain.com/small%20group%20reading/2023/08/25/How-To-Use-Data-To-Form-Small-Groups/)
 
@@ -37,6 +37,8 @@ Starting centers in your classroom is a lot to think about and I want to make it
     containerEl: '#fd-form-64c1f4f9d206cffe61186713'
   });
 </script>
+
+Interested in learning more about what cvc words are? Check out this post: [What is a cvc word?](https://theprimarybrain.com/phonics/2024/07/19/What-Are-CVC-Words/)
 
 ## How to Organize Materials
 
