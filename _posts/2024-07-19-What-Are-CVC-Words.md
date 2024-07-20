@@ -13,6 +13,8 @@ image:
 ---  
 When you first begin teaching phonics, it is easy to feel overwhelmed with all the new literacy language that is thrown at you! If you are teaching young children, then one of the first phonics skills you will need to be prepared to teach are cvc words. So, let's break down what cvc words are and some of my favorite ways to teach them!
 
+![A teacher pointing to a cvc word card in a pocket chart]({{ site.github.url }}/assets/img/what-are-cvc-words.jpg)
+
 ## What are cvc words?
 
 CVC words are three letter words that follow one simple pattern: consonant-vowel-consonant. The middle sound in a cvc word is always a short vowel. The first and last sound are always consonants. 
