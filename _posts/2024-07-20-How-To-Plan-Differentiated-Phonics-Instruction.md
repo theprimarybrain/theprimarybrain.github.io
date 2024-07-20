@@ -5,7 +5,7 @@ categories: [Phonics]
 flodesk: 6696daed83b08a8b67b3d7b9
 tags: [reading, phonics]
 image:
-  feature: phonics-skill-books-read-words.jpg
+  feature: differentiated-phonics-lessons-feature.jpg
   teaser: 
   credit: Laurin Brainard
   creditlink: ""
