@@ -2,17 +2,16 @@
 ---
 layout: post
 title: How to Make Reading Fun
-categories: [Writing]
+categories: [Phonics]
 flodesk: 6696daed83b08a8b67b3d7b9
-tags: [writing]
+tags: [reading, phonics]
 image:
   feature: 
   teaser: 
   credit: Laurin Brainard
   creditlink: ""
 ---
-How to Make Reading Fun
-As educators and parents, we understand the importance of making learning enjoyable for our children. Engaging them in reading from an early age sets a strong foundation for their academic journey. To support you in this endeavor, I’m excited to introduce a set of phonics skills books designed to make reading both effective and fun.
+When children first begin to read, it is so important to make reading FUN! As educators and parents, we understand the importance of making learning enjoyable for our children. Engaging them in reading from an early age sets a strong foundation for their academic journey. To support you in this endeavor, I’m excited to introduce a set of phonics skills books designed to make reading both effective and fun.
 
 Interactive and Engaging Activities
 Each book in this set is crafted with activities that capture children's attention and keep them engaged. Here are a few key features:
