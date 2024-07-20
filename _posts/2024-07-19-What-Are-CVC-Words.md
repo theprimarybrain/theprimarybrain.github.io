@@ -30,7 +30,7 @@ CVC words make up some of the earliest words we teach to young learners since th
 
 ![A teacher pointing to a cvc word card in a pocket chart]({{ site.github.url }}/assets/img/what-are-cvc-words.jpg)
 
-### 1. Phonemic Awareness
+### Phonemic Awareness
 Before we ever ask a child to read, we want to check if children can recognize the individual phonemes in words. To do this, we practice identifying the beginning, middle, and ending sounds in words. My friend Kristina at Sweet for Kindergarten has an amazing post all about phonemic awareness. You can check out her post to learn all about what phonemic awareness is and how to practice this important skill: [All About Phonological Awareness](https://sweetforkindergarten.com/all-about-phonological-awareness/)
 
 ### Segmenting CVC Words
@@ -42,7 +42,7 @@ Next, you are ready to teach your children how to blend cvc words. We first want
 - *Use Visuals and Gestures*: Use hand movements or visual aids to show the blending process. I like to have students tap the dots under each letter of the word and 
 - *Practice with Manipulatives*: Use letter tiles or cards and have your students move the letters each time they say the sound.
 
-### Repetition and Practice
+## Ways to Practice CVC Words
 
 The best way to become fluent in reading cvc words is to practice, practice, practice! Here are 3 ways to practice reading cvc words with your students:
 
