@@ -69,5 +69,5 @@ If you want to help your students master reading cvc words this year, then check
 [![Green Button to Grab Unit Here]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/CVC-Words-Fluency-Practice-Pages-No-Prep-Word-Family-Worksheets-Activities-9417341?utm_source=PB%20Blog%20What%20Are%20CVC%20Words&utm_campaign=CVC%20Fluency%20Bundle)
 
 Here are some other posts to help you teach your children to read:
-- [Use Phonics Books to Build Confident Readers](https://theprimarybrain.com/writing/2024/07/16/Phonics-Skills-Practice-Books/)
+- [Use Phonics Books to Build Confident Readers](https://theprimarybrain.com/phonics/2024/07/16/Phonics-Skills-Practice-Books/)
 - [Write and Wipe CVC Word Activity](https://theprimarybrain.com/literacy%20activities/2018/04/03/CVC-Word-Write-and-Wipe-Mats/)

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Use Phonics Books to Build Confident Readers
-categories: [Writing]
+categories: [Phonics]
 flodesk: 6696daed83b08a8b67b3d7b9
-tags: [writing]
+tags: [phonics, reading]
 image:
   feature: phonics-skill-books-feature.jpg
   teaser: phonics-skill-books-teaser.jpg
