@@ -1,23 +1,21 @@
 ---
 layout: post
-title: What is a cvc word?
+title: What are cvc words?
 author: Laurin Brainard
 categories: [Phonics]
 tags: [phonics, cvc words]
 flodesk: 
 image:
-  feature: 
+  feature: what-is-a-cvc-word.jpg
   teaser: 
   credit: Laurin Brainard
   creditlink: ""
 ---  
 When you first begin teaching phonics, it is easy to feel overwhelmed with all the new literacy language that is thrown at you! If you are teaching young children, then one of the first phonics skills you will need to be prepared to teach are cvc words. So, let's break down what cvc words are and some of my favorite ways to teach them!
 
-![A teacher pointing to a cvc word card in a pocket chart]({{ site.github.url }}/assets/img/what-are-cvc-words.jpg)
-
-## What are cvc words?
-
 CVC words are three letter words that follow one simple pattern: consonant-vowel-consonant. The middle sound in a cvc word is always a short vowel. The first and last sound are always consonants. 
+
+## Examples of CVC Words
 
 CVC words make up some of the earliest words we teach to young learners since they can be read by understanding just 5 short vowel sounds and consonant letter sounds. Here are some examples of cvc words that children can begin learning: 
 
@@ -29,6 +27,8 @@ CVC words make up some of the earliest words we teach to young learners since th
 | short u |   | cup, bus, sun, nut |
 
 ## How to Teach CVC Words
+
+![A teacher pointing to a cvc word card in a pocket chart]({{ site.github.url }}/assets/img/what-are-cvc-words.jpg)
 
 ### 1. Phonemic Awareness
 Before we ever ask a child to read, we want to check if children can recognize the individual phonemes in words. To do this, we practice identifying the beginning, middle, and ending sounds in words. My friend Kristina at Sweet for Kindergarten has an amazing post all about phonemic awareness. You can check out her post to learn all about what phonemic awareness is and how to practice this important skill: [All About Phonological Awareness](https://sweetforkindergarten.com/all-about-phonological-awareness/)
