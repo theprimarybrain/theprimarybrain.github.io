@@ -13,7 +13,7 @@ image:
 ---  
 Finding the time in your day to work on vocabulary, handwriting, and sentence writing can be tricky! So, I put together Seasonal Writing Pages with Directed Drawings that check all of the boxes!
 
-Directed Drawings are so much fun to incorporate into learning in the classroom! My students LOVE to draw and this encourages you 
+Directed Drawings are so much fun to incorporate into learning in the classroom! Since my students LOVE to draw and this encourages you 
 
 ## How To Differentiate For Your Students
 I have included two versions of each page. One with 
