@@ -39,11 +39,11 @@ Mix water and food coloring together in a separate bowl. Add to the playdough mi
 
 Stir and knead the playdough until it takes on the correct shape and consistency. 
 
-## Lemon Playdough Activities
+### Lemon Playdough Activities
 ![Forming yellow playdough into a pie tin]({{ site.github.url }}/assets/img/lemon-playdough-pie.jpg)
 
 Playdough is an excellent tool for developing fine motor skills, so we used it to make a pretend pie! All you need is a pie tin and some playdough tools such as a rolling pin and plastic knife. Then, just give your child the dough and watch the magic of imaginative play!
 
 If you would like to grab some more ideas for lemon themed play, check out this post: [Lemon Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/01/04/Lemon-Toddler-School-Activities/) 
 
-If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:
+### If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:
