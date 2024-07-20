@@ -29,6 +29,8 @@ To make planning easy for you this week, you can download 3 free books that work
   });
 </script>
 
+If you want to read more about how I use these books with my students, you can check out this post: [Use Phonics Books to Build Confident Readers](https://theprimarybrain.com/phonics/2024/07/16/Phonics-Skills-Practice-Books/)
+
 ## Printable Phonics Books to Differentiate Instruction
 If you want to make differentiating phonics instruction simple and easy this year, then check out my [Phonics Skills Practice Books](https://www.teacherspayteachers.com/Product/Phonics-Skills-Practice-Books-Assessment-Reading-Fluency-Passages-Activities-7607081?utm_source=PB%20Blog&utm_campaign=Phonics%20Practice%20Books%20How%20to%20Differentiate%20Phonics%20Post) for 104 books that focus on a variety of kindergarten and first grade phonics skills! Once you have given a phonics assessment and determined the skills your students need to learn, you can just print the books and be ready to teach! You can check it out here:
 
