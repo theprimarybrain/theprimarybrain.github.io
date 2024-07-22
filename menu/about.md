@@ -8,7 +8,7 @@ Hello Teacher Friend! Welcome to The Primary Brain!
 
 ![LaurinsHeadshot]({{ site.github.url }}/assets/img/Laurins Headshot_0133.jpg)
 
-I'm Laurin and I am here to help preschool through first grade parents and teachers find the resources and strategies you need to be successful in teaching in your students and young children. 
+I'm Laurin and I am here to help preschool through first grade parents and teachers find the resources and strategies you need to be successful in teaching your little learners. 
 
 Maybe you are here looking for phonics, reading, centers, or hands-on preschool activities. If so, I have you covered! My goal at The Primary Brain is to provide busy teachers and parents with the resources you need to keep your little learners engaged all day long, while also saving you time!
 
