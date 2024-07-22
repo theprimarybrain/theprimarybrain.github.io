@@ -6,7 +6,7 @@ flodesk: 6696daed83b08a8b67b3d7b9
 tags: [reading, phonics]
 image:
   feature: differentiated-phonics-lessons-feature.jpg
-  teaser: 
+  teaser: how-to-plan-differentiated-lessons.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
