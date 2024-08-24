@@ -4,14 +4,16 @@ title: Beach Scavenger Hunt
 author: Laurin Brainard
 categories: [Outdoor Learning]
 tags: [beach, outdoor learning]
-flodesk: 
+flodesk: 66c8faa16366b71fc8ff1598
 image:
   feature: beach-scavenger-hunt.jpg
   teaser: beach-scavenger-hunt-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---  
-Let's take learning to the beach! There is no better way to fill our summer days than with a quick trip to the beach. We are local to the beach, so I love to find ways we can take our learning to the beach all through the year! 
+Let's take learning to the beach! There is no better way to fill our summer days than with a quick trip to the beach. Since we are local to the beach, I love to find ways we can take our learning to the beach during all 4 seasons of the year.
+
+This scavenger hunt is perfect for outdoor learning so that we can go to the beach all year long!
 
 <div id="fd-form-66c8faa16366b71fc8ff1598"></div>
 <script>
