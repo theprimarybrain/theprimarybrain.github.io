@@ -45,6 +45,11 @@ Now that you have your curriculum map, let's go over how you can use it! I creat
 
 Under each header, you will see the skills we learn each week. It is so fun to watch our toddlers learn new skills through play based activities. I hope you enjoy watching your littles learn new skills as they play!
 
+Learn more about how to begin your preschool year in this podcast episode:
+
+<iframe title="Teach Your Littles At Home | Homeschool Preschool Activities for Busy Moms of 2 to 5 Year Olds" allowtransparency="true" height="180" width="100%" style="border: none; min-width: min(100%, 430px);height:180px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7vc25-f9f573-pbblog-playlist&share=1&download=1&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&order=episodic&limit=1&filter=publish_time&publish_start=2024-08-26&publish_end=2024-08-26&ss=c2bd843166b21ab9245d361a0e486b6f&btn-skin=7&size=180" loading="lazy" allowfullscreen=""></iframe>
+
+
 ## A Year of Toddler Weekly Learning Themes
 
 ![School Year Calendar for Toddlers]({{ site.github.url }}/assets/img/toddler-curriculum-map-school-year-calendar.jpg)
@@ -64,9 +69,6 @@ Here are some helpful blog posts that explain more about the skill areas covered
 [What are fine motor skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
 [How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin/)
-
-Learn more about how to begin your preschool year in this podcast episode:
-<iframe title="Teach Your Littles At Home | Homeschool Preschool Activities for Busy Moms of 2 to 5 Year Olds" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7vc25-f9f573-pbblog-playlist&share=1&download=1&rtl=0&fonts=Tahoma&skin=1&font-color=auto&logo_link=episode_page&order=episodic&limit=1&filter=publish_time&publish_start=2024-08-26&publish_end=2024-08-26&ss=c2bd843166b21ab9245d361a0e486b6f&btn-skin=7&size=315" loading="lazy" allowfullscreen=""></iframe>
 
 ### Make Planning Even Easier with our Toddler Learning Curriculum
 
