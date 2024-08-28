@@ -65,6 +65,9 @@ Here are some helpful blog posts that explain more about the skill areas covered
 
 [How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin/)
 
+Learn more about how to begin your preschool year in this podcast episode:
+<iframe title="Teach Your Littles At Home | Homeschool Preschool Activities for Busy Moms of 2 to 5 Year Olds" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7vc25-f9f573-pbblog-playlist&share=1&download=1&rtl=0&fonts=Tahoma&skin=1&font-color=auto&logo_link=episode_page&order=episodic&limit=1&filter=publish_time&publish_start=2024-08-26&publish_end=2024-08-26&ss=c2bd843166b21ab9245d361a0e486b6f&btn-skin=7&size=315" loading="lazy" allowfullscreen=""></iframe>
+
 ### Make Planning Even Easier with our Toddler Learning Curriculum
 
 If you would like to download a full year of lesson plans and printables to go with all of the themes on the curriculum map, then you can take a look at our Complete Toddler Learning Curriculum! All the planning is done for you so that you can just dive right in to toddler learning activities! 
