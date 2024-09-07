@@ -4,6 +4,7 @@ title: Your Free Toddler Bonus Bundle
 image:
   feature: 
 ---
+We are so excited you are here! Just fill out the form below to grab your FREE bonus bundle of activities!
 <div id="fd-form-662041cd508cd78101857ff7"></div>
 <script>
   window.fd('form', {
@@ -12,7 +13,17 @@ image:
   });
 </script>
 
-## Have a listen to our podcast, Teach Your Littles At Home!
+Inside the bundle you will find:
+- fine motor letter cards
+- number cards
+- color book
+- sensory bin cards
+- scissor skills strips
+- alphabet matching cards
+- shape puzzles
+- and even more fun!
+
+### While you are here, have a listen to our podcast, Teach Your Littles At Home!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e4Ak6f7RlBk?si=oXOMeZBF3bhlVaSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Or, click your favorite platform to listen to below:
