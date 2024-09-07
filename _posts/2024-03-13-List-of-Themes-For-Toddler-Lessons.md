@@ -10,7 +10,14 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Nothing makes learning more fun for toddlers than planning a theme for each week! Here are 40 of our favorite themes that cover the alphabet from A to Z, holidays, and the four seasons. Just click the themes below to read the full blog post and find lots of free activities to go with each theme!
+Nothing makes learning more fun for toddlers than planning a theme for each week! Here are 40 of our favorite themes that cover the alphabet from A to Z, holidays, and the four seasons. Just click the themes below to read the full blog post and find lots of free activities to go with each theme! You can also download our FREE Curriculum Map and School Year Calendar to see how we teach all 40 themes in a year:
+<div id="fd-form-65f1da75f97cdc8ec73dee06"></div>
+<script>
+  window.fd('form', {
+    formId: '65f1da75f97cdc8ec73dee06',
+    containerEl: '#fd-form-65f1da75f97cdc8ec73dee06'
+  });
+</script>
 
 ## Alphabet Themes for Toddlers from A to Z
 - [Apple Toddler Theme](https://theprimarybrain.com/toddler%20school/2018/09/07/Toddler-School-Curriculum-Apple-Theme-Lesson-1/)
@@ -58,14 +65,5 @@ Nothing makes learning more fun for toddlers than planning a theme for each week
 - [Gingerbread Toddler Theme](https://theprimarybrain.com/toddler%20school/2024/02/09/Gingerbread-Toddler-Activities/)
 - [Christmas Toddler Theme](https://theprimarybrain.com/toddler%20school/2024/02/12/Christmas-Toddler-Activities/)
 
-## Download our toddler curriculum map for more information on planning a year of learning:
-<div id="fd-form-65f1da75f97cdc8ec73dee06"></div>
-<script>
-  window.fd('form', {
-    formId: '65f1da75f97cdc8ec73dee06',
-    containerEl: '#fd-form-65f1da75f97cdc8ec73dee06'
-  });
-</script>
-
-### Listen to our podcast, Teach Your Littles At Home, for even more fun ideas to do with your little ones!
+### For even more fun ideas to do with your little ones, listen to our podcast, Teach Your Littles At Home:
 <iframe title="Teach Your Littles At Home | Homeschool Preschool Activities for Busy Moms of 2 to 5 Year Olds" allowtransparency="true" height="260" width="100%" style="border: none; min-width: min(100%, 430px);height:260px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7vc25-f9f573-pbblog-playlist&share=1&download=0&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&order=serial&limit=3&filter=publish_time&publish_start=2024-08-26&publish_end=2024-08-26&ss=4ee3133b0022d58ac35cf7bff0fd4f19&btn-skin=2baf9e&size=260" loading="lazy" allowfullscreen=""></iframe>
