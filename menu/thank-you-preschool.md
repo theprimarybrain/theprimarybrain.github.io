@@ -13,7 +13,7 @@ I'm so glad you are here!
 🩵Laurin
 
 ### While you are here, have a listen to our podcast, Teach Your Littles At Home!
-<iframe title="Teach Your Littles At Home | Homeschool Preschool Activities for Busy Moms of 2 to 5 Year Olds" allowtransparency="true" height="260" width="100%" style="border: none; min-width: min(100%, 430px);height:260px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7vc25-f9f573-pbblog-playlist&share=1&download=1&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&order=serial&limit=3&filter=publish_time&publish_start=2024-08-26&publish_end=2024-08-26&ss=4ee3133b0022d58ac35cf7bff0fd4f19&btn-skin=7&size=260" loading="lazy" allowfullscreen=""></iframe>
+<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/teach-your-littles-at-home-homeschool-preschool-activities/id1763629783?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=light" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s ease 0s 6 normal none running loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
 Just click your favorite platform to listen to below:
 - Listen on [Apple Podcasts](https://podcasts.apple.com/us/podcast/teach-your-littles-at-home-homeschool-preschool-activities/id1763629783)
