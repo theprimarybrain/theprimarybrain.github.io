@@ -114,6 +114,6 @@ If you are looking for even more toddler learning fun for you and your little on
 You can also check out all the themes in this post: [40 Toddler Activity Themes](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
 
 ### Have a listen to our Podcast, Teach Your Littles At Home, to hear all about how we began toddler school in our own home through this apple theme!
-<iframe title="001 | Our Homeschool Preschool Journey Began With Simple Toddler Activities At Home" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=5m2f3-16a9df2-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&btn-skin=7" loading="lazy"></iframe>
+<iframe title="001 | Our Homeschool Preschool Journey Began With Simple Toddler Activities At Home" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=5m2f3-16a9df2-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&btn-skin=2baf9e" loading="lazy"></iframe>
 
 ### If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
