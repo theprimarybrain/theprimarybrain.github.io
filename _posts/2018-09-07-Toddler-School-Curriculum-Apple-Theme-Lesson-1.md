@@ -36,10 +36,6 @@ Interested in downloading [these apple activities](https://www.teacherspayteache
  
 [![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover)
 
-### Have a listen to our Podcast, Teach Your Littles At Home, to hear all about how we began toddler school in our own home through this apple theme!
-
-<iframe title="Teach Your Littles At Home | Homeschool Preschool Activities for Busy Moms of 2 to 5 Year Olds" allowtransparency="true" height="180" width="100%" style="border: none; min-width: min(100%, 430px);height:180px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7vc25-f9f573-pbblog-playlist&share=1&download=1&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&order=serial&limit=1&filter=publish_time&publish_start=2024-08-26&publish_end=2024-08-26&ss=11282b54bd704a0d116e758b09ae845c&btn-skin=7&size=180" loading="lazy" allowfullscreen=""></iframe>
-
 ### Kick off Apple Week with a Field Trip to the Grocery Store or Apple Farm
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
 
@@ -116,5 +112,9 @@ If you are looking for even more toddler learning fun for you and your little on
 - [Lemon Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2022/01/04/Lemon-Toddler-School-Activities/) 
 
 You can also check out all the themes in this post: [40 Toddler Activity Themes](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
+
+### Have a listen to our Podcast, Teach Your Littles At Home, to hear all about how we began toddler school in our own home through this apple theme!
+
+<iframe title="Teach Your Littles At Home | Homeschool Preschool Activities for Busy Moms of 2 to 5 Year Olds" allowtransparency="true" height="180" width="100%" style="border: none; min-width: min(100%, 430px);height:180px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7vc25-f9f573-pbblog-playlist&share=1&download=1&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&order=serial&limit=1&filter=publish_time&publish_start=2024-08-26&publish_end=2024-08-26&ss=11282b54bd704a0d116e758b09ae845c&btn-skin=7&size=180" loading="lazy" allowfullscreen=""></iframe>
 
 ### If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the 6 skill areas we incorporate into toddler school:
