@@ -12,7 +12,6 @@ We are so excited you are here! Just fill out the form below to grab your FREE b
     containerEl: '#fd-form-662041cd508cd78101857ff7'
   });
 </script>
-
 Inside the bundle you will find:
 - fine motor letter cards
 - number cards
