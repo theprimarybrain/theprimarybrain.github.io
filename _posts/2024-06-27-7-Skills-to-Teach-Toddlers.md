@@ -30,6 +30,9 @@ To try to make it easier for you to know what to do when you sit down to plan a 
 6. [Gross Motor Activities for Toddlers](#gross-motor)
 7. [Social Learning for Toddlers](#social)
 
+**_Interested in listening to our podcast to hear more about these skill areas?_**
+<iframe title="005 | 6 Skill Areas to Teach Toddlers and Preschoolers" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=6wzuk-16c710f-pb&from=pb6admin&share=1&download=0&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&btn-skin=2baf9e" loading="lazy"></iframe>
+
 ### 1. Language Development for Toddlers {#language}
 
 The most important place to start when working with toddlers is communication! Our children are sponges! They are taking in everything we say, so it is especially important to be using a variety of vocabulary when speaking to your toddler. It is important to use simple words and sentences to avoid overloading their little brains with too many words to process at once. Once our children are able to effectively communicate their needs, a whole new world will open up before them! 
