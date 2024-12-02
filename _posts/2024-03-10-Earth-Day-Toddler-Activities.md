@@ -67,7 +67,7 @@ Every time I pull out children's scissors, my little ones get so excited! They l
 
 Learning how to hold scissors can be tricky for little ones, so don't be afraid to use hand over hand movements as they learn. 
 
-### Earth Day Science Polution Activity
+### Earth Day Science Pollution Activity
 
 [![EarthDaySensoryBin]({{ site.github.url }}/assets/img/toddler-earth-day-science.jpg)](https://www.teacherspayteachers.com/Product/Earth-Day-Theme-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-11100012?utm_source=PB%20Blog&utm_campaign=Earth%20Day%20Toddler%20Activities)
 
