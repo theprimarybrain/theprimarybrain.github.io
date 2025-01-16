@@ -6,8 +6,8 @@ categories: [Preschool]
 flodesk: 65374920be19019fdd96d794
 tags: [preschool]
 image:
-  feature: 
-  teaser: 
+  feature: preschool-100th-day-feature.jpg
+  teaser: preschool-100th-day-teaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
@@ -69,7 +69,9 @@ Create a 100th Day necklace that becomes a delicious snack! First, we sort ten g
 
 Our first math activity of the day is a color by number page. You can use this activity to work on the numbers from 1-9, then watch as your littles find the number 100 on the page! 
 
-Since our littles finish activities at different times, I love to use this math puzzle and some counting clip cards for fast finishers. If you are completing these activities at home with your own children, then you can work through each activity at your child's pace. It's lots of fun to group up with a few other homeschool families for the 100th day, too!
+Since our littles finish activities at different times, I love to use this math puzzle and some counting clip cards for fast finishers. 
+
+If you are completing these activities at home with your own children, then you can work through each activity at your child's pace. It's also fun to group up with a few other homeschool families for the 100th day, too!
 
 ## 100th Day Craft for Preschoolers
 
