@@ -11,7 +11,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Dec. 15, 2023
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Jan. 16, 2025
 
 The [100th Day of school](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities) is one of my favorite days of school! I plan an entire day of learning around the number 100 to celebrate that we have been learning for 100 days! We all dress up like we are 100 years old - complete with clothing, wigs, glasses, pearls, canes, and anything else that a 100 year old person may wear! 
 
@@ -47,7 +47,7 @@ _Here are some items you may have on hand:_
 
 Fine motor skills are so important for our preschoolers, so I can't let the 100th day go by without some hands-on fine motor practice!
 
-_Read this post if you want to learn more about fine motor skills: [**What are fine motor skills?**](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
+_Read this post if you want to learn more about fine motor skills:_ [**What are fine motor skills?**](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
 ### Lacing Cards
 
