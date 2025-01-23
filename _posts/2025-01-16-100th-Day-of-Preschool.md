@@ -43,6 +43,8 @@ _Here are some items you may have on hand:_
 - beads
 - the sky is the limit here!
 
+<iframe title="022 | Celebrate the 100th Day of School" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=h6uv8-17b8753-pb&from=pb6admin&share=1&download=0&rtl=0&fonts=Tahoma&skin=f6f6f6&font-color=000000&logo_link=episode_page&btn-skin=8bbb4e" loading="lazy"></iframe>
+
 ## 100th Day Fine Motor Skills for Preschoolers
 
 Fine motor skills are so important for our preschoolers, so I can't let the 100th day go by without some hands-on fine motor practice!
