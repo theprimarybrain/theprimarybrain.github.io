@@ -19,14 +19,14 @@ Are your children excited to catch that pesky leprechaun this year? Get ready to
 
 [![StPatricksUnit]({{ site.github.url }}/assets/img/st-patricks-day-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Preschool-Curriculum-Lesson-Plans-Toddler-PreK-Activities-13063202?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Preschool%20Post)
 
-My favorite way to kick off St. Patrick's Day with preschoolers is through a hands-on sensory bin! Work on building a rainbow, a rainbow road, to a pot of gold, and throw in some pesky leprechauns and coins for extra fun! Your children can create imaginary play scenarios as they dig into this sensory bin! Here are a few materials you may want to use:
+My favorite way to kick off St. Patrick's Day with preschoolers is through a hands-on sensory bin! Work on building a rainbow, a rainbow road to a pot of gold, and throw in some pesky leprechauns and coins for extra fun! Your children can create imaginary play scenarios as they dig into this sensory bin! Here are a few materials you may want to use:
 
 - pom pom balls
 - beans
 - gold coins
 - magnets
 - playdough
-- leprechaun printables from [this unit](st-patricks-day-sensory-bin.jpg)
+- leprechaun printables from [this unit](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Preschool-Curriculum-Lesson-Plans-Toddler-PreK-Activities-13063202?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Preschool%20Post)
 - the sky is the limit here!
 
 ## St. Patrick's Day Fine Motor Skills for Preschoolers
@@ -52,6 +52,12 @@ Since our littles finish activities at different times, I love to use this math 
 [![StPatricksDayMath]({{ site.github.url }}/assets/img/st-patricks-day-math-puzzles.jpg)](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Preschool-Curriculum-Lesson-Plans-Toddler-PreK-Activities-13063202?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Preschool%20Post)
 
 If you are completing these activities at home with your own children, then you can work through each activity at your child's pace. It's also fun to group up with a few other homeschool families for St. Patrick's day, too!
+
+## Alphabet Activities for Preschoolers
+
+[![StPatricksDayCraft]({{ site.github.url }}/assets/img/st-patricks-preschool-abc-puzzles.jpg)](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Preschool-Curriculum-Lesson-Plans-Toddler-PreK-Activities-13063202?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Preschool%20Post)
+
+I always love finding ways to practice the alphabet in fun and new ways. So, I created these two piece puzzles that are perfect for preschoolers! As your child matches the uppercase and lowercase letters, they will complete each puzzle.
 
 ## St. Patrick's Day Craft for Preschoolers
 
