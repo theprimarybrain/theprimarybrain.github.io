@@ -15,3 +15,5 @@ image:
 ![deal]({{ site.github.url }}/assets/img/2025-spring-deals4.jpg)
 
 ![deal]({{ site.github.url }}/assets/img/2025-spring-deals5.jpg)
+
+![deal]({{ site.github.url }}/assets/img/2025-spring-deals6.jpg)
