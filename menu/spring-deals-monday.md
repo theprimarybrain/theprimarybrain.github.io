@@ -4,7 +4,7 @@ title: Monday Dollar Deals
 image:
   feature: 2025-spring-dollar-deals-feature.png
 ---
-![Banner]({{ site.github.url }}/assets/img/2025-spring-dollar-deals-feature.png)
+![Banner]({{ site.github.url }}/assets/img/2025SpringDollarDealMonday.png)
 
 [![deal]({{ site.github.url }}/assets/img/2025-spring-deals.jpg)](https://www.teacherspayteachers.com/Product/Butterfly-NO-PREP-Activities-Thematic-Unit-with-Sub-Plans-11218121)
 

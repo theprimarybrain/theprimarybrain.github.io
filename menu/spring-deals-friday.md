@@ -4,7 +4,7 @@ title: Friday Dollar Deals
 image:
   feature: 2025-spring-dollar-deals-feature.png
 ---
-![Banner]({{ site.github.url }}/assets/img/2025-spring-dollar-deals-feature.png)
+![Banner]({{ site.github.url }}/assets/img/2025SpringDollarDealFriday.png)
 
 [![deal]({{ site.github.url }}/assets/img/2025-spring-deals25.jpg)](https://www.teacherspayteachers.com/Product/Fine-Motor-Alphabet-Handwriting-Practice-Worksheets-Hands-On-Letter-Formation-9866963?utm_source=Email&utm_campaign=Spring%202025%20Dollar%20Deals-%20Fine%20Motor%20Handwriting%20Alphabet%20Practice%20Worksheets)
 

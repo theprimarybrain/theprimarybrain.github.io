@@ -4,7 +4,7 @@ title: Tuesday Dollar Deals
 image:
   feature: 2025-spring-dollar-deals-feature.png
 ---
-![Banner]({{ site.github.url }}/assets/img/2025-spring-dollar-deals-feature.png)
+![Banner]({{ site.github.url }}/assets/img/2025SpringDollarDealTuesday.png)
 
 [![deal]({{ site.github.url }}/assets/img/2025-spring-deals7.jpg)](https://www.teacherspayteachers.com/Product/CVC-Books-Reading-Simple-CVC-Sentences-for-Kindergarten-4410625)
 

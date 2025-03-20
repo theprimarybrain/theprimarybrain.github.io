@@ -4,7 +4,7 @@ title: Thursday Dollar Deals
 image:
   feature: 2025-spring-dollar-deals-feature.png
 ---
-![Banner]({{ site.github.url }}/assets/img/2025-spring-dollar-deals-feature.png)
+![Banner]({{ site.github.url }}/assets/img/2025SpringDollarDealThursday.png)
 
 [![deal]({{ site.github.url }}/assets/img/2025-spring-deals19.jpg)](https://www.teacherspayteachers.com/Product/Spring-Math-Worksheets-Morning-Work-Activities-Homework-and-Centers-3809362)
 

@@ -4,7 +4,7 @@ title: Wednesday Dollar Deals
 image:
   feature: 2025-spring-dollar-deals-feature.png
 ---
-![Banner]({{ site.github.url }}/assets/img/2025-spring-dollar-deals-feature.png)
+![Banner]({{ site.github.url }}/assets/img/2025SpringDollarDealWednesday.png)
 
 [![deal]({{ site.github.url }}/assets/img/2025-spring-deals13.jpg)](https://www.teacherspayteachers.com/Product/Spring-Sentence-Writing-Worksheets-Building-Extend-Combining-Fix-the-Sentences-12903737)
 
