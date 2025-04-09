@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Mar. 13, 2024
+By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Apr. 09, 2025
 
 Are you looking for activities to do with your preschoolers this year? I know how challenging it can be to plan activities for preschoolers and I want to come alongside you to make this as easy as possible for you! I remember when I started planning preschool activities 7 years ago. I spent so many hours just pouring over resources to try to plan our preschool lessons, so I want to help you save time by sharing what we have sed in our home.
 
