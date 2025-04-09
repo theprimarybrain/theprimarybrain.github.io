@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Preschool Curriculum Map for Preschool
+title:  Preschool Curriculum Map for the Year
 categories: [Preschool]
 flodesk: 67f6c9bf1219852ff1fdceaf
 tags: [preschool curriculum map]
@@ -12,7 +12,7 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Apr. 09, 2025
 
-Are you looking for activities to do with your preschoolers this year? I know how challenging it can be to plan activities for preschoolers and I want to come alongside you to make this as easy as possible for you! I remember when I started planning preschool activities 7 years ago. I spent so many hours just pouring over resources to try to plan our preschool lessons, so I want to help you save time by sharing what we have sed in our home.
+Are you looking for activities to do with your preschoolers this year? I know how challenging it can be to plan activities for preschoolers and I want to come alongside you to make this as easy as possible for you! I remember when I started planning preschool activities 7 years ago. I spent so many hours just pouring over resources to try to plan our preschool lessons, so I want to help you save time by sharing what we have used in our home.
 
 I want to take the guesswork out of creating preschool lesson plans so I put together our Preschool Curriculum Map to do just that! It maps out all 40 of our favorite preschool themes to use all year long. Just sign up here and I will email it right over to you:
 
