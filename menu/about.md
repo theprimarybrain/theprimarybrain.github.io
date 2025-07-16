@@ -16,9 +16,9 @@ Maybe you are here looking for phonics, reading, centers, or hands-on preschool 
 
 ![Family Photo]({{ site.github.url }}/assets/img/ThePrimaryBrain_0170.jpg)
 
-Ever since I was a little girl, I have known that I wanted to be a teacher. I used to set up all my stuffed animals and "teach" them. This later turned into using my trusty crayons to draw curriculum for my 4 year old sister.
+Ever since I was a little girl, I knew that I wanted to be a teacher. I used to set up all my stuffed animals and "teach" them. This later turned into using my trusty crayons to draw curriculum for my 4 year old sister in the playhouse my Daddy built us.
 
-Since then, I have taught first grade for 8 years in Southern California. I was also an intervention teacher for struggling readers. I now have the great priviledge of homeschooling my preschoolers at home while I work on new resources to support you in your classroom!
+Since then, I taught first grade for 8 years in Southern California. I was also an intervention teacher for struggling readers. I now have the great priviledge of homeschooling my preschoolers at home while I work on new resources to support you in your classroom!
 
 ![Family Photo]({{ site.github.url }}/assets/img/LaurinWithKids.jpg)
 
