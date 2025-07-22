@@ -8,7 +8,7 @@ image:
 
 [![deal]({{ site.github.url }}/assets/img/2025-bts-collab.jpg)](https://www.teacherspayteachers.com/Product/50-Off-48hr-Back-to-School-First-Grade-Morning-Work-August-Literacy-Math-13969473)
 
-[![deal]({{ site.github.url }}/assets/img/assets/img/2025-bts-collab2.jpg)](https://www.teacherspayteachers.com/Product/Our-Class-is-a-Family-Craft-Bulletin-Board-Back-to-School-Activity-Kindness-Week-8373426)
+[![deal]({{ site.github.url }}/assets/img/2025-bts-collab2.jpg)](https://www.teacherspayteachers.com/Product/Our-Class-is-a-Family-Craft-Bulletin-Board-Back-to-School-Activity-Kindness-Week-8373426)
 
 [![deal]({{ site.github.url }}/assets/img/assets/img/2025-bts-collab3.jpg)](https://www.teacherspayteachers.com/Product/First-Week-of-School-First-Day-of-Kindergarten-Back-to-School-Packet-7103510)
 
