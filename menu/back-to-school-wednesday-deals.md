@@ -5,3 +5,5 @@ image:
   feature: 2025BTSWednesday.png
 ---
 ![Banner]({{ site.github.url }}/assets/img/2025BTSWednesday.png)
+
+Photos Inserted Here
