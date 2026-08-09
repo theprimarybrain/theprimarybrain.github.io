@@ -15,3 +15,5 @@ image:
 [![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
 
 [![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
