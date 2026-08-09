@@ -6,4 +6,12 @@ image:
 ---
 ![Banner]({{ site.github.url }}/assets/img/2025BTS_TuesdayBanner.png)
 
-Photos Inserted Here
+[![TuesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![TuesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![TuesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![TuesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![TuesdayDeals]({{ site.github.url }}/assets/img/)]()

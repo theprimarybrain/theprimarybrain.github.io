@@ -6,4 +6,12 @@ image:
 ---
 ![Banner]({{ site.github.url }}/assets/img/2025BTSWednesday.png)
 
-Photos Inserted Here
+[![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
+
+[![WednesdayDeals]({{ site.github.url }}/assets/img/)]()
