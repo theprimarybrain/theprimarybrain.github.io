@@ -75,6 +75,10 @@ I hope you are as excited as I am to celebrate St. Patrick's Day this year! You 
 
 If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link) for a variety of fun lessons and activities you can use all year long!
 
+[Grab the Curriculum Here](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link)(#adding-a-button){: .button}
+
+[Grab the Curriculum Here](#adding-a-button){: .button}
+
 [![PreschoolCurriculumBundle]({{ site.github.url }}/assets/img/preschool-curriculum-cover.jpg)](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover)
 
 [![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover)
