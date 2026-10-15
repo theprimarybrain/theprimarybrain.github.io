@@ -29,6 +29,7 @@ Each week, I share activities, printable pages, and detailed lessons so you can 
 New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
 
 ## Choose your child's learning path
+![Choose Your learning path]({{ site.github.url }}/assets/img/Membership_ChooseYourLearningPath.jpg) 
 ### Toddler Learning · Ages 2–3
 Our toddler learning path includes playful activities to help your toddler explore early literacy and math skills, build fine and gross skills, dig into sensory bins, experience art and science, and learn through hands-on experiences.
 
