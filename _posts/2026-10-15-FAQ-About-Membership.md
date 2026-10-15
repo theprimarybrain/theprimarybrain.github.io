@@ -12,7 +12,7 @@ image:
 ---
 Have questions about The Primary Brain Membership? This FAQ explains how the membership works, what is included, and how to choose the best learning path that fits your child.
 
-Ready to join? Explore the membership here.
+Want to learn more? [Click here to explore the membership.](https://theprimarybrain.com/menu/membership/)
 
 ## A few quick answers to your questions!
 ### Which membership should I choose?

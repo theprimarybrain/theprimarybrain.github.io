@@ -4,6 +4,8 @@ title: The Primary Brain Membership
 image:
   feature: Membership_MembershipBanner.jpg
 ---
+![Membership Banner]({{ site.github.url }}/assets/img/Membership_MembershipBanner.jpg)
+
 ## Make learning at home feel easier
 You are the magic maker in your home—the person your child runs to every day, excited to hear what the day has in store!
 
