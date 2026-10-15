@@ -6,7 +6,7 @@ flodesk:
 tags: [membership]
 image:
   feature: Membership_FAQBANNER.jpg
-  teaser: 
+  teaser: Membership_FAQTeaser.jpg
   credit: Laurin Brainard
   creditlink: ""
 ---
