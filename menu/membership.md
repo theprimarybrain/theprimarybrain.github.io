@@ -6,9 +6,7 @@ image:
 ---
 ![Membership Banner]({{ site.github.url }}/assets/img/Membership_MembershipBanner.jpg)
 ## Make learning at home feel easier
-You are the magic maker in your home—the person your child runs to every day, excited to hear what the day has in store!
-
-You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning.
+You are the magic maker in your home. You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning.
 
 That’s why I created The Primary Brain Membership...to make it easier to bring playful, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
@@ -51,6 +49,7 @@ Do you have children in more than one age group? If so, the All-Access Learning 
 
 ## Created by a Mom and Teacher who gets it!
 ![Membership Banner]({{ site.github.url }}/assets/img/Membership_MeetLaurin.jpg)
+
 Hi! I'm Laurin Brainard, a former first grade teacher turned educational resource creator and mom to 3 kids. I know how much you want to make learning at home meaningful, but I also know how quickly planning can start to feel like one more thing on your list.
 
 I created this membership to help you feel supported by curating simple activities you can do at home, so you can spend more of your time learning and playing with your children. I hope you will join us inside the membership!
