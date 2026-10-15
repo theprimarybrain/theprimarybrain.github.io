@@ -23,8 +23,8 @@ No. Choose the activities that work for your child and your schedule. The plans 
 Yes. You can leave questions or comments on the membership posts, and I’ll respond there. You can also send me a message right through the membership platform.
 ### What does it cost?
 Toddler, Preschool, and Kindergarten Learning are each $15 per month. If you have children of multiple ages, grab the All Access Pass! For just $30/month, you get all three learning paths for the price of two.
-### Who can use these resources?
-Membership resources are for one family or one classroom to use. 
+### May I share these resources?
+Membership resources are for one family or one classroom to use. Want to share with someone else? [Share this link](https://www.patreon.com/16905425/join).
 ### How do I access the materials?
 Most resources are delivered as a PDF digital download. No physical products will be shipped.
 ### How long are activities available for?
