@@ -18,7 +18,7 @@ Inside the membership, you'll find everything you need to teach your toddler, pr
 
 Each week, I share activities, printable pages, and detailed lessons so you can just print and get started teaching your little ones at home!
 
-![Membership Tech Mockup]({{ site.github.url }}/assets/img/MembershipTechMockup.png)
+![Membership Tech Mockup]({{ site.github.url }}/assets/img/MembershipTechMockup.png) 
 ### Each month, members receive:
 - Weekly learning units designed for their child's age
 - Lesson plans and printable activities to make it easier to get started
