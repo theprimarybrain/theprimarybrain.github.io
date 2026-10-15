@@ -2,7 +2,7 @@
 layout: default
 title: The Primary Brain Membership
 image:
-  feature: 
+  feature: Membership_MembershipBanner.jpg
 ---
 ## Make learning at home feel easier
 You are the magic maker in your home—the person your child runs to every day, excited to hear what the day has in store!
@@ -51,22 +51,3 @@ Hi! I'm Laurin Brainard, a former first grade teacher turned educational resourc
 
 I created this membership to help you feel supported by curating simple activities you can do at home, so you can spend more of your time learning and playing with your children.
 
-## A few quick answers to your questions!
-### Which membership should I choose?
-Choose Toddler, Preschool, or Kindergarten based on the age and learning needs of your child. If you’d like access to all three paths, take a look at the All-Access Pass.
-### Do I have to use every activity?
-No. Choose the activities that work for your child and your schedule. The plans are there to make it easier to get started.
-### Can I ask questions?
-Yes. You can leave questions or comments on the membership posts, and I’ll respond there. You can also send me a message right through the membership platform.
-### What does it cost?
-Toddler, Preschool, and Kindergarten Learning are each $15 per month. If you have children of multiple ages, grab the All Access Pass! For just $30/month, you get all three learning paths for the price of two.
-### Who can use these resources?
-Membership resources are for one family or one classroom to use. 
-### How do I access the materials?
-Most resources are delivered as a PDF digital download. No physical products will be shipped.
-### How long are activities available for?
-All weekly activities are available for 4 weeks, then will be removed to make room for new activities. This means, you will always have a full 4 weeks of activities ready to print and use at any time!
-### Are you ready for easier, more meaningful learning days?
-Pick the learning path that fits your family and let me help take some of the guesswork out of teaching at home.
-
-If you have any other questions, just message me @theprimarybrain on Instagram and I am happy to help you find the best learning path for your family!
