@@ -5,13 +5,18 @@ image:
   feature: Membership_MembershipBanner.jpg
 ---
 ![Membership Banner]({{ site.github.url }}/assets/img/Membership_MembershipBanner.jpg)
-
 ## Make learning at home feel easier
 You are the magic maker in your home—the person your child runs to every day, excited to hear what the day has in store!
 
 You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning.
 
 That’s why I created The Primary Brain Membership...to make it easier to bring playful, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
+
+## Created by a Mom and Teacher who gets it!
+![Membership Banner]({{ site.github.url }}/assets/img/Membership_MeetLaurin.jpg)
+Hi! I'm Laurin Brainard, a former first grade teacher turned educational resource creator and mom to 3 kids. I know how much you want to make learning at home meaningful, but I also know how quickly planning can start to feel like one more thing on your list.
+
+I created this membership to help you feel supported by curating simple activities you can do at home, so you can spend more of your time learning and playing with your children.
 
 ## I'm here to answer the question, “What should we do today?”
 Inside the membership, you'll find everything you need to teach your toddler, preschooler, or kindergartener, without having to plan anything! 
@@ -28,7 +33,6 @@ Each week, I share activities, printable pages, and detailed lessons so you can 
 
 New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
 
-## Choose your child's learning path
 ![Choose Your learning path]({{ site.github.url }}/assets/img/Membership_ChooseYourLearningPath.jpg) 
 ### Toddler Learning · Ages 2–3
 Our toddler learning path includes playful activities to help your toddler explore early literacy and math skills, build fine and gross skills, dig into sensory bins, experience art and science, and learn through hands-on experiences.
@@ -49,9 +53,3 @@ Our kindergarten learning path includes a year of lessons and activities that in
 Do you have children in more than one age group? If so, the All-Access Learning Pass includes all of the Toddler + Preschool + Kindergarten learning activities. This pass grants access to all 3 learning paths so you can take the guesswork out of teaching your children!
 
 [![All AccessButton]({{ site.github.url }}/assets/img/button_AllAccessPass.jpg)](https://www.patreon.com/16905425/join)
-
-## Created by a Mom and Teacher who gets it!
-Hi! I'm Laurin Brainard, a former first grade teacher turned educational resource creator and mom to 3 kids. I know how much you want to make learning at home meaningful, but I also know how quickly planning can start to feel like one more thing on your list.
-
-I created this membership to help you feel supported by curating simple activities you can do at home, so you can spend more of your time learning and playing with your children.
-
