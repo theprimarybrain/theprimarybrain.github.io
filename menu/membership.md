@@ -10,7 +10,16 @@ You are the magic maker in your home. You want to spend your days making memorie
 
 That’s why I created The Primary Brain Membership...to make it easier to bring playful, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
-<iframe width=100% max-width: 1024px src="https://www.youtube.com/embed/DLKwthUlieI?si=5Tmlo_TH4y952AYe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
+  <iframe
+    src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
+    title="The Primary Brain Membership"
+    style="display: block; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## I'm here to answer the question, “What should we do today?”
 Inside the membership, you'll find everything you need to teach your toddler, preschooler, or kindergartener, without having to plan anything! 
