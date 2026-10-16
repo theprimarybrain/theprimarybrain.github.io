@@ -69,7 +69,7 @@ I created this membership to help you feel supported by curating simple activiti
 
 ## FAQ's
 ### Which membership should I choose?
-Choose Toddler, Preschool, or Kindergarten based on the age and learning needs of your child. If you’d like access to all three paths, take a look at the All-Access Pass.
+Choose Toddler, Preschool, or Kindergarten based on the age and learning needs of your child. If you’d like access to all three paths, take a look at the [All-Access Pass](https://www.patreon.com/16905425/join).
 ### Do I have to use every activity?
 No. Choose the activities that work for your child and your schedule. The plans are there to make it easier to get started.
 ### Can I ask questions?
@@ -83,4 +83,4 @@ Most resources are delivered as a PDF digital download. No physical products wil
 ### How long are activities available for?
 All weekly activities are available for 4 weeks, then will be removed to make room for new activities. This means, you will always have a full 4 weeks of activities ready to print and use at any time!
 ### Are you ready for easier, more meaningful learning days?
-Pick the learning path that fits your family and let me help take some of the guesswork out of teaching at home.
+Pick the learning path that fits your family and let me help take some of the guesswork out of teaching at home! [Join the membership HERE.](https://www.patreon.com/16905425/join)
