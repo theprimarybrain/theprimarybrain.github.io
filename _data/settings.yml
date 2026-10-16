@@ -25,16 +25,16 @@ menu:
     url: 'blog/'
   }
 - {
+    name: 'Membership', 
+    url: 'membership/'
+  }
+- {
     name: 'Podcast',
     url: 'podcast/'
   }
 - {
     name: 'Categories', 
     url: 'categories/'
-  }
-- {
-    name: 'Toddler', 
-    url: 'toddler-school/'
   }
 - {
     name: 'Email List', 
