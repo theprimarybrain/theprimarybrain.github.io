@@ -68,7 +68,7 @@ Hi! I'm Laurin Brainard, a former first grade teacher turned educational resourc
 
 I created this membership to help you feel supported by curating simple activities you can do at home, so you can spend more of your time learning and playing with your children. I hope you will join us inside the membership!
 
-## FAQ's
+## FAQs
 ### Which membership should I choose?
 Choose Toddler, Preschool, or Kindergarten based on the age and learning needs of your child. If you’d like access to all three paths, take a look at the [All-Access Pass](https://www.patreon.com/16905425/join).
 ### Do I have to use every activity?
