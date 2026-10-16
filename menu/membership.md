@@ -60,6 +60,7 @@ Do you have children in more than one age group? If so, the All-Access Learning 
 
 [![All AccessButton]({{ site.github.url }}/assets/img/button_AllAccessPass.jpg)](https://www.patreon.com/16905425/join)
 
+
 ## Created by a Mom and Teacher who gets it!
 ![Membership Banner]({{ site.github.url }}/assets/img/Membership_MeetLaurin.jpg)
 
