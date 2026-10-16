@@ -8,7 +8,7 @@ image:
 ## Make learning at home feel easier
 You are the magic maker in your home. You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning.
 
-That’s why I created The Primary Brain Membership...to make it easier to bring playful, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
+That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)...to make it easier to bring playful, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
 <div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
   <iframe
