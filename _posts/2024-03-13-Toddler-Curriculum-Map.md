@@ -74,11 +74,9 @@ Here are some helpful blog posts that explain more about the skill areas covered
 
 If you would like to download a full year of lesson plans and printables to go with all of the themes on the curriculum map, then you can take a look at our Complete Toddler Learning Curriculum! All the planning is done for you so that you can just dive right in to toddler learning activities! 
 
-[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-Learning-Curriculum-Preschool-Activities-Lesson-Plans-9277137?utm_source=PB%20Blog&utm_campaign=Curriculum%20Map%20Blog%2020240313%20to%20Complete%20Toddler%20Bundle)
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 [![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
-
-[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-Learning-Curriculum-Preschool-Activities-Lesson-Plans-9277137?utm_source=PB%20Blog&utm_campaign=Curriculum%20Map%20Blog%2020240313%20to%20Complete%20Toddler%20Bundle)
 
 I hope these resources help you to feel confident in teaching your children during your toddler learning times! Feel free to reach out to me on Instagram [@theprimarybrain](https://www.instagram.com/theprimarybrain/) with any questions as you begin a magical time of making memories with your little ones!
 
