@@ -4,7 +4,7 @@ title: The Primary Brain Membership
 image:
   feature: Membership_Feature.jpg
 ---
-![Membership Banner]({{ site.github.url }}/assets/img/Membership_MembershipBanner.jpg)
+![Membership Banner]({{ site.github.url }}/assets/img/Membership_Feature.jpg)
 ## Make learning at home feel easier
 You are the magic maker in your home. You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning.
 
