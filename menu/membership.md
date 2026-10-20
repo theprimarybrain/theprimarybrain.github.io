@@ -2,7 +2,7 @@
 layout: default
 title: The Primary Brain Membership
 image:
-  feature: Membership_MembershipBanner.jpg
+  feature: Membership_Feature.jpg
 ---
 ![Membership Banner]({{ site.github.url }}/assets/img/Membership_MembershipBanner.jpg)
 ## Make learning at home feel easier
