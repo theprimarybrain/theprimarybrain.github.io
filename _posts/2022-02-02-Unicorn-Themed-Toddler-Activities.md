@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Unicorns bring a sense of magic into the room and are a childhood favorite! I love finding ways to create learning activities around my children's favorite things, so a unicorn week is perfect! This [Unicorn Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Activities) is packed with everything you need for a full week of learning, so get ready to have fun while you learn about the letter U!
+Unicorns bring a sense of magic into the room and are a childhood favorite! I love finding ways to create learning activities around my children's favorite things, so a unicorn week is perfect! This [Unicorn Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1316854839/unicorn-toddler-school-lesson-plans) is packed with everything you need for a full week of learning, so get ready to have fun while you learn about the letter U!
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -32,11 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-Interested in downloading [these unicorn activities](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these unicorn activities](https://theprimarybrain.etsy.com/listing/1316854839/unicorn-toddler-school-lesson-plans) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Unicorn Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-unicorn.jpg)](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Unit%20Cover)
+[![Unicorn Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-unicorn.jpg)](https://theprimarybrain.etsy.com/listing/1316854839/unicorn-toddler-school-lesson-plans)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1316854839/unicorn-toddler-school-lesson-plans)
 
 ## Literacy Activities
 
@@ -97,9 +97,9 @@ Another fun way to count while also getting some fine motor practice in is throu
 Gross motor skills are important for young children to practice as they learn how to coordinate and control their body movements. For today's movement activity, we set up a maze outside! It was so much fun following chalk lines to find matching unicorns. It was a great way to get moving and we loved doing it over and over again!
 
 
-[![UnicornUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Unicorn-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Unicorn-Preschool-Curriculum-Letter-U-5152015?st=599268609963749f136721233bf5fa5d)
+[![UnicornUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Unicorn-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1316854839/unicorn-toddler-school-lesson-plans)
 
 
-I hope you found some magical ideas here to inspire you and your little one! If you want to make teaching your toddler super simple this week, make sure to check out my [Unicorn Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Unicorn-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5152015?utm_source=PB%20Blog&utm_campaign=Unicorn%20Toddler%20Activities) for 5 complete lesson plans and all the printables and activities you’ll need to make the week magical. And if you need even more toddler school themed units, check out the [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281).
+I hope you found some magical ideas here to inspire you and your little one! If you want to make teaching your toddler super simple this week, make sure to check out my [Unicorn Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1316854839/unicorn-toddler-school-lesson-plans).
 
 I hope you enjoy every minute of magical playing and learning with your little ones!

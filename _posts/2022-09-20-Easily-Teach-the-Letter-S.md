@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Little Miss Muffet is a favorite nursery rhyme of mine, and my toddler absolutely loves to sing along with me once I get it stuck in my head. Unlike adults, toddlers seem to have no fear and love to touch and learn all about spiders. Since most toddlers are fascinated by these 8-legged creatures, I just knew I needed to create some awesome and educational **spider activities for toddlers**.  This [Spider Themed Letter S Toddler Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) will allow your toddler to have some creepy crawly fun! 
+Little Miss Muffet is a favorite nursery rhyme of mine, and my toddler absolutely loves to sing along with me once I get it stuck in my head. Unlike adults, toddlers seem to have no fear and love to touch and learn all about spiders. Since most toddlers are fascinated by these 8-legged creatures, I just knew I needed to create some awesome and educational **spider activities for toddlers**.  This [Spider Themed Letter S Toddler Curriculum Unit](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school) will allow your toddler to have some creepy crawly fun! 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -32,43 +32,43 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-Interested in downloading [these spider activities](https://www.teacherspayteachers.com/Product/Spider-Theme-Toddler-Activities-Lesson-Plans-Tot-School-Preschool-Curriculum-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these spider activities](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Spider Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-spider.jpg)](https://www.teacherspayteachers.com/Product/Spider-Theme-Toddler-Activities-Lesson-Plans-Tot-School-Preschool-Curriculum-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Unit%20Cover)
+[![Spider Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-spider.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Spider-Theme-Toddler-Activities-Lesson-Plans-Tot-School-Preschool-Curriculum-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
 
 ## Fine Motor Activities 
 
-[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-dot-marker.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-dot-marker.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
 
 Dot paints may be the _best invention ever_. I wish I had thought of it! Help your child not only learn about spiders but teach them the shape name _circle_ at the same time! 
 
-[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-fine-motor.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-fine-motor.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
 
 Clothes pins are a great tool to help your toddler with **fine motor skills**. Let your child add some legs to the spider in this fun fine motor activity!
 
 ## Sensory Bins 
 
-[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-sensory-bin.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
 
 Create a spooky spider web out of yarn, string, or even cooked spaghetti! Add some plastic spiders, and your child can sort the letters by uppercase/lowercase. 
 
-[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-playdough-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) 
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-playdough-sensory-bin.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school) 
 
 You can’t have activities with a spider theme and not build some fun spiders. Make sure to grab some pipe cleaners, googly eyes, and Playdoh. Your toddler will surely have some fun in this build-a-spider sensory bin. 
 
 ## Math Activity 
 
-[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-math-activity.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-math-activity.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
 
 Math activities do not need just to just be pencil and paper. Grab some spider erasers, or print out some paper spiders and have your toddler add the correct number of spiders to the web. 
 
-[Spider counting](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) is way more fun than normal counting!
+[Spider counting](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school) is way more fun than normal counting!
 
 ## Literacy Activity
 
-[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-book.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/spider-toddler-book.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
 
 Kids love the itsy bitsy spider, and creating a book is a great way to help with their reading skills. Have fun learning the classic nursery rhyme, and help your little learner with reading, too! 
 
@@ -77,18 +77,19 @@ Sometimes your toddler is just not ready to open up a book and read! That’s ok
 
 ## Spider Activities For Toddlers
 
-[![Letter S Spider Activities]({{ site.github.url }}/assets/img/Cover-Toddler-Spider-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post)
+[![Letter S Spider Activities]({{ site.github.url }}/assets/img/Cover-Toddler-Spider-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school)
  
-These are just a few of the fantastic fun activities in my [Letter S Spider Activites](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Spider-Preschool-Curriculum-Letter-S-4158005?utm_source=PB%20Blog&utm_campaign=Spider%20Toddler%20Post) for toddlers. This Spider Curriculum unit includes gross motor activities, spider crafts, and more! I even include daily lesson plans to ensure you get the most out of every creepy crawly activity. 
+These are just a few of the fantastic fun activities in my [Letter S Spider Activites](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school) for toddlers. This Spider Curriculum unit includes gross motor activities, spider crafts, and more! I even include daily lesson plans to ensure you get the most out of every creepy crawly activity. 
 
 ## Don’t Forget!
 
-Don’t forget I have a whole toddler curriculum that will help your child learn the alphabet, while also working on important skills your child will need before kindergarten! You can grab all these spider activities for toddlers, plus 25 other themes in my [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell). 
+Don’t forget I have a whole toddler curriculum that will help your child learn the alphabet, while also working on important skills your child will need before kindergarten! You can grab all these spider activities for toddlers, plus 25 other themes in my [Toddler School A-Z Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school). 
 
-Keeping routine when learning the alphabet is not only helpful for children but makes life easier for you! You’ll get all you see here **and** activities for the rest of the alphabet, all at a great price!  You can grab the [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) and start making memories with your little learners today!
+Keeping routine when learning the alphabet is not only helpful for children but makes life easier for you! You’ll get all you see here **and** activities for the rest of the alphabet, all at a great price!  You can grab the [Toddler School A-Z Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) and start making memories with your little learners today!
 
 ### What Other A-Z Activities Do I Have? 
 
-I know, my [A-Z Toddler Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) looks pretty helpful. But sometimes, you want to see what other alphabet activities are included before you commit! It’s like trying on clothes before making the purchase. 
+I know, my [A-Z Toddler Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) looks pretty helpful. But sometimes, you want to see what other alphabet activities are included before you commit! It’s like trying on clothes before making the purchase. 
 
 Head over to a couple of my newest blog posts. [P For Pumpkin](https://theprimarybrain.com/toddler%20school/2022/09/01/Pumpkin-Toddler-Activities/) and [Simple Activities For The Letter X](https://theprimarybrain.com/toddler%20school/2022/09/04/Simple-Activities-For-The-Letter-X/) to check out some of the other educational and fun activities I developed for the curriculum! 
+

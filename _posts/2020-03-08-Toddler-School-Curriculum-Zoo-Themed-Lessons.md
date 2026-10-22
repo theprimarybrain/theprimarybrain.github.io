@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-For the past year and a half, my son and I worked through 26 toddler school units. It was so much fun to watch Conner engage in toddler activities while we learned about all 26 letters of the alphabet. We loved every moment! To finish out the alphabet, I created this [Zoo Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Zoo-Themed-Lessons-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20School). Our final 5 lesson plans were so much fun and I hope you find some great ideas in this post to do with your little ones. 
+For the past year and a half, my son and I worked through 26 toddler school units. It was so much fun to watch Conner engage in toddler activities while we learned about all 26 letters of the alphabet. We loved every moment! To finish out the alphabet, I created this [Zoo Themed Toddler School Unit](https://theprimarybrain.etsy.com/listing/992913749/zoo-toddler-activities-tot-school-lesson). Our final 5 lesson plans were so much fun and I hope you find some great ideas in this post to do with your little ones. 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ Each of the 5 lessons in this unit include the following activities:
 - gross motor activity
 - art activity
 
-Interested in downloading [these zoo activities](https://www.teacherspayteachers.com/Product/Zoo-Toddler-Activities-Lesson-Plans-Animals-2-to-3-Year-Preschool-Curriculum-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these zoo activities](https://theprimarybrain.etsy.com/listing/992913749/zoo-toddler-activities-tot-school-lesson) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Zoo Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-zoo.jpg)](https://www.teacherspayteachers.com/Product/Zoo-Toddler-Activities-Lesson-Plans-Animals-2-to-3-Year-Preschool-Curriculum-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20Unit%20Cover)
+[![Zoo Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-zoo.jpg)](https://theprimarybrain.etsy.com/listing/992913749/zoo-toddler-activities-tot-school-lesson)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Zoo-Toddler-Activities-Lesson-Plans-Animals-2-to-3-Year-Preschool-Curriculum-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/992913749/zoo-toddler-activities-tot-school-lesson)
 
 ## Create a Zoo Cover Page
 
@@ -55,7 +55,7 @@ Since this unit is all about the letter Z, I threw these zebra letter cards into
 
 ![Toddler School3]({{ site.github.url }}/assets/img/Toddler-School-Zoo-Theme-17.jpg)
 
-Conner's favorite sensory bin was this zoo feeding bin! Best of all, it is so easy to throw together. Add some plastic tweezers to a bin and a pile of pom pom balls. Then, all you have to do is attach animal faces to empty water bottles. You can find these animal face printables in my [Zoo Animal Toddler School unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Zoo-Themed-Lessons-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20School). Not only was this bin fun, but it provided excellent fine motor practice.
+Conner's favorite sensory bin was this zoo feeding bin! Best of all, it is so easy to throw together. Add some plastic tweezers to a bin and a pile of pom pom balls. Then, all you have to do is attach animal faces to empty water bottles. You can find these animal face printables in my [Zoo Animal Toddler School unit](https://theprimarybrain.etsy.com/listing/992913749/zoo-toddler-activities-tot-school-lesson). Not only was this bin fun, but it provided excellent fine motor practice.
 
 ## Art Activities
 
@@ -79,7 +79,7 @@ Another fun favorite this week was making a lion. Anything with liquid paint and
 
 ## Fine Motor Activities
 
-As a teacher, I see the importance of fine motor skills every day. Fine motor skills begin through play. Holding tweezers, squeezing glue, pinching objects, rolling play dough, and other similar activities all contribute to fine motor development. Each toddler unit in my [Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Toddler-Curriculum-Bundle-4296281?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20Unit%20Bundle%20Link) incorporates 5 different fine motor activities. Here are a few of our favorites from this zoo themed unit...
+As a teacher, I see the importance of fine motor skills every day. Fine motor skills begin through play. Holding tweezers, squeezing glue, pinching objects, rolling play dough, and other similar activities all contribute to fine motor development. Each toddler unit in my [Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) incorporates 5 different fine motor activities. Here are a few of our favorites from this zoo themed unit...
 
 ![Toddler School3]({{ site.github.url }}/assets/img/Toddler-School-Zoo-Theme-6.jpg)
 
@@ -117,4 +117,4 @@ Another way we practiced counting and identifying numbers was through number puz
 
 ## That's a Wrap!
 
-I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Zoo Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Zoo-Themed-Lessons-5118120?utm_source=PB%20Blog&utm_campaign=Zoo%20Toddler%20School) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 
+I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Zoo Themed Toddler School Unit](https://theprimarybrain.etsy.com/listing/992913749/zoo-toddler-activities-tot-school-lesson) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible. I hope you enjoy playing and learning with your little ones this week! 

@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Get ready for a fun week of noodle toddler activities! Noodles are always a hit with the little ones to eat and to learn with! I created this [Noodle Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Homeschool-Preschool-Curriculum-Letter-N-5010808?st=07e9e14865e03b51c0a88df1f34eb167&utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20School%20Unit) to bring a bit of noodle fun into your home. 
+Get ready for a fun week of noodle toddler activities! Noodles are always a hit with the little ones to eat and to learn with! I created this [Noodle Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1316557545/noodle-toddler-activities-and-lesson) to bring a bit of noodle fun into your home. 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities 
 - art activities
 
-Interested in downloading [these noodle activities](https://www.teacherspayteachers.com/Product/Noodle-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5010808?utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these noodle activities](https://theprimarybrain.etsy.com/listing/1316557545/noodle-toddler-activities-and-lesson) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Noodle Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-noodle.jpg)](https://www.teacherspayteachers.com/Product/Noodle-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5010808?utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20Unit%20Cover)
+[![Noodle Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-noodle.jpg)](https://theprimarybrain.etsy.com/listing/1316557545/noodle-toddler-activities-and-lesson)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Noodle-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Curriculum-5010808?utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1316557545/noodle-toddler-activities-and-lesson)
 
 ## Art Activities
 
@@ -75,10 +75,10 @@ Noodles are the perfect tool for little ones to count and sort. Just find at lea
 
 Another great 1:1 correspondence activity is to use noodles to count and match numbers. It’s so important that our little ones get repeated practice with counting out a set of items. The noodles just add an extra layer of fun to the activity and are a great tactile experience to practice those counting skills.  
 
-[![NoodleUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Noodle-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Homeschool-Preschool-Curriculum-Letter-N-5010808?st=07e9e14865e03b51c0a88df1f34eb167&utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20School%20Cover%20Image)
+[![NoodleUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Noodle-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1316557545/noodle-toddler-activities-and-lesson)
 
-I hope you found some great ideas and inspiration to use at home with your little ones! If you want to make teaching your toddler super simple this week, you can grab my printable [Noodle Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Homeschool-Preschool-Curriculum-Letter-N-5010808?st=07e9e14865e03b51c0a88df1f34eb167&utm_source=PB%20Blog&utm_campaign=Noodle%20Toddler%20School%20Unit) for 5 complete lesson plans, even more ideas, and all the printables you need. Just print and you are ready to teach your little ones!
+I hope you found some great ideas and inspiration to use at home with your little ones! If you want to make teaching your toddler super simple this week, you can grab my printable [Noodle Toddler School Unit](https://theprimarybrain.etsy.com/listing/1316557545/noodle-toddler-activities-and-lesson) for 5 complete lesson plans, even more ideas, and all the printables you need. Just print and you are ready to teach your little ones!
 
-And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell).
+And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school).
 
 I hope you enjoy playing and learning with your little ones this week! If you are interested in learning more about how to plan toddler school activities for your little ones, then sign up right here to receive my free guide!

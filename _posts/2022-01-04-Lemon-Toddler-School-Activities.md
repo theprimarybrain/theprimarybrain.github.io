@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-When life gives you lemons… Enjoy lemon themed learning activities with your toddlers! I created this [Lemon Themed Toddler Activities Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Lemon-Preschool-Curriculum-Letter-L-4616157?st=af76699ab021192774b95a849e291d33&utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20School%20Unit) to make learning with your toddler easy peasy, lemon squeezy, and tons of fun for you and your little ones! 
+When life gives you lemons… Enjoy lemon themed learning activities with your toddlers! I created this [Lemon Themed Toddler Activities Unit](https://theprimarybrain.etsy.com/listing/1302252946/lemon-toddler-activities-tot-school) to make learning with your toddler easy peasy, lemon squeezy, and tons of fun for you and your little ones! 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that incorporate the following activities:
 - gross motor activities 
 - art activities
 
-Interested in downloading [these lemon activities](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these lemon activities](https://theprimarybrain.etsy.com/listing/1302252946/lemon-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon2.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
+[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon2.jpg)](https://theprimarybrain.etsy.com/listing/1302252946/lemon-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1302252946/lemon-toddler-activities-tot-school)
 
 ## Vocabulary Development
 
@@ -121,7 +121,8 @@ Finally, to wrap up this lemon unit, how about a lemon explosion!? To do this sc
 
 Let’s get moving! Lemons are so fun to use for gross motor activities. Our favorite gross motor activity in this unit was picking lemons from a tree! To prepare for the activity, all I did was cut out three tree template pieces to make pretend “trees” and taped them to the wall. Then gently tape lemon cut outs at all heights so your child will have easy access to “pick” the lower lemons off the tree. I found it worked best to roll the tape up onto the lemon. Then, the lemons will gradually become harder to “pick off the tree.” My son especially loved the highest lemons where he had to stand on his tippy toes to reach! We did a few other gross motor activities in this unit, but this is the one my son asked to do every single day!
 
-[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon2.jpg)](https://www.teacherspayteachers.com/Product/Lemon-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-for-2-3-Year-Olds-4616157?utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20Unit%20Cover)
+[![Lemon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-lemon2.jpg)](https://theprimarybrain.etsy.com/listing/1302252946/lemon-toddler-activities-tot-school)
 
-I hope you found some great ideas to use at home (or at school!) with your little ones! If you want to make teaching your toddler super simple (and sweet!) this week, then check out the [Lemon Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Lemon-Preschool-Curriculum-Letter-L-4616157?st=af76699ab021192774b95a849e291d33&utm_source=PB%20Blog&utm_campaign=Lemon%20Toddler%20School%20Unit) for 5 complete and detailed lesson plans and all the printables you’ll need to make the week easy cheesy lemon squeezy! I hope you enjoy every minute of playing and learning with your little ones!
+I hope you found some great ideas to use at home (or at school!) with your little ones! If you want to make teaching your toddler super simple (and sweet!) this week, then check out the [Lemon Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302252946/lemon-toddler-activities-tot-school) for 5 complete and detailed lesson plans and all the printables you’ll need to make the week easy cheesy lemon squeezy! I hope you enjoy every minute of playing and learning with your little ones!
+
 

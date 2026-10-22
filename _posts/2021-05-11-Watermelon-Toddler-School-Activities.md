@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Nothing says summer with toddlers quite like watermelon! Are you and your little ones ready for a summer filled with warm weather? I know we are so excited to kick off summer with all the watermelon themed toddler activities! I hope you and your littles have so much fun with the activities from my [Watermelon Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Watermelon-Theme-Activities-Homeschool-Classroom-4762010?st=de9cd60d8dfd70334033c279f463c701&utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20School%20)! 
+Nothing says summer with toddlers quite like watermelon! Are you and your little ones ready for a summer filled with warm weather? I know we are so excited to kick off summer with all the watermelon themed toddler activities! I hope you and your littles have so much fun with the activities from my [Watermelon Toddler Unit](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool)! 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -30,11 +30,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - fine motor activity 
 - art activity 
 
-Interested in downloading [these watermelon activities](https://www.teacherspayteachers.com/Product/Watermelon-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Theme-4762010?utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these watermelon activities](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Watermelon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-watermelon.jpg)](https://www.teacherspayteachers.com/Product/Watermelon-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Theme-4762010?utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20Unit%20Cover)
+[![Watermelon Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-watermelon.jpg)](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Watermelon-Toddler-Activities-Lesson-Plans-2-to-3-Year-Old-Preschool-Theme-4762010?utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool)
 
 ## Toddler Art Activities 
 
@@ -92,6 +92,6 @@ Exposing your toddler to counting can be done through lots of play based activit
 
 Your little ones will love this hands-on science activity where they get to touch and feel all the parts of the watermelon with this dissection activity. This activity did get a bit sticky, so it is best completed outside. As your child takes apart the pieces of watermelon, talk about the different parts they find inside. 
 
-[![WatermelonToddlerCover]({{ site.github.url }}/assets/img/toddler-watermelon-cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Watermelon-Preschool-Curriculum-Letter-W-4762010?st=4766b289397803e79320f1a110e9544e&utm_source=Watermelon%20TS%20Blog&utm_campaign=Square%20Cover)
+[![WatermelonToddlerCover]({{ site.github.url }}/assets/img/toddler-watermelon-cover.jpg)](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool)
 
-I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Watermelon Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Watermelon-Theme-Activities-Homeschool-Classroom-4762010?st=de9cd60d8dfd70334033c279f463c701&utm_source=PB%20Blog&utm_campaign=Watermelon%20Toddler%20School%20) for 5 complete lesson plans and all the printables you need. I hope you enjoy every minute of playing, learning and having fun with your toddler!
+I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Watermelon Toddler Unit](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool) for 5 complete lesson plans and all the printables you need. I hope you enjoy every minute of playing, learning and having fun with your toddler!

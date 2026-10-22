@@ -32,7 +32,7 @@ This activity definitely brings out the sweet tooth in me! To set up this sensor
 
 ![LetterMat]({{ site.github.url }}/assets/img/ice-cream-sensory-bin-cone-sort.jpg)
 
-Since you already have your bin of sprinkles out, here is another fun activity! In this activity, we focused on the uppercase and lowercase letter I. I placed all the ice cream scoops into the bin and an ice cream workmat next to the bin. As we scooped ice cream cones out of the sprinkles, we worked on letter name identification for the uppercase and lowercase letter I as we placed the scoops onto the cones. You can find the printables for this activity in my [Ice Cream Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Ice-Cream-Themed-Activities-Homeschool-Classroom-4635846?st=b0e47a0494b5d748e0d85a4519381133)
+Since you already have your bin of sprinkles out, here is another fun activity! In this activity, we focused on the uppercase and lowercase letter I. I placed all the ice cream scoops into the bin and an ice cream workmat next to the bin. As we scooped ice cream cones out of the sprinkles, we worked on letter name identification for the uppercase and lowercase letter I as we placed the scoops onto the cones. You can find the printables for this activity in my [Ice Cream Themed Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool)
 
 ## Sea and Sand Letter Match
 
@@ -40,13 +40,13 @@ Since you already have your bin of sprinkles out, here is another fun activity! 
 
 I love sensory bins that transport us to another place, and this bin did just that! This sensory bin took us on a trip to the beach. We loved sifting our fingers through the "beach sand" and scooping up the "waves" as we learned about letters. 
 
-To set up this sensory bin, add tan colored sand to half of the bin. Then, fill the second half of the bin with printed blue alphabet letter tiles. Then, place a letter mat with all the letters from A-Z next to the bin. One by one, your child will pull out letter tiles and place them on the letter mat. As your child pulls out each letter tile, work on saying the name and sound that the letter makes. You can find the printables for this activity in my [Ocean Themed Preschool Lesson](https://www.teacherspayteachers.com/Product/Preschool-Lesson-Plans-Ocean-Preschool-Curriculum-5634332). 
+To set up this sensory bin, add tan colored sand to half of the bin. Then, fill the second half of the bin with printed blue alphabet letter tiles. Then, place a letter mat with all the letters from A-Z next to the bin. One by one, your child will pull out letter tiles and place them on the letter mat. As your child pulls out each letter tile, work on saying the name and sound that the letter makes. You can find the printables for this activity in my [Ocean Themed Preschool Lesson](https://theprimarybrain.etsy.com/listing/1314606904/ocean-preschool-activities-homeschool). 
 
 ## Watermelon Science
 
 ![WatermelonScience]({{ site.github.url }}/assets/img/Toddler-Watermelon-Sort.jpg)
 
-All you need for this sensory science activity is a melon baller, watermelon, and a sorting mat! Your children will LOVE scooping out all that delicious flesh and sorting the parts of a watermelon. You can make your own sorting mat, or you can download mine from my [Watermelon Toddler School Lesson Plans](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Watermelon-Theme-Activities-Homeschool-Classroom-4762010?st=d2b79dd4994c22cfa29813ba9fe636a5).
+All you need for this sensory science activity is a melon baller, watermelon, and a sorting mat! Your children will LOVE scooping out all that delicious flesh and sorting the parts of a watermelon. You can make your own sorting mat, or you can download mine from my [Watermelon Toddler School Lesson Plans](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool).
 
 ## Have a Great Summer!
 

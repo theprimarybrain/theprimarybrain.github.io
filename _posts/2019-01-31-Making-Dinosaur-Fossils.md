@@ -13,7 +13,7 @@ image:
 ---
 Do you study dinosaurs with your students? I am blown away by the level of engagement when studying dinosaurs! My 3 year old son is absolutely OBSESSED with dinosaurs right now. He plays with dinosaurs, wants a dinosaur birthday party, makes dino sounds... If you can think it, he probably does it! 
 
-Since dinosaurs are such a high interest topic right now, I created an entire [Dinosaur Themed Toddler School Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Curriculum-Dinosaur-Themed-Lessons-4313867?utm_source=My%20Blog&utm_campaign=Dinosaur%20Fossils%20Post). My favorite project we completed during the unit was making dinosaur fossils. Although this project was part of my toddler unit, it is also perfect for my first grade classroom! You can read more about [dinosaur activities](https://theprimarybrain.com/toddler%20school/2021/01/08/Toddler-School-Dinosaur-Activities/) in [this post](https://theprimarybrain.com/toddler%20school/2021/01/08/Toddler-School-Dinosaur-Activities/).
+Since dinosaurs are such a high interest topic right now, I created an entire [Dinosaur Themed Toddler School Curriculum Unit](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool).
 
 ## Dinosaur Fossil Salt Dough Recipe
 
@@ -39,7 +39,7 @@ Remove the dinosaur after pressing to reveal a “dinosaur fossil.” Bake in a 
 
 We found that the dinosaur fossils look the most realistic when they are not painted. But... We had lots of fun painting our dinosaur fossils! 
 
-If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Curriculum-Dinosaur-Themed-Lessons-4313867?utm_source=My%20Blog&utm_campaign=Dinosaur%20Fossils%20Post) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
+If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
 
 
 ### Read these posts for even more fun activities:

@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-September is here and that means it’s time to start planning pumpkin toddler activities for your little ones! I created this [Pumpkin Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Pumpkin-Homeschool-Curriculum-Letter-P-4096870?st=d37bde1e2d38d8836d2b79b197cc2bce) to bring a bit of the fall season into your home or classroom.
+September is here and that means it’s time to start planning pumpkin toddler activities for your little ones! I created this [Pumpkin Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1314751891/pumpkin-toddler-activities-letter-p) to bring a bit of the fall season into your home or classroom.
 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler lessons:
@@ -33,11 +33,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-Interested in downloading [these pumpkin activities](https://www.teacherspayteachers.com/Product/Pumpkin-Theme-Toddler-Activities-for-Fall-Preschool-Curriculum-Lesson-Plans-4096870?utm_source=PB%20Blog&utm_campaign=Pumpkin%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these pumpkin activities](https://theprimarybrain.etsy.com/listing/1314751891/pumpkin-toddler-activities-letter-p) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Pumpkin Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-pumpkin.jpg)](https://www.teacherspayteachers.com/Product/Pumpkin-Theme-Toddler-Activities-for-Fall-Preschool-Curriculum-Lesson-Plans-4096870?utm_source=PB%20Blog&utm_campaign=Pumpkin%20Toddler%20Unit%20Cover)
+[![Pumpkin Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-pumpkin.jpg)](https://theprimarybrain.etsy.com/listing/1314751891/pumpkin-toddler-activities-letter-p)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Pumpkin-Theme-Toddler-Activities-for-Fall-Preschool-Curriculum-Lesson-Plans-4096870?utm_source=PB%20Blog&utm_campaign=Pumpkin%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1314751891/pumpkin-toddler-activities-letter-p)
 
 ## Art Activities 
 
@@ -115,8 +115,9 @@ Do pumpkins sink or float? Let's find out! First, fill up a large bin with water
 
 Gross motor skills help our kids develop balance, coordination, body awareness, physical strength, and reaction time. We had a blast with pumpkin bowling! This activity is easy to set up, and it’ll keep your toddler busy and entertained. You’ll want to place several plastic cups inside a chalk circle. Your little one will roll a pumpkin, just like a bowling ball, to try and knock the cups outside of the circle. Your child can keep rolling until all the cups are hit outside the circle. 
 
-[![PumpkinToddler]({{ site.github.url }}/assets/img/pumpkin-unit-cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Pumpkin-Homeschool-Curriculum-Letter-P-4096870)
+[![PumpkinToddler]({{ site.github.url }}/assets/img/pumpkin-unit-cover.jpg)](https://theprimarybrain.etsy.com/listing/1314751891/pumpkin-toddler-activities-letter-p)
 
-I hope you found some inspiration and fun ideas to use at home with your little ones during the fall season! If you want to make teaching your toddler super simple this week, check out my [Pumpkin Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Pumpkin-Homeschool-Curriculum-Letter-P-4096870) for 5 complete lesson plans and all the printables you need. 
+I hope you found some inspiration and fun ideas to use at home with your little ones during the fall season! If you want to make teaching your toddler super simple this week, check out my [Pumpkin Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314751891/pumpkin-toddler-activities-letter-p) for 5 complete lesson plans and all the printables you need. 
 
-If you need even more toddler school themed units, check out the entire [Tot School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) for a year of fun activities to enjoy.
+If you need even more toddler school themed units, check out the entire [Tot School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for a year of fun activities to enjoy.
+

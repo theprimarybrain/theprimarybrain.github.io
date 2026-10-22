@@ -25,7 +25,7 @@ If you want to learn more about how to get started planning activities for your 
 </script>
 
 ## Lesson Components
-Each of the 5 lessons in this [rainbow unit](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit) include the following activities:
+Each of the 5 lessons in this [rainbow unit](https://theprimarybrain.etsy.com/listing/992905489/rainbow-toddler-activities-letter-r) include the following activities:
 - literacy/language
 - math or science activity
 - fine motor activity
@@ -33,11 +33,11 @@ Each of the 5 lessons in this [rainbow unit](https://www.teacherspayteachers.com
 - art activity
 - recipe/snack
 
-Interested in downloading [these rainbow activities](https://www.teacherspayteachers.com/Product/Rainbow-Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these rainbow activities](https://theprimarybrain.etsy.com/listing/992905489/rainbow-toddler-activities-letter-r) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Rainbow Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-rainbow.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20Unit%20Cover)
+[![Rainbow Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-rainbow.jpg)](https://theprimarybrain.etsy.com/listing/992905489/rainbow-toddler-activities-letter-r)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/992905489/rainbow-toddler-activities-letter-r)
 
 ## Gather Materials and Set Up for Rainbow Week
 ![Cover]({{ site.github.url }}/assets/img/toddler-rainbow-cover.jpg)
@@ -105,19 +105,21 @@ To set up the color hop, draw colored circles and have your child hop from one t
 To set up the color maze, draw colored lines that intercept. To complete the maze, have your child follow each colored line from beginning to end. Don't forget to model the activities for your child. Playing with your child will make these activities so much more fun!
 
 ## Continue the Fun With Your Toddler
-Be sure to check out my [Rainbow Toddler School Activities](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit) in my shop for all the printables, recipes, lesson plans, and instructions you will need to complete a full week of learning about the colors in the rainbow.
+Be sure to check out my [Rainbow Toddler School Activities](https://theprimarybrain.etsy.com/listing/992905489/rainbow-toddler-activities-letter-r) in my shop for all the printables, recipes, lesson plans, and instructions you will need to complete a full week of learning about the colors in the rainbow.
 
-[![RainbowToddler]({{ site.github.url }}/assets/img/product-cover-rainbow-toddler-school.jpg](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
+[![RainbowToddler]({{ site.github.url }}/assets/img/product-cover-rainbow-toddler-school.jpg](https://theprimarybrain.etsy.com/listing/992905489/rainbow-toddler-activities-letter-r)
 
 
-[![TpTButton]({{ site.github.url }}/assets/img/blog-button-green-TAKE-LOOK-here.jpg)](https://www.teacherspayteachers.com/Product/Rainbow-Toddler-Activities-Preschool-Curriculum-Theme-and-Lesson-Plans-4058381?utm_source=PB%20Blog&utm_campaign=Rainbow%20Toddler%20School%20Unit)
+[![TpTButton]({{ site.github.url }}/assets/img/blog-button-green-TAKE-LOOK-here.jpg)](https://theprimarybrain.etsy.com/listing/992905489/rainbow-toddler-activities-letter-r)
 
-If you are looking for even more Toddler School fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+If you are looking for even more Toddler School fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year) for all the plans and printables you need for an entire year of learning!
 
-[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 [![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
 
-[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 I hope you have a wonderful day playing and learning with your little ones! Feel free to send me a message on Instagram @theprimarybrain with any questions you have about how to teach your little ones!
+
+

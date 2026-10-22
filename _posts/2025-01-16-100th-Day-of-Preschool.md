@@ -13,17 +13,17 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Jan. 16, 2025
 
-The [100th Day of school](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities) is one of my favorite days of school! I plan an entire day of learning around the number 100 to celebrate that we have been learning for 100 days! We all dress up like we are 100 years old - complete with clothing, wigs, glasses, pearls, canes, and anything else that a 100 year old person may wear! 
+The [100th Day of school](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool) is one of my favorite days of school! I plan an entire day of learning around the number 100 to celebrate that we have been learning for 100 days! We all dress up like we are 100 years old - complete with clothing, wigs, glasses, pearls, canes, and anything else that a 100 year old person may wear! 
 
 ## How to Begin a 100th Day Celebration
 
-[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-dot-marker.jpg)](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities)
+[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-dot-marker.jpg)](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool)
 
 This fine motor dot marker activity is my favorite way to begin our 100th Day celebration! We discuss how we have been learning for 100 days, which makes us _100 DAYS SMARTER_! Then, just grab your favorite dot marker colors and dot each number to make the number 100.
 
 ## 100th Day Sensory Bin
 
-[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities)
+[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-sensory-bin.jpg)](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool)
 
 In our 100th Day sensory bin, we are sorting 100 items into categories! I created the sensory bin mat with blank ten frames so that you can use any small items you have on hand inside your sensory bin. Then, give your littles time to identify which items are in the same categories and sort them on the mat! 
 
@@ -53,7 +53,7 @@ _Read this post if you want to learn more about fine motor skills:_ [**What are 
 
 ### Lacing Cards
 
-[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-lacing.jpg)](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities)
+[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-lacing.jpg)](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool)
 
 Time to learn how to build the number 100! These lacing cards each include one number so that your preschoolers can learn how to place 3 numbers in order to build the number 100. 
 
@@ -61,13 +61,13 @@ To prepare these lacing cards, cut out each star. Then, laminate the stars and l
 
 ### 100th Day Necklace
 
-[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-fine-motor.jpg)](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities)
+[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-fine-motor.jpg)](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool)
 
 Create a 100th Day necklace that becomes a delicious snack! First, we sort ten groups of ten pieces of cereal by color on ten frame workmat. Then, we thread each piece of cereal onto a shoelace or piece of yarn. _If you are using yarn, make sure to add a piece of tape to the end to make it easier to thread._
 
 ## Math Activities for Preschoolers
 
-[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-math-collage.jpg)](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities)
+[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100th-day-math-collage.jpg)](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool)
 
 Our first math activity of the day is a color by number page. You can use this activity to work on the numbers from 1-9, then watch as your littles find the number 100 on the page! 
 
@@ -79,21 +79,21 @@ If you are completing these activities at home with your own children, then you 
 
 I love incorporating crafts into all of our learning themes! To celebrate the 100th day, preschoolers will use a q-tip to dot each gumball in the gumball machine. They can even try to count to 100 as they dot each gumball! 
 
-[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100-gumballs-craft.jpg)](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities)
+[![100thDayMath]({{ site.github.url }}/assets/img/preschool-100-gumballs-craft.jpg)](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool)
 
 To add an extra learning component, make sure to review color names as you pass out the materials. You can also have your littles work on creating patterns using the dots of paint. 
 
 ## Grab Your Plans and Printables
 
-I hope you are as excited as I am to celebrate the 100th Day of Preschool this year! You can download all the printables in this post in my [100th Day Preschool Activities](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities) from my shop. It comes with 20+ lesson plans and all the 100th Day themed printable materials you will need to make teaching your preschoolers as easy as possible. 
+I hope you are as excited as I am to celebrate the 100th Day of Preschool this year! You can download all the printables in this post in my [100th Day Preschool Activities](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool) from my shop. It comes with 20+ lesson plans and all the 100th Day themed printable materials you will need to make teaching your preschoolers as easy as possible. 
 
-[![100thDayCover]({{ site.github.url }}/assets/img/product-cover-preschool-100th-day.jpg)](https://www.teacherspayteachers.com/Product/100th-Day-of-Preschool-Curriculum-and-Lesson-Plans-Toddler-PreK-Activities-12852188?utm_source=PB%20Blog&utm_campaign=100th%20Day%20of%20Preschool%20Activities)
+[![100thDayCover]({{ site.github.url }}/assets/img/product-cover-preschool-100th-day.jpg)](https://theprimarybrain.etsy.com/listing/1860811227/100th-day-of-school-activities-preschool)
 
-If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link) for a variety of fun lessons and activities you can use all year long!
+If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans) for a variety of fun lessons and activities you can use all year long!
 
-[![PreschoolCurriculumBundle]({{ site.github.url }}/assets/img/preschool-curriculum-cover.jpg)](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover)
+[![PreschoolCurriculumBundle]({{ site.github.url }}/assets/img/preschool-curriculum-cover.jpg)](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)
 
-[![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover)
+[![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)
 
 I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
 

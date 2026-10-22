@@ -11,7 +11,7 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated July 7, 2024
 
-I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler activities in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created a set of [Apple Themed Toddler Activities](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit). Enjoy a peek into our week through a sampling of our activities together!
+I am so excited to share this amazing journey of toddler learning that I have embarked on with my son! This past week we started toddler activities in our home. My son is 2 1/2 and is the perfect age for working on pre-academic skills that will help prepare him for kindergarten and beyond. For our first unit of study, I created a set of [Apple Themed Toddler Activities](https://theprimarybrain.etsy.com/listing/956103440/apple-toddler-activities-tot-school). Enjoy a peek into our week through a sampling of our activities together!
 
 In this post, I'm sharing 5 of my favorite types of apple toddler activities:
 - [Apple Art Activities](#art-activities)
@@ -30,11 +30,11 @@ Each of the 5 lessons in this unit includes the following activities:
 - art activity
 - recipe/snack
 
-Interested in downloading [these apple activities](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these apple activities](https://theprimarybrain.etsy.com/listing/956103440/apple-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Apple Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-apple.jpg)](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover)
+[![Apple Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-apple.jpg)](https://theprimarybrain.etsy.com/listing/956103440/apple-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/956103440/apple-toddler-activities-tot-school)
 
 ### Kick off Apple Week with a Field Trip to the Grocery Store or Apple Farm
 ![Grocery Store Field Trip 3]({{ site.github.url }}/assets/img/toddler-apple-field-trip-3.jpg)
@@ -94,17 +94,17 @@ The most exciting part of our day was eating our fun apple snacks! We enjoyed ap
 
 ## Apple Theme Toddler Lesson Plans {#apple-lessons}
 
-I hope you are feeling inspired to start working with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](https://www.teacherspayteachers.com/Product/Apple-Themed-Toddler-Activities-Tot-School-Preschool-Curriculum-Lesson-Plans-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20School%20Unit)! 
+I hope you are feeling inspired to start working with your little ones! All printables and full lesson plans are available in my [Apple Unit on Etsy](https://www.etsy.com/listing/956103440) or in my [Teachers Pay Teachers Shop](https://theprimarybrain.etsy.com/listing/956103440/apple-toddler-activities-tot-school)! 
 
-[![Apple Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-apple.jpg)](https://www.teacherspayteachers.com/Product/Apple-Toddler-Activities-Curriculum-for-Fall-Preschool-Lesson-Plans-Theme-4042753?utm_source=PB%20Blog&utm_campaign=Apple%20Toddler%20Unit%20Cover)
+[![Apple Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-apple.jpg)](https://theprimarybrain.etsy.com/listing/956103440/apple-toddler-activities-tot-school)
 
-If you are looking for even more toddler learning fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+If you are looking for even more toddler learning fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year) for all the plans and printables you need for an entire year of learning!
 
-[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 [![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
 
-[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 ### Here are some of our other favorite toddler themes: 
 - [Dinosaur Activities for Toddlers](https://theprimarybrain.com/toddler%20school/2021/01/08/Toddler-School-Dinosaur-Activities/) 

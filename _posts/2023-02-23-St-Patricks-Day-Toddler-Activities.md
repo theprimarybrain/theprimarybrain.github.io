@@ -12,7 +12,7 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Feb. 9, 2024
 
-March is here and that means it is time to break out our St. Patrick's Day toddler activities! This month, we are filling our days with pots of gold sensory bins, St. Patty's play dough activities, and shamrock crafts! If you would like join in the fun, you can grab all of our St. Patrick's Day printable materials in this [St. Patrick's Day Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School). 
+March is here and that means it is time to break out our St. Patrick's Day toddler activities! This month, we are filling our days with pots of gold sensory bins, St. Patty's play dough activities, and shamrock crafts! If you would like join in the fun, you can grab all of our St. Patrick's Day printable materials in this [St. Patrick's Day Toddler School Unit](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities). 
 
 ## Lesson Components 
 This unit is made up of over 10 activities that include:
@@ -22,27 +22,27 @@ This unit is made up of over 10 activities that include:
 - fine motor activities
 - art activities
 
-_Interested in downloading [these St Patricks Day activities](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-9040486?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Day%20Toddler%20Unit%20Cover) that you can print and use right away?_ Click on the image or button below to check them out in my TpT shop! 
+_Interested in downloading [these St Patricks Day activities](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities) that you can print and use right away?_ Click on the image or button below to check them out in my TpT shop! 
  
-[![St Patricks Day Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-st-patricks-day.jpg)](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-9040486?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Day%20Toddler%20Unit%20Cover)
+[![St Patricks Day Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-st-patricks-day.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/St-Patricks-Day-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-9040486?utm_source=PB%20Blog&utm_campaign=St%20Patricks%20Day%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 ## Art Activities 
 
-[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-craft.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-craft.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 Picking clovers from a field is definitely a core memory from my childhood. I LOVED trying to find 4 leaf clovers, because everyone knows this would bring good luck! So, to work on our cutting and pasting skills this month, we are cutting and tearing green papers to paste onto our shamrock!
 
 ## Sensory Bins
 
-[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-sensory-bin.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 Have you ever used a sensory bin with your little ones? I love how engaged my children are as they run their fingers through a sensory bin filler as they work on an educational activity in a fun and playful way! To get started, just fill a bin with your favorite sensory bin filler. I love using pom pom balls as a sensory bin filler since they are squishy to run fingers through, all while being easy to clean up should they spill. As an added learning bonus, my daughter helped me pick out all the colors of the rainbow to add to this bin. 
 
-To create this bin for your child, just add two dishes into your favorite sensory bin filler. Then, have your child sort each uppercase and lowercase letter into the two dishes. As they pick up each letter, say the name of the letter to practice letter names. You can download these pot of gold letter cards from our [St. Patrick's Day Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School) to work on uppercase and lowercase letters. 
+To create this bin for your child, just add two dishes into your favorite sensory bin filler. Then, have your child sort each uppercase and lowercase letter into the two dishes. As they pick up each letter, say the name of the letter to practice letter names. You can download these pot of gold letter cards from our [St. Patrick's Day Toddler School Unit](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities) to work on uppercase and lowercase letters. 
 
-[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-fine-motor.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-fine-motor.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 In this second sensory bin, we added in some [plastic tweezers](https://amzn.to/3SrpzcY) and a printable rainbow workmat to work on fine motor skills. Learning to use tweezers can be tricky at first, but they are an excellent tool to use to help your child gain hand strength as they squeeze the tweezers to pick up each pom pom ball and place on their rainbow mat. 
 
@@ -50,13 +50,13 @@ To add in some fun conversation, ask your child what they think is at the end of
 
 ## Fine Motor Skill Activities
 
-[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-play-dough.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-play-dough.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 [Playdough](https://amzn.to/3YXfYxg) is always a hit in our house! In this activity, I created St. Patrick's Day vocabulary cards so we could work on the names of various symbols that our little ones may encounter in their daily lives this month. Then, we rolled snakes and balls of dough and used them to build the symbols. 
 
 Playing with [playdough](https://amzn.to/3YXfYxg) from a young age is an excellent way to build up the tiny hand muscles in little hands. Kindergarten will be here before you know it, and this activity will help your child's fine motor skill development as they prepare to start writing!
 
-[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-dot-marker.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-dot-marker.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 [Dot markers](https://amzn.to/3XW6MaY) are another fun tool to use to work on hand strength and hand control. In this dot marker activity, your little ones will have the opportunity to grasp a dot marker, while having to use precise hand control to dot inside each circle. It's also a great opportunity to teach the difference between inside and outside vocabulary. 
 
@@ -64,17 +64,17 @@ _If you want to learn more about what fine motor skills are, then you can read m
 
 ## Work on Patterns
 
-[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-pattern-strips.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![StPatricksToddler]({{ site.github.url }}/assets/img/st-patricks-toddler-pattern-strips.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 In this activity, we worked on building patterns using our St. Patrick's Day themed pattern strips. Depending on your child's ability to use scissors, you can cut pre-cut the cards, or you can give your child the cards to cut out themselves. Then, have your child place each card on a pattern strip to complete the pattern. 
 
 ## St. Patrick's Day Educational Activities
 
-If you want to bring some St. Patrick's Day fun centered around learning into your home this year, then this [St. Patrick's Day Toddler Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) is a perfect choice. It's filled with over 10 activities that will get your toddler **excited about learning**, all while working on their developmental needs.
+If you want to bring some St. Patrick's Day fun centered around learning into your home this year, then this [St. Patrick's Day Toddler Unit](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities) is a perfect choice. It's filled with over 10 activities that will get your toddler **excited about learning**, all while working on their developmental needs.
 
-[![StPatricksActivities]({{ site.github.url }}/assets/img/product-cover-stpatricksday.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![StPatricksActivities]({{ site.github.url }}/assets/img/product-cover-stpatricksday.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
-[![Button]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/-50-off-48hr-St-Patrick-s-Day-Toddler-School-Lesson-Plans-and-Activities-9040486?utm_source=PB%20Blog%20&utm_campaign=St.%20Patrick's%20Day%20Toddler%20School)
+[![Button]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://theprimarybrain.etsy.com/listing/1409945412/st-patricks-day-toddler-activities)
 
 If adding learning activities into your home this year sounds like something you would enjoy, then you can save money on this unit by purchasing it as part of my [Holiday Toddler Curriculum](https://www.teacherspayteachers.com/Product/Holiday-Toddler-Activities-Homeschool-Preschool-Curriculum-and-Lesson-Plans-8705555?utm_source=PB%20Blog&utm_campaign=Holiday%20Toddler%20Bundle%20Upsell%20Valentine%20Post). This holiday curriculum includes activities for Christmas, Gingerbread week, Valentine's Day, St. Patrick's Day, Easter, Patriotic days, and Halloween! Your toddler or preschooler will be ready for Kindergarten before you know it! You can check it out here:
 

@@ -12,11 +12,11 @@ image:
 ---
 Summer is here and that means it is time to fill our days with pineapple sensory bins, ice cream counting activities, and sand running through tiny fingers! During the summer, life can be so busy with vacations, holidays, and family activities, so it can be easy to let learning activities fall to the wayside. Today I am sharing a variety of summer activities for toddlers that can fit into the quiet moments of busy days!
 
-Interested in downloading [these summer activities](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these summer activities](https://theprimarybrain.etsy.com/listing/1319487427/summer-toddler-activity-plans-homeschool) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Summer Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-summer.jpg)](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Cover)
+[![Summer Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-summer.jpg)](https://theprimarybrain.etsy.com/listing/1319487427/summer-toddler-activity-plans-homeschool)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1319487427/summer-toddler-activity-plans-homeschool)
 
 ## Summer Sensory Bins
 ![Summer Sensory Bins]({{ site.github.url }}/assets/img/toddler-summer-math-sensory-bin.jpg)
@@ -40,7 +40,7 @@ Another great way to practice the alphabet is by bringing the beach to your home
 
 ![Summer Fine Motor]({{ site.github.url }}/assets/img/toddler-summer-dot-marker.jpg)
 
-[Dot markers](https://amzn.to/3JuiVja) are an excellent tool for building hand control. Children need to not only hold the dabber steady, but they need to press the dabber right inside the circle they want to color. Inside our [Summer Toddler School Unit](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post), I have included a few different dot marker printables so children can build hand control as they color in the circles. Plus, they can build some new vocabulary while they have fun with dot markers!
+[Dot markers](https://amzn.to/3JuiVja) are an excellent tool for building hand control. Children need to not only hold the dabber steady, but they need to press the dabber right inside the circle they want to color. Inside our [Summer Toddler School Unit](https://theprimarybrain.etsy.com/listing/1319487427/summer-toddler-activity-plans-homeschool), I have included a few different dot marker printables so children can build hand control as they color in the circles. Plus, they can build some new vocabulary while they have fun with dot markers!
 
 ![Summer Fine Motor]({{ site.github.url }}/assets/img/toddler-summer-fine-motor.jpg)
 
@@ -71,8 +71,8 @@ Children find the numbers 1-4 and place in order to build the puzzle. It's a gre
 
 I always find that learning math is so much more fun when the activity uses real life concepts. In this math activity, we counted the number of sprinkles on each ice cream cone and matched to the cone that had the same number on it. This activity tackled both learning number names as well as counting. 
 
-[![Summer Toddler Cover]({{ site.github.url }}/assets/img/toddler-summer-upsell-cover.jpg)](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post)
+[![Summer Toddler Cover]({{ site.github.url }}/assets/img/toddler-summer-upsell-cover.jpg)](https://theprimarybrain.etsy.com/listing/1319487427/summer-toddler-activity-plans-homeschool)
 
-I hope you are feeling inspired to dive into summer learning activities for your preschoolers this week! You can download this [Summer Toddler School Unit](https://www.teacherspayteachers.com/Product/Summer-Toddler-Activities-Seasonal-Preschool-Curriculum-and-Lesson-Plans-8073251?utm_source=PB%20Blog&utm_campaign=Summer%20Toddler%20Unit%20Blog%20Post) to have 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible.
+I hope you are feeling inspired to dive into summer learning activities for your preschoolers this week! You can download this [Summer Toddler School Unit](https://theprimarybrain.etsy.com/listing/1319487427/summer-toddler-activity-plans-homeschool) to have 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible.
 
 I hope you enjoy playing and learning with your little ones this week! 

@@ -36,3 +36,4 @@ Shopping for stocking stuffers is one of my favorite things to do for my family 
 I hope this post has given you a few fun ideas for the teacher in your life! You are sure to impress with all of these fun stocking stuffers! 
 
 ![Laurin]({{ site.github.url }}/assets/img/laurin.png)
+

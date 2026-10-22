@@ -23,11 +23,11 @@ In this post, I'm sharing 5 of my favorite types of dinosaur toddler activities:
 - [Dinosaur Math Activity](#math-activities)
 - [Dinosaur Gross Motor Activities](#gross-motor-activities)
 
-Interested in downloading [these dinosaur activities](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these dinosaur activities](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Dinosaur Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
+[![Dinosaur Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Dinosaur-Theme-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-4313867?utm_source=PB%20Blog&utm_campaign=Dinosaur%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool)
 
 ### Dinosaur Sensory Bins for Toddlers {#sensory-bins}
 
@@ -81,17 +81,17 @@ It’s time to brush up on those dinosaur names and get moving! Your little ones
 
 ## Everything you need for a week of Dinosaur Themed Toddler Activities:
 
-[![DinoUnit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Dinosaur-Homeschool-Preschool-Letter-D-4313867?utm_source=PB%20BLog&utm_campaign=Dino%20Cover%20Image)
+[![DinoUnit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool)
 
 I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](http://bit.ly/DinoToddler) for 5 complete lesson plans and all the printables you need to go with them! 
 
-If you are looking for even more toddler learning fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+If you are looking for even more toddler learning fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year) for all the plans and printables you need for an entire year of learning!
 
-[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 [![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
 
-[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 I hope you enjoy every minute of playing and learning with your little ones this week!
 

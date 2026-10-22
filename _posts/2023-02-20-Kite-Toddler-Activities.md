@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Nothing makes it feel more like spring is on the way than diving into kite toddler activities as we learn outside our home or classroom! There’s nothing like watching a child’s face holding onto a kite as it soars through the air. I created this [Kite Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Unit) to bring a bit of the spring, kite-flying season to you and your little ones!
+Nothing makes it feel more like spring is on the way than diving into kite toddler activities as we learn outside our home or classroom! There’s nothing like watching a child’s face holding onto a kite as it soars through the air. I created this [Kite Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool) to bring a bit of the spring, kite-flying season to you and your little ones!
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities
 - art activities
 
-Interested in downloading [these kite activities](https://www.teacherspayteachers.com/Product/Kite-Theme-Toddler-Activities-2-3-Year-Old-Preschool-Curriculum-Lesson-Plans-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these kite activities](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Kite Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-kite.jpg)](https://www.teacherspayteachers.com/Product/Kite-Theme-Toddler-Activities-2-3-Year-Old-Preschool-Curriculum-Lesson-Plans-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20Unit%20Cover)
+[![Kite Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-kite.jpg)](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Kite-Theme-Toddler-Activities-2-3-Year-Old-Preschool-Curriculum-Lesson-Plans-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool)
 
 ## Art Activities 
 
@@ -59,13 +59,13 @@ For this activity, you’ll use a kite printable and a sheet of small stickers. 
 
 Sensory bins are my favorite way to learn while we play! Anytime we can add a tactile element to learning, it helps solidify the learning with our little ones. 
 
-For this sensory bin activity, just fill a bin with a quarter inch of sand. Then, you can add in the kite themed cards from our [Kite Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Unit). Your little one will pick up one card and place it inside the bin. Using his or her finger, he or she will write the letter or number shown on the card in the sand. If your child needs assistance, use hand over hand movements to help your child with the correct formation of the letters. Make sure to remind your child of the name of the letter and try to have your child say the letter as he or she writes it in the sand, too. 
+For this sensory bin activity, just fill a bin with a quarter inch of sand. Then, you can add in the kite themed cards from our [Kite Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool). Your little one will pick up one card and place it inside the bin. Using his or her finger, he or she will write the letter or number shown on the card in the sand. If your child needs assistance, use hand over hand movements to help your child with the correct formation of the letters. Make sure to remind your child of the name of the letter and try to have your child say the letter as he or she writes it in the sand, too. 
 
 _Teaching Tip:_ a plastic pencil box will work great for this activity if you don’t have a large bin.
 
 ![KiteToddler]({{ site.github.url }}/assets/img/kite-toddler-sensory-bin.jpg)
 
-For this next sensory bin activity, you will place "clouds", _also known as cotton balls,_ into a bin. Then, mix up the kite puzzle pieces from the [Kite Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Unit) and set them inside the bin with the cotton balls. Then, have your child search for the puzzle pieces and set the completed puzzles on a flat surface outside the bin. 
+For this next sensory bin activity, you will place "clouds", _also known as cotton balls,_ into a bin. Then, mix up the kite puzzle pieces from the [Kite Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool) and set them inside the bin with the cotton balls. Then, have your child search for the puzzle pieces and set the completed puzzles on a flat surface outside the bin. 
 
 As your child finds each puzzle piece, review the name of the shape on the puzzle pieces. Make sure to leave time afterwards to play with and explore the cotton balls! 
 
@@ -73,7 +73,7 @@ As your child finds each puzzle piece, review the name of the shape on the puzzl
 
 ![KiteToddler]({{ site.github.url }}/assets/img/kite-toddler-math.jpg)
 
-This week we are reviewing number recognition and counting to four. For this math activity, you will pre-cut the four pieces of a kite puzzle you have drawn by hand, or you can download one from our [Kite Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Unit). Your child will use these pieces to glue onto the workmat like a puzzle. As your child completes this activity, make sure to have your child point to each number and say the name, as well as practice counting to four. 
+This week we are reviewing number recognition and counting to four. For this math activity, you will pre-cut the four pieces of a kite puzzle you have drawn by hand, or you can download one from our [Kite Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool). Your child will use these pieces to glue onto the workmat like a puzzle. As your child completes this activity, make sure to have your child point to each number and say the name, as well as practice counting to four. 
 
 ![KiteToddler]({{ site.github.url }}/assets/img/kite-toddler-math-2.jpg)
 
@@ -85,12 +85,12 @@ Next, your child will clip the numbered clothespins onto the ribbon tail. Review
 
 Since fine motor skills are so important for our little learners, I love to find ways to incorporate as much fine motor practice into our day as I can. This activity works to strengthen fine motor skills while practicing 1:1 counting! 
 
-First you’ll print and laminate the number bead cards that are included in the [Kite Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Unit). Punch a hole in the bottom of the kites. Thread and tie off a pipe cleaner on the bottom of each kite. Then, have your child string beads on each pipe cleaner to match the number on the kite. You can also have your child count out loud as he or she strings those beads to help them stay on track.
+First you’ll print and laminate the number bead cards that are included in the [Kite Toddler Unit](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool). Punch a hole in the bottom of the kites. Thread and tie off a pipe cleaner on the bottom of each kite. Then, have your child string beads on each pipe cleaner to match the number on the kite. You can also have your child count out loud as he or she strings those beads to help them stay on track.
 
-[![SeasonalUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Kite-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Cover%20Image)
+[![SeasonalUnit]({{ site.github.url }}/assets/img/Cover-Toddler-Kite-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool)
 
-I hope you found some great ideas to help your little one soar at home while playing and learning! If you want to make teaching your toddler super simple and fun this week, then check out my [Kite Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Preschool-Kite-Themed-Curriculum-Letter-K-4844775?utm_source=PB%20Blog&utm_campaign=Kite%20Toddler%20School%20Unit) for 5 complete lesson plans and all the printables you need. 
+I hope you found some great ideas to help your little one soar at home while playing and learning! If you want to make teaching your toddler super simple and fun this week, then check out my [Kite Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302468782/kite-toddler-activities-homeschool) for 5 complete lesson plans and all the printables you need. 
 
-If you want to get started with a full year of learning with your toddlers, then check out my entire [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) for 26 full units to last you all year!
+If you want to get started with a full year of learning with your toddlers, then check out my entire [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for 26 full units to last you all year!
 
 I hope you enjoy every minute of playing and learning with your little ones! 

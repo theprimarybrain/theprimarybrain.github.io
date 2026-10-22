@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Are you looking for some simple activities for the Letter Q? This [Queen Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Letter-of-the-Week-Letter-Q-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20School%20Unit) will bring a bit of royalty, fun, and learning to your little ones all while working on academic skills that our toddlers need!
+Are you looking for some simple activities for the Letter Q? This [Queen Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1302567716/queen-toddler-school-lesson-plans) will bring a bit of royalty, fun, and learning to your little ones all while working on academic skills that our toddlers need!
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -32,11 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities
 - art activities
 
-Interested in downloading [these queen activities](https://www.teacherspayteachers.com/Product/Queen-Toddler-Activities-2-to-3-Year-Old-Preschool-Curriculum-Lesson-Plans-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these queen activities](https://theprimarybrain.etsy.com/listing/1302567716/queen-toddler-school-lesson-plans) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Queen Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-queen.jpg)](https://www.teacherspayteachers.com/Product/Queen-Toddler-Activities-2-to-3-Year-Old-Preschool-Curriculum-Lesson-Plans-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20Unit%20Cover)
+[![Queen Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-queen.jpg)](https://theprimarybrain.etsy.com/listing/1302567716/queen-toddler-school-lesson-plans)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Queen-Toddler-Activities-2-to-3-Year-Old-Preschool-Curriculum-Lesson-Plans-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1302567716/queen-toddler-school-lesson-plans)
 
 ## Art Activities 
 
@@ -80,10 +80,11 @@ It’s so important to work with our little ones on 1:1 correspondence with hand
 
 For this fun math activity, your child will use jewels to place on each crown to match the number on each crown. Assist your child as needed and have fun as your child practices recognizing numbers and 1:1 counting. 
 
-[![QueenToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Queen-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Letter-of-the-Week-Letter-Q-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20School%20Image%20Cover)
+[![QueenToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Queen-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1302567716/queen-toddler-school-lesson-plans)
 
-I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Queen Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Letter-of-the-Week-Letter-Q-5058042?utm_source=PB%20Blog&utm_campaign=Queen%20Toddler%20School%20Unit) for 5 complete lesson plans and all the printables you need. 
+I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Queen Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302567716/queen-toddler-school-lesson-plans) for 5 complete lesson plans and all the printables you need. 
 
-And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) for an entire year of themes! You will never regret the memories you will make with your little ones!
+And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for an entire year of themes! You will never regret the memories you will make with your little ones!
 
 I hope you enjoy every minute of playing and learning with your little royal ones!
+

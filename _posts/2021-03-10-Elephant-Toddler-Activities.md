@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Do your kiddos love taking a trip to the zoo?! We sure do! My kids cannot wait to go to the zoo to see the elephants! I created this [elephant themed toddler unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) to bring a little piece of the zoo to you and your littles at home!! 
+Do your kiddos love taking a trip to the zoo?! We sure do! My kids cannot wait to go to the zoo to see the elephants! I created this [elephant themed toddler unit](https://theprimarybrain.etsy.com/listing/1313531745/elephant-toddler-activities-tot-school) to bring a little piece of the zoo to you and your littles at home!! 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler learning:
 
@@ -32,11 +32,11 @@ This unit is made up of 5 lessons that will work on each include the following a
 - gross motor activity
 - art activity
 
-Interested in downloading [these elephant activities](https://www.teacherspayteachers.com/Product/Elephant-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-Tot-School-4588214?utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these elephant activities](https://theprimarybrain.etsy.com/listing/1313531745/elephant-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Elephant Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-elephant.jpg)](https://www.teacherspayteachers.com/Product/Elephant-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-Tot-School-4588214?utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Unit%20Cover)
+[![Elephant Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-elephant.jpg)](https://theprimarybrain.etsy.com/listing/1313531745/elephant-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Elephant-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-Tot-School-4588214?utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1313531745/elephant-toddler-activities-tot-school)
 
 ## Elephant Toddler Art Activities 
 
@@ -90,8 +90,8 @@ As you know by now, I am all about offering as many opportunities to practice le
 
 I love to take our gross motor activities outside! Our favorite activity was this elephant walk. This elephant walk is WAY harder than it looks. Start by laying these elephant footprints down in a line. Then, get onto all fours to walk like an elephant! Don't be afraid to get on all fours with your little ones. These are the memories they won't forget! We really tested our coordination skills in this activity, plus we had so much fun practicing our elephant noises... It definitely sounded like the zoo in our backyard!
 
-[![ElephantToddlerCover]({{ site.github.url }}/assets/img/Toddler-Elephant-Cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Elephant-Homeschool-Preschool-Letter-E-4588214?st=f3d837846cb915a6631d4d9e92fdf355&utm_source=PB%20Blog&utm_campaign=Elephant%20Toddler%20Photo%20Cover)
+[![ElephantToddlerCover]({{ site.github.url }}/assets/img/Toddler-Elephant-Cover.jpg)](https://theprimarybrain.etsy.com/listing/1313531745/elephant-toddler-activities-tot-school)
 
-This unit includes everything you need to make teaching your toddlers about elephants EASY! I hope you enjoy playing and learning with your little ones! this week. If you want to make learning EASY this week, just grab my [Elephant Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Elephant-Themed-Activities-Homeschool-Classroom-4588214) for all the fun!
+This unit includes everything you need to make teaching your toddlers about elephants EASY! I hope you enjoy playing and learning with your little ones! this week. If you want to make learning EASY this week, just grab my [Elephant Toddler Unit](https://theprimarybrain.etsy.com/listing/1313531745/elephant-toddler-activities-tot-school) for all the fun!
 
 ### Check out how these activities fit into our year long toddler learning plan in our FREE Toddler Curriculum Map:

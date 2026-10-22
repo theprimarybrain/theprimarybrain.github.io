@@ -13,7 +13,7 @@ image:
 ---
 By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Dec. 19, 2023
 
-Let's get ready to count down to the new year with our little ones! I am planning a New Years Eve celebration with my kids at home this year and we will be using all of the activities in my [New Years Toddler School Pack](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post). 
+Let's get ready to count down to the new year with our little ones! I am planning a New Years Eve celebration with my kids at home this year and we will be using all of the activities in my [New Years Toddler School Pack](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool). 
 
 We will be kicking off the fun in the early morning and counting down the hours until noon! Beginning at 11:59:50 a.m., we will count down to the new year at the stroke of noon, since that is the only 12:00 my littles will be seeing this year!
 
@@ -27,29 +27,29 @@ This unit is made up of 12 activities that include:
 - art activities
 - music activity
 
-Interested in downloading [these New Years activities](https://www.teacherspayteachers.com/Product/New-Years-Toddler-Activities-Lesson-Plans-2-to-3-Year-Preschool-Curriculum-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these New Years activities](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![New Years Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-new-years.jpg)](https://www.teacherspayteachers.com/Product/New-Years-Toddler-Activities-Lesson-Plans-2-to-3-Year-Preschool-Curriculum-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Unit%20Cover)
+[![New Years Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-new-years.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/New-Years-Toddler-Activities-Lesson-Plans-2-to-3-Year-Preschool-Curriculum-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 ## Kick Off the New Year's Celebration
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-book.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-book.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 To begin our Noon Years Eve Party, we will be reading our Happy New Year Book. This book includes a variety of vocabulary words that you can teach to your little ones.
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-art-hat.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-art-hat.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 After reading, you can have your child color a picture to create a party hat that they can wear all day long! 
 
 ## New Years Sensory Bins for Toddlers
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-sensory-bin.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 Nothing gets my little ones more excited about learning than digging their fingers into a sensory bin! In this bin, we are working on number identification and counting to 5 by celebrating with balloons! Your child will enjoy finding balloons and matching to each card. Then, they can paste the balloons onto the strings to create each balloon bunch.
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-frozen-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-frozen-sensory-bin.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 This next sensory bin combines fun with fine motor skills! To create this frozen sensory bin, you will need to freeze some sequins or glitter in a container with 1/2" of water until frozen. Then, pop out the frozen brick and place in a bin. 
 
@@ -57,25 +57,25 @@ Pair the ice block with some tools for your child to use to break up the ice and
 
 ## New Years Math Activities for Toddlers
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-math-pattern.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-math-pattern.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 In this activity, we are working on completing patterns. As your child looks at each strip, give lots of opportunities to practice saying the new vocabulary words they are learning throughout this unit. 
 
 ## New Year's Fine Motor Activities
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-fine-motor-dough.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-fine-motor-dough.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 No set of toddler activities is complete without our favorite fine motor activities! Using Playdoh is an excellent way to help your child increase the strength and control in their hands! In this fine motor activity, your toddler will use dough form each section of the picture on each card. You can guide them in rolling out "snakes" for the longer sections that can be formed into each item. 
 
 This activity is also another opportunity to build vocabulary as they learn the words firework, star, and confetti. You can also work on color words. 
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-fine-motor-tracing.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-fine-motor-tracing.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 Most of our little ones do not have the fine motor skills needed to write letters from the age of 2 or 3. In this activity, we are working on pre-writing skills by having our little ones draw lines and curves. This activity will help your children to increase the control and strength in their tiny hand muscles that they will use in kindergarten when they are writing!
 
 ## Count Down to the New Year With a Musical Shaker!
 
-[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-music-shaker.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerSensoryBin]({{ site.github.url }}/assets/img/new-years-toddler-music-shaker.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
 It's that time we have all been waiting for! Your child will be so excited to learn how to count down from 10 to the new year by using a musical shaker! 
 
@@ -85,17 +85,17 @@ Allow a couple hours for the plates to dry and then it is time to begin the musi
 
 ## Grab All the Plans and Printables You Need!
 
-I hope you are feeling inspired to have a new years eve party with your little ones this year! You can download this [New Year's Toddler Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post) and make it easy to plan some fun activities. It includes 12 lesson plans and all the New Years themed printable materials you will need to make teaching your toddler as easy as possible. 
+I hope you are feeling inspired to have a new years eve party with your little ones this year! You can download this [New Year's Toddler Unit](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool) and make it easy to plan some fun activities. It includes 12 lesson plans and all the New Years themed printable materials you will need to make teaching your toddler as easy as possible. 
 
-[![NewYearToddlerCover]({{ site.github.url }}/assets/img/product-cover-new-years-toddler-unit.jpg)](https://www.teacherspayteachers.com/Product/50-off-48-Hours-New-Years-Toddler-School-Activities-Preschool-Lesson-Plans-10712273?utm_source=PB%20Blog&utm_campaign=New%20Years%20Toddler%20Post)
+[![NewYearToddlerCover]({{ site.github.url }}/assets/img/product-cover-new-years-toddler-unit.jpg)](https://theprimarybrain.etsy.com/listing/1644883361/new-years-toddler-activities-homeschool)
 
-If you are looking for an entire year of fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+If you are looking for an entire year of fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year) for all the plans and printables you need for an entire year of learning!
 
-[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 [![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
 
-[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Button)
+[![TpTButton]({{ site.github.url }}/assets/img/button-teal-tpt-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
 

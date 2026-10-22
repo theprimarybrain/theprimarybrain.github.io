@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Gobble, gobble! It’s time for the letter T! T, as in turkey. I absolutely love everything about Thanksgiving, like the turkey, mashed potatoes, stuffing, and of course, the pumpkin pie! So when I was trying to figure out some educational activities to go along with my [toddler school curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell), I just couldn’t leave turkey activities for toddlers out since turkey and Thanksgiving both start with the letter T!
+Gobble, gobble! It’s time for the letter T! T, as in turkey. I absolutely love everything about Thanksgiving, like the turkey, mashed potatoes, stuffing, and of course, the pumpkin pie! So when I was trying to figure out some educational activities to go along with my [toddler school curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school), I just couldn’t leave turkey activities for toddlers out since turkey and Thanksgiving both start with the letter T!
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -59,7 +59,7 @@ Grab colorful golf t’s or feathers and push them partially into a foam half-ba
 
 **Fine motor skills** are very important in toddler and preschooler development, and one of the most challenging skills is the ability to cut. Grab some children's dull point scissors and have your toddler practice cutting on the lines to the center. 
 
-Looking for some other [fall fine motor activities](https://www.teacherspayteachers.com/Product/Fall-Fine-Motor-Skills-Activities-Hole-Punch-Tracing-Prewriting-Playdough-More-8039943?utm_source=PB%20Blog&utm_campaign=Fall%20Fine%20Motor%20-%20Turkey%20Toddler%20Blog)? I share 6 engaging and helpful fine motor skills activities in this [fall fine motor blog post](https://theprimarybrain.com/fine%20motor%20activities/2022/09/06/Fall-Fine-Motor-Activities/).
+Looking for some other [fall fine motor activities](https://theprimarybrain.etsy.com/listing/1085979393/fall-fine-motor-skills-activities).
 
 ## Sensory Bins 
 
@@ -85,7 +85,7 @@ These aren’t the only fun turkey activities included in my [turkey themed todd
 
 ## Don’t Forget!
 
-Don’t forget I have a whole toddler curriculum focused on the alphabet! You can grab all these turkey activities for toddlers, the letter t, and more in my [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell). Keeping routine when learning the alphabet is not only helpful for children but makes life easier for you! You’ll get all you see here **and** activities for the rest of the alphabet, all at almost a 50% discount when you can grab the [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) and start making memories right away!
+Don’t forget I have a whole toddler curriculum focused on the alphabet! You can grab all these turkey activities for toddlers, the letter t, and more in my [Toddler School A-Z Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) and start making memories right away!
 
 ### Looking For More Fall-Themed Activities for Toddlers?
 Here are some other activities to check out:

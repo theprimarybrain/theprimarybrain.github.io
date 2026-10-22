@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Spring is in the air and that means flowers are starting to bloom! Do your little ones love to take walks around the neighborhood and try to pick every flower they see? I know mine do! I created this [flower themed toddler unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Flower-Themed-Activities-Homeschool-Classroom-4537052?st=1f6effd49a447a67c15a3ac86f29d15e) to bring a bit of spring to you and your littles. 
+Spring is in the air and that means flowers are starting to bloom! Do your little ones love to take walks around the neighborhood and try to pick every flower they see? I know mine do! I created this [flower themed toddler unit](https://theprimarybrain.etsy.com/listing/993016723/flower-toddler-activities-spring) to bring a bit of spring to you and your littles. 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-Interested in downloading [these flower activities](https://www.teacherspayteachers.com/Product/Flower-Theme-Toddler-Activities-for-Spring-Preschool-Curriculum-Lesson-Plans-4537052?utm_source=PB%20Blog&utm_campaign=Flower%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these flower activities](https://theprimarybrain.etsy.com/listing/993016723/flower-toddler-activities-spring) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Flower Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-flower.jpg)](https://www.teacherspayteachers.com/Product/Flower-Theme-Toddler-Activities-for-Spring-Preschool-Curriculum-Lesson-Plans-4537052?utm_source=PB%20Blog&utm_campaign=Flower%20Toddler%20Unit%20Cover)
+[![Flower Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-flower.jpg)](https://theprimarybrain.etsy.com/listing/993016723/flower-toddler-activities-spring)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Flower-Theme-Toddler-Activities-for-Spring-Preschool-Curriculum-Lesson-Plans-4537052?utm_source=PB%20Blog&utm_campaign=Flower%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/993016723/flower-toddler-activities-spring)
 
 ## Toddler Art Activities 
 
@@ -94,4 +94,5 @@ We can’t seem to go anywhere without seeing lots of spring flowers. This parts
 
 Since it is spring, it’s definitely time to get outside and enjoy the fresh air! For this gross motor activity, you will tape down about eight flowers on the ground and practice those hopping skills. Be sure to remind your little one to use both feet. Once they master the two foot hop, you can work on hopping on one foot as well. 
 
-I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Flower Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-School-Lesson-Plans-Flower-Themed-Activities-Homeschool-Classroom-4537052?st=1f6effd49a447a67c15a3ac86f29d15e) for 5 complete lesson plans and all the printables you need. I hope you enjoy every minute of playing and learning with your little ones!
+I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Flower Toddler School Unit](https://theprimarybrain.etsy.com/listing/993016723/flower-toddler-activities-spring) for 5 complete lesson plans and all the printables you need. I hope you enjoy every minute of playing and learning with your little ones!
+

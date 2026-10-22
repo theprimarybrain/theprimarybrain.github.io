@@ -24,3 +24,4 @@ You are likely working with multiple groups of kids who are all at different rea
 If you want to learn more about how to group your students for center and small group rotations, then check out this post: [How to Use Data to Form Small Groups](https://theprimarybrain.com/small%20group%20reading/2023/08/25/How-To-Use-Data-To-Form-Small-Groups/)
 
 Once you have your system in place, then it is time to start prepping all the copies! If you don't have it yet, then make sure to grab my small group planning pages to make planning the materials and lessons for each group as easy as possible! Just sign up here and I will email them right over:
+

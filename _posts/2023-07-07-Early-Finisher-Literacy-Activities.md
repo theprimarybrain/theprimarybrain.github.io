@@ -30,13 +30,13 @@ You can check out all of my [Write and Wipe Workmats HERE](https://www.teachersp
 
 ## Phonics Clip Cards for Task Cards
 
-[![PhonicsTaskCards]({{ site.github.url }}/assets/img/phonics-task-card-boxes-blends.jpg)](https://www.teacherspayteachers.com/Product/Phonics-Clip-Cards-for-Task-Card-Boxes-Literacy-Centers-Activities-8572906?utm_source=PB%20Blog&utm_campaign=PhonicsClipCardsTaskBoxes%20Bundle%20Early%20Finisher)
+[![PhonicsTaskCards]({{ site.github.url }}/assets/img/phonics-task-card-boxes-blends.jpg)](https://theprimarybrain.etsy.com/listing/1343598653/phonics-clip-cards-bundle-cvc-words)
 
-[Phonics Task Cards](https://www.teacherspayteachers.com/Product/Phonics-Clip-Cards-for-Task-Card-Boxes-Literacy-Centers-Activities-8572906?utm_source=PB%20Blog&utm_campaign=PhonicsClipCardsTaskBoxes%20Bundle%20Early%20Finisher) are another style of activity that are easy to grab and use! This activity includes four different types of task cards to help students practice the phonics skills they are learning, while also building fine motor skills. To complete each activity card, your students will determine the answer, then clip a clothespin onto the card in the correct spot. 
+[Phonics Task Cards](https://theprimarybrain.etsy.com/listing/1343598653/phonics-clip-cards-bundle-cvc-words) are another style of activity that are easy to grab and use! This activity includes four different types of task cards to help students practice the phonics skills they are learning, while also building fine motor skills. To complete each activity card, your students will determine the answer, then clip a clothespin onto the card in the correct spot. 
 
-[![PhonicsTaskCards]({{ site.github.url }}/assets/img/cvc-word-phonics-clip-cards-for-task-boxes.jpg)](https://www.teacherspayteachers.com/Product/Phonics-Clip-Cards-for-Task-Card-Boxes-Literacy-Centers-Activities-8572906?utm_source=PB%20Blog&utm_campaign=PhonicsClipCardsTaskBoxes%20Bundle%20Early%20Finisher)
+[![PhonicsTaskCards]({{ site.github.url }}/assets/img/cvc-word-phonics-clip-cards-for-task-boxes.jpg)](https://theprimarybrain.etsy.com/listing/1343598653/phonics-clip-cards-bundle-cvc-words)
 
-I created this [Phonics Clip Cards Bundle](https://www.teacherspayteachers.com/Product/Phonics-Clip-Cards-for-Task-Card-Boxes-Literacy-Centers-Activities-8572906?utm_source=PB%20Blog&utm_campaign=PhonicsClipCardsTaskBoxes%20Bundle%20Early%20Finisher) so you can differentiate by phonics skills for all of your students. There are 6 different sets that can be sorted by the following skills:
+I created this [Phonics Clip Cards Bundle](https://theprimarybrain.etsy.com/listing/1343598653/phonics-clip-cards-bundle-cvc-words) so you can differentiate by phonics skills for all of your students. There are 6 different sets that can be sorted by the following skills:
 - cvc words
 - consonant blends
 - digraphs
@@ -64,13 +64,13 @@ If you want to try out these [roll and read games](https://www.teacherspayteache
 
 ## Directed Drawing Task Cards
 
-[![DirectedDrawingTaskCards]({{ site.github.url }}/assets/img/directed-drawing-task-cards-long-vowels.jpg)](https://www.teacherspayteachers.com/Product/Directed-Drawing-Task-Cards-Fast-Finishers-Phonics-Activities-8325475?utm_source=PB%20Blog&utm_campaign=Directed%20Drawing%20Task%20Cards%20Early%20Finisher)
+[![DirectedDrawingTaskCards]({{ site.github.url }}/assets/img/directed-drawing-task-cards-long-vowels.jpg)](https://theprimarybrain.etsy.com/listing/1694652222/directed-drawing-task-cards-learn-to)
 
-These [Phonics Based Directed Drawing Task Cards](https://www.teacherspayteachers.com/Product/Directed-Drawing-Task-Cards-Fast-Finishers-Phonics-Activities-8325475?utm_source=PB%20Blog&utm_campaign=Directed%20Drawing%20Task%20Cards%20Early%20Finisher) are ALWAYS a hit! 
+These [Phonics Based Directed Drawing Task Cards](https://theprimarybrain.etsy.com/listing/1694652222/directed-drawing-task-cards-learn-to) are ALWAYS a hit! 
 
 Plus, it is so easy for you to manage this activity. When your students complete a class assignment and have extra time, they can go to the early finisher area and grab a task card box. Then, they return to their work area and quietly work on the drawing in their journals or on an extra sheet of paper. After completing the drawing, you can have your students write a story about their illustration, or you can have them write facts about the image they drew. 
 
-To prep these boxes, all you need to do is print and laminate the cards _(or you could use cardstock)_. Each set includes a cover image that you can tape to the top of a photo storage box. Then, just cut the task cards and place inside your favorite storage container. I love these [photo storage boxes](https://amzn.to/44BiaN5) for task cards! You can [grab these task cards here](https://www.teacherspayteachers.com/Product/Directed-Drawing-Task-Cards-Fast-Finishers-Phonics-Activities-8325475?utm_source=PB%20Blog&utm_campaign=Directed%20Drawing%20Task%20Cards%20Early%20Finisher) if you think they will help you in your classroom!
+To prep these boxes, all you need to do is print and laminate the cards _(or you could use cardstock)_. Each set includes a cover image that you can tape to the top of a photo storage box. Then, just cut the task cards and place inside your favorite storage container. I love these [photo storage boxes](https://amzn.to/44BiaN5) for task cards! You can [grab these task cards here](https://theprimarybrain.etsy.com/listing/1694652222/directed-drawing-task-cards-learn-to) if you think they will help you in your classroom!
 
 ## Memory Games
 
@@ -81,7 +81,7 @@ To prep these boxes, all you need to do is print and laminate the cards _(or you
 I hope you are feeling inspired to create an area in your classroom where fast finishers can quickly grab an activity when they need some extra classwork to do! By creating engaging enrichment activities for our fast finishers, we can encourage them to extend their learning all throughout the day. Here are the five activities I shared in this post if you want to implement them in your classroom:
 
 1. [Write and Wipe Workmats](https://www.teacherspayteachers.com/Product/Write-and-Wipe-Activities-with-CVC-Blends-Digraphs-Bossy-R-CVCE-Vowel-Teams-3635469?utm_source=PB%20Blog&utm_campaign=Write%20Wipe%20Activities%20Bundle%20Early%20Finisher)
-2. [Phonics Clip Cards for Task Cards](https://www.teacherspayteachers.com/Product/Phonics-Clip-Cards-for-Task-Card-Boxes-Literacy-Centers-Activities-8572906?utm_source=PB%20Blog&utm_campaign=PhonicsClipCardsTaskBoxes%20Bundle%20Early%20Finisher)
+2. [Phonics Clip Cards for Task Cards](https://theprimarybrain.etsy.com/listing/1343598653/phonics-clip-cards-bundle-cvc-words)
 3. [Roll and Read Phonics Games](https://www.teacherspayteachers.com/Product/Roll-and-Read-Phonics-Sight-Words-Literacy-Activities-for-Centers-Games-3100666?utm_source=PB%20Blog&utm_campaign=Roll%20and%20Read%20Bundle%20Early%20Finisher)
 4. [Roll and Read Phonics Games](https://www.teacherspayteachers.com/Product/Roll-and-Read-Phonics-Sight-Words-Literacy-Activities-for-Centers-Games-3100666?utm_source=PB%20Blog&utm_campaign=Roll%20and%20Read%20Bundle%20Early%20Finisher)
 5. [Phonics Memory Games](https://www.teacherspayteachers.com/Product/Phonics-Memory-Games-Literacy-Centers-Activities-7757382?utm_source=PB%20Blog&utm_campaign=Phonics%20Memory%20Early%20Finisher)

@@ -34,11 +34,11 @@ To make planning easy for you this week, you can download 3 free books that work
 If you want to read more about how I use these books with my students, you can check out this post: [Use Phonics Books to Build Confident Readers](https://theprimarybrain.com/phonics/2024/07/16/Phonics-Skills-Practice-Books/)
 
 ## Printable Phonics Books to Differentiate Instruction
-If you want to make differentiating phonics instruction simple and easy this year, then check out my [Phonics Skills Practice Books](https://www.teacherspayteachers.com/Product/Phonics-Skills-Practice-Books-Assessment-Reading-Fluency-Passages-Activities-7607081?utm_source=PB%20Blog&utm_campaign=Phonics%20Practice%20Books%20How%20to%20Differentiate%20Phonics%20Post) for 104 books that focus on a variety of kindergarten and first grade phonics skills! Once you have given a phonics assessment and determined the skills your students need to learn, you can just print the books and be ready to teach! You can check it out here:
+If you want to make differentiating phonics instruction simple and easy this year, then check out my [Phonics Skills Practice Books](https://theprimarybrain.etsy.com/listing/1306184060/phonics-skill-books-bundle-beginning) for 104 books that focus on a variety of kindergarten and first grade phonics skills! Once you have given a phonics assessment and determined the skills your students need to learn, you can just print the books and be ready to teach! You can check it out here:
 
-[![Phonics Skills Book Bundle]({{ site.github.url }}/assets/img/cover-phonics-skills-books.jpg)](https://www.teacherspayteachers.com/Product/Phonics-Skills-Practice-Books-Assessment-Reading-Fluency-Passages-Activities-7607081?utm_source=PB%20Blog&utm_campaign=Phonics%20Skills%20Practice%20Books%20Bundle)
+[![Phonics Skills Book Bundle]({{ site.github.url }}/assets/img/cover-phonics-skills-books.jpg)](https://theprimarybrain.etsy.com/listing/1306184060/phonics-skill-books-bundle-beginning)
 
-[![Green Button to Grab Unit Here]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://www.teacherspayteachers.com/Product/Phonics-Skills-Practice-Books-Assessment-Reading-Fluency-Passages-Activities-7607081?utm_source=PB%20Blog&utm_campaign=Phonics%20Skills%20Practice%20Books%20Bundle)
+[![Green Button to Grab Unit Here]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://theprimarybrain.etsy.com/listing/1306184060/phonics-skill-books-bundle-beginning)
 
 ### Here are some other freebies to help you get ready to start your year!
 To help you get ready for this school year, you can grab even more freebies in these blog posts from my teacher friends! Just tap the links to hop to each blog!

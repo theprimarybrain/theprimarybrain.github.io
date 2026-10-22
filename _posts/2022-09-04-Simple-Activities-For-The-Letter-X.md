@@ -32,19 +32,19 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities
 - art activities
 
-Interested in downloading [these xray activities](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these xray activities](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Xray Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-x-ray.jpg)](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover)
+[![Xray Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-x-ray.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25)
  
-[![Click Here Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Xray-Toddler-Activities-Lesson-Plans-X-Ray-Tot-School-Preschool-Curriculum-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Unit%20Cover)
+[![Click Here Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25)
 
 ## Art Activities
 
-[![ToddlerImage]({{ site.github.url }}/assets/img/xray-toddler-painting.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post)
+[![ToddlerImage]({{ site.github.url }}/assets/img/xray-toddler-painting.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25)
 
 Using white paint and black construction paper, your toddler, can create their x-ray image and easily use it to play doctor or practice writing the letter X around the image.
 
-[![Toddler]({{ site.github.url }}/assets/img/xray-toddler-bones-activity.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/xray-toddler-bones-activity.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25)
 
 Isn’t it _the best_ when simple household products can become fantastic crafts for the letter x? Let your toddler learn all about bones and the letter X using just q-tips, black paper, and glue! 
 
@@ -56,32 +56,33 @@ Fine motor activities are so important during the toddler years. This activity f
 
 ## Sensory Bins 
 
-[![Toddler]({{ site.github.url }}/assets/img/xray-sensory-bin-2.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post) 
+[![Toddler]({{ site.github.url }}/assets/img/xray-sensory-bin-2.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25) 
 
 Alphabet crafts and activities are _fantastic_, but toddlers love getting dirty. Creating a letter x skeleton sensory bin is a great way to let your child develop fine motor skills and create an “x-ray” of a skeleton out of popsicle sticks, playdoh, googly eyes, and more in the clear bin. 
 
-[![Toddler]({{ site.github.url }}/assets/img/xray-sensory-bin.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post)
+[![Toddler]({{ site.github.url }}/assets/img/xray-sensory-bin.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25)
 
 Here’s another sensory bin activity that helps your toddler with *fine motor skills*. This activity for the letter x is a great way to help your toddler practice fine motor skills like gluing and working with different materials like popsicle sticks and q-tips! 
 
 ## Gross Motor Activity 
 
-[![Toddler]({{ site.github.url }}/assets/img/xray-toddler-photo.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post) 
+[![Toddler]({{ site.github.url }}/assets/img/xray-toddler-photo.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25) 
 
 You’ll need the x-ray cards for this simple letter and gross motor activity. Hang these cards around your classroom or home, and have your child find and then tag the card. Play a fun movement song and have the child keep tagging until the song ends.
 
 ## Simple Activities For The Letter X
 
-[![Letter X]({{ site.github.url }}/assets/img/Cover-Toddler-Xray-Unit.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Pos)
+[![Letter X]({{ site.github.url }}/assets/img/Cover-Toddler-Xray-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25)
 
-These are just a few of the easy, and educational activities available in my [X-ray Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post). I have so many more great ideas and resources inside this [Letter X Toddler Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-X-Ray-Themed-Lessons-5252345?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Post) including math cards, scissor practice, and even more simple activities for the letter x. You’ll even get a lesson guide that will give you lesson plan ideas and materials you need for each lesson! I hope I can make your life easier one lesson at a time!
+These are just a few of the easy, and educational activities available in my [X-ray Toddler School Unit](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25) including math cards, scissor practice, and even more simple activities for the letter x. You’ll even get a lesson guide that will give you lesson plan ideas and materials you need for each lesson! I hope I can make your life easier one lesson at a time!
 
 ## Don’t Forget!
 
-Don’t forget I have a whole toddler curriculum focused on the alphabet! You can grab all these simple activities for the letter x and more in my [Toddler School A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell). Keeping routine when learning the alphabet is not only helpful for children, but makes life easier for you! You’ll get all you see here **and** activities for the rest of the alphabet all at a great price! You can grab the [Toddler Alphabet A-Z Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) and save time planning activities today!
+Don’t forget I have a whole toddler curriculum focused on the alphabet! You can grab all these simple activities for the letter x and more in my [Toddler School A-Z Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) and save time planning activities today!
 
 ### Looking For Other Alphabet Activities? 
 
 Check out this [blog post](https://theprimarybrain.com/alphabet/2022/04/09/Letter-Of-The-Day-Activity/) to learn more about my free [Letter Of The Day Boost Binder](https://www.teacherspayteachers.com/Product/Letter-of-the-Day-Activity-Reading-Boost-Binder-FREEBIE-7067735?utm_source=PB%20Blog&utm_campaign=Xray%20Toddler%20Link%20to%20Free%20Letter%20Boost%20Binder). Give your child a little boost when it comes to letter recognition. This binder helps your child practice upper and lowercase letters all while giving them a fun letter writing activity! 
+
 
 

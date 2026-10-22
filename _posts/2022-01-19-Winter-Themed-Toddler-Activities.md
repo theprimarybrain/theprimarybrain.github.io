@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Winter is in the air and that means the snow is falling...for some of you! Where we live, the closest snow is a couple hours away, so we are excited to create winter inside! To bring the snow and winter fun to our house, I created this [Winter Themed Toddler Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-Toddler-Lesson-Plans-Winter-Themed-Seasonal-Activities-7641533). It’ll bring a bit of the winter season and tons of learning and fun to you and your little ones!
+Winter is in the air and that means the snow is falling...for some of you! Where we live, the closest snow is a couple hours away, so we are excited to create winter inside! To bring the snow and winter fun to our house, I created this [Winter Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1304468748/winter-toddler-activities-tot-school). It’ll bring a bit of the winter season and tons of learning and fun to you and your little ones!
 
 ## Lesson Components 
 This unit is made up of 5 lessons that will each work on the following activities:
@@ -21,11 +21,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities 
 - art activities
 
-Interested in downloading [these winter activities](https://www.teacherspayteachers.com/Product/Winter-Toddler-Activities-Seasonal-Preschool-Curriculum-Tot-School-Lesson-Plan-7641533?utm_source=PB%20Blog&utm_campaign=Winter%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these winter activities](https://theprimarybrain.etsy.com/listing/1304468748/winter-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Winter Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-winter.jpg)](https://www.teacherspayteachers.com/Product/Winter-Toddler-Activities-Seasonal-Preschool-Curriculum-Tot-School-Lesson-Plan-7641533?utm_source=PB%20Blog&utm_campaign=Winter%20Toddler%20Unit%20Cover)
+[![Winter Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-winter.jpg)](https://theprimarybrain.etsy.com/listing/1304468748/winter-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Winter-Toddler-Activities-Seasonal-Preschool-Curriculum-Tot-School-Lesson-Plan-7641533?utm_source=PB%20Blog&utm_campaign=Winter%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1304468748/winter-toddler-activities-tot-school)
 
 ## Literacy Activities 
 
@@ -49,7 +49,7 @@ Sensory exploration is also so beneficial for our little ones. Since we don’t 
 
 ![WinterToddler]({{ site.github.url }}/assets/img/winter-toddler-build-a-snowman.jpg)
 
-There are so many benefits of sensory bins for our little ones. Sensory bins are an excellent tool you can use to incorporate many different learning activities, plus kids are working on fine motor, self control, pretend play, and so much more! For this sensory bin activity, you’ll fill a bin with “snowballs.” These snowballs can be made from pom pom balls, foam balls, or any other snow-like material. Then, you’ll add snowman parts to the bin. Be sure to provide positive feedback as your child is building their own snowman using the pieces. You can leave the pieces loose so you can reuse them in the bin again, or have your child glue the pieces on to create an adorable snowman. I have included all of the snowman pieces and the workmat in my [Winter Toddler Unit](https://www.teacherspayteachers.com/Product/50-off-48-Hours-Toddler-Lesson-Plans-Winter-Themed-Seasonal-Activities-7641533) to make this activity quick and easy for you!
+There are so many benefits of sensory bins for our little ones. Sensory bins are an excellent tool you can use to incorporate many different learning activities, plus kids are working on fine motor, self control, pretend play, and so much more! For this sensory bin activity, you’ll fill a bin with “snowballs.” These snowballs can be made from pom pom balls, foam balls, or any other snow-like material. Then, you’ll add snowman parts to the bin. Be sure to provide positive feedback as your child is building their own snowman using the pieces. You can leave the pieces loose so you can reuse them in the bin again, or have your child glue the pieces on to create an adorable snowman. I have included all of the snowman pieces and the workmat in my [Winter Toddler Unit](https://theprimarybrain.etsy.com/listing/1304468748/winter-toddler-activities-tot-school) to make this activity quick and easy for you!
 
 ![WinterToddler]({{ site.github.url }}/assets/img/winter-toddler-sensory-bin-letters.jpg)
 
@@ -86,7 +86,7 @@ This activity was so much fun, but is also excellent for building strong hand mu
 
 [![SeasonalUnit]({{ site.github.url }}/assets/img/seasonal-toddler-bundle-cover.jpg)](https://www.teacherspayteachers.com/Product/10-Flash-Sale-Toddler-Activities-Lesson-Plans-Seasonal-Fall-Winter-7642528?utm_source=PB%20Blog&utm_campaign=Seasonal%20Bundle%20Photo)
 
-I hope you found some great ideas to use at home with your little ones this winter season! If you want to make teaching your toddler super simple and fun this week, then check out my [Seasonal Toddler School Activities](https://www.teacherspayteachers.com/Product/50-off-48-Hours-Toddler-Lesson-Plans-Winter-Themed-Seasonal-Activities-7641533) for complete lesson plans and all the printables you need to make learning easy and fun each season! And if you need even more toddler school themed units, check out my full [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281).
+I hope you found some great ideas to use at home with your little ones this winter season! If you want to make teaching your toddler super simple and fun this week, then check out my [Seasonal Toddler School Activities](https://theprimarybrain.etsy.com/listing/1304468748/winter-toddler-activities-tot-school).
 
 I hope you enjoy bringing the winter season indoors as you play, learn, and explore with your child this week! 
 

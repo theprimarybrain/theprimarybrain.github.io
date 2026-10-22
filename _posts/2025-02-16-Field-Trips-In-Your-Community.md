@@ -16,7 +16,7 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Feb. 16, 2
 Finding field trips for young children is easier than you think! You don’t need to travel far or spend a lot of money to give your preschooler a variety of hands-on learning experiences through field trips. Some of the best field trips are just around the corner from home! So, let’s dive into 10 simple and fun places to visit with your little ones!
 
 ### 1. The Local Library
-Every time we start a new learning theme in our [Preschool Curriculum](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover), I LOVE to take a trip to our local library to find a few books to go with the theme we are learning. Reading books is so important to work into your schedule because our children learn so much when reading a book. Check out a storytime session, explore the children’s section, and let your child pick out a few books to take home. This is a great way to build excitement around reading!
+Every time we start a new learning theme in our [Preschool Curriculum](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans), I LOVE to take a trip to our local library to find a few books to go with the theme we are learning. Reading books is so important to work into your schedule because our children learn so much when reading a book. Check out a storytime session, explore the children’s section, and let your child pick out a few books to take home. This is a great way to build excitement around reading!
 
 ### 2. The Grocery Store
 The grocery store is a great place to turn a regular shopping trip into a learning adventure! You can talk about different types of foods, count fruits and vegetables, and even let your child help pick out ingredients for a meal. You can also practice sorting by colors or shapes while walking through the aisles. If you can find a grocery store with children’s shopping carts, this makes shopping extra fun!
@@ -28,7 +28,7 @@ Do your kids love drawing, writing, or creating notes for you? If they do, then 
 Do your children get excited when they see a fire engine drive by? Many fire stations offer free tours for young children! Children can meet firefighters, see a fire truck up close, and learn about fire safety in a way that’s both fun and memorable. Call ahead to see if your local station offers tours!
 
 ### 5. The Bakery
-A bakery visit can be a treat! If you can find a bakery with a window, sometimes you can watch how bread and pastries are made, talk about ingredients, and maybe even try a special treat together. This is a great way to introduce new foods and spark curiosity about baking. If you want to teach your children all about Baking, check out our [Baking Preschool Unit](https://www.teacherspayteachers.com/Product/Baking-Theme-Preschool-Curriculum-Lesson-Plans-PreK-Homeschool-Activities-Unit-8675317).
+A bakery visit can be a treat! If you can find a bakery with a window, sometimes you can watch how bread and pastries are made, talk about ingredients, and maybe even try a special treat together. This is a great way to introduce new foods and spark curiosity about baking. If you want to teach your children all about Baking, check out our [Baking Preschool Unit](https://theprimarybrain.etsy.com/listing/1314794274/baking-themed-preschool-activities).
 
 ### 6. The Community Park
 Field trips do not need to be fancy, to be fun and educational! A simple trip to the park can be full of learning opportunities. Collect leaves, look for different birds, and talk about the changing seasons. You can even bring along a magnifying glass to explore bugs and flowers up close!
@@ -45,10 +45,11 @@ Little ones love exploring nature! If you want to teach your children about plan
 ### 10. The Police Station
 Many police stations welcome young visitors! This is a great way for children to meet a friendly police officer, see a patrol car, and learn about community helpers. It’s also a great opportunity to talk about safety in a positive way. 
 
-So there you have it! 10 simple and fun neighborhood field trips you can go on with preschooler without a lot of prep or planning! Each of these trips offer a chance to explore something new, ask questions, and make learning feel like an exciting adventure as you are packing up the car to leave home. If you want to grab all the plans and printables you need to teach your children at home, then check out my [Preschool Curriculum for the Year](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Transportation%20Preschool%20Blog%20End%20Bundle%20Link)!
+So there you have it! 10 simple and fun neighborhood field trips you can go on with preschooler without a lot of prep or planning! Each of these trips offer a chance to explore something new, ask questions, and make learning feel like an exciting adventure as you are packing up the car to leave home. If you want to grab all the plans and printables you need to teach your children at home, then check out my [Preschool Curriculum for the Year](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)!
 
-[![PreschoolCurriculumBundle]({{ site.github.url }}/assets/img/preschool-curriculum-cover.jpg)](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover)
+[![PreschoolCurriculumBundle]({{ site.github.url }}/assets/img/preschool-curriculum-cover.jpg)](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)
 
-[![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://www.teacherspayteachers.com/Product/Preschool-Curriculum-and-Lesson-Plans-Pre-K-Classroom-Homeschool-Themes-8371836?utm_source=PB%20Blog&utm_campaign=Preschool%20Curriculum%20Bundle%20Cover)
+[![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)
 
 I’d love to hear if you try any of these! Just click the link in the show notes to head over to our [Teach Your Littles at Home Facebook Group](https://www.facebook.com/groups/1277293075961826) and share about a new field trip you are planning. 
+

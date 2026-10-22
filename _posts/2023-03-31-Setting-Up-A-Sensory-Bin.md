@@ -57,7 +57,7 @@ Not only are sensory bins an excellent way to fill your child's day with hands-o
 
 ### Now Let's Play!
 
-I hope you are feeling inspired to put together a sensory bin for your little ones! I would love to see what you create! Just tag me @theprimarybrain on Instagram so I can see all the fun you are having in your home or classroom. If you are looking for some ready made printable items to place in your sensory bins, you can check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=How%20To%20Set%20Up%20Sensory%20Bin%20Toddler%20Bundle) for 26 units that will take you and your child on a journey from A to Z. 
+I hope you are feeling inspired to put together a sensory bin for your little ones! I would love to see what you create! Just tag me @theprimarybrain on Instagram so I can see all the fun you are having in your home or classroom. If you are looking for some ready made printable items to place in your sensory bins, you can check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for 26 units that will take you and your child on a journey from A to Z. 
 
 ## Plan Sensory Bins for Toddlers
 

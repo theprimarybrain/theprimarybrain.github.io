@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Do your little ones love eating goldfish crackers? I know mine do! I created this [Goldfish Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226?) to bring a bit of under the sea fun to you and your little ones this week!
+Do your little ones love eating goldfish crackers? I know mine do! I created this [Goldfish Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1300184422/goldfish-toddler-activities-tot-school) to bring a bit of under the sea fun to you and your little ones this week!
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -32,11 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities 
 - art activities
 
-Interested in downloading [these goldfish activities](https://www.teacherspayteachers.com/Product/Goldfish-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-4722226?utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these goldfish activities](https://theprimarybrain.etsy.com/listing/1300184422/goldfish-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Goldfish Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-goldfish.jpg)](https://www.teacherspayteachers.com/Product/Goldfish-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-4722226?utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20Unit%20Cover)
+[![Goldfish Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-goldfish.jpg)](https://theprimarybrain.etsy.com/listing/1300184422/goldfish-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Goldfish-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-4722226?utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1300184422/goldfish-toddler-activities-tot-school)
 
 ## Art Activities 
 
@@ -82,10 +82,10 @@ Patterns are another fun math skill to practice with goldfish crackers. While do
 
 These goldfish number puzzles were also a hit and a great way to practice counting and matching a set of objects to a numeral. You’ll help your little one count the number of fish and match the set to the correct number. You can include numbers 1-3 if your child is just starting out, or challenge them with larger sets and numbers as he or she becomes more confident. 
 
-[![GoldfishToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Goldfish-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226?st=37d4201800545be553a7803fd5cc2083&utm_source=PB%20Blog&utm_campaign=Goldfish%20Toddler%20School%20Image%20Cover)
+[![GoldfishToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Goldfish-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1300184422/goldfish-toddler-activities-tot-school)
 
-I hope you found some great goldfish themed ideas to use at home with your little ones! We had so much fun with this goldfish unit and I know you will too! If you want to make teaching your toddler super simple and fun this week, check out my [Goldfish Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Goldfish-Homeschool-Preschool-Letter-G-4722226) for 5 complete lesson plans and all the printables you need. 
+I hope you found some great goldfish themed ideas to use at home with your little ones! We had so much fun with this goldfish unit and I know you will too! If you want to make teaching your toddler super simple and fun this week, check out my [Goldfish Toddler School Unit](https://theprimarybrain.etsy.com/listing/1300184422/goldfish-toddler-activities-tot-school) for 5 complete lesson plans and all the printables you need. 
 
-And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) for an entire year of learning!
+And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for an entire year of learning!
 
 I hope you enjoy every minute of playing and learning with your little ones! 

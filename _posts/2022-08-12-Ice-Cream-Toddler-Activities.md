@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Do your little ones love ice cream? I know mine do! I created this [Ice Cream Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Ice-Cream-Homeschool-Preschool-Letter-I-4635846) to satisfy that sweet tooth for learning with my toddlers! We dove into ice cream themed sensory bins, fine motor activities, arts and crafts, and lots more!
+Do your little ones love ice cream? I know mine do! I created this [Ice Cream Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool) to satisfy that sweet tooth for learning with my toddlers! We dove into ice cream themed sensory bins, fine motor activities, arts and crafts, and lots more!
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-Interested in downloading [these ice cream activities](https://www.teacherspayteachers.com/Product/Ice-Cream-Themed-Summer-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-4635846?utm_source=PB%20Blog&utm_campaign=Ice%20Cream%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these ice cream activities](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Ice Cream Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-ice-cream.jpg)](https://www.teacherspayteachers.com/Product/Ice-Cream-Themed-Summer-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-4635846?utm_source=PB%20Blog&utm_campaign=Ice%20Cream%20Toddler%20Unit%20Cover)
+[![Ice Cream Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-ice-cream.jpg)](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Ice-Cream-Themed-Summer-Toddler-Activities-Preschool-Curriculum-Lesson-Plans-4635846?utm_source=PB%20Blog&utm_campaign=Ice%20Cream%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool)
 
 ## Art Activities 
 
@@ -91,6 +91,7 @@ This last sensory exploration activity was a HUGE hit! For this activity, have y
 
 This 1:1 counting activity will help your little one start to recognize that we count one object once, and can match the set with a numeral. For this activity, use any type of counter you have on hand. Mini erasers are fun, and we love using pom pom balls as “sprinkles.” Guide your child in placing one counter on the number one ice cream. Remind your child that “1” represents one item while placing the counters on each card to match the number and counting out loud. You can use numbers 1-6, depending on your child’s ability level. 
 
-I hope you found some great ice cream ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Ice Cream Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Ice-Cream-Homeschool-Preschool-Letter-I-4635846) for 5 complete lesson plans and all the printables you need. If you want to join us in a year of learning with your little ones, then [click here to see my Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281).
+I hope you found some great ice cream ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Ice Cream Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool).
 
 Have a great week eating lots of ice cream and spending special time with your child exploring, learning, and playing! 
+

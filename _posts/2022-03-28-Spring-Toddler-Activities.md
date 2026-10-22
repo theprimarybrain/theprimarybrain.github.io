@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Spring is here and that means it is time to break out all of the spring toddler activities! We love Spring in our house because flowers bloom, we get outside more to enjoy the fresh air, and the sun is shining! I created this [Spring Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Spring-Themed-Seasonal-Activities-Preschool-Curriculum-7791962?st=3e8e459fd7edb289a5f0466a6f8f2415&utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit) to bring some of the spring season to you and your little ones!
+Spring is here and that means it is time to break out all of the spring toddler activities! We love Spring in our house because flowers bloom, we get outside more to enjoy the fresh air, and the sun is shining! I created this [Spring Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1210827975/spring-toddler-activities-homeschool) to bring some of the spring season to you and your little ones!
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -32,11 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - art activities
 - science activities
 
-Interested in downloading [these spring activities](https://www.teacherspayteachers.com/Product/Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-7791962?utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these spring activities](https://theprimarybrain.etsy.com/listing/1210827975/spring-toddler-activities-homeschool) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Spring Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-spring.jpg)](https://www.teacherspayteachers.com/Product/Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-7791962?utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit%20Cover)
+[![Spring Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-spring.jpg)](https://theprimarybrain.etsy.com/listing/1210827975/spring-toddler-activities-homeschool)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Spring-Toddler-Activities-Preschool-Curriculum-and-Lesson-Plans-7791962?utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1210827975/spring-toddler-activities-homeschool)
 
 ## Building Vocabulary
 
@@ -75,8 +75,8 @@ This spring flower matching activity is the perfect way to practice subitizing w
 
 For this fun spring science experiment, you will fill a tray with baking soda. Then you can dye vinegar using red, yellow, and blue food coloring to make the different colors of the rainbow. Place the vinegar in squirt bottles so your child can squirt the vinegar one color at a time onto the baking soda to create the shape of a rainbow. As they squirt, they’ll see the liquid fizz and watch as the three primary colors mix together to create all of the colors of the rainbow! 
 
-[![SpringUnit]({{ site.github.url }}/assets/img/spring-toddler-unit-cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Spring-Themed-Seasonal-Activities-Preschool-Curriculum-7791962?st=3e8e459fd7edb289a5f0466a6f8f2415&utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit)
+[![SpringUnit]({{ site.github.url }}/assets/img/spring-toddler-unit-cover.jpg)](https://theprimarybrain.etsy.com/listing/1210827975/spring-toddler-activities-homeschool)
 
-I hope you found some great ideas to use at home with your little ones this spring season! If you want to make teaching your toddler super simple this week, then check out my [Spring Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Spring-Themed-Seasonal-Activities-Preschool-Curriculum-7791962?st=3e8e459fd7edb289a5f0466a6f8f2415&utm_source=PB%20Blog&utm_campaign=Spring%20Toddler%20Unit) for 5 complete lesson plans and all the printables you need. I encourage you to get outside and enjoy the fresh air and sunshine, go on a bug hunt, and plant some flowers as you enjoy every minute of playing and learning with your little ones!
+I hope you found some great ideas to use at home with your little ones this spring season! If you want to make teaching your toddler super simple this week, then check out my [Spring Toddler School Unit](https://theprimarybrain.etsy.com/listing/1210827975/spring-toddler-activities-homeschool) for 5 complete lesson plans and all the printables you need. I encourage you to get outside and enjoy the fresh air and sunshine, go on a bug hunt, and plant some flowers as you enjoy every minute of playing and learning with your little ones!
 
-And if you need even more Toddler School ideas, check out my [Toddler School Seasonal Curriculum](https://www.teacherspayteachers.com/Product/Fall-and-Winter-Fine-Motor-Skills-Activities-All-Seasons-GROWING-BUNDLE-7240892?utm_source=PB%20Blog&utm_campaign=Spring%20Fine%20Motor%20Post).
+And if you need even more Toddler School ideas, check out my [Toddler School Seasonal Curriculum](https://theprimarybrain.etsy.com/listing/1330133823/seasonal-fine-motor-skills-activities).

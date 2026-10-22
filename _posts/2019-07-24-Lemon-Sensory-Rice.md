@@ -24,7 +24,7 @@ Add white rice to a zip-top bag. In a separate dish, combine lemon extract and f
 
 ![SensoryBin]({{ site.github.url }}/assets/img/lemon-sensory-bin-play.jpg)
 
-You might be thinking "I made the sensory rice, now what do I do with it?" The sky is the limit! The first day, I added the rice to a bin with measuring spoons, measuring cups, a plastic cup, and some spoons. My 3 year old played for over an hour! We also used the rice as filler for all of our [Lemon Themed Toddler School Activities](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Lemon-Themed-Lessons-50-off-Halfway-Sale-4616157?utm_source=My%20Blog&utm_campaign=Lemon%20Sensory%20Rice%20Toddler%20School%20Link). 
+You might be thinking "I made the sensory rice, now what do I do with it?" The sky is the limit! The first day, I added the rice to a bin with measuring spoons, measuring cups, a plastic cup, and some spoons. My 3 year old played for over an hour! We also used the rice as filler for all of our [Lemon Themed Toddler School Activities](https://theprimarybrain.etsy.com/listing/1302252946/lemon-toddler-activities-tot-school). 
 
 You could also add magnetic letters, numbers, puzzle pieces, or any other learning tool you have on hand. I hope you have fun playing and learning with your little ones!
 

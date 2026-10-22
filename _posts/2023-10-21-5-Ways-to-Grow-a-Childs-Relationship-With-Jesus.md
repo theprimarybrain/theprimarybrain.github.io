@@ -46,7 +46,7 @@ Growing up, we used to read a family devotional most nights after dinner. This i
 ## 5. Sunday School
 Giving our children the opportunity to go to Sunday School is so important for cultivating a relationship with Jesus. Our children are able to hear a Bible story, study God's word, worship, and fellowship with friends. It sets the tone for a great week by spending time with Jesus before the week even begins!
 
-I hope that you feel equipped to help your little ones continue to grow in their relationship with Jesus. If you are looking for even more resources to help teach your little ones about the Bible, you can check out my [Old Testament Bible Lessons](https://www.teacherspayteachers.com/Product/Old-Testament-Bible-Lessons-Activities-Curriculum-for-Little-Learners-5415887?utm_source=PB%20Blog&utm_campaign=OT%20Bible%20Bundle) for Bible stories, activities, and games to play with your children. You can take a closer look here:
+I hope that you feel equipped to help your little ones continue to grow in their relationship with Jesus. If you are looking for even more resources to help teach your little ones about the Bible, you can check out my [Old Testament Bible Lessons](https://theprimarybrain.etsy.com/listing/1311582628/old-testament-bible-lessons-bundle) for Bible stories, activities, and games to play with your children. You can take a closer look here:
 
 [![Bible Cover Image]({{ site.github.url }}/assets/img/product-cover-bible-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1311582628/old-testament-bible-lessons-sunday)
 

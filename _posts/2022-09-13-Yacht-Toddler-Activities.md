@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-When you think of the letter Y, what words do you think of? As I planned out a unit for the letter Y, I thought of taking our little ones sailing away on a yacht! This unit will get your toddlers using their brains, provide opportunities to practice fine and gross motor skills, and have fun while learning! This [Yacht Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Yacht-Themed-Lessons-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20School%20Post) includes lots of fun ways to use the word **yacht** and teach your toddler all about the **letter Y**. Here are just a few simple activities for the letter Y.
+When you think of the letter Y, what words do you think of? As I planned out a unit for the letter Y, I thought of taking our little ones sailing away on a yacht! This unit will get your toddlers using their brains, provide opportunities to practice fine and gross motor skills, and have fun while learning! This [Yacht Toddler School Unit](https://theprimarybrain.etsy.com/listing/1317999245/letter-y-toddler-lesson-plans-yacht) includes lots of fun ways to use the word **yacht** and teach your toddler all about the **letter Y**. Here are just a few simple activities for the letter Y.
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -32,11 +32,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities
 - art activities
 
-Interested in downloading [these yacht activities](https://www.teacherspayteachers.com/Product/Yacht-Toddler-Activities-Lesson-Plans-for-Summer-2-to-3-Year-Old-Curriculum-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these yacht activities](https://theprimarybrain.etsy.com/listing/1317999245/letter-y-toddler-lesson-plans-yacht) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Yacht Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-yacht.jpg)](https://www.teacherspayteachers.com/Product/Yacht-Toddler-Activities-Lesson-Plans-for-Summer-2-to-3-Year-Old-Curriculum-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20Unit%20Cover)
+[![Yacht Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-yacht.jpg)](https://theprimarybrain.etsy.com/listing/1317999245/letter-y-toddler-lesson-plans-yacht)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Yacht-Toddler-Activities-Lesson-Plans-for-Summer-2-to-3-Year-Old-Curriculum-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1317999245/letter-y-toddler-lesson-plans-yacht)
 
 ## Art Activity
 
@@ -70,10 +70,10 @@ For this next sensory bin activity, fill a bin with water beads or blue rice. Ad
 
 Giving our little ones lots of opportunities to practice 1:1 correspondence is essential in order for them to build confidence and master this skill. For this activity, you’ll give your child the number match cards and about 30 counters. We love using blue gems or mini erasers! Your child will place a counter on each image on the number match cards. Encourage your child to count aloud as he or she places each counter on the card. 
 
-[![YachtToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Yacht-Unit.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Yacht-Themed-Lessons-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20School%20Post)
+[![YachtToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Yacht-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1317999245/letter-y-toddler-lesson-plans-yacht)
 
-I hope you found some great ideas to use this week with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Yacht Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Yacht-Themed-Lessons-5282281?utm_source=PB%20Blog&utm_campaign=Yacht%20Toddler%20School%20Post) for 5 complete lesson plans and all the printables you need. 
+I hope you found some great ideas to use this week with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Yacht Toddler School Unit](https://theprimarybrain.etsy.com/listing/1317999245/letter-y-toddler-lesson-plans-yacht) for 5 complete lesson plans and all the printables you need. 
 
-And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell) to make learning FUN from A to Z!
+And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) to make learning FUN from A to Z!
 
 I hope you have fun playing and learning with your little ones this week! 

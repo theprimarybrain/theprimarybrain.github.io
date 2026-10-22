@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-I don’t know about you, but my littles are intrigued by volcanoes! I created this [Volcano Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Volcano-Preschool-Curriculum-Letter-V-5232563?st=e30448ebb266bb1f799086c644e17e40&utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit) to bring a bit of explosive fun to you and your little ones while learning all week about the letter Vv. 
+I don’t know about you, but my littles are intrigued by volcanoes! I created this [Volcano Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1328547225/volcano-toddler-activities-tot-school) to bring a bit of explosive fun to you and your little ones while learning all week about the letter Vv. 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities 
 - art activities
 
-Interested in downloading [these volcano activities](https://www.teacherspayteachers.com/Product/Volcano-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-5232563?utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these volcano activities](https://theprimarybrain.etsy.com/listing/1328547225/volcano-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Volcano Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-volcano.jpg)](https://www.teacherspayteachers.com/Product/Volcano-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-5232563?utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit%20Cover)
+[![Volcano Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-volcano.jpg)](https://theprimarybrain.etsy.com/listing/1328547225/volcano-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Volcano-Toddler-Curriculum-Unit-Theme-Preschool-Activities-Lesson-Plans-5232563?utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1328547225/volcano-toddler-activities-tot-school)
 
 ## Fine Motor Activities 
 
@@ -75,10 +75,11 @@ If you’re doing volcano week with your little one, it’s essential that you c
 
 This fun gross motor activity is sure to keep your child excited and engaged while practicing those gross motor skills, coordination, and body movements. For this activity, you’ll lay out red construction paper in a row on the ground. Add a thick strip of tape on top of the construction paper. Tell your child that the red paper is lava and the tape is a bridge over the lava. Your child will walk over the “bridge” to get to the other side. Be careful not to step in the hot lava! 
 
-[![VolcanoToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Volcano-Unit.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Volcano-Preschool-Curriculum-Letter-V-5232563?st=e30448ebb266bb1f799086c644e17e40&utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit)
+[![VolcanoToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Volcano-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1328547225/volcano-toddler-activities-tot-school)
 
-I hope you found some great ideas to use this week with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Volcano Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Volcano-Preschool-Curriculum-Letter-V-5232563?st=e30448ebb266bb1f799086c644e17e40&utm_source=PB%20Blog&utm_campaign=Volcano%20Toddler%20Unit) for 5 complete lesson plans and all the printables you need. 
+I hope you found some great ideas to use this week with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Volcano Toddler School Unit](https://theprimarybrain.etsy.com/listing/1328547225/volcano-toddler-activities-tot-school) for 5 complete lesson plans and all the printables you need. 
 
-And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell).
+And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school).
 
 I hope you have fun learning, playing and exploring with your little ones! 
+

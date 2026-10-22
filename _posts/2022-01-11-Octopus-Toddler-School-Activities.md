@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-This week we are grabbing our swim gear and taking a dive down under the sea! This [Octopus Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Octopus-Preschool-Curriculum-Letter-O-4682918?st=5755ae47d6e6385296c92b5e58df441e&utm_source=PB%20Blog&utm_campaign=Octopus%20Text%20Click) will have your little ones squealing with joy as you learn all about this animal that is sure to be your child’s newest favorite. It’s the perfect combination of fun and learning, and a great way to introduce your little ones to the letter Oo! 
+This week we are grabbing our swim gear and taking a dive down under the sea! This [Octopus Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1302560130/octopus-toddler-school-lesson-plans) will have your little ones squealing with joy as you learn all about this animal that is sure to be your child’s newest favorite. It’s the perfect combination of fun and learning, and a great way to introduce your little ones to the letter Oo! 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -32,11 +32,11 @@ This unit is made up of 5 detailed lessons that will work on the following activ
 - gross motor activities
 - art activities 
 
-Interested in downloading [these octopus activities](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these octopus activities](https://theprimarybrain.etsy.com/listing/1302560130/octopus-toddler-school-lesson-plans) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Octopus Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-octopus2.jpg)](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover)
+[![Octopus Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-octopus2.jpg)](https://theprimarybrain.etsy.com/listing/1302560130/octopus-toddler-school-lesson-plans)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Octopus-Toddler-Activities-Curriculum-2-to-3-Year-Old-Preschool-Lesson-Plans-4682918?utm_source=PB%20Blog&utm_campaign=Octopus%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1302560130/octopus-toddler-school-lesson-plans)
 
 ## Art Activities 
 
@@ -87,6 +87,7 @@ It is essential to expose little ones to counting skills through 1:1 corresponde
 
 While we learn about octopuses, let’s practice counting to eight since octopuses have eight legs! For this counting activity, your child can decorate an octopus with art supplies. Then, they can add eight octopus “legs” (clothespins) to the bottom of the octopus. As your child counts each clothespin, make sure to have him or her count aloud. Stop after adding three clothespins to count from 1-3 and point to each clothespin as you count. Then, continue counting to number eight! You can also make this more challenging by adding more than eight clothespins! 
 
-[![OctopusUnit]({{ site.github.url }}/assets/img/Toddler-Octopus-Photo-Image.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Octopus-Preschool-Curriculum-Letter-O-4682918?st=5755ae47d6e6385296c92b5e58df441e&utm_source=PB%20Blog&utm_campaign=Photo%20Click)
+[![OctopusUnit]({{ site.github.url }}/assets/img/Toddler-Octopus-Photo-Image.jpg)](https://theprimarybrain.etsy.com/listing/1302560130/octopus-toddler-school-lesson-plans)
 
-I hope you found some great octopus ideas to use at home or at school with your little ones! If you want to make teaching your toddler super simple this week, make sure to check out my [Octopus Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Octopus-Preschool-Curriculum-Letter-O-4682918?st=5755ae47d6e6385296c92b5e58df441e&utm_source=PB%20Blog&utm_campaign=Octopus%20Text%20Click) for 5 complete lesson plans and all the printables you need. These lessons are so versatile that you can even enjoy them with preschoolers and kindergarten studentsI hope you enjoy every minute of playing and learning with your little ones!
+I hope you found some great octopus ideas to use at home or at school with your little ones! If you want to make teaching your toddler super simple this week, make sure to check out my [Octopus Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302560130/octopus-toddler-school-lesson-plans) for 5 complete lesson plans and all the printables you need. These lessons are so versatile that you can even enjoy them with preschoolers and kindergarten studentsI hope you enjoy every minute of playing and learning with your little ones!
+

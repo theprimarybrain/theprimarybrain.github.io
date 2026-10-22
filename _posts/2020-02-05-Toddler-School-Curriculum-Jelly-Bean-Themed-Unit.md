@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-If your toddlers are anything like mine, then you can probably relate to the excitement that comes out when Easter bunnies, jelly beans, and chocolate eggs start to line the shelves at the grocery store. Every time we would walk down the aisle my son would ask to bring some jelly beans home. So, I put together this fun [Jelly Bean Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Jelly-Bean-Themed-Lessons-4886650?utm_source=TPB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20School%20Post) that incorporates the letter J, science fun, and other jelly bean activities. The best part is, this unit can be done at any time of year since it incorporates jelly beans without any other Easter themes. Enjoy a peek into our jelly bean week through a sampling of our activities together.
+If your toddlers are anything like mine, then you can probably relate to the excitement that comes out when Easter bunnies, jelly beans, and chocolate eggs start to line the shelves at the grocery store. Every time we would walk down the aisle my son would ask to bring some jelly beans home. So, I put together this fun [Jelly Bean Themed Toddler School Unit](https://theprimarybrain.etsy.com/listing/979616046/jelly-bean-theme-toddler-activities) that incorporates the letter J, science fun, and other jelly bean activities. The best part is, this unit can be done at any time of year since it incorporates jelly beans without any other Easter themes. Enjoy a peek into our jelly bean week through a sampling of our activities together.
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -30,11 +30,11 @@ Each of the 5 lessons in this unit includes the following activities:
 - gross motor activity
 - art activity
 
-Interested in downloading [these jelly bean activities](https://www.teacherspayteachers.com/Product/Jelly-Bean-Easter-Toddler-Activities-Preschool-Curriculum-Spring-Lesson-Plan-4886650?utm_source=PB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these jelly bean activities](https://theprimarybrain.etsy.com/listing/979616046/jelly-bean-theme-toddler-activities) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Jelly Bean Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-jelly-bean.jpg)](https://www.teacherspayteachers.com/Product/Jelly-Bean-Easter-Toddler-Activities-Preschool-Curriculum-Spring-Lesson-Plan-4886650?utm_source=PB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20Unit%20Cover)
+[![Jelly Bean Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-jelly-bean.jpg)](https://theprimarybrain.etsy.com/listing/979616046/jelly-bean-theme-toddler-activities)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Jelly-Bean-Easter-Toddler-Activities-Preschool-Curriculum-Spring-Lesson-Plan-4886650?utm_source=PB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/979616046/jelly-bean-theme-toddler-activities)
 
 ## Lesson Setup
 ![Cover Page]({{ site.github.url }}/assets/img/toddler-school-jelly-bean-cover.jpg)
@@ -96,11 +96,11 @@ We also loved using counters to count from 1 to 6. Each time we counted a printe
 
 Our final science experiment did require me to plan ahead. The day before you plan to teach this lesson, you will want to freeze some jelly beans inside water to make jelly bean ice cubes. Give your child an ice cube and ask your child to remove the jelly bean. If your child is anything like mine, then it won't take long to realize the jelly beans are trapped! Show your child how to place the ice cube in sunlight to watch it melt. You can also hold the ice cube tight in your hand and watch the water drip off. My son tried throwing his ice cube on concrete and it broke. Then, he was able to work the jelly bean out of the ice cube a little faster. 
 
-I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Jelly Bean Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Jelly-Bean-Themed-Lessons-4886650?utm_source=TPB%20Blog&utm_campaign=Jelly%20Bean%20Toddler%20School%20Post) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible.
+I hope you enjoyed following our Toddler School journey this week! Click here if you want to download this [Jelly Bean Toddler School Unit](https://theprimarybrain.etsy.com/listing/979616046/jelly-bean-theme-toddler-activities) from my Teachers Pay Teachers store. It comes with 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible.
 
-If you are looking for even more Toddler School fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20TextLink) for all the plans and printables you need for an entire year of learning!
+If you are looking for even more Toddler School fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year) for all the plans and printables you need for an entire year of learning!
 
-[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://www.teacherspayteachers.com/Product/The-Complete-Toddler-School-Curriculum-Preschool-Activities-Lesson-Plans-9277137?st=d4f10691f6220ae963d64a0926662e73&utm_source=PB%20BLOG&utm_campaign=Complete%20Toddler%20Bundle%20Cover)
+[![CompleteToddlerSchoolCurriculumBundle]({{ site.github.url }}/assets/img/cover-toddler-school-curriculum.jpg)](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year)
 
 [![EtsyButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1575955240)
 

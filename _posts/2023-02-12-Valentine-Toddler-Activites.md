@@ -15,36 +15,36 @@ By [LAURIN BRAINARD](https://theprimarybrain.com/menu/about/) Updated Jan. 25, 2
 Valentine's Day is right around the corner and as my youngest is getting older, I am so excited to fill our days with painting, sensory bins, and all the fine motor activities our hearts desire! As we head into February, I want you to feel as prepared as I do to teach your little ones so I put together some of our favorite toddler activities for February!
 
 ## Valentine's Day Toddler Lessons
-This [Valentine's Day Toddler Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) is made up of 12 valentine activities you can use for the entire month of February:
+This [Valentine's Day Toddler Unit](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities) is made up of 12 valentine activities you can use for the entire month of February:
 - literacy and language activities
 - sensory bins 
 - math activities
 - fine motor activities
 - art activities
 
-Interested in downloading [these valentine activities](https://www.teacherspayteachers.com/Product/Valentines-Day-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-Theme-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these valentine activities](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Valentine Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-valentine.jpg)](https://www.teacherspayteachers.com/Product/Valentines-Day-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-Theme-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20Unit%20Cover)
+[![Valentine Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-valentine.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Valentines-Day-Toddler-Activities-Curriculum-Preschool-Lesson-Plans-Theme-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
 
 ## Valentine's Day Crafts for Toddlers
 
 Little ones LOVE to create art for their parents, grandparents, and other special people in their lives. For Valentine's Day, you can make these two different art projects with your little ones that can be turned into cards for Valentine's Day:
 
-[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-fingerprint-art.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-fingerprint-art.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
 
-All you need for this fingerprint tree is this [printable from our Valentine Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) and some liquid paint on a plate. Then, kids will tip their fingertips in the paint and press around the tree to make leaves. When finished, you can cut out the tree and paste onto a large piece of construction paper for a jumbo size card! 
+All you need for this fingerprint tree is this [printable from our Valentine Unit](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities) and some liquid paint on a plate. Then, kids will tip their fingertips in the paint and press around the tree to make leaves. When finished, you can cut out the tree and paste onto a large piece of construction paper for a jumbo size card! 
 
 I love these [Crayola Washable Paints](https://amzn.to/3UaEhrX) for this project. The set is inexpensive, but it does come with a limited number of colors. We use this opportunity to mix red and blue together to make purple for the card!
 
-[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-art.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-art.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
 
-In this second craft, we combined fine motor skills and art to make another fun keepsake! First, we tore colored paper into small "pieces" and then glued onto our printable from our [Valentine Toddler School Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School). As my daughter pasted on each piece of paper, we talked about all the people she loves and cares about in her life. It was a great way to tie in a conversation about the reasons why each person is special!
+In this second craft, we combined fine motor skills and art to make another fun keepsake! First, we tore colored paper into small "pieces" and then glued onto our printable from our [Valentine Toddler School Unit](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities). As my daughter pasted on each piece of paper, we talked about all the people she loves and cares about in her life. It was a great way to tie in a conversation about the reasons why each person is special!
 
 ## Letter Name and Sound Sensory Activities for Toddlers
 
-[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-reading.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-reading.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
 
 What could be more fun than learning letter names and sounds through a candy heart sensory bin?!?! In this bin, we used crinkled paper as our sensory bin filler and added candy heart letter cards. As children pick up each card, they can practice saying the name and/or sound for each letter, then place it in their candy heart box. We added in some extra practice by saying the name of each letter as we placed back in the sensory bin for next time. 
 
@@ -56,13 +56,13 @@ _Looking for more information on how to set up a sensory bin?_ You won’t want 
 
 ## Valentine's Day Math Sensory Bin for Toddlers
 
-[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-math.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-math.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
 
-In this second bin, we built cupcakes by matching numbers! First, I cut out the pieces of each cupcake. You can find the printable pieces in our [Valentine Toddler School Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School). Then, my kids picked up one piece at a time from the bin. Depending on the ability level of your child, you could start with the pieces for just a couple cupcakes, or add in all six at once.
+In this second bin, we built cupcakes by matching numbers! First, I cut out the pieces of each cupcake. You can find the printable pieces in our [Valentine Toddler School Unit](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities). Then, my kids picked up one piece at a time from the bin. Depending on the ability level of your child, you could start with the pieces for just a couple cupcakes, or add in all six at once.
 
 ## Valentine's Day Fine Motor Activities
 
-[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-playdough.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+[![Valentine Toddler Curriculum]({{ site.github.url }}/assets/img/valentine-toddler-school-sensory-bin-playdough.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
 
 Playdough is always a hit in our house! In this activity, I created vocabulary cards so we could work on the names of various Valentine's Day symbols that may encounter in our daily lives this month. Then, we rolled snakes and balls of dough and used them to build the symbols. 
 
@@ -72,9 +72,9 @@ _If you aren't familiar with what fine motor skills are, then you can read more 
 
 ## Valentine's Day Toddler Curriculum
 
-If you want to bring some Valentine fun centered around learning into your home this year, then this [Valentine Toddler Unit](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School) is a perfect choice. It's full of 12 activities that will get your toddler **excited about learning**, all while working on their developmental needs.
+If you want to bring some Valentine fun centered around learning into your home this year, then this [Valentine Toddler Unit](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities) is a perfect choice. It's full of 12 activities that will get your toddler **excited about learning**, all while working on their developmental needs.
 
-[![Valentine Cover]({{ site.github.url }}/assets/img/valentine-toddler-cover.jpg)](https://www.teacherspayteachers.com/Product/Valentine-Toddler-School-Lesson-Plans-Preschool-Activities-8868463?utm_source=PB%20Blog&utm_campaign=Valentine%20Toddler%20School)
+[![Valentine Cover]({{ site.github.url }}/assets/img/valentine-toddler-cover.jpg)](https://theprimarybrain.etsy.com/listing/1354825800/valentines-day-toddler-activities)
 
 If adding learning activities into your home this year sounds like something you would enjoy, then you can save money on this unit by purchasing it as part of my [Holiday Toddler Curriculum](https://www.teacherspayteachers.com/Product/Holiday-Toddler-Activities-Homeschool-Preschool-Curriculum-and-Lesson-Plans-8705555?utm_source=PB%20Blog&utm_campaign=Holiday%20Toddler%20Bundle%20Upsell%20Valentine%20Post). This holiday curriculum includes activities for Valentine's Day, St. Patrick's Day, Easter, Patriotic days, Halloween, and Christmas! Your toddler or preschooler will be ready for Kindergarten before you know it! You can check it out here:
 

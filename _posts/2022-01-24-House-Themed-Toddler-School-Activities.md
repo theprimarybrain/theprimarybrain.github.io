@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-There’s no place like home! I know my favorite place to be is at home, and what better way to introduce the letter H and explore homes than with this [House Themed Toddler Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-House-Themed-Preschool-Curriculum-Letter-H-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Text%20Link). You little one will love learning about the letter H while exploring, building, and learning all week! 
+There’s no place like home! I know my favorite place to be is at home, and what better way to introduce the letter H and explore homes than with this [House Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1300181648/house-toddler-activities-tot-school). You little one will love learning about the letter H while exploring, building, and learning all week! 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activities 
 - art activities
 
-Interested in downloading [these house activities](https://www.teacherspayteachers.com/Product/House-Themed-Toddler-Curriculum-Homes-Preschool-Activities-Lesson-Plans-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these house activities](https://theprimarybrain.etsy.com/listing/1300181648/house-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![House Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-house.jpg)](https://www.teacherspayteachers.com/Product/House-Themed-Toddler-Curriculum-Homes-Preschool-Activities-Lesson-Plans-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Unit%20Cover)
+[![House Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-house.jpg)](https://theprimarybrain.etsy.com/listing/1300181648/house-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/House-Themed-Toddler-Curriculum-Homes-Preschool-Activities-Lesson-Plans-4818455?utm_source=PB%20Blog&utm_campaign=House%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1300181648/house-toddler-activities-tot-school)
 
 ## Literacy Activities 
 
@@ -92,6 +92,7 @@ STEM Activities are a great way to give your child a hands-on experience and bui
 
 This is another fun STEM exploration activity your littles will love! They will be so proud when they match the house puzzle pieces to the matching numbers! All you have to do is cut the pieces out! And voila! Your little one is ready to count and match! 
 
-[![SeasonalUnit]({{ site.github.url }}/assets/img/Toddler-House-Photo-Cover.jpg)](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-House-Themed-Preschool-Curriculum-Letter-H-4818455?st=79745204511c1f7f1f393dfc47b041a2&utm_source=PB%20BLOG&utm_campaign=House%20Cover%20Image)
+[![SeasonalUnit]({{ site.github.url }}/assets/img/Toddler-House-Photo-Cover.jpg)](https://theprimarybrain.etsy.com/listing/1300181648/house-toddler-activities-tot-school)
 
-I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [House Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-House-Themed-Preschool-Curriculum-Letter-H-4818455?st=79745204511c1f7f1f393dfc47b041a2&utm_source=PB%20BLOG&utm_campaign=House%20Toddler%20Links) for 5 complete lesson plans and all the printables you need. You can also join us as we learn all year using our [Toddler School Curriculum Bundle](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20House%20Upsell).  I hope you enjoy every minute of playing, learning, and building with your little ones at home OR at school!
+I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [House Toddler School Unit](https://theprimarybrain.etsy.com/listing/1300181648/house-toddler-activities-tot-school).  I hope you enjoy every minute of playing, learning, and building with your little ones at home OR at school!
+

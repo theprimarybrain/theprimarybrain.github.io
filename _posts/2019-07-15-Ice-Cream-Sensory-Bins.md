@@ -11,7 +11,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Since it is national ice cream day later this week, I thought it was the perfect time to share my ice cream themed sensory bins with you all! We have been having a great summer playing and enjoying life and these have been some of our favorite sensory bins. We worked on the letter I, counting and sorting numbers to 3, and some good ole' fashioned play time! Here are my top 5 favorite bins from my [Ice Cream Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Ice-Cream-Themed-Lessons-4635846?utm_source=My%20Blog&utm_campaign=Ice%20Cream%20Sensory%20Bins%20Blog%20Post).
+Since it is national ice cream day later this week, I thought it was the perfect time to share my ice cream themed sensory bins with you all! We have been having a great summer playing and enjoying life and these have been some of our favorite sensory bins. We worked on the letter I, counting and sorting numbers to 3, and some good ole' fashioned play time! Here are my top 5 favorite bins from my [Ice Cream Themed Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool).
 
 ## Ice Cream Sprinkles Play
 ![Ice Cream Sprinkles Play]({{ site.github.url }}/assets/img/ice-cream-sensory-bin-sprinkles-play.jpg)
@@ -40,6 +40,6 @@ To set up the sensory play station, I set out a large poster board outside since
 
 For our last sensory bin, I added ice cream puzzle pieces to the rainbow sprinkles bin. Then, my son found the matching pieces and put the puzzles together outside of the sensory bin. We reviewed each letter name as we made the puzzles. 
 
-I hope these sensory bins have given you some fun ideas for ice cream week with your own little ones! You can grab all of the printable pieces from my [Ice Cream Themed Toddler School Unit](https://www.teacherspayteachers.com/Product/Toddler-Lesson-Plans-Ice-Cream-Themed-Lessons-4635846?utm_source=My%20Blog&utm_campaign=Ice%20Cream%20Sensory%20Bins%20Blog%20Post)! 
+I hope these sensory bins have given you some fun ideas for ice cream week with your own little ones! You can grab all of the printable pieces from my [Ice Cream Themed Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool)! 
 
 If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

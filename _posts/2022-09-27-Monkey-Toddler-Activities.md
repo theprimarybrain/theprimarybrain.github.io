@@ -10,7 +10,7 @@ image:
   credit: Laurin Brainard
   creditlink: ""
 ---
-Finding simple activities to teach the letter M is so much fun! This [Monkey Themed Toddler Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Monkey-Themed-Lessons-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20School%20Unit) will bring a little bit of adventure and fun to your learning! We had so much fun learning about monkeys, making monkey sounds, and using our hands to create through monkey themed activities. 
+Finding simple activities to teach the letter M is so much fun! This [Monkey Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1302521816/monkey-toddler-activities-tot-school) will bring a little bit of adventure and fun to your learning! We had so much fun learning about monkeys, making monkey sounds, and using our hands to create through monkey themed activities. 
 
 If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
@@ -31,11 +31,11 @@ This unit is made up of 5 lessons that will each work on the following activitie
 - gross motor activity 
 - art activity 
 
-Interested in downloading [these monkey activities](https://www.teacherspayteachers.com/Product/Monkey-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-2-to-3-Year-Olds-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20Unit%20Cover) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
+Interested in downloading [these monkey activities](https://theprimarybrain.etsy.com/listing/1302521816/monkey-toddler-activities-tot-school) that you can print and use right away? Click on the image or button below to check them out in my TpT shop! 
  
-[![Monkey Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-monkey.jpg)](https://www.teacherspayteachers.com/Product/Monkey-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-2-to-3-Year-Olds-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20Unit%20Cover)
+[![Monkey Toddler Activities Unit]({{ site.github.url }}/assets/img/toddler-cover-monkey.jpg)](https://theprimarybrain.etsy.com/listing/1302521816/monkey-toddler-activities-tot-school)
  
-[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://www.teacherspayteachers.com/Product/Monkey-Toddler-Activities-Lesson-Plans-Preschool-Curriculum-2-to-3-Year-Olds-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20Unit%20Cover)
+[![Button]({{ site.github.url }}/assets/img/0button-green-CLICK-HERE.jpg)](https://theprimarybrain.etsy.com/listing/1302521816/monkey-toddler-activities-tot-school)
 
 ## Art Activities 
 
@@ -63,7 +63,7 @@ Cutting is another skill that our little ones need lots of practice with to buil
 
 ![MonkeyToddler]({{ site.github.url }}/assets/img/Monkey-Toddler-Sensory-Bin.jpg)
 
-Set up a monkey sensory bin activity by filling a bin with pinto beans, googley eyes, and the monkey face printable pieces from our [Monkey Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Monkey-Themed-Lessons-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20School%20Unit). This sensory experience will lend itself to lots of oral language, laughs, and exploration! 
+Set up a monkey sensory bin activity by filling a bin with pinto beans, googley eyes, and the monkey face printable pieces from our [Monkey Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302521816/monkey-toddler-activities-tot-school). This sensory experience will lend itself to lots of oral language, laughs, and exploration! 
 
 ![MonkeyToddler]({{ site.github.url }}/assets/img/Monkey-Toddler-Sensory-Bin-Letters.jpg)
 
@@ -98,12 +98,12 @@ As you play, make sure to discuss the attributes of each monkey with your child:
 
 For this gross motor activity, set up the monkey maze by drawing three chalk lines in an outside area. You can also use yarn to make an inside maze. Your child will follow the maze to find the missing bananas! Make sure your child picks up each banana along the maze path and feed it to the monkey at the end of the maze. Repeat for each line drawn in the maze and have fun! 
 
-[![MonkeyToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Monkey-Unit.jpg)](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Monkey-Themed-Lessons-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20School%20Unit)
+[![MonkeyToddler]({{ site.github.url }}/assets/img/Cover-Toddler-Monkey-Unit.jpg)](https://theprimarybrain.etsy.com/listing/1302521816/monkey-toddler-activities-tot-school)
 
 
-I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Monkey Toddler School Unit](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-Lesson-Plans-Monkey-Themed-Lessons-4921698?utm_source=PB%20Blog&utm_campaign=Monkey%20Toddler%20School%20Unit) for 5 complete lesson plans and all the printables you need. 
+I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Monkey Toddler School Unit](https://theprimarybrain.etsy.com/listing/1302521816/monkey-toddler-activities-tot-school) for 5 complete lesson plans and all the printables you need. 
 
-And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://www.teacherspayteachers.com/Product/Toddler-Activities-Lesson-Plans-Tot-School-Curriculum-Homeschool-Preschool-4296281?utm_source=PB%20Blog&utm_campaign=Toddler%20Bundle%20Upsell).
+And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school).
 
 ## Even More Animal Fun!
 If you are looking for even more letter practice while having fun learning about animals, then check out these fun units for the next few weeks!
