@@ -83,7 +83,7 @@ It’s time to brush up on those dinosaur names and get moving! Your little ones
 
 [![DinoUnit]({{ site.github.url }}/assets/img/toddler-cover-dinosaur2.jpg)](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool)
 
-I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](http://bit.ly/DinoToddler) for 5 complete lesson plans and all the printables you need to go with them! 
+I hope you found some great ideas to use at home with your little ones! If you want to make teaching your toddler EASY this week, then check out my [Dinosaur Toddler School Unit](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool) for 5 complete lesson plans and all the printables you need to go with them! 
 
 If you are looking for even more toddler learning fun for you and your little ones, then check out my [Complete Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1575955240/toddler-curriculum-for-the-year) for all the plans and printables you need for an entire year of learning!
 
