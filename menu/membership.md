@@ -68,7 +68,7 @@ Hi! I'm Laurin Brainard, a former first grade teacher turned educational resourc
 
 I created this membership to help you feel supported by curating simple activities you can do at home, so you can spend more of your time learning and playing with your children. I hope you will join us inside the membership!
 
-[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_JOINHEREInPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_JOINHEREInPostLinktoMembershipPage.png)](https://www.patreon.com/16905425/join)
 
 ## FAQs
 ### Which membership should I choose?
