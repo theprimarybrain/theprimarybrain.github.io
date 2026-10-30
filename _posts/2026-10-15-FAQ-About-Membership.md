@@ -32,6 +32,6 @@ All weekly activities are available for 4 weeks, then will be removed to make ro
 ### Are you ready for easier, more meaningful learning days?
 Pick the learning path that fits your family and let me help take some of the guesswork out of teaching at home.
 
-[![Join Our Membership]({{ site.github.url }}/assets/img/Membership_InPostLinktoMembershipPage.jpg)](https://theprimarybrain.com/menu/membership/)
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 
 If you have any other questions, just message me @theprimarybrain on Instagram and I am happy to help you find the best learning path for your family!
