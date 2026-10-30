@@ -46,4 +46,9 @@ Playdough is an excellent tool for developing fine motor skills, so we used it t
 
 If you would like to grab some more ideas for lemon themed play, check out this post: [Lemon Themed Toddler Activities](https://theprimarybrain.com/toddler%20school/2022/01/04/Lemon-Toddler-School-Activities/) 
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ### If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:
