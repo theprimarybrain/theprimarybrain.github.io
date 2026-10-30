@@ -47,14 +47,13 @@ Many police stations welcome young visitors! This is a great way for children to
 
 So there you have it! 10 simple and fun neighborhood field trips you can go on with preschooler without a lot of prep or planning! Each of these trips offer a chance to explore something new, ask questions, and make learning feel like an exciting adventure as you are packing up the car to leave home. If you want to grab all the plans and printables you need to teach your children at home, then check out my [Preschool Curriculum for the Year](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)!
 
-## Are you ready for easier, more meaningful learning days?
-Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
-
-[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
-
 [![PreschoolCurriculumBundle]({{ site.github.url }}/assets/img/preschool-curriculum-cover.jpg)](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)
 
 [![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)
 
 I’d love to hear if you try any of these! Just click the link in the show notes to head over to our [Teach Your Littles at Home Facebook Group](https://www.facebook.com/groups/1277293075961826) and share about a new field trip you are planning. 
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
