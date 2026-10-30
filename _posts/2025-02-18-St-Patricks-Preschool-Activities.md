@@ -81,7 +81,7 @@ If you are looking for even more preschool fun for you and your little ones, the
 
 ## Join Our Membership for Weekly Activities Right to Your Inbox!
 
-[![Join Our Membership]({{ site.github.url }}/assets/img/Membership_InPostLinktoMembershipPage.jpg)](https://theprimarybrain.com/menu/membership/)
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 
 
 I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
