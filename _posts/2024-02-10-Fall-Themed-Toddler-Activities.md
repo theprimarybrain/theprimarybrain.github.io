@@ -87,6 +87,11 @@ If adding learning activities into your home this year sounds like something you
 
 [![ETSYButton]({{ site.github.url }}/assets/img/button-green-etsy-bundle.jpg)](https://theprimarybrain.etsy.com/listing/1319520273/seasonal-toddler-school-bundle-4-seasons)
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ### If you want to learn more about how to get started planning activities for your little ones, download my FREE guide for everything you need to know about the skill areas we incorporate into toddler school:
 
 <div id="fd-form-65374920be19019fdd96d794"></div>

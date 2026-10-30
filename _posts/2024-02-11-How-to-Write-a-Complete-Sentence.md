@@ -44,3 +44,8 @@ After completing our whole group lessons, I like to add a building complete sent
 ## Writing Strategies to Write Complex Sentences
 
 Once your students have mastered writing simple sentences, then it is time to move on to more complex sentences by extending, combining, and proofreading their sentences. You can read all about these writing strategies in this blog post: [Writing Strategies to Build Strong Writers](https://theprimarybrain.com/writing/2021/01/09/Writing-Strategies-For-Students/)
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

@@ -70,7 +70,7 @@ Here are some helpful blog posts that explain more about the skill areas covered
 
 [How to Set Up a Sensory Bin](https://theprimarybrain.com/preschool/2023/03/31/Setting-Up-A-Sensory-Bin/)
 
-### Make Planning Even Easier with our Toddler Learning Curriculum
+## Make Planning Even Easier with our Toddler Learning Curriculum
 
 If you would like to download a full year of lesson plans and printables to go with all of the themes on the curriculum map, then you can take a look at our Complete Toddler Learning Curriculum! All the planning is done for you so that you can just dive right in to toddler learning activities! 
 
@@ -81,5 +81,10 @@ If you would like to download a full year of lesson plans and printables to go w
 I hope these resources help you to feel confident in teaching your children during your toddler learning times! Feel free to reach out to me on Instagram [@theprimarybrain](https://www.instagram.com/theprimarybrain/) with any questions as you begin a magical time of making memories with your little ones!
 
 If you want to take a closer look at our favorite themes to use to teach toddlers, then check out this post: [40 Themes For Toddler Lessons and Activities](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 
 Want to save this post to read later? [CLICK HERE to save to your favorite Pinterest board](https://www.pinterest.com/pin/447334175504149908/)!

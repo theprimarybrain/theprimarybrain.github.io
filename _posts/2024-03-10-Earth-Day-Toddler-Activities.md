@@ -91,6 +91,11 @@ If you are looking for an entire year of fun for you and your little ones, then 
 
 If you want to take a closer look at our favorite themes to use to teach toddlers, then check out this post: [40 Themes For Toddler Lessons and Activities](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
 
 

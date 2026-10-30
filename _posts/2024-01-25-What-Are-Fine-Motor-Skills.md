@@ -52,6 +52,11 @@ If you are looking for fine motor activities to help you over the next couple mo
 
 [![Button]({{ site.github.url }}/assets/img/0button_green_grab_unit_here.jpg)](https://theprimarybrain.etsy.com/listing/1330133823/seasonal-fine-motor-skills-activities)
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Free Fine Motor Activities For You!
 One of our favorite activities for working on fine motor skills is to play with and manipulate play dough! I created a book of playdough mats that you can use to work on colors with your little ones. Just sign up here for your free activity and I will email it right over to you:
 
