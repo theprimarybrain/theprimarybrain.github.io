@@ -73,6 +73,8 @@ _Looking for more information on how to set up a sensory bin?_  You won’t want
 
 To work on number skills, we added pom pom "apples" to these apple trees. Most children at this age will need support to count the apples, but can add the apples to the trees independently. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ### Apple Fine Motor Activities {#fine-motor-activities}
 ![Playdoh]({{ site.github.url }}/assets/img/toddler-apple-playdoh-2.jpg)
 

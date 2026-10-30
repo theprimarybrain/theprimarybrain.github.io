@@ -51,6 +51,8 @@ This is another fun fine motor activity to help strengthen the muscles in little
 
 Your little one will love cutting the “hot lava” from each volcano in this final fine motor cutting activity. To prepare this activity, you’ll cut out two inch strips of red paper and glue the strips to the bottom of the volcanos. Give your child kid scissors to use to cut the “lava” strips from the volcanos. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Sensory Bin Activity 
 
 ![VolcanoToddler]({{ site.github.url }}/assets/img/volcano-toddler-sensory-bin.jpg)

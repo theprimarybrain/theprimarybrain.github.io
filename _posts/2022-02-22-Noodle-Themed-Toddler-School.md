@@ -55,6 +55,8 @@ This fine motor activity uses plastic tweezers because they are a great tool to 
 
 _Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Sensory Bins 
 
 ![NoodleToddler]({{ site.github.url }}/assets/img/Noodle-Toddler-Sensory-Bin.jpg)

@@ -52,3 +52,8 @@ It takes lots of practice in different ways to strengthen and build the muscles 
 Gripping a pencil correctly and having strength in the hands will help students with writing endurance and confidence. The more practice students have with tracing lines, the more confident they will become with their writing skills. Tracing various lines styles helps to prepare students to write a variety of straight lines and curved lines in letters. 
 
 If you are looking for quick and easy ways to practice fine motor with your students, make sure to check out my [Seasonal Fine Motor Activities Bundle](https://theprimarybrain.etsy.com/listing/1330133823/seasonal-fine-motor-skills-activities). All printables are included so all you have to do is print and grab a few materials to begin building fine motor skills!
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

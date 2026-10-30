@@ -62,3 +62,7 @@ If you are looking for baking activities to use outside the kitchen, then check 
 
 The fun doesn’t have to stop here! If your child absolutely loves these baking activities for preschoolers. Check out my full [Preschool Curriculum](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans). It includes these activities and plenty of others to get your child ready for kindergarten!
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

@@ -93,4 +93,9 @@ I hope you found some great ideas to help your little one soar at home while pla
 
 If you want to get started with a full year of learning with your toddlers, then check out my entire [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for 26 full units to last you all year!
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope you enjoy every minute of playing and learning with your little ones! 

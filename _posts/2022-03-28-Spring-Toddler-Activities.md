@@ -53,6 +53,8 @@ Another great fine motor activity is this torn paper flower art. Tearing paper i
 
 _Learn even more about what fine motor skills are in this post:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Sensory Bins 
 
 ![SpringToddler]({{ site.github.url }}/assets/img/spring-toddler-sensory-bin-2.jpg)

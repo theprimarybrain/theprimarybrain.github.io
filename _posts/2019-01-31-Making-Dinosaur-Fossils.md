@@ -41,6 +41,7 @@ We found that the dinosaur fossils look the most realistic when they are not pai
 
 If you have a 2-3 year old child, make sure to check out my [Dinosaur Themed Toddler School Curriculum Unit](https://theprimarybrain.etsy.com/listing/1299490856/dinosaur-toddler-activities-homeschool) for lots of fun ideas to do at home with your child or in a preschool classroom. I hope you have tons of fun learning about dinosaurs! 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 
 ### Read these posts for even more fun activities:
 

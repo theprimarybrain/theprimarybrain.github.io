@@ -51,3 +51,8 @@ It is so much fun to see all the different ways that students choose to construc
 After any STEM challenge I have my students complete, I like to have them reflect on what went well, what didn't go as planned, and any modifications they would make should they create the challenge again. I also love to have students write about their challenges and share their opinions! All of these writing pages can be found in my [Spring STEM Challenges](https://www.teacherspayteachers.com/Product/Spring-STEM-Challenges-Writing-Activities-9257591?utm_source=PB%20Blog&utm_campaign=Spring%20STEM%20Challenges) in my shop. 
 
 I would love to see your student's STEM challenges if you decide to make these with your class or your own kids at home. Just tag me @theprimarybrain on Instagram or Facebook so I can see all the fun you are having! 
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

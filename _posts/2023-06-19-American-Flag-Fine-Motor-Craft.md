@@ -41,3 +41,8 @@ If you want to dive even deeper into learning about the American flag, you can s
 
 ## Even More Patriotic Fun!
 If you are looking for even more patriotic themed fun to add to your week, then check out my [Patriotic Toddler Activities blog post](https://theprimarybrain.com/toddler%20school/2022/11/08/Patriotic-Toddler-Activities/) for lots of other ideas!
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

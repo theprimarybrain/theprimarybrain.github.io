@@ -119,5 +119,10 @@ Gross motor skills help our kids develop balance, coordination, body awareness, 
 
 I hope you found some inspiration and fun ideas to use at home with your little ones during the fall season! If you want to make teaching your toddler super simple this week, check out my [Pumpkin Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314751891/pumpkin-toddler-activities-letter-p) for 5 complete lesson plans and all the printables you need. 
 
-If you need even more toddler school themed units, check out the entire [Tot School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for a year of fun activities to enjoy.
+If you need even more toddler school themed units, check out the entire [Toddler Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) for a year of fun activities to enjoy.
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 

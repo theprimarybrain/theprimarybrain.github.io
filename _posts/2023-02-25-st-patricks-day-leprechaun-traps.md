@@ -71,3 +71,8 @@ If you want to grab all the fun in this unit, then grab my [Leprechaun Trap STEM
 [![Leprechaun Trap Cover Image]({{ site.github.url }}/assets/img/product-cover-leprechaun-trap-unit.jpg)](https://www.teacherspayteachers.com/Product/How-to-Catch-a-Leprechaun-Trap-STEM-Project-Pulley-Simple-Machine-Activity-3043860?utm_source=PB%20Blog&utm_campaign=Leprechaun%20Trap%20STEM%20Project)
 
 [![Button]({{ site.github.url }}/assets/img/0button-truegreen-grab-unit-here.jpg)](https://www.teacherspayteachers.com/Product/How-to-Catch-a-Leprechaun-Trap-STEM-Project-Pulley-Simple-Machine-Activity-3043860?utm_source=PB%20Blog&utm_campaign=Leprechaun%20Trap%20STEM%20Project)
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

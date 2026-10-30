@@ -85,3 +85,8 @@ I usually spend an entire week just practicing how to use centers and I walk aro
 If you have any questions about getting started with centers in your classroom or what resources you should use, feel free to to send me a message [@theprimarybrain on Instagram](https://instagram.com/theprimarybrain)! You can also [click here to save this post for later](https://pin.it/3lEKsVN) by pinning to your favorite Pinterest board!
 
 Make sure to grab my free week of centers so you can try out some of my favorite activities. I hope these plans help you in your classroom! 
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

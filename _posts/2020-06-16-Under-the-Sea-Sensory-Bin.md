@@ -32,6 +32,8 @@ I hope you enjoy playing and learning with this sensory bin this week. If you wa
 
 I hope you have a great week playing and learning with your little ones!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 
 
 

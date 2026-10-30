@@ -71,6 +71,11 @@ If you are looking for even more preschool fun for you and your little ones, the
 
 I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ### HERE ARE SOME MORE PRESCHOOL THEMES YOU MAY LOVE:
 
 [Baking Preschool Activities](https://theprimarybrain.com/preschool/2023/03/09/Baking-Activities-For-Preschoolers/)

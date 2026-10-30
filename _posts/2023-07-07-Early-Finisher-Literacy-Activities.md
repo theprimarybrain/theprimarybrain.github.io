@@ -87,3 +87,8 @@ I hope you are feeling inspired to create an area in your classroom where fast f
 5. [Phonics Memory Games](https://www.teacherspayteachers.com/Product/Phonics-Memory-Games-Literacy-Centers-Activities-7757382?utm_source=PB%20Blog&utm_campaign=Phonics%20Memory%20Early%20Finisher)
 
 Want to save this blog post to read later? Just [click here to save to your favorite Pinterest board!](https://pin.it/5hUHmtA)
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

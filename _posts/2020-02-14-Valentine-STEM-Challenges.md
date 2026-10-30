@@ -100,6 +100,8 @@ After completing all seven challenges, you can take advantage of the excitement 
 
 I hope you were able to grab some fun ideas to do with your class or your kids at home. If you want to grab the printables resources shown in this post, you can [click here to download my Valentine STEM Challenges](https://theprimarybrain.etsy.com/listing/1391692892/valentine-stem-challenges-valentines-day) from my TpT store. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Looking to learn about other STEM activities you can do in the coming weeks with your students? Check out these blog posts:
 
 [Spring Chick STEM Challenges](https://theprimarybrain.com/stem%20activities/2023/04/10/Spring-Chick-STEM-Challenges/)
@@ -107,3 +109,4 @@ I hope you were able to grab some fun ideas to do with your class or your kids a
 [How to Catch a Leprechaun STEM Challenge](https://theprimarybrain.com/literacy%20activities/2023/02/25/st-patricks-day-leprechaun-traps/)
 
 [Learn About Simple Machines by Racing Race Cars!](https://theprimarybrain.com/stem%20activities/2018/03/06/Wheel-and-Axle-Simple-Machines/)
+

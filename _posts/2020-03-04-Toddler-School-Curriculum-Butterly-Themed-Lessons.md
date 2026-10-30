@@ -51,6 +51,8 @@ Sensory bins are my favorite way to teach new letters and sounds to my toddler. 
 
 In our next sensory bin, we enjoyed building a butterfly and a caterpillar together. First, my son had to move his tiny fingers through the sensory bin filler to find all the butterfly parts. Then, he placed the pieced together the parts to build a butterfly and a caterpillar. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Butterfly Themed Fine Motor Activities
 This unit was filled with fine motor activities that are perfect for the spring season! 
 

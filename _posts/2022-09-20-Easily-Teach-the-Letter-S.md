@@ -81,6 +81,11 @@ Sometimes your toddler is just not ready to open up a book and read! That’s ok
  
 These are just a few of the fantastic fun activities in my [Letter S Spider Activites](https://theprimarybrain.etsy.com/listing/1300731946/spider-toddler-activities-tot-school) for toddlers. This Spider Curriculum unit includes gross motor activities, spider crafts, and more! I even include daily lesson plans to ensure you get the most out of every creepy crawly activity. 
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Don’t Forget!
 
 Don’t forget I have a whole toddler curriculum that will help your child learn the alphabet, while also working on important skills your child will need before kindergarten! You can grab all these spider activities for toddlers, plus 25 other themes in my [Toddler School A-Z Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school). 

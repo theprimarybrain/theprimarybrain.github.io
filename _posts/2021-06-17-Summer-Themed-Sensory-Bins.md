@@ -22,6 +22,8 @@ Today we are making lemonade! Before we can make the lemonade, we have to scrub,
 
 Now it's time to make lemonade! To set up this play station, give your child an empty basin, a lemon reamer, strainer, and a measuring cup. Safety glasses are a great idea, too! Have fun turning lemons into lemonade!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Ice Cream Fun
 
 Nothing makes me think of summer quite like ice cream! There is just something about watching little ones enjoy a sweet ice cream cone that takes me back to my childhood!
@@ -47,6 +49,7 @@ To set up this sensory bin, add tan colored sand to half of the bin. Then, fill 
 ![WatermelonScience]({{ site.github.url }}/assets/img/Toddler-Watermelon-Sort.jpg)
 
 All you need for this sensory science activity is a melon baller, watermelon, and a sorting mat! Your children will LOVE scooping out all that delicious flesh and sorting the parts of a watermelon. You can make your own sorting mat, or you can download mine from my [Watermelon Toddler School Lesson Plans](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool).
+
 
 ## Have a Great Summer!
 

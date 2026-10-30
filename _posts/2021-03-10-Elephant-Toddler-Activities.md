@@ -68,6 +68,8 @@ One of my favorite ways to teach children how to cut with scissors is to cut on 
 
 _Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Toddler Math Activities 
 
 ![ElephantToddler]({{ site.github.url }}/assets/img/Toddler-Elephant-Counting-Cards.jpg)

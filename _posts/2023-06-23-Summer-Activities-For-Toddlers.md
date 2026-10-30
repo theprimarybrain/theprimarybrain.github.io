@@ -75,4 +75,9 @@ I always find that learning math is so much more fun when the activity uses real
 
 I hope you are feeling inspired to dive into summer learning activities for your preschoolers this week! You can download this [Summer Toddler School Unit](https://theprimarybrain.etsy.com/listing/1319487427/summer-toddler-activity-plans-homeschool) to have 5 lesson plans and all the printable materials you will need to make teaching your toddler as easy as possible.
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope you enjoy playing and learning with your little ones this week! 

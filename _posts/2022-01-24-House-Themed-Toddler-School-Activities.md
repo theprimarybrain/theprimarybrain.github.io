@@ -54,6 +54,8 @@ The H is for House letter craft is a fun way to introduce the letter Hh to your 
 
 My children LOVE to paint and this Paint Your Bedroom art project is was a great way to make connections with this week’s theme and the home that we live in! To complete this activity with your child, you can use the Painting Your Bedroom printable from our unit or a blank piece of construction paper. Then, just give your child several paint colors. We love using Kwikstix Paint because the colors really pop and are virtually mess free! If you do this activity at home, you can sit inside your child’s room on a blanket and paint, or take a picture and enjoy this activity in the great outdoors. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Fine Motor Activities 
 
 ![HouseToddler]({{ site.github.url }}/assets/img/house-letter-h-qtip.jpg)

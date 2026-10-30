@@ -42,4 +42,6 @@ For our last sensory bin, I added ice cream puzzle pieces to the rainbow sprinkl
 
 I hope these sensory bins have given you some fun ideas for ice cream week with your own little ones! You can grab all of the printable pieces from my [Ice Cream Themed Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool)! 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

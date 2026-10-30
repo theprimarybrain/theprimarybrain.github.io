@@ -58,3 +58,5 @@ If you are ready to take the plunge and dive into a year of learning Bible verse
 [Third Grade Bible Verse Memorization Pack](https://www.teacherspayteachers.com/Product/Bible-Verse-Memorization-Pack-for-Third-Grade-3176742?utm_source=TPB%20Blog&utm_campaign=How%20To%20Teach%20Bible%20Verses%20-%203rd)
 
 I hope you enjoy the next year of learning and growing with your children as you memorize Bible verses together!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

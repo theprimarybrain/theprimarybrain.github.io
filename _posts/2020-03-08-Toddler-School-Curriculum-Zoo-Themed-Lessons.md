@@ -77,6 +77,8 @@ These animal puppets were so much fun! We had the best time decorating with pain
 
 Another fun favorite this week was making a lion. Anything with liquid paint and liquid glue is a favorite in our house! Conner dipped a plastic fork in paint to create the mane on the lion. He glued on the googly eyes, and I added the nose and mouth per his request. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Fine Motor Activities
 
 As a teacher, I see the importance of fine motor skills every day. Fine motor skills begin through play. Holding tweezers, squeezing glue, pinching objects, rolling play dough, and other similar activities all contribute to fine motor development. Each toddler unit in my [Toddler School Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) incorporates 5 different fine motor activities. Here are a few of our favorites from this zoo themed unit...

@@ -93,5 +93,10 @@ This 1:1 counting activity will help your little one start to recognize that we 
 
 I hope you found some great ice cream ideas to use at home with your little ones! If you want to make teaching your toddler super simple this week, then check out my [Ice Cream Toddler School Unit](https://theprimarybrain.etsy.com/listing/1314207985/ice-cream-toddler-activities-preschool).
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 Have a great week eating lots of ice cream and spending special time with your child exploring, learning, and playing! 
 

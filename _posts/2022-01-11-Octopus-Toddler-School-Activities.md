@@ -64,6 +64,8 @@ Teaching your little ones to use scissors early on will be a huge benefit for wh
 
 _Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Sensory Bins 
 
 ![OctopusToddler]({{ site.github.url }}/assets/img/octopus-toddler-sensory-bin-water-beads.jpg)

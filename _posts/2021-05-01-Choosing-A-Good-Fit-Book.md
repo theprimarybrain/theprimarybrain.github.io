@@ -29,4 +29,6 @@ You picked out a book you think your child will enjoy, so now what? Turn through
 ### Now Read, Read, Read!!
 Now that you have picked out the perfect book, it is time to read with your child! If your child is able to read independently, then set them up for success by providing a quiet reading spot. We love to prop up some pillows and blankets in a quiet spot in the house and snuggle up with a good book. Maybe even a cup of tea, too!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 There is no better time to start reading than today, so I hope you have fun reading with your little ones!

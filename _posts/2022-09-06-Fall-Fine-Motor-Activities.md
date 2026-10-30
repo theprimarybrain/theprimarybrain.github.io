@@ -36,6 +36,8 @@ Building finger control takes a lot of practice, so I have also included this fu
 
 Using a tripod grasp takes a lot of practice. One way to begin building strength and endurance using a tripod grasp is through this prewriting activity. Rather than going straight to writing letters, children will first work on using their tripod grasp to draw lines and shapes on each card. Then, when it is time to begin writing letters, children will already be familiar with some of the motions used to write.
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Dot Markers to Build Hand Control
 
 [![FallFineMotor]({{ site.github.url }}/assets/img/fine-motor-fall-dot-marker.jpg)](https://theprimarybrain.etsy.com/listing/1085979393/fall-fine-motor-skills-activities)

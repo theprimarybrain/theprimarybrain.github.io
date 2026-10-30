@@ -102,4 +102,9 @@ Gross motor skills are important for young children to practice as they learn ho
 
 I hope you found some magical ideas here to inspire you and your little one! If you want to make teaching your toddler super simple this week, make sure to check out my [Unicorn Themed Toddler Unit](https://theprimarybrain.etsy.com/listing/1316854839/unicorn-toddler-school-lesson-plans).
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope you enjoy every minute of magical playing and learning with your little ones!

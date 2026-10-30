@@ -50,6 +50,8 @@ Fine motor skills are very important for early development, and this million-eye
 
 Dot markers are an art staple in our home. They are perfect for easy Halloween crafts, and they never make a mess. Let your toddler dot away on a pumpkin, candy corn, or ghost all included in my [Halloween activities for toddlers](https://theprimarybrain.etsy.com/listing/1304088698/halloween-toddler-activities-preschool) pack!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Sensory Bins 
 
 [![Halloweencurriculum]({{ site.github.url }}/assets/img/halloween-toddler-sensory-bag.jpg)](https://theprimarybrain.etsy.com/listing/1304088698/halloween-toddler-activities-preschool)

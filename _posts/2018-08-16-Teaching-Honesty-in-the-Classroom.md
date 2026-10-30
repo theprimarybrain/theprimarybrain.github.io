@@ -25,3 +25,5 @@ We discuss why honesty is important through this flap book. Under each flap, stu
 I love reading this narrative writing piece to see if my students truly understand the internal consequences of telling a lie. I always start out by having all my littles close their eyes to THINK so they are not distracted by any classroom disruptions. The purpose of this writing piece is not for students to share the lies they have told, but to help them reflect on how it felt to tell a lie. Since the prompt says to think about a time, I do not require my students to share what the lie was, but only to answer the two follow up questions after spending a few minutes reflecting. 
 
 Be sure to grab my [Honesty Lapbook](http://bit.ly/honestylapbook) from my TpT store!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

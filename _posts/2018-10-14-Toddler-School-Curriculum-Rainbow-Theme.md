@@ -71,6 +71,8 @@ Developing fine motor skills at the toddler age is so important. This week, you 
 
 _Want to learn more about what fine motor skills are? Read more about this here:_ [What are Fine Motor Skills?](https://theprimarybrain.com/fine%20motor%20skills/2024/01/25/What-Are-Fine-Motor-Skills/)
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Math Activities
 ![Math Cards]({{ site.github.url }}/assets/img/toddler-rainbow-math-cards.jpg)
 

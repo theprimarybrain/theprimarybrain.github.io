@@ -64,6 +64,8 @@ Alphabet crafts and activities are _fantastic_, but toddlers love getting dirty.
 
 Here’s another sensory bin activity that helps your toddler with *fine motor skills*. This activity for the letter x is a great way to help your toddler practice fine motor skills like gluing and working with different materials like popsicle sticks and q-tips! 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Gross Motor Activity 
 
 [![Toddler]({{ site.github.url }}/assets/img/xray-toddler-photo.jpg)](https://theprimarybrain.etsy.com/listing/1317758433/x-ray-theme-toddler-lesson-plan-25) 

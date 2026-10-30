@@ -76,6 +76,8 @@ Sensory bins are the perfect way for your little ones to practice their letter s
 
 I don’t know about your kiddos but my kids get so excited every time I break out the play dough box. Do your little ones ask you to play with play dough multiple times a day??? If so, then they will be thrilled when you set up this play dough station! All you have to do is place the printable inside a sheet protector and you are ready to go! Depending on your child’s skill level, they may need a bit of help getting started. You can assist by showing how to roll some snakes and different shapes out of the dough. Watch and see how focused and engaged your little one will be to make the perfect flower. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Math Activity 
 
 ![FlowerToddler]({{ site.github.url }}/assets/img/toddler-flower-number-cards.jpg)

@@ -36,3 +36,5 @@ I want to give you a tool to use as you work on these strategies with your stude
 I hope these worksheets help your students pick up their pencils and get right back to working on writing! If you are looking for additional worksheets to use with your students, you can find these in my [Printable Writing Intervention Bundle](https://www.teacherspayteachers.com/Product/Sentence-Writing-Intervention-Activity-BUNDLE-Distance-Learning-3522570?utm_source=PB%20Blog&utm_campaign=Writing%20Strategies%20Blog%20Post%2020210107%20Printable%20Bundle%20Link). Have a great rest of your school year!
 
 ![WritingStrategiesForm]({{ site.github.url }}/assets/img/extending-sentences-graphic-for-flodesk-form.jpg)
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

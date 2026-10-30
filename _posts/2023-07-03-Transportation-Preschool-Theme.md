@@ -66,6 +66,11 @@ I hope you enjoyed following our Preschool journey this week as we learned all a
 
 If you are looking for even more preschool fun for you and your little ones, then check out my [Preschool Curriculum Bundle](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans) for a variety of fun lessons and activities you can use all year long!
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 Want to save this blog post to read later? Just [click here to Pin to Pinterest](https://pin.it/6Cc7BXF)!
 
 I hope you enjoy playing and learning with your little ones this week! 

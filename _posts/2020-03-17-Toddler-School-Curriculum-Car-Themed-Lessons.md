@@ -55,6 +55,8 @@ Then, we used the same bin filled with barley to match letter puzzles and contin
 
 This car wash station was another perfect way to take learning outside! Before beginning, we read our *How to Wash a Car* book. I filled a large bowl with bubble bath and another with clear water. I gave my toddler a washing cloth to wash the cars and a drying rag to dry the cars. As the morning went on, the cars made it into the mud and then we really needed the car wash station! This was a great water play station that provided a morning of fun for my little ones! 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Art Activities
 
 This week was filled with all the fun arts and crafts that centered around our cars theme.

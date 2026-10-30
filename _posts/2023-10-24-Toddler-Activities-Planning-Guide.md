@@ -43,15 +43,10 @@ This guide is created to give you 6 skill areas to focus on as you create activi
 - Gross Motor Skills: Get little bodies moving!
 - Arts and Crafts: Fun activities that let little hands create!
 
-Just use each activity page in the guide for ideas for each toddler learning skill area and you will be on your way to a fun week of learning with your little ones! If you want to grab all of the ideas, just sign up for the guide here and I will send it right over:
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
 
-<div id="fd-form-65374920be19019fdd96d794"></div>
-<script>
-  window.fd('form', {
-    formId: '65374920be19019fdd96d794',
-    containerEl: '#fd-form-65374920be19019fdd96d794'
-  });
-</script>
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 
 If you want to take a closer look at our favorite themes to use to teach toddlers, then check out this post: [40 Themes For Toddler Lessons and Activities](https://theprimarybrain.com/toddler%20school/2024/03/13/List-of-Themes-For-Toddler-Lessons/)
 

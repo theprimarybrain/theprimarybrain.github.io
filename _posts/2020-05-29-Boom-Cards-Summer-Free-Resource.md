@@ -27,3 +27,5 @@ This Under the Sea Boom Card set is perfect for students who need a little extra
 If you are new to Boom Learning, then you may want to read my [How To Get Started With Boom Cards blog post](https://theprimarybrain.com/digital%20learning/2020/05/27/How-To-Get-Started-With-Boom-Cards/). It goes over all the information you need to set up an account and assign Boom Card decks to your students. 
 
 I hope this post has helped you plan out some lessons to keep your littles learning over the summer. You can also [click here to check out all of my Boom Card decks](https://www.teacherspayteachers.com/Store/The-Primary-Brain/Category/Boom-Cards-435640). If you have any questions, don't hesitate to reach out to me @theprimarybrain on social media!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

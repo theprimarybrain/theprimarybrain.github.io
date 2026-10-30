@@ -20,6 +20,8 @@ Since this was Conner's first experience with addition facts, I started him out 
 
 If you would like to try these puzzles at home or in your own classroom, then [click here to download my Construction Puzzles Freebie](https://drive.google.com/file/d/1ThE2ebOGnzZ6m0lG5qx6jyRE2sx6GRJY/view?usp=sharing)! If you want to learn how to differentiate math instruction for your students, then [click here to read my blog post all about it](https://theprimarybrain.com/math%20activities/2018/05/29/Differentiating-Math-Instruction)!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope you have fun playing and learning with your little ones! 
 
 <p style="text-align: center;"><strong>FROM LEFT TO RIGHT</strong></p>

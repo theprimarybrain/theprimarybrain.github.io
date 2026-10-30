@@ -31,6 +31,8 @@ When you are ready to begin, lay out all the leaves you collected under a large 
 ![FallAlphabetPuzzles]({{ site.github.url }}/assets/img/fall-puzzles.jpg)
 If your littles need to work on uppercase and lowercase letters, then I have a fun freebie just for you! These fall themed alphabet puzzles are so easy to prep and go. I just cut out the pieces, laminate, and place in individual task card boxes. They are great for all ages from busy toddlers to first grade students who need to review their letters. [You can click here to download this freebie!](https://www.teacherspayteachers.com/Product/Fall-Themed-Alphabet-Puzzles-4212470?utm_source=PB%20Blog&utm_campaign=Favorite%20Fall%20Activities)
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Fall Lapbook Craftivity
 ![FallLapbook]({{ site.github.url }}/assets/img/Fall-lapbook-Collage.jpg)
 <br /> 

@@ -73,6 +73,8 @@ _Learn even more about fine motor skills here:_ [What are Fine Motor Skills?](ht
 
 How fun are these Dino Math Cards? We love working on counting and number recognition so these were a huge hit. It also gave us the opportunity to work on colors. You can use pom poms to color match or even grab some super cute dinosaur counters! 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ### Dinosaur Gross Motor Activities {#gross-motor-activities}
 
 ![DinosaurToddler2]({{ site.github.url }}/assets/img/dino-gross-motor-action-cards.jpg)

@@ -23,4 +23,6 @@ This activity was so much fun to try out with my son. He could not get enough of
 
 You can grab my [ABC Dot Color Uppercase and Lowercase Letter Worksheets](http://bit.ly/2IZJvDz) in my TpT store! Don't forget to grab a pack of <a target="_blank" href="https://www.amazon.com/gp/product/B00004W3Y5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00004W3Y5&linkCode=as2&tag=theprimarybra-20&linkId=96685c329063acebeecdd71766beb324">Dot Markers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=theprimarybra-20&l=am2&o=1&a=B00004W3Y5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> on Amazon using my affiliate link to make this lesson extra fun!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 [Click here to save this post to your favorite Pinterest board!](https://pin.it/tctt2u53jk2uzb)

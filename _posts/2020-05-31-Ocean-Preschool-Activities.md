@@ -44,6 +44,8 @@ We love pretend play in our home since it allows imagination to run wild! This i
 
 Then, I cut out ocean animals and glued onto craft sticks. We have had more puppet shows than I can count in the past few days.
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Sensory Bins
 
 Sensory bins are always one of our favorite learning tools. In this unit, we used sensory bins to work on ordering numbers within 10, identifying letters, and counting within 10.

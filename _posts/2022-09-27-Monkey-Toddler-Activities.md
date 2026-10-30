@@ -105,6 +105,11 @@ I hope you found some great ideas to use at home with your little ones! If you w
 
 And if you need even more Toddler School ideas, check out my [Toddler School Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school).
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Even More Animal Fun!
 If you are looking for even more letter practice while having fun learning about animals, then check out these fun units for the next few weeks!
 - [Blog Post: Easily Teach The Letter S With Spider Activities For Toddlers](https://theprimarybrain.com/toddler%20school/2022/09/20/Easily-Teach-the-Letter-S/)

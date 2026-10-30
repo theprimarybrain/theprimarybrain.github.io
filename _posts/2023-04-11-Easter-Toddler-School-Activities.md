@@ -77,3 +77,8 @@ No Easter unit would be complete without some fun with jelly beans! This math ac
 ## Grab All the Fun!
 
 All of the printables in these activities are available in my [Easter Toddler School Unit](https://www.teacherspayteachers.com/Product/Easter-Toddler-School-Lesson-Plans-and-Activities-9270574?utm_source=PB%20Blog%2020230412&utm_campaign=Easter%20Toddler%20Unit). I hope you are feeling inspired to have lots of fun with your little ones!
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

@@ -50,3 +50,5 @@ Bake in a 200 degree oven for 2 1/2 hours. Then, set the hearts on a cooling rac
 After the dough dries, you can wrap as is, or you can paint the dough using liquid paint. 
 
 Happy Crafting!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

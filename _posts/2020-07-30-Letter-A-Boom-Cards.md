@@ -34,4 +34,6 @@ I hope you are as excited as I am about using Boom Cards to teach letters to you
 
 These [**Letter A Boom Cards**](https://www.teacherspayteachers.com/Product/Letter-A-Alphabet-Boom-Cards-FREEBIE-Digital-Task-Cards-Distance-Learning-5813663) are FREE in my Teachers Pay Teachers shop so you can try them out! You can also check out my [**Letters Boom Card Bundle**](https://www.teacherspayteachers.com/Product/Letters-Alphabet-Boom-Cards-Digital-Task-Cards-Distance-Learning-5813779) if you want to grab the entire alphabet. I hope you have a wonderful year teaching letters to your students!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope you have a wonderful week playing and learning with your little learners!

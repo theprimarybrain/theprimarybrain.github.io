@@ -54,3 +54,5 @@ Once you have created an account, it is time for you to start assigning Boom Car
 
 ## How Do I Make My Own Boom Card Decks?
 I want to make it as easy as possible for you to start using Boom Cards, so I created this [How To Create Boom Cards FREE GUIDE](https://www.teacherspayteachers.com/Product/How-To-Create-Boom-Cards-The-Complete-Guide-to-Getting-Started-6176382) to help you get started with creating your own Boom Cards. This guide walks you through every step from start to finish to create an interactive, clickable deck with audio! I hope this helps you! Please feel free to reach out on social media @theprimarybrain if you have any questions. I am happy to help!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

@@ -72,4 +72,9 @@ If you want to bring some patriotic fun centered around learning into your home 
 
 Your toddler doesn’t have to stop learning here. If you think your child will enjoy my Patriotic Toddler Curriculum, then you can create learning activities through holidays all year in my [HOliday Toddler Curriculum](https://www.teacherspayteachers.com/Product/Holiday-Toddler-Activities-Lesson-Plans-Growing-Bundle-Preschool-Curriculum-8705555?utm_source=PB%20Blog&utm_campaign=Holiday%20Toddler%20Bundle%20Upsell). This holiday curriculum includes activities for Patriotic days, Christmas, Valentine's Day, Easter, and more! Your toddler or preschooler will be ready for Kindergarten before you know it! 
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope these activities give you the tools to play and learn with your little ones all year long!

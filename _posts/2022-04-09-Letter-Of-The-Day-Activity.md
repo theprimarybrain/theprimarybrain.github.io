@@ -31,3 +31,8 @@ During centers, I like to work on this binder spread with a small group. I will 
 If you think this Letter of the Day Boost Binder activity will help you in your classroom, you can [click here to download the freebie](https://www.teacherspayteachers.com/Product/Letter-of-the-Day-Activity-Reading-Boost-Binder-FREEBIE-7067735?st=dc311d8442f7acf6e8428562b3bbc884) from my TpT store! 
 
 If you are looking for even more phonics activities to use with your students, then check out my [Reading Boost Binder](https://www.teacherspayteachers.com/Product/Reading-Intervention-Binder-Small-Group-Phonics-Activities-7067708) for all the tools you need for phonics intervention in your classroom!
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

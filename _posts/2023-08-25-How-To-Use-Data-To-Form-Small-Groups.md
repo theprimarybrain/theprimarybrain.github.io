@@ -64,3 +64,8 @@ Since groups 5 and 6 are working at or above grade level, I meet with these grou
 Before I even start to meet with small groups, I spend about one week training my students on how to work in centers. Once your students learn how to work independently in centers, this will free up the time you will need to meet with all of your small groups multiple days a week! Then, it is time to begin center and small group rotations! You can read more about how I implement centers in this blog post: [**How To Get Started With CVC Centers In Your Classroom**](https://theprimarybrain.com/literacy%20activities/2023/07/26/CVC-Word-Literacy-Center-Rotations/)
 
 You can also read about my favorite teaching tool for small groups in this post: [Use Phonics Books to Build Confident Readers](https://theprimarybrain.com/phonics/2024/07/16/Phonics-Skills-Practice-Books/)
+
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

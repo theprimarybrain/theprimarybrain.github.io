@@ -63,6 +63,8 @@ What could be more fun than tearing, cutting, and gluing for your little learner
 
 I love to bring tangible, “real life” objects into our activities whenever I can. It’s great for our little ones to touch and feel different textures, as well as an opportunity to learn new vocabulary. In this art activity, we created lemon art by cutting real lemons in half and using them as “stamps.” Our art turned out so amazing, that we framed our masterpieces and they’re hanging in our hallway right now! 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Fine Motor Activities 
 
 ![LemonToddler]({{ site.github.url }}/assets/img/toddler-lemon-fine-motor.jpg)

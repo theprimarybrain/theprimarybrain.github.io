@@ -83,9 +83,10 @@ Memory was one of my favorite childhood games. In this game, you will flip the c
 
 These aren’t the only fun turkey activities included in my [turkey themed toddler curriculum](https://www.teacherspayteachers.com/Product/-50-off-for-48-Hours-Toddler-School-Curriculum-Turkey-Themed-Lessons-4199735?utm_source=PB%20Blog&utm_campaign=Turkey%20Toddler%20Post). You’ll get 5 days of lessons full of math, literacy, sensory play, fine motor, and more! Your toddler won’t even realize they are learning. That’s the best, isn’t it? 
 
-## Don’t Forget!
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
 
-Don’t forget I have a whole toddler curriculum focused on the alphabet! You can grab all these turkey activities for toddlers, the letter t, and more in my [Toddler School A-Z Curriculum](https://theprimarybrain.etsy.com/listing/1314900201/turkey-toddler-activities-tot-school) and start making memories right away!
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 
 ### Looking For More Fall-Themed Activities for Toddlers?
 Here are some other activities to check out:

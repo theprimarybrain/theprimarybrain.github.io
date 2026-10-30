@@ -28,4 +28,6 @@ You might be thinking "I made the sensory rice, now what do I do with it?" The s
 
 You could also add magnetic letters, numbers, puzzle pieces, or any other learning tool you have on hand. I hope you have fun playing and learning with your little ones!
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

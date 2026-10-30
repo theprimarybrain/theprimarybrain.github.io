@@ -53,6 +53,8 @@ Nothing was more exciting for my littles than getting to bedazzle the spider at 
 ![SpiderThemeDay]({{ site.github.url }}/assets/img/spider-theme-day-decorated-spider.jpg)
 Then, I gave my students liquid glue to use to add [sequins](https://www.orientaltrading.com/bright-sequin-assortment-a2-48_832.fltr?cm_mmc=social-_-Influencers-_-BooYa19-_-ThePrimaryBrain), [glitter](https://www.orientaltrading.com/easy-shake-premium-glitter-set-a2-57_7008.fltr?cm_mmc=social-_-Influencers-_-BooYa19-_-ThePrimaryBrain), pom pom balls, and [jewels](https://www.orientaltrading.com/self-adhesive-geometric-jewel-assortment-a2-13679803.fltr?cm_mmc=social-_-Influencers-_-BooYa19-_-ThePrimaryBrain) to the spider skeleton. This was not a sight for sore eyes. 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ### Teach Writing During Your Theme Day
 
 ![SpiderThemeDay]({{ site.github.url }}/assets/img/spider-theme-day-teacher-spider.jpg)
@@ -84,3 +86,4 @@ I hope you are feeling inspired to try out a classroom theme day in your own cla
     formId: '5d7fd38715f78a0010f2e414'
   });
 </script>
+

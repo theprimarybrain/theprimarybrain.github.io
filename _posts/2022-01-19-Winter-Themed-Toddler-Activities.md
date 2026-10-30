@@ -59,6 +59,8 @@ This letter snowball sensory bin is another example of how we can incorporate lo
 
 What could be more fun than feeding a snowman?!? This was my daughter’s favorite sensory bin and she asked to do it over and over again! To set up this bin, you’ll add a plastic bottle with the feed the snowman cutout placed on top of the bottle. Then, add a pair of tweezers and encourage your child to feed the hungry snowman. If your child isn’t ready for tweezers, you can use hand over hand movements or have them use their pincer (3-finger) grasp using their fingers. All of this fine motor work is essential in building up those tiny hand and finger muscles. As always, leave plenty of time for free play in the bin! 
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Math Activity 
 
 ![WinterToddler]({{ site.github.url }}/assets/img/winter-toddler-math-clip-cards.jpg)

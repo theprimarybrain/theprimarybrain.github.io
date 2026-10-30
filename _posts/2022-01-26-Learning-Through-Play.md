@@ -53,6 +53,8 @@ Once you know the skills you are looking to help your children learn, then we ha
 - Sheets Over Chairs + A Flashlight = A Campsite
 - Crumpled Paper + A Tape Line = The Greatest Snowball Fight EVER
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ## Why Is Play Important and Why Should You Start Playing TODAY?
 
 Using play encourages communication skills, motor development, social-emotional development, and the enhancement of a child’s imagination. You can provide the materials and let your child set the stage of what they want to create with their own imagination. I love watching my kids build an ice cream shop from dirt and buckets when we are playing out in the backyard. I see them working on social skills by taking turns and making decisions with one another. Unstructured play gives young kids a chance to develop freedom and control of their decisions, and it helps them to explore likes and dislikes about themselves. As parents, we also play a crucial role by asking questions that provoke a child's learning. Asking "Why?" encourages our little ones to have conversations about their play. Children need to have opportunities to explore, create and discover without specific expectations. The benefits are endless! If you begin playing with purpose, I bet you will be surprised with some of the things your kiddos can come up with. They may be little but they have big imaginations!

@@ -36,3 +36,5 @@ We then discuss things we can do while we are being patient and write each examp
 ![Patience Lapbook back cover]({{ site.github.url }}/assets/img/patience-lapbook-back.jpg)
 
 To culmonate my student's learning, I have them complete this narrative writing piece about patience. It is a great way to see if my students have learned what patience is, or if I need to add a supplemental lesson. To further patience lessons in your classroom, be sure to grab my [Patience Lapbook](http://bit.ly/patiencelapbook) in my TpT store. I hope this lesson helps your students learn more about what patience looks like in their own lives!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)

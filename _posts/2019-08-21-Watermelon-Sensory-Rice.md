@@ -29,4 +29,6 @@ Add white rice to a zip-top bag. We use [Ziploc Gallon Freezer Bags](https://amz
 
 Now that you made sensory rice, you can do so many things with it! My son loves to "cook" with measuring cups, spoons, and small dishes. You can also [click here for sensory bin printables](https://theprimarybrain.etsy.com/listing/979067782/watermelon-toddler-activities-homeschool) in my Watermelon Themed Toddler School Unit.
 
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 I hope you love playing and learning with your little ones! If you want to plan even more activities for your little ones, you can download my free guide here for activities, ideas, and planning pages:

@@ -52,6 +52,11 @@ I hope that you feel equipped to help your little ones continue to grow in their
 
 [![Button]({{ site.github.url }}/assets/img/0button_green_take_a_closer_look.jpg)](https://theprimarybrain.etsy.com/listing/1311582628/old-testament-bible-lessons-sunday)
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
+
 ### Here are some other blog posts that may help you:
 
 [I am a Child of God Certificate](https://theprimarybrain.com/religious/2019/12/30/Child-of-God-Certificate/)
