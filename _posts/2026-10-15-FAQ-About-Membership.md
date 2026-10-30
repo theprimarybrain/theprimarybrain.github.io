@@ -30,7 +30,7 @@ Most resources are delivered as a PDF digital download. No physical products wil
 ### How long are activities available for?
 All weekly activities are available for 4 weeks, then will be removed to make room for new activities. This means, you will always have a full 4 weeks of activities ready to print and use at any time!
 ### Are you ready for easier, more meaningful learning days?
-Pick the learning path that fits your family and let me help take some of the guesswork out of teaching at home.
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
 
 [![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 

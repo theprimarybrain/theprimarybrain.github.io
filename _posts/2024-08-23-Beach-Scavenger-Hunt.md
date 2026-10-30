@@ -28,5 +28,9 @@ A great way to build vocabulary is through a scavenger hunt! I love to take a cl
   });
 </script>
 
+## Are you ready for easier, more meaningful learning days?
+Pick the learning path that fits your children and let me help take some of the guesswork out of teaching your little ones!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_InPostLinktoMembershipPage.png)](https://theprimarybrain.com/menu/membership/)
 
 If you are looking for even more ideas to help you learn at the beach, then read this post: [Ocean Preschool Lessons](https://theprimarybrain.com/preschool/2020/05/31/Ocean-Preschool-Activities/)
