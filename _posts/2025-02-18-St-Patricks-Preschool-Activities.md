@@ -79,6 +79,11 @@ If you are looking for even more preschool fun for you and your little ones, the
 
 [![BlueButton]({{ site.github.url }}/assets/img/button-teal-click-closer-look.jpg)](https://theprimarybrain.etsy.com/listing/1734226997/preschool-curriculum-lesson-plans)
 
+## Join Our Membership for Weekly Activities Right to Your Inbox!
+
+[![Join Our Membership]({{ site.github.url }}/assets/img/Membership_InPostLinktoMembershipPage.jpg)](https://theprimarybrain.com/menu/membership/)
+
+
 I hope you enjoy playing and learning with your little ones this week! Feel free to send me an Insta message at @theprimarybrain if you have any questions about how to get started teaching your little ones!
 
 ### CHECK OUT THESE BLOG POSTS FOR EVEN MORE PRESCHOOL ACTIVITIES:
