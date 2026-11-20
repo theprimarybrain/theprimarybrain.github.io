@@ -47,7 +47,6 @@ I created a FREE day of learning to see what this membership is all about! You'l
   });
 </script>
 
-
 ![Choose Your learning path]({{ site.github.url }}/assets/img/Membership_LaptopChoosePath.jpg) 
 
 ### Toddler Learning · Ages 2–3
