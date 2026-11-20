@@ -49,7 +49,7 @@ I created a FREE day of learning to see what a day inside the membership is like
   });
 </script>
 
-![Choose Your learning path]({{ site.github.url }}/assets/img/Membership_LaptopChoosePath.jpg) 
+## Choose the learning path for your child
 
 ### Toddler Learning · Ages 2–3
 Our toddler learning path includes playful activities to help your toddler explore early literacy and math skills, build fine and gross skills, dig into sensory bins, experience art and science, and learn through hands-on experiences.
