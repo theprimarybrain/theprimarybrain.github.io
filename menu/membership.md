@@ -23,7 +23,7 @@ Watch this video to see what learning could look like in your home:
 </div>
 
 ## Start Here. Grab a free day of learning!
-It is so hard for me to put into words all the fun that is in store for you inside my membership, so I created a FREE day of learning to see what this membership is all about! You'll receive everything you need for a toddler, preschool, and kindergarten day of learning!
+I created a FREE day of learning to see what this membership is all about! You'll receive everything you need for a toddler, preschool, and kindergarten day of learning!
 <div id="fd-form-6b0089ddf69c430f0001b33d"></div>
 <script>
   window.fd('form', {
