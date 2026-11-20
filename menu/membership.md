@@ -10,6 +10,18 @@ You are the magic maker in your home. You want to spend your days making memorie
 
 That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)...to make it easier to bring engaging, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
+## Watch this video to see what learning could look like in your home:
+<div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
+  <iframe
+    src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
+    title="The Primary Brain Membership"
+    style="display: block; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Start Here. Grab a free day of learning!
 I created a FREE day of learning to see what this membership is all about! You'll receive everything you need for a toddler, preschool, and kindergarten day of learning!
 <div id="fd-form-6b0089ddf69c430f0001b33d"></div>
@@ -36,18 +48,6 @@ Each week, I share activities, printable pages, and detailed lessons so you can 
 New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
 
 [![Join the Membership]({{ site.github.url }}/assets/img/Membership_JoinTheMembershipHereButton.jpg)](https://www.patreon.com/16905425/join) 
-
-## Watch this video to see what learning could look like in your home:
-<div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
-  <iframe
-    src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
-    title="The Primary Brain Membership"
-    style="display: block; width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
 
 ![Choose Your learning path]({{ site.github.url }}/assets/img/Membership_LaptopChoosePath.jpg) 
 
