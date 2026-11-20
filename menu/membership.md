@@ -10,6 +10,8 @@ You are the magic maker in your home. You want to spend your days making memorie
 
 That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)...to make it easier to bring engaging, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
+## Start Here. Grab a free day of learning!
+It is so hard for me to put into words all the fun that is in store for you inside my membership, so I created a FREE day of learning for you to try out with your child to see what this membership is all about! You'll receive everything you need for a toddler, preschool, and kindergarten day of learning!
 <div id="fd-form-6b0089ddf69c430f0001b33d"></div>
 <script>
   window.fd('form', {
@@ -21,21 +23,7 @@ That’s why I created [The Primary Brain Membership](https://www.patreon.com/16
 ## I'm here to answer the question, “What should we do today?”
 Inside the membership, you'll find everything you need to teach your toddler, preschooler, or kindergartener, without having to plan anything! 
 
-Each week, I share activities, printable pages, and detailed lessons so you can just print and get started teaching your little ones at home!
-
-![Membership Tech Mockup]({{ site.github.url }}/assets/img/MembershipTechMockup.png) 
-## Each month, members receive:
-- Weekly learning units designed for their child's age
-- Lesson plans and printable activities to make it easier to get started
-- Bonus materials available to members
-- A community to share happy moments, ask questions, and share comments
-- Q&A directly with Laurin!
-
-New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
-
-[![Join the Membership]({{ site.github.url }}/assets/img/Membership_JoinTheMembershipHereButton.jpg)](https://www.patreon.com/16905425/join) 
-
-
+Each week, I share activities, printable pages, and detailed lessons so you can just print and get started teaching your little ones at home! Watch this video to learn more:
 <div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
   <iframe
     src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
@@ -46,6 +34,17 @@ New activities are shared every single week, so you will always have fresh ideas
     allowfullscreen>
   </iframe>
 </div>
+## Each month, members receive:
+![Membership Tech Mockup]({{ site.github.url }}/assets/img/MembershipTechMockup.png) 
+- Weekly learning units designed for their child's age
+- Lesson plans and printable activities to make it easier to get started
+- Bonus materials available to members
+- A community to share happy moments, ask questions, and share comments
+- Q&A directly with Laurin!
+
+New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
+
+[![Join the Membership]({{ site.github.url }}/assets/img/Membership_JoinTheMembershipHereButton.jpg)](https://www.patreon.com/16905425/join) 
 
 ![Choose Your learning path]({{ site.github.url }}/assets/img/Membership_LaptopChoosePath.jpg) 
 
