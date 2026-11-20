@@ -10,8 +10,20 @@ You are the magic maker in your home. You want to spend your days making memorie
 
 That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)...to make it easier to bring engaging, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
+Watch this video to see what learning could look like in your home:
+<div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
+  <iframe
+    src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
+    title="The Primary Brain Membership"
+    style="display: block; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Start Here. Grab a free day of learning!
-It is so hard for me to put into words all the fun that is in store for you inside my membership, so I created a FREE day of learning for you to try out with your child to see what this membership is all about! You'll receive everything you need for a toddler, preschool, and kindergarten day of learning!
+It is so hard for me to put into words all the fun that is in store for you inside my membership, so I created a FREE day of learning to see what this membership is all about! You'll receive everything you need for a toddler, preschool, and kindergarten day of learning!
 <div id="fd-form-6b0089ddf69c430f0001b33d"></div>
 <script>
   window.fd('form', {
@@ -24,16 +36,7 @@ It is so hard for me to put into words all the fun that is in store for you insi
 Inside the membership, you'll find everything you need to teach your toddler, preschooler, or kindergartener, without having to plan anything! 
 
 Each week, I share activities, printable pages, and detailed lessons so you can just print and get started teaching your little ones at home! Watch this video to learn more:
-<div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
-  <iframe
-    src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
-    title="The Primary Brain Membership"
-    style="display: block; width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+
 ## Each month, members receive:
 ![Membership Tech Mockup]({{ site.github.url }}/assets/img/MembershipTechMockup.png) 
 - Weekly learning units designed for their child's age
