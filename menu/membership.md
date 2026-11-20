@@ -21,6 +21,7 @@ That’s why I created [The Primary Brain Membership](https://www.patreon.com/16
     allowfullscreen>
   </iframe>
 </div>
+P.S. I shared a coupon code at the end of the video that you can use for 50% off your first month in the membership!
 
 ## I'm here to answer the question, “What should we do today?”
 Inside the membership, you'll find everything you need to teach your toddler, preschooler, or kindergartener, without having to plan anything! 
@@ -55,25 +56,29 @@ I created a FREE day of learning to see what a day inside the membership is like
 ## Toddler Learning · Ages 2–3 · $15/month
 Our toddler learning path includes playful activities to help your toddler explore early literacy and math skills, build fine and gross skills, dig into sensory bins, experience art and science, and learn through hands-on experiences.
 
-[![ToddlerButton]({{ site.github.url }}/assets/img/button_ToddlerLearningPath.jpg)](https://www.patreon.com/16905425/join)
+[![Join our toddler learning path here.]({{ site.github.url }}/assets/img/button_ToddlerLearningPath.jpg)](https://www.patreon.com/16905425/join)
+
 
 ![PhotosOfPreschoolActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Preschool.jpg)
 ## Preschool Learning · Ages 3-5 · $15/month
 Our preschool learning path includes engaging activities to help your preschooler explore alphabet and math skills, continue building fine motor and art skills, dig into sensory bins, gain independence, and learn through hands-on experiences.
 
-[![PreschoolButton]({{ site.github.url }}/assets/img/button_PreschoolLearningPath.jpg)](https://www.patreon.com/16905425/join)
+[![Join our preschool learning path here.]({{ site.github.url }}/assets/img/button_PreschoolLearningPath.jpg)](https://www.patreon.com/16905425/join)
+
 
 ![PhotosOfKindergartenActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Kindergarten.jpg)
 ## Kindergarten Learning · Ages 5-6 · $15/month
 Our kindergarten learning path includes a year of lessons and activities that include a thoughtful mix of reading, phonics, phonemic awareness, writing, math, science, and social studies to support your kindergartener at home.
 
-[![KindergartenButton]({{ site.github.url }}/assets/img/button_KindergartenLearningPath.jpg)](https://www.patreon.com/16905425/join)
+[![Join our kindergarten learning path here.]({{ site.github.url }}/assets/img/button_KindergartenLearningPath.jpg)](https://www.patreon.com/16905425/join)
+
 
 ![PhotosOfKindergartenActivities]({{ site.github.url }}/assets/img/AllAccessBANNER.png)
 ## All-Access Learning Pass · Ages 2-6 · $30/month
 Grab all 3 learning tiers for the price of 2! If you have children in more than one age group, the All-Access Learning Pass is for you! This pass grants access to Toddler + Preschool + Kindergarten learning paths so you can take the guesswork out of teaching your children!
 
 [![All AccessButton]({{ site.github.url }}/assets/img/button_AllAccessPass.jpg)](https://www.patreon.com/16905425/join)
+
 
 ## Created by a Mom and Teacher who gets it!
 ![Membership Banner]({{ site.github.url }}/assets/img/Membership_MeetLaurin.jpg)
