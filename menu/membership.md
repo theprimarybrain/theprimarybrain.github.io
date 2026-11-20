@@ -10,7 +10,7 @@ You are the magic maker in your home. You want to spend your days making memorie
 
 That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)...to make it easier to bring engaging, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
-Watch this video to see what learning could look like in your home:
+## Watch this video to see what learning could look like in your home:
 <div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
   <iframe
     src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
