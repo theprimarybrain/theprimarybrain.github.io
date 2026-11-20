@@ -4,7 +4,7 @@ title: The Primary Brain Membership
 image:
   feature: Membership_Feature.jpg
 ---
-![Membership Banner]({{ site.github.url }}/assets/img/Membership_Feature.jpg)
+[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_JOINHEREInPostLinktoMembershipPage.png)](https://www.patreon.com/16905425/join)
 ## Make learning at home feel easier
 You are the magic maker in your home. You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning.
 
@@ -79,7 +79,7 @@ Hi! I'm Laurin Brainard, a former first grade teacher turned educational resourc
 
 I created this membership to help you feel supported by curating simple activities you can do at home, so you can spend more of your time learning and playing with your children. I hope you will join us inside the membership!
 
-[![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_JOINHEREInPostLinktoMembershipPage.png)](https://www.patreon.com/16905425/join)
+![Membership Banner]({{ site.github.url }}/assets/img/Membership_Feature.jpg)
 
 ## FAQs
 ### Which membership should I choose?
