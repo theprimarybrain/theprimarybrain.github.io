@@ -35,7 +35,7 @@ I created a FREE day of learning to see what this membership is all about! You'l
 ## I'm here to answer the question, “What should we do today?”
 Inside the membership, you'll find everything you need to teach your toddler, preschooler, or kindergartener, without having to plan anything! 
 
-Each week, I share activities, printable pages, and detailed lessons so you can just print and get started teaching your little ones at home! Watch this video to learn more:
+Each week, I share activities, printable pages, and detailed lessons so you can just print and get started teaching your little ones at home! 
 
 ## Each month, members receive:
 ![Membership Tech Mockup]({{ site.github.url }}/assets/img/MembershipTechMockup.png) 
