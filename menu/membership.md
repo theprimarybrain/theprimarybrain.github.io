@@ -50,7 +50,7 @@ I created a FREE day of learning to see what a day inside the membership is like
   });
 </script>
 
-## Choose the best learning path for your child:
+# Choose the best learning path for your child:
 
 ## Toddler Learning · Ages 2–3 · $15/month
 ![PhotosOfToddlerActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Toddler.jpg)
