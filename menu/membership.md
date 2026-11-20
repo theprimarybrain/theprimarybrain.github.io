@@ -69,6 +69,7 @@ Our kindergarten learning path includes a year of lessons and activities that in
 
 [![KindergartenButton]({{ site.github.url }}/assets/img/button_KindergartenLearningPath.jpg)](https://www.patreon.com/16905425/join)
 
+![PhotosOfKindergartenActivities]({{ site.github.url }}/assets/img/AllAccessBANNER.png)
 ## All-Access Learning Pass · Ages 2-6
 Do you have children in more than one age group? If so, the All-Access Learning Pass includes all of the Toddler + Preschool + Kindergarten learning activities. This pass grants access to all 3 learning paths so you can take the guesswork out of teaching your children!
 
