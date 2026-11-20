@@ -10,16 +10,13 @@ You are the magic maker in your home. You want to spend your days making memorie
 
 That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)...to make it easier to bring engaging, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
 
-<div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
-  <iframe
-    src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
-    title="The Primary Brain Membership"
-    style="display: block; width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+<div id="fd-form-6b0089ddf69c430f0001b33d"></div>
+<script>
+  window.fd('form', {
+    formId: '6b0089ddf69c430f0001b33d',
+    containerEl: '#fd-form-6b0089ddf69c430f0001b33d'
+  });
+</script>
 
 ## I'm here to answer the question, “What should we do today?”
 Inside the membership, you'll find everything you need to teach your toddler, preschooler, or kindergartener, without having to plan anything! 
@@ -37,6 +34,18 @@ Each week, I share activities, printable pages, and detailed lessons so you can 
 New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
 
 [![Join the Membership]({{ site.github.url }}/assets/img/Membership_JoinTheMembershipHereButton.jpg)](https://www.patreon.com/16905425/join) 
+
+
+<div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
+  <iframe
+    src="https://www.youtube.com/embed/DLKwthUlieI?si=K55HJsWq6njiugEC"
+    title="The Primary Brain Membership"
+    style="display: block; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ![Choose Your learning path]({{ site.github.url }}/assets/img/Membership_LaptopChoosePath.jpg) 
 
