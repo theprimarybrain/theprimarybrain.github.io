@@ -35,9 +35,9 @@ Each week, I share activities, printable pages, and detailed lessons so you can 
 - A community to share happy moments, ask questions, and share comments
 - Q&A directly with Laurin!
 
-New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
-
 [![Join the Membership]({{ site.github.url }}/assets/img/Membership_JoinTheMembershipHereButton.jpg)](https://www.patreon.com/16905425/join) 
+
+New activities are shared every single week, so you will always have fresh ideas as you look ahead to the next week.
 
 ## Want to try a day of learning before you join? Grab a free day!
 I created a FREE day of learning to see what a day inside the membership is like! You'll receive everything you need for a toddler, preschool, and kindergarten day of learning!
