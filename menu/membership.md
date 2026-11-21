@@ -52,25 +52,25 @@ I created a FREE day of learning to see what a day inside the membership is like
 
 [![Choose your learning path! Options for toddler, preschool, and kindergarten.]({{ site.github.url }}/assets/img/ChooseLearningPathBanner.jpg)](https://www.patreon.com/16905425/join)
 <br>
-## ⭐ Toddler Learning · Ages 2–3 · $15/month
+## Toddler Learning · Ages 2–3 · $15/month
 ![PhotosOfToddlerActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Toddler.jpg)
 Our toddler learning path includes playful activities to help your toddler explore early literacy and math skills, build fine and gross skills, dig into sensory bins, experience art and science, and learn through hands-on experiences.
 
 [![Join our toddler learning path here.]({{ site.github.url }}/assets/img/button_ToddlerLearningPath.jpg)](https://www.patreon.com/16905425/join)
 <br>
-## ⭐ Preschool Learning · Ages 3-5 · $15/month
+## Preschool Learning · Ages 3-5 · $15/month
 ![PhotosOfPreschoolActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Preschool.jpg)
 Our preschool learning path includes engaging activities to help your preschooler explore alphabet and math skills, continue building fine motor and art skills, dig into sensory bins, gain independence, and learn through hands-on experiences.
 
 [![Join our preschool learning path here.]({{ site.github.url }}/assets/img/button_PreschoolLearningPath.jpg)](https://www.patreon.com/16905425/join)
 <br>
-## ⭐ Kindergarten Learning · Ages 5-6 · $15/month
+## Kindergarten Learning · Ages 5-6 · $15/month
 ![PhotosOfKindergartenActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Kindergarten.jpg)
 Our kindergarten learning path includes a year of lessons and activities that include a thoughtful mix of reading, phonics, phonemic awareness, writing, math, science, and social studies to support your kindergartener at home.
 
 [![Join our kindergarten learning path here.]({{ site.github.url }}/assets/img/button_KindergartenLearningPath.jpg)](https://www.patreon.com/16905425/join)
 <br>
-## ⭐ All-Access Learning Pass · Ages 2-6 · $30/month
+## All-Access Learning Pass · Ages 2-6 · $30/month
 ![PhotosOfKindergartenActivities]({{ site.github.url }}/assets/img/AllAccessBANNER.png)
 Grab all 3 learning tiers for the price of 2! If you have children in more than one age group, the All-Access Learning Pass is for you! This pass grants access to Toddler + Preschool + Kindergarten learning paths so you can take the guesswork out of teaching your children!
 
