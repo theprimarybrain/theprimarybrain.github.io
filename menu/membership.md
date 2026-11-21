@@ -101,4 +101,5 @@ All weekly activities are available for 4 weeks, then will be removed to make ro
 ### Are you ready for easier, more meaningful learning days?
 Pick the learning path that fits your family and let me help take some of the guesswork out of teaching at home! [Join the membership HERE.](https://www.patreon.com/16905425/join)
 <br>
+<br>
 [![Join Our Membership]({{ site.github.url }}/assets/img/MembershipContainer_JOINHEREInPostLinktoMembershipPage.png)](https://www.patreon.com/16905425/join)
