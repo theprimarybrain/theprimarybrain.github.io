@@ -51,7 +51,6 @@ I created a FREE day of learning to see what a day inside the membership is like
 </script>
 
 [![Choose your learning path! Options for toddler, preschool, and kindergarten.]({{ site.github.url }}/assets/img/ChooseLearningPathBanner.jpg)](https://www.patreon.com/16905425/join)
-<br>
 ## Toddler Learning · Ages 2–3 · $15/month
 ![PhotosOfToddlerActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Toddler.jpg)
 Our toddler learning path includes playful activities to help your toddler explore early literacy and math skills, build fine and gross skills, dig into sensory bins, experience art and science, and learn through hands-on experiences.
