@@ -6,9 +6,9 @@ image:
 ---
 ![Membership Banner]({{ site.github.url }}/assets/img/Membership_Feature.jpg)
 ## Make learning at home feel easier
-You are the magic maker in your home. You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning.
+You are the magic maker in your home. You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning. 
 
-That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)...to make it easier to bring engaging, age-appropriate learning into your days with your children. This way, you can spend less time planning and more time enjoying learning together.
+That’s why I created [The Primary Brain Membership](https://www.patreon.com/16905425/join)! I want to make it easier for you to bring engaging, age-appropriate learning activities into your days. Whether you're looking for one activity a day or two hours of learning as a homeschool family, everything is planned and ready to print. This way, you can spend less time planning and more time enjoying learning together.
 
 ## Watch this video to see what learning could look like in your home:
 <div style="width: 100%; max-width: 1024px; margin: 2rem auto; aspect-ratio: 16 / 9;">
