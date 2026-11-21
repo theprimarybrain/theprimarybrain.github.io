@@ -4,7 +4,7 @@ title: The Primary Brain Membership
 image:
   feature: Membership_Feature.jpg
 ---
-![Membership Banner]({{ site.github.url }}/assets/img/Membership_Feature.jpg)
+![Make magical memories with your toddlers, preschoolers, and kindergarteners.]({{ site.github.url }}/assets/img/Membership_Feature.jpg)
 ## Make learning at home feel easier
 You are the magic maker in your home. You want to spend your days making memories with your child, but some days it's hard to know what to do, what skills to focus on, and how to make learning FUN without spending hours planning. 
 
@@ -50,7 +50,7 @@ I created a FREE day of learning to see what a day inside the membership is like
   });
 </script>
 
-# Ready to join the membership? Choose the best learning path for your child:
+[![Choose your learning path! Options for toddler, preschool, and kindergarten.]({{ site.github.url }}/assets/img/ChooseLearningPathBanner.jpg)](https://www.patreon.com/16905425/join)
 <br>
 ## ⭐ Toddler Learning · Ages 2–3 · $15/month
 ![PhotosOfToddlerActivities]({{ site.github.url }}/assets/img/Learning Tier Banners-Toddler.jpg)
